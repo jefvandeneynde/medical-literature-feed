@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {"id":"cardiology","label":"Cardiology","topics":[
+      {"id":"congenital","label":"Congenital / ACHD","weight":5},
+      {"id":"heart-failure","label":"Heart failure & cardiomyopathies","weight":5},
+      {"id":"valvular","label":"Valvular heart disease","weight":4},
+      {"id":"imaging","label":"Cardiovascular imaging","weight":4},
+      {"id":"electrophysiology","label":"Electrophysiology & arrhythmia","weight":3},
+      {"id":"coronary","label":"Coronary / interventional","weight":3},
+      {"id":"prevention","label":"Prevention & hypertension","weight":2},
+      {"id":"pulmonary-vascular","label":"Pulmonary vascular disease","weight":3},
+      {"id":"cardio-oncology","label":"Cardio-oncology","weight":2}
+    ]},
+    {"id":"internal-medicine","label":"Internal medicine","topics":[
+      {"id":"critical-care","label":"Critical care / emergency","weight":4},
+      {"id":"nephrology","label":"Nephrology","weight":2},
+      {"id":"respiratory","label":"Respiratory medicine","weight":2},
+      {"id":"infectious","label":"Infectious diseases","weight":2},
+      {"id":"endocrine","label":"Endocrinology / metabolism","weight":2},
+      {"id":"gastro-hepatology","label":"Gastroenterology / hepatology","weight":2},
+      {"id":"hematology","label":"Hematology / thrombosis","weight":2},
+      {"id":"neurology","label":"Neurology","weight":1},
+      {"id":"rheumatology","label":"Rheumatology","weight":1}
+    ]},
+    {"id":"methods","label":"Methods & evidence","topics":[
+      {"id":"clinical-trials","label":"Clinical trials","weight":3},
+      {"id":"guidelines","label":"Guidelines / consensus","weight":5},
+      {"id":"systematic-reviews","label":"Systematic reviews / meta-analysis","weight":3},
+      {"id":"research-methods","label":"Research methodology","weight":2}
+    ]}
+  ]
+}
