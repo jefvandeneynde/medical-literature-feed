@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "id": "cardiology",
+      "label": "Cardiology",
+      "topics": [
+        {"id":"congenital","label":"Congenital / ACHD","query":"(congenital heart disease[Title/Abstract] OR Fontan[Title/Abstract] OR single ventricle[Title/Abstract] OR adult congenital heart disease[Title/Abstract])","weight":5,"enabled":true},
+        {"id":"heart-failure","label":"Heart failure & cardiomyopathies","query":"(heart failure[Title/Abstract] OR cardiomyopathy[Title/Abstract])","weight":5,"enabled":true},
+        {"id":"valvular","label":"Valvular heart disease","query":"(valvular heart disease[Title/Abstract] OR aortic stenosis[Title/Abstract] OR mitral regurgitation[Title/Abstract] OR tricuspid regurgitation[Title/Abstract])","weight":4,"enabled":true},
+        {"id":"imaging","label":"Cardiovascular imaging","query":"(cardiac magnetic resonance[Title/Abstract] OR cardiovascular magnetic resonance[Title/Abstract] OR echocardiography[Title/Abstract] OR cardiac CT[Title/Abstract] OR PET[Title/Abstract])","weight":4,"enabled":true},
+        {"id":"electrophysiology","label":"Electrophysiology & arrhythmia","query":"(atrial fibrillation[Title/Abstract] OR ventricular tachycardia[Title/Abstract] OR arrhythmia[Title/Abstract] OR electrophysiology[Title/Abstract])","weight":3,"enabled":true},
+        {"id":"coronary","label":"Coronary / interventional","query":"(coronary artery disease[Title/Abstract] OR acute coronary syndrome[Title/Abstract] OR percutaneous coronary intervention[Title/Abstract])","weight":3,"enabled":true},
+        {"id":"prevention","label":"Prevention & hypertension","query":"(cardiovascular prevention[Title/Abstract] OR hypertension[Title/Abstract] OR dyslipidemia[Title/Abstract])","weight":2,"enabled":true},
+        {"id":"pulmonary-vascular","label":"Pulmonary vascular disease","query":"(pulmonary hypertension[Title/Abstract] OR pulmonary vascular resistance[Title/Abstract])","weight":3,"enabled":true},
+        {"id":"cardio-oncology","label":"Cardio-oncology","query":"cardio-oncology[Title/Abstract]","weight":2,"enabled":true}
+      ]
+    },
+    {
+      "id": "internal-medicine",
+      "label": "Internal medicine",
+      "topics": [
+        {"id":"critical-care","label":"Critical care / emergency","query":"(critical care[Title/Abstract] OR intensive care[Title/Abstract] OR emergency medicine[Title/Abstract] OR shock[Title/Abstract] OR sepsis[Title/Abstract])","weight":4,"enabled":true},
+        {"id":"nephrology","label":"Nephrology","query":"(acute kidney injury[Title/Abstract] OR chronic kidney disease[Title/Abstract] OR nephrology[Title/Abstract])","weight":2,"enabled":true},
+        {"id":"respiratory","label":"Respiratory medicine","query":"(pulmonary disease[Title/Abstract] OR respiratory failure[Title/Abstract] OR COPD[Title/Abstract] OR asthma[Title/Abstract])","weight":2,"enabled":true},
+        {"id":"infectious","label":"Infectious diseases","query":"(infectious disease[Title/Abstract] OR infection[Title/Abstract])","weight":2,"enabled":true},
+        {"id":"endocrine","label":"Endocrinology / metabolism","query":"(diabetes[Title/Abstract] OR endocrinology[Title/Abstract] OR metabolic disease[Title/Abstract])","weight":2,"enabled":true},
+        {"id":"gastro-hepatology","label":"Gastroenterology / hepatology","query":"(hepatology[Title/Abstract] OR liver disease[Title/Abstract] OR cirrhosis[Title/Abstract] OR gastroenterology[Title/Abstract])","weight":2,"enabled":true},
+        {"id":"hematology","label":"Hematology / thrombosis","query":"(hematology[Title/Abstract] OR thrombosis[Title/Abstract] OR anticoagulation[Title/Abstract])","weight":2,"enabled":true},
+        {"id":"neurology","label":"Neurology","query":"(stroke[Title/Abstract] OR neurology[Title/Abstract])","weight":1,"enabled":true},
+        {"id":"rheumatology","label":"Rheumatology","query":"rheumatology[Title/Abstract]","weight":1,"enabled":true}
+      ]
+    },
+    {
+      "id":"methods",
+      "label":"Methods & evidence",
+      "topics":[
+        {"id":"clinical-trials","label":"Clinical trials","query":"(randomized controlled trial[Publication Type] OR clinical trial[Publication Type])","weight":3,"enabled":true},
+        {"id":"guidelines","label":"Guidelines / consensus","query":"(guideline[Publication Type] OR practice guideline[Publication Type] OR consensus[Title])","weight":5,"enabled":true},
+        {"id":"systematic-reviews","label":"Systematic reviews / meta-analysis","query":"(systematic review[Publication Type] OR meta-analysis[Publication Type])","weight":3,"enabled":true},
+        {"id":"research-methods","label":"Research methodology","query":"(research methodology[Title/Abstract] OR causal inference[Title/Abstract] OR prediction model[Title/Abstract] OR statistics[Title/Abstract])","weight":2,"enabled":true}
+      ]
+    }
+  ]
+}
