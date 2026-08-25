@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b63ce" />
+  <title>Medical Literature Feed</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-wrap">
+      <div class="brand">Literature</div>
+      <div class="subtitle">Your medical & cardiology feed</div>
+    </div>
+    <div class="top-actions">
+      <button id="refreshBtn" class="icon-btn" title="Refresh">↻</button>
+      <button id="settingsBtn" class="icon-btn" title="Preferences">⚙</button>
+      <a class="paperpile-top" href="https://app.paperpile.com/my-library/all" target="_blank" rel="noopener">Paperpile ↗</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <h1>What’s worth your attention?</h1>
+        <p id="feedStatus">Loading your feed…</p>
+      </div>
+      <div class="search-wrap">
+        <input id="searchInput" type="search" placeholder="Search title, author, journal, abstract…" autocomplete="off" />
+      </div>
+    </section>
+
+    <nav class="view-tabs" aria-label="Feed views">
+      <button class="view-tab active" data-view="for-you">For you</button>
+      <button class="view-tab" data-view="newest">Newest</button>
+      <button class="view-tab" data-view="must-read">Must read</button>
+      <button class="view-tab" data-view="reading-list">Reading list <span id="readingCount"></span></button>
+    </nav>
+
+    <section class="filter-strip">
+      <button id="topicFilterBtn" class="filter-chip">Topics ▾</button>
+      <button id="typeFilterBtn" class="filter-chip">Article type ▾</button>
+      <button id="journalFilterBtn" class="filter-chip">Journal ▾</button>
+      <button id="yearFilterBtn" class="filter-chip">Year ▾</button>
+      <label class="toggle-chip"><input id="pdfOnly" type="checkbox" /> Full text</label>
+      <button id="clearFiltersBtn" class="filter-chip subtle">Clear</button>
+    </section>
+
+    <section id="activeFilters" class="active-filters"></section>
+
+    <section class="feed-layout">
+      <aside id="desktopSidebar" class="sidebar">
+        <div class="sidebar-section">
+          <h3>Topics</h3>
+          <div id="sidebarTopics"></div>
+        </div>
+        <div class="sidebar-section">
+          <h3>Quick filters</h3>
+          <label><input type="checkbox" class="quick-type" value="Guideline" /> Guidelines / consensus</label>
+          <label><input type="checkbox" class="quick-type" value="Randomized Controlled Trial" /> Randomized trials</label>
+          <label><input type="checkbox" class="quick-type" value="Systematic Review" /> Systematic reviews</label>
+          <label><input type="checkbox" class="quick-type" value="Review" /> Reviews</label>
+        </div>
+      </aside>
+
+      <section class="feed-column">
+        <div id="feed" class="feed"></div>
+        <button id="loadMoreBtn" class="load-more">Load more</button>
+        <div id="emptyState" class="empty-state hidden">
+          <h2>No papers match this view</h2>
+          <p>Try clearing a filter or broadening your topic selection.</p>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <div id="sheetBackdrop" class="backdrop hidden"></div>
+  <section id="filterSheet" class="sheet hidden" aria-modal="true" role="dialog">
+    <div class="sheet-head">
+      <h2 id="sheetTitle">Filter</h2>
+      <button id="sheetClose" class="icon-btn">✕</button>
+    </div>
+    <div id="sheetBody" class="sheet-body"></div>
+    <div class="sheet-actions">
+      <button id="sheetClear" class="secondary">Clear</button>
+      <button id="sheetApply" class="primary">Apply</button>
+    </div>
+  </section>
+
+  <section id="settingsSheet" class="sheet settings-sheet hidden" aria-modal="true" role="dialog">
+    <div class="sheet-head">
+      <div>
+        <h2>Personalize your feed</h2>
+        <p class="muted">Fine-tune relevance without editing GitHub.</p>
+      </div>
+      <button id="settingsClose" class="icon-btn">✕</button>
+    </div>
+    <div class="sheet-body">
+      <div class="settings-card">
+        <h3>Ranking</h3>
+        <label class="setting-row"><span>Prefer recent papers</span><input id="recencyWeight" type="range" min="0" max="5" step="1" /></label>
+        <label class="setting-row"><span>Prefer major journals</span><input id="journalWeight" type="range" min="0" max="5" step="1" /></label>
+        <label class="setting-row"><span>Prefer guidelines / trials</span><input id="evidenceWeight" type="range" min="0" max="5" step="1" /></label>
+      </div>
+      <div class="settings-card">
+        <h3>Topic priorities</h3>
+        <div id="topicWeights"></div>
+      </div>
+      <div class="settings-card">
+        <h3>Paperpile</h3>
+        <p>Keep Paperpile signed in in this browser. The Paperpile button opens the best article landing page so the Paperpile extension can save the reference and retrieve the PDF where available.</p>
+        <a class="primary-link" href="https://app.paperpile.com/my-library/all" target="_blank" rel="noopener">Open my Paperpile library ↗</a>
+      </div>
+    </div>
+  </section>
+
+  <template id="articleTemplate">
+    <article class="article-card">
+      <div class="article-topline">
+        <div class="badges"></div>
+        <button class="star-btn" title="Add to reading list" aria-label="Add to reading list">☆</button>
+      </div>
+      <h2 class="article-title"></h2>
+      <div class="article-meta"></div>
+      <div class="topic-tags"></div>
+      <p class="abstract collapsed"></p>
+      <button class="abstract-toggle">Show abstract</button>
+      <div class="article-actions">
+        <a class="action paperpile-action" target="_blank" rel="noopener">P&nbsp; Paperpile</a>
+        <a class="action pubmed-action" target="_blank" rel="noopener">PubMed</a>
+        <a class="action publisher-action" target="_blank" rel="noopener">Publisher</a>
+        <a class="action fulltext-action" target="_blank" rel="noopener">Full text</a>
+        <button class="action read-action">Mark read</button>
+        <button class="action hide-action">Hide</button>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
