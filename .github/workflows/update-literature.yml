@@ -26,8 +26,6 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch PubMed literature
-        env:
-          NCBI_EMAIL: jef.vandeneynde98@gmail.com
         run: python scripts/update_pubmed.py
 
       - name: Commit refreshed feed
