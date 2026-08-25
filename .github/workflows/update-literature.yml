@@ -1,0 +1,43 @@
+name: Update literature
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4,10,16,22 * * *'
+  push:
+    paths:
+      - 'config/topics.json'
+      - 'scripts/update_pubmed.py'
+      - '.github/workflows/update-literature.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch PubMed literature
+        env:
+          NCBI_EMAIL: jef.vandeneynde98@gmail.com
+        run: python scripts/update_pubmed.py
+
+      - name: Commit refreshed feed
+        run: |
+          if git diff --quiet -- docs/data/articles.json docs/data/topics.json; then
+            echo "No literature changes"
+            exit 0
+          fi
+          git config user.name "medical-literature-feed[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/articles.json docs/data/topics.json
+          git commit -m "Update literature feed"
+          git push
