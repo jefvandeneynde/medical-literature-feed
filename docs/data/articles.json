@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:53:32.400389+00:00",
+  "generated_at": "2026-08-30T19:21:01.056853+00:00",
   "articles": [
     {
       "id": "pmid:42657385",
@@ -5397,6 +5397,40 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42669055",
+      "pmid": "42669055",
+      "doi": "10.1080/07853890.2026.2722412",
+      "title": "Laryngeal mask airway use during liver transplantation: perioperative outcomes in a propensity score-matched cohort.",
+      "authors": [
+        "Wu X",
+        "Dai T",
+        "Yang J",
+        "Yuan F",
+        "Chen Z",
+        "Li K",
+        "Gui D",
+        "Chen J",
+        "Xie S",
+        "Yang H",
+        "Lan L",
+        "He J",
+        "Wang G"
+      ],
+      "journal": "Annals of medicine",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Whether a laryngeal mask airway (LMA) can be safely used during liver transplantation remains unclear. However, in clinical practice, the choice of an airway device may also reflect a broader recovery-oriented perioperative strategy rather than an isolated technical substitution.\n\nMETHODS: We retrospectively reviewed adult patients who underwent primary elective liver transplantation at our center between January 2024 and November 2025. The patients were grouped according to their primary intraoperative airway device (LMA or endotracheal tube [ETT]). Propensity score matching was used to reduce baseline imbalance. Intraoperative variables, postoperative airway-related events, postoperative pulmonary complications (PPCs), intensive care unit (ICU) stays, and postoperative hospital stays were compared.\n\nRESULTS: After matching, 25 and 44 patients in the LMA and ETT groups, respectively, were analyzed. The LMA group showed a higher rate of immediate airway device removal, lower rocuronium use during anesthetic maintenance, less postoperative noninvasive ventilation, less postoperative sore throat, and a shorter postoperative hospital stay. PPCs were numerically less frequent in the LMA group, but the between-group difference was not statistically significant after matching. No increase in major airway-related adverse events was observed in the LMA group.\n\nCONCLUSIONS: In carefully selected liver transplant recipients, use of LMA within a recovery-oriented perioperative context appeared feasible and was associated with several favorable early postoperative outcomes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42668627",
       "pmid": "42668627",
       "doi": "10.1016/j.reth.2026.101168",
@@ -7531,6 +7565,33 @@
         "prevention",
         "pulmonary-vascular",
         "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42625327",
+      "pmid": "42625327",
+      "doi": "10.1080/21505594.2026.2721851",
+      "title": "Pathogenicity and virulence of Ralstonia solanacearum species complex: Understanding its virulence mechanisms for proper management.",
+      "authors": [
+        "Tsuzuki M",
+        "Hikichi Y",
+        "Tateda S",
+        "Kiba A",
+        "Ohnishi K"
+      ],
+      "journal": "Virulence",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "The soil-borne Gram-negative beta-proteobacterium Ralstonia solanacearum species complex (RSSC) causes bacterial wilt, a devastating plant disease that threatens crop production and food security worldwide. In this review, we first summarize current knowledge of RSSC pathogenicity and virulence, focusing on the factors that determine its ability to infect and cause disease, including advances in resistance breeding and the genetic basis of host resistance to bacterial wilt. Next, we highlight the questions provided from the previous studies and describe our recent studies, which revealed that the phc QS network is a highly complex regulatory system that dominates global gene expression and finely tunes RSSC virulence throughout the infection process, from root epidermis invasion to colonization of xylem vessels. Finally, we identify key knowledge gaps and discuss future research directions and practical strategies for the effective management of bacterial wilt.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "infectious"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -48110,6 +48171,721 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42669081",
+      "pmid": "42669081",
+      "doi": "10.1080/1059924X.2026.2725616",
+      "title": "Skin Cancer in Rural Workers in Brazil: Influence of Ultraviolet Radiation, Skin Color and Regional Factors.",
+      "authors": [
+        "Moraes Rufini de Souza L",
+        "Minette LJ",
+        "Schettino S",
+        "de Almeida Guimarães M",
+        "de Paula Corrêa M",
+        "Furtado Lima C"
+      ],
+      "journal": "Journal of agromedicine",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: This study analyzed the incidence of skin cancer among rural workers in Brazil, considering the influence of ultraviolet (UV) radiation, skin color, and regional factors.\n\nMETHODS: Data from the National Cancer Institute (2008-2022) on skin cancer were used, using historical series of the Ultraviolet Index (UVI) obtained via satellite and cross-referenced with population information obtained from the Brazilian Institute of Geography and Statistics.\n\nRESULTS: Between 2008 and 2022, Brazil recorded 81,378 cases of skin cancer related to rural workers, with an average incidence rate of 318.23 cases per 100,000. The UVI is high in the North and North-East regions of the country, but the highest rate of skin cancer occurs in the South, where 73% of the population is white and the UVI is lower. Correlation and regression analyses revealed that the UVI, the proportion of white people, and the percentage of rural workers significantly influence the skin cancer rate.\n\nCONCLUSIONS: These results show that approximately 28% of a rural worker's risk of developing skin cancer may be related to the interaction between biological and environmental factors and that prevention and sun protection strategies should take into account demographic and regional variability.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669076",
+      "pmid": "42669076",
+      "doi": "10.1016/j.jaccao.2026.08.001",
+      "title": "Identifying Patients With Prostate Cancer Who Benefit Most From Routine Cardiovascular Specialist Referral.",
+      "authors": [
+        "Cano Garcia C",
+        "Pinthus J",
+        "Avezum A",
+        "Devereaux PJ",
+        "Klotz L",
+        "Higano C",
+        "Fradet V",
+        "Selvanayagam J",
+        "Guha A",
+        "Hajjar L",
+        "Lopez-Lopez JP",
+        "Xavier D",
+        "Ng K",
+        "Rangarajan S",
+        "Karampatos S",
+        "Agapay S",
+        "Mian R",
+        "Balasubramanian K",
+        "Cirne F",
+        "Huynh M",
+        "Davis MK",
+        "Hamilton RJ",
+        "Gopaul D",
+        "Mukherjee SD",
+        "Farooqi M",
+        "Benz AP",
+        "Richard R",
+        "Koo CYC",
+        "Leong DP",
+        "RADICAL PC Investigators"
+      ],
+      "journal": "JACC. CardioOncology",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: RADICAL PC-2 (RAndomizeD Intervention for CArdiovascular and Lifestyle Risk Factors in Prostate Cancer Patients) was a pragmatic randomized controlled trial that tested whether routine referral to a cardiologist or an internist for cardiovascular (CV) risk-factor and lifestyle modification improves outcomes in patients with prostate cancer or receiving androgen-deprivation therapy. The intervention group had more favorable outcomes overall, driven by improved cholesterol control, with no differences in rates of CV death, myocardial infarction (MI), stroke, or heart failure (HF).\n\nOBJECTIVES: The authors aim to identify patient subgroups more likely to benefit from routine CV care referral.\n\nMETHODS: Prespecified subgroup analyses were used to assess whether patients at higher CV risk derived greater benefit from specialist referral, with treatment-effect heterogeneity assessed using interaction tests. The first primary outcome was a hierarchical composite of CV death, MI, stroke, HF, suboptimal cholesterol, and systolic blood pressure (SBP) control, evaluated using the win ratio. The second primary outcome was time to CV death, MI, stroke, or HF.\n\nRESULTS: Among 2487 participants, treatment effect differed by baseline total cholesterol ≤4 mmol/L vs >4 mmol/L (interaction P = 0.016), with respective win ratios of 1.21 (95% CI: 0.89-1.64) and 1.75 (95% CI: 1.51-2.03), and by baseline BP status (SBP ≥130 mm Hg or diastolic BP ≥80 mm Hg vs BP <130/80 mm Hg; interaction P = 0.003), with respective subdistribution HRs (sHRs) for CV death, MI, stroke, or HF of 0.86 (95% CI: 0.61-1.21) and 4.85 (95% CI: 1.65-14.26). The interaction for diabetes did not reach statistical significance (interaction P = 0.054) although the intervention effect estimates suggested a potential difference by diabetes status, with sHRs of 0.53 (95% CI: 0.24-1.15) among participants with diabetes and 1.25 (95% CI: 0.88-1.78) among participants without diabetes. The win ratio was higher among participants with total cholesterol >4 mmol/L, and sHRs were numerically lower among those with SBP ≥130 mm Hg or diastolic BP ≥80 mm Hg and diabetes.\n\nCONCLUSIONS: Uncontrolled modifiable CV risk factors may identify patients with prostate cancer who are more likely to benefit from routine CV care referral.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "cardio-oncology",
+        "endocrine",
+        "heart-failure",
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669075",
+      "pmid": "42669075",
+      "doi": "10.1016/j.jchf.2026.103366",
+      "title": "Effect of In-Hospital Initiation of Dapagliflozin on Decongestion in Patients Hospitalized for Heart Failure: An Analysis of the DAPA ACT HF-TIMI 68 Trial.",
+      "authors": [
+        "Small AM",
+        "Patel SM",
+        "Thomas C",
+        "Palazzolo MG",
+        "Bělohlávek J",
+        "Desai AS",
+        "Drożdż J",
+        "Inzucchi SE",
+        "McMurray JJV",
+        "Merkely B",
+        "O'Meara E",
+        "Verma S",
+        "Wiviott SD",
+        "Sabatine MS",
+        "Berg DD"
+      ],
+      "journal": "JACC. Heart failure",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: Safe and effective decongestion remains an important therapeutic goal in patients hospitalized for heart failure.\n\nOBJECTIVES: The authors evaluated the effect of dapagliflozin on multiple clinically relevant measures of congestion among patients hospitalized for heart failure.\n\nMETHODS: This was a prespecified analysis of DAPA ACT HF-TIMI 68 (Dapagliflozin Effect on Cardiovascular Events in Acute Heart Failure-Thrombolysis in Myocardial Infarction 68), a randomized, placebo-controlled trial evaluating in-hospital initiation of dapagliflozin on clinical outcomes through 2 months. The authors assessed placebo-adjusted changes from baseline in modified EVEREST (Efficacy of Vasopressin Antagonism in Heart Failure) Composite Congestion Score (CCS), body weight, mean daily loop diuretic dose (furosemide 40 mg intravenous [IV] equivalents), and body weight adjusted for mean daily loop diuretic dose (diuretic efficiency) at 1 week, 1 month, and 2 months using linear mixed-effects models for repeated measures.\n\nRESULTS: At randomization, 12%, 63%, and 24% had no congestion (CCS 0), mild-to-moderate congestion (CCS 1-3), and severe congestion (CCS 4-9), respectively. Compared with placebo, dapagliflozin improved all decongestion-related endpoints by 1 week, including CCS (least squares mean difference [LSMD]: -0.18; 95% CI: -0.33 to -0.04; P = 0.011), body weight (LSMD: -0.60 kg; 95% CI: -0.95 to -0.26; P < 0.001), mean daily loop diuretic dose (LSMD: -0.12 furosemide 40-mg IV equivalents; 95% CI: -0.22 to -0.02; P = 0.014), and diuretic efficiency (LSMD: -0.93 kg/furosemide 40 mg IV equivalents; 95% CI: -1.61 to -0.25; P = 0.008). These improvements were sustained through 2 months, with progressive increases in diuretic efficiency through 2 months (LSMD: -1.99 kg/furosemide 40 mg IV equivalents; 95% CI: -3.19 to -0.78; P < 0.001).\n\nCONCLUSIONS: In-hospital initiation of dapagliflozin led to modest but significant improvements across multiple measures of congestion within 1 week that were sustained through 2 months. Diuretic efficiency progressively improved through 2 months. (Dapagliflozin Effect on Cardiovascular Events in Acute Heart Failure-Thrombolysis in Myocardial Infarction 68 [DAPA ACT HF-TIMI 68]; NCT04363697).",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669073",
+      "pmid": "42669073",
+      "doi": "10.1016/j.jacc.2026.08.003",
+      "title": "Targeted Therapy for ATTR-CM Amidst a Rapidly Evolving Landscape: A Moving Goalpost?",
+      "authors": [
+        "Rushakoff JA",
+        "Grodin JL",
+        "Inciardi RM",
+        "Sperry BW",
+        "Selvaraj S"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669072",
+      "pmid": "42669072",
+      "doi": "10.1016/j.jacc.2026.08.007",
+      "title": "Combination Therapy in ATTR Cardiomyopathy: Hypothesis-Generating, Not Yet Practice-Changing.",
+      "authors": [
+        "Alexander KM",
+        "Urey MA"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669071",
+      "pmid": "42669071",
+      "doi": "10.1016/j.jacc.2026.08.023",
+      "title": "Short-Term Anticoagulant Therapy and Subclinical Leaflet Thickening in Transcatheter Aortic Valves: The NOTION-4 Trial.",
+      "authors": [
+        "Jørgensen TH",
+        "Larsen AF",
+        "Jensen JM",
+        "Jensen RV",
+        "Willemen Y",
+        "Phoksiri A",
+        "Khokhar A",
+        "Thuraiaiyah J",
+        "Pedersen KB",
+        "Bieliauskas G",
+        "Terkelsen CJ",
+        "Søndergaard L",
+        "Kofoed KF",
+        "Nørgaard BL",
+        "De Backer O",
+        "NOTION-4 Investigators"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: Following transcatheter aortic valve replacement (TAVR), subclinical leaflet thrombosis-visualized on cardiac computed tomography (CT) as hypoattenuated leaflet thickening (HALT)-is common and might be associated with thromboembolic events.\n\nOBJECTIVES: The NOTION-4 trial investigates different antithrombotic treatment strategies for the prevention of HALT.\n\nMETHODS: NOTION-4 was a randomized controlled trial enrolling patients without an indication for oral anticoagulation shortly after successful TAVR. Patients were randomized to lifelong single antiplatelet therapy (SAPT) or 3 months of direct oral anticoagulant (DOAC) therapy followed by lifelong SAPT (DOAC-3m). The primary endpoint was HALT prevalence at 12 months. The trial was powered for superiority of the experimental strategy.\n\nRESULTS: Of 352 patients randomized 1:1, 5 were screen failures or withdrew consent, leaving 176 in the SAPT group and 171 in the DOAC-3m group. At 3 months, HALT was observed in 31.8% of patients receiving SAPT compared with 12.1% of those receiving DOAC-3m. At 1 year, HALT occurred in 32.2% of SAPT patients and 28.3% of DOAC-3m patients with available CT scans (risk difference: -3.9%; 95% CI: -14.4% to 6.6%; P = 0.54). The combined risk of all-cause mortality, stroke, or major/life-threatening bleeding at 12 months was 2.3% in the SAPT group vs 8.2% in the DOAC-3m group (risk difference: 5.9%; 95% CI: 1.2% to 10.6%).\n\nCONCLUSIONS: Among TAVR patients without an indication for oral anticoagulation, 3 months of DOAC therapy significantly reduced the prevalence of HALT at 3 months compared with SAPT; however, this effect was attenuated by 9 months after discontinuation of DOAC therapy. (The Nordic Aortic Valve Intervention Trial 4 [NOTION-4]; NCT06449469).",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology",
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669070",
+      "pmid": "42669070",
+      "doi": "10.1016/j.jacc.2026.07.022",
+      "title": "Effect of Vutrisiran According to Baseline Tafamidis Use in Transthyretin Amyloidosis With Cardiomyopathy: Insights From HELIOS-B.",
+      "authors": [
+        "Hamatani Y",
+        "Claggett BL",
+        "Cuddy SAM",
+        "Sarswat N",
+        "Vaishnav J",
+        "Grogan M",
+        "Maurer MS",
+        "Witteles RM",
+        "Gonzalez-Lopez E",
+        "Garcia-Pavia P",
+        "Sheikh FH",
+        "Drachman BM",
+        "Kosheleff A",
+        "Bansilal S",
+        "Gillmore JD",
+        "Fontana M",
+        "Solomon SD"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: Vutrisiran, an RNA interference therapeutic that suppresses hepatic transthyretin production, improved survival and cardiovascular outcomes in transthyretin amyloidosis with cardiomyopathy (ATTR-CM) in HELIOS-B (A Study to Evaluate Vutrisiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy). Tafamidis, a transthyretin stabilizer, also improves clinical outcomes. Although combining these therapies is mechanistically appealing, clinical evidence supporting this approach is limited.\n\nOBJECTIVES: We sought to evaluate whether the treatment effects of vutrisiran differed according to baseline tafamidis use in HELIOS-B.\n\nMETHODS: In HELIOS-B, patients with ATTR-CM were randomized to vutrisiran 25 mg or placebo every 3 months for up to 36 months, with tafamidis use permitted and stratified. We assessed treatment effects according to baseline tafamidis use for the primary outcome of all-cause mortality and recurrent cardiovascular events and secondary endpoints, including individual components of the primary outcome, composite of all-cause mortality, cardiovascular events and outpatient worsening heart failure events, functional capacity (6-minute walk distance), and health status (Kansas City Cardiomyopathy Questionnaire-overall summary score [KCCQ-OSS]).\n\nRESULTS: Among 654 participants, 259 (40%) were receiving tafamidis at baseline. Patients on tafamidis were slightly younger and had higher baseline 6-minute walk distance and higher KCCQ-OSS, while baseline characteristics were generally balanced between randomized groups. The treatment effect estimates of vutrisiran compared with placebo for the primary outcome were directionally consistent across baseline tafamidis strata (rate ratio: 0.79 [95% CI: 0.51-1.21] with tafamidis vs 0.67 [95% CI: 0.49-0.93] without), with no statistically significant interaction (Pinteraction = 0.55). Similar patterns were observed for all-cause mortality, cardiovascular events, and outpatient worsening heart failure (all Pinteraction > 0.20), although the magnitudes of the estimated effects were numerically smaller among patients receiving tafamidis at baseline. Vutrisiran preserved 6-minute walk distance in both baseline tafamidis strata (Pinteraction = 0.24), whereas improvement in KCCQ-OSS appeared attenuated among patients receiving tafamidis at baseline.\n\nCONCLUSIONS: Treatment effect estimates for vutrisiran on clinical outcomes were consistent across baseline tafamidis strata, with no statistically significant interaction according to baseline tafamidis use, with reduced effect size noted in those receiving baseline stabilizers in comparison to monotherapy. These data underscore the need for future prospective studies examining combination therapy in this population. (HELIOS-B: A Study to Evaluate Vutrisiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy; NCT04153149).",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669068",
+      "pmid": "42669068",
+      "doi": "10.1080/1354750X.2026.2726961",
+      "title": "Effect of colchicine on C-reactive protein level following hospitalization for myocardial infarction: a meta-analysis of randomized, placebo-controlled trials.",
+      "authors": [
+        "Dasari S",
+        "Fretz T",
+        "Sakaleros J",
+        "Aviles E",
+        "Mishra R",
+        "Willie C",
+        "Santistevan D",
+        "Thawabi M"
+      ],
+      "journal": "Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: C-reactive protein (CRP) is a biomarker of vascular inflammation with prognostic value for future cardiovascular events. This meta-analysis investigates the effect of colchicine, a cheap and widely available anti-inflammatory medication, on CRP levels in the months following myocardial infarction (MI).\n\nMETHODS: PubMed, EMBASE, and Cochrane were queried from inception to April 2026 to identify randomized controlled trials comparing colchicine to placebo for at least 1 month following MI. The primary outcome was mean CRP level at follow-up. Effect estimates were pooled with random-effects models and reported as mean differences for continuous variables using 95% confidence intervals.\n\nRESULTS: Four studies met inclusion criteria comprising 3384 patients (mean age 60.7 years; 78.3% male), including 1669 patients randomized to the colchicine arm, and 1715 to placebo. Median follow-up period was 3 months (range: 1-6 months). Colchicine following MI resulted in a statistically significant decrease in mean CRP level (mg/L) at follow-up versus placebo (MD: -0.69; [-1.21, -0.17], p = 0.009). Heterogeneity of effect size estimates was high (I2 = 97%).\n\nCONCLUSION: Daily colchicine following MI decreases CRP at a median follow-up period of 3 months compared to placebo. The correlation between CRP reduction with colchicine and adverse cardiovascular event reduction warrants additional study.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669065",
+      "pmid": "42669065",
+      "doi": "10.1001/jama.2026.17246",
+      "title": "Gene Silencer Therapy in Transthyretin Amyloid Cardiomyopathy: A Meta-Analysis of Outcomes Trials.",
+      "authors": [
+        "Gillmore JD",
+        "Hamatani Y",
+        "Fontana M",
+        "Vaduganathan M",
+        "Claggett BL",
+        "Garcia-Pavia P",
+        "Masri A",
+        "Cappelli F",
+        "Grogan M",
+        "Morbach C",
+        "Maurer MS",
+        "Solomon SD"
+      ],
+      "journal": "JAMA",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "IMPORTANCE: Gene-silencing therapies reduce hepatic transthyretin (TTR) production and have been evaluated in phase 3 trials in TTR amyloid cardiomyopathy (ATTR-CM). However, differences in trial design and background therapies have limited assessment of the overall treatment effect and its consistency according to baseline TTR stabilizer use.\n\nOBJECTIVE: To assess the effect of TTR gene-silencing therapies in patients with ATTR-CM.\n\nDATA SOURCES AND STUDY SELECTION: PubMed was searched through June 15, 2026, for randomized, placebo-controlled, phase 3 outcome trials of gene-silencing therapies in ATTR-CM.\n\nDATA EXTRACTION AND SYNTHESIS: Two reviewers independently extracted data, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guideline. Fixed-effects meta-analysis estimated rate ratios (RRs) or hazard ratios (HRs) with 95% CIs.\n\nMAIN OUTCOMES AND MEASURES: The prespecified primary outcome was the composite of all-cause mortality and recurrent cardiovascular events. Secondary outcomes included all-cause mortality, cardiovascular death, time to first primary outcome, functional capacity (6-minute walk distance), and health status (Kansas City Cardiomyopathy Questionnaire-Overall Summary Score).\n\nRESULTS: A total of 2 studies (HELIOS-B and CARDIO-TTRansform) met the inclusion criteria and included 2086 patients with ATTR-CM. The studies included 1902 men with a median age of 77 years (range for HELIOS-B, 45-85 years; for CARDIO-TTRansform, 41-91 years). Gene-silencing therapy reduced the primary end point by 20% (RR, 0.80; 95% CI, 0.69-0.94; P = .006), with no heterogeneity between trials (P for heterogeneity = .28). Gene-silencing therapy also reduced the risk of all-cause death (HR, 0.74; 95% CI, 0.61-0.91) and time to first all-cause death or cardiovascular events (HR, 0.77; 95% CI, 0.67-0.89) compared with placebo. Gene silencers preserved 6-minute walk distance (placebo-corrected difference, +22.2 m; 95% CI, 14.3-30.0) and Kansas City Cardiomyopathy Questionnaire-Overall Summary Score (+4.5; 95% CI, 2.7-6.2), with no evidence of between-trial heterogeneity. Treatment effects on primary end points differed according to baseline stabilizer use, with significant benefits observed among patients not receiving background stabilizer therapy (RR, 0.69; 95% CI, 0.57-0.85) and no significant incremental benefit observed for those receiving concomitant stabilizer at baseline (RR, 0.97; 95% CI, 0.77-1.23; P for heterogeneity = .03). Similar heterogeneity was observed for functional capacity and health status.\n\nCONCLUSIONS AND RELEVANCE: The findings from this meta-analysis support TTR gene silencing for ATTR-CM. The attenuated benefit observed for patients receiving concomitant TTR stabilizer therapy may reflect residual differences in case mix, disease duration, or magnitude of TTR suppression or a true ceiling on additional benefit of gene silencing in the setting of background TTR stabilization.\n\nTRIAL REGISTRATION: PROSPERO registration: CRD420261421656. ClinicalTrials.gov Identifier: HELIOS-B, NCT04153149; and CARDIO-TTRansform, NCT04136171.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669064",
+      "pmid": "42669064",
+      "doi": "10.1093/ehjqcco/qcag139",
+      "title": "COVID-19 Vaccination and Risk of Post-COVID-19 Cardiovascular Disease: A Population-Based Cohort and Target Trial Emulation Study.",
+      "authors": [
+        "Seboka BT",
+        "Magliano DJ",
+        "Marwick TH",
+        "Huynh Q"
+      ],
+      "journal": "European heart journal. Quality of care & clinical outcomes",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: Whether COVID-19 vaccination is associated with lower long-term cardiovascular risk after SARS-CoV-2 infection and how much infection prevention mediates this association remain unclear.\n\nOBJECTIVE: To evaluate associations of vaccination, including its timing relative to SARS-CoV-2 infection, with post-COVID-19 cardiovascular disease (CVD), and quantify the contribution of infection prevention.\n\nMETHODS: This statewide population-based cohort study used linked administrative health data for 2,391,456 adults in Victoria, Australia (2019-2025). Associations of pre- or post-infection vaccination with major adverse cardiovascular events (MACE; primary outcome), stroke, heart failure, acute myocardial infarction (AMI), acute coronary syndrome (ACS), atrial fibrillation (AF), and venous thromboembolism (VTE) were evaluated using time-varying Cox proportional hazards regression, causal mediation analysis, and target trial emulation.\n\nRESULTS: Vaccination was associated with lower hazards of MACE and all secondary outcomes. Estimated absolute risk reductions for MACE were 0.21% with pre-infection vaccination and 0.24% with post-infection vaccination. Three or more vaccine doses were associated with progressively lower hazards across cardiovascular outcomes. Mediation analysis suggested that approximately 68% of the estimated association between vaccination and lower post-COVID cardiovascular risk was not explained by prevention of SARS-CoV-2 infection.\n\nCONCLUSION: Vaccination before or after SARS-CoV-2 infection was associated with lower hazards of post-COVID-19 cardiovascular outcomes, with stronger observed associations at higher dose numbers. Most of the estimated association was not explained by infection prevention alone. These findings support COVID-19 vaccination as an important component of strategies to reduce the burden of post-COVID-19 CVD while highlighting the need for further studies to clarify the mechanisms underlying these associations.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary",
+        "electrophysiology",
+        "heart-failure",
+        "infectious",
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669063",
+      "pmid": "42669063",
+      "doi": "10.1093/cvr/cvag099",
+      "title": "Cytokine-associated ROS and Ca2+ dysregulation in severe inflammatory cardiomyopathy.",
+      "authors": [
+        "Suwalski P",
+        "Golpour A",
+        "Weiner J",
+        "Musigk N",
+        "Balzer F",
+        "Giesa N",
+        "Amr A",
+        "Zyla J",
+        "Ganz P",
+        "Saleem HN",
+        "Trebing J",
+        "Sedaghat-Hamedani F",
+        "Meder B",
+        "Gold SM",
+        "Ebert A",
+        "Beule D",
+        "Landmesser U",
+        "Heidecker B"
+      ],
+      "journal": "Cardiovascular research",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "AIMS: Inflammatory cardiomyopathy (iCMP) is a leading cause of heart failure, with limited therapeutic options. Excessive cytokine levels are implicated in adverse outcomes, but their pathomechanism in iCMP is poorly understood. We sought to identify key cytokines involved in severe iCMP and elucidate their potential contribution to cardiomyocyte injury.\n\nMETHODS AND RESULTS: Cytokines were analysed in patients with severe biopsy-proven iCMP (n = 63; LVEF ≤ 35%) and validated in a national cohort (n = 425). In vitro experiments examined the effect of the top cytokines observed in severe iCMP with regards to production of reactive oxygen species (ROS) and calcium homeostasis in induced human pluripotent stem cell-derived cardiomyocytes (iPSC-CMs) and human aortic endothelial cells (HAECs). Three proteins (COLEC-12, CRIM-1, IL-6) were associated with severe iCMP. In iPSC-CMs, these proteins increased ROS (H2DCFDA assay) and intracellular Ca2+ levels (Fluo-4AM assay), indicating cellular stress. Effects were less pronounced in HAEC. Finally, real-world data from electronic medical records suggested a possible cardioprotective effect of clinically available inhibitors targeting these cytokines, although these findings remain exploratory and require confirmation in controlled studies.\n\nCONCLUSION: COLEC-12, CRIM-1, and IL-6 are elevated in severe iCMP and induce oxidative stress and calcium dysregulation in cultured cardiomyocytes. These findings highlight their potential as possible future therapeutic targets.\n\nCLINICAL TRIAL NUMBER: ClinicalTrials.gov Identifier: NCT04265040, NCT02187263.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669062",
+      "pmid": "42669062",
+      "doi": "10.1093/eurheartj/ehag740",
+      "title": "Antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation: an individual patient data network meta-analysis.",
+      "authors": [
+        "Chiarito M",
+        "Mehran R",
+        "Gibson MC",
+        "Cannon CP",
+        "Lopes RD",
+        "Sartori S",
+        "Oliva A",
+        "Smith K",
+        "Feng Y",
+        "Lampert J",
+        "Goette A",
+        "Kastrati A",
+        "Owen R",
+        "Ten Berg JM",
+        "Verheugt FWA",
+        "Vranckx P",
+        "Valgimigli M",
+        "Bhatt DL",
+        "Alexander J",
+        "Pocock S"
+      ],
+      "journal": "European heart journal",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND AND AIMS: Randomized trials demonstrated that in patients with atrial fibrillation (AF) undergoing percutaneous coronary intervention (PCI) direct oral anticoagulants (DOAC) and a P2Y12 inhibitor reduce bleeding compared with vitamin K antagonist (VKA) plus dual antiplatelet therapy (DAPT) with no increase in ischemic risk; however, important gaps in knowledge remain, limiting certainty and generalizability of these findings.\n\nMETHODS: In this patient-level meta-analysis of randomized trials evaluating antithrombotic strategies in patients with AF undergoing PCI, Cox proportional hazard models, stratified by trial, were used to estimate hazard ratios and 95% confidence intervals (HR, 95%CI). The primary efficacy and safety outcomes were the composite of cardiovascular death, myocardial infarction, or stroke, and TIMI major bleeding, respectively. The study was registered in PROSPERO (CRD420251130025).\n\nRESULTS: Six trials (10,634 patients) comparing DOAC plus P2Y12 inhibitor (4,083), VKA plus single antiplatelet therapy (SAPT, 1,247), VKA plus DAPT (3,715), and DOAC plus DAPT (1,589) were included. The transition from DAPT to SAPT was recommended at 1 (1-3) and 3 (1-7) days in the DOAC plus P2Y12 inhibitor and VKA plus SAPT groups, respectively. At 1 year, the risk of the primary efficacy outcome did not differ across the antithrombotic strategies (reference group: VKA plus DAPT; DOAC plus P2Y12 inhibitor: HR 1.16, 95%CI 0.97-1.41; VKA plus SAPT: 1.14, 0.85-1.54, DOAC plus DAPT: 0.99, 0.75-1.30), without any statistically significant interaction between treatment effects and all prespecified subgroups, including age, sex, bleeding risk, and thrombotic risk. However, 14-day landmark analysis showed an increased risk of myocardial infarction and definite/probable stent thrombosis in patients receiving DOAC plus P2Y12 inhibitor or VKA plus SAPT in the early phase after PCI. DOAC plus P2Y12 inhibitor reduced the risk of the primary safety outcome compared with VKA plus DAPT (0.48, 0.38- 0.65) and VKA plus SAPT (0.62, 0.40-0.97); only a borderline reduction was observed compared to DOAC plus DAPT (0.66, 0.44-1.01). DOAC plus P2Y12 inhibitor reduced intracranial hemorrhage compared with VKA plus DAPT (0.21, 0.07-0.64).\n\nCONCLUSIONS: In patients with AF undergoing PCI, the risk of cardiovascular death, myocardial infarction, or stroke did not significantly differ according to whether patients received a DOAC or VKA, whereas a modest increase in risk with single compared with dual antiplatelet therapy cannot be excluded, given the higher risk of early coronary events. DOACs compared with VKAs reduced the risk of bleeding across all severity grades, including intracranial hemorrhage, whereas omission of a second antiplatelet agent reduced the risk of TIMI major or minor bleeding.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary",
+        "electrophysiology",
+        "hematology",
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669057",
+      "pmid": "42669057",
+      "doi": "10.1161/CIRCULATIONAHA.126.082847",
+      "title": "Effect of Anselamimab on Cardiac Structure and Function in Patients With Light Chain Amyloidosis: Insights From the CARES Clinical Trials.",
+      "authors": [
+        "Wang X",
+        "Fontana M",
+        "Claggett B",
+        "Jering KS",
+        "Skali H",
+        "Maurer MS",
+        "Ricchiuto P",
+        "Yao C",
+        "Kulkarni H",
+        "Li H",
+        "Mercuri MF",
+        "Quarta CC",
+        "Solomon SD"
+      ],
+      "journal": "Circulation",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "topics": [
+        "heart-failure",
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669054",
+      "pmid": "42669054",
+      "doi": "10.1001/jama.2026.17361",
+      "title": "124I-Evuzamitide Positron Emission Tomography/Computed Tomography for Diagnosing Cardiac Amyloidosis: The REVEAL Nonrandomized Clinical Trial.",
+      "authors": [
+        "Dorbala S",
+        "Maurer MS",
+        "Cuddy SAM",
+        "AbouEzzeddine OF",
+        "Di Carli MF",
+        "Dilsizian V",
+        "Dispenzieri A",
+        "Gallegos-Kattán C",
+        "Guthrie S",
+        "Mangal B",
+        "Hanna M",
+        "Khouri MG",
+        "Malhotra S",
+        "Mitchell JD",
+        "Narra RK",
+        "Orlandi C",
+        "Rosenthal JL",
+        "Ruberg FL",
+        "Smiley D",
+        "Sperry BW",
+        "Udelson JE",
+        "Weinberg RL",
+        "Wall JS",
+        "Masri A",
+        "REVEAL Study Investigators"
+      ],
+      "journal": "JAMA",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "IMPORTANCE: Diagnosing cardiac amyloidosis remains challenging because current imaging approaches are limited to transthyretin amyloidosis. A noninvasive test capable of directly imaging cardiac amyloidosis from various amyloid types and in multiple organs could address an important unmet diagnostic need.\n\nOBJECTIVE: To evaluate the sensitivity and specificity of 124I-evuzamitide positron emission tomography (PET)/computed tomography (CT) for diagnosing cardiac amyloidosis.\n\nDESIGN, SETTING, AND PARTICIPANTS: Prospective, multicenter (18 US centers), single-group study evaluating the efficacy of 124I-evuzamitide to diagnose cardiac amyloidosis. This study was conducted from January 14, 2025, to March 12, 2026, including a 60-day follow-up period. Three physicians with cardiac PET/CT experience independently reviewed PET/CT images for visual cardiac 124I-evuzamitide uptake while blinded to clinical data. Three expert clinical amyloidosis physicians, blinded to PET/CT data, independently adjudicated the diagnosis based on the standard-of-care diagnostic algorithm. A total of 195 adults suspected of having cardiac amyloidosis were enrolled when they presented for diagnostic evaluation at participating institutions, excluding patients with an established diagnosis of cardiac or systemic amyloidosis.\n\nINTERVENTIONS: PET/CT scans were obtained 3 to 5 hours after intravenous administration of 1 mCi of 124I-evuzamitide. Potassium iodide (130 mg) was given orally for 3 days starting at least 30 minutes prior to 124I-evuzamitide injection.\n\nMAIN OUTCOMES AND MEASURES: Coprimary end points of this study were to assess the sensitivity and specificity of 124I-evuzamitide for the diagnosis of cardiac amyloidosis.\n\nRESULTS: Overall, 170 patients were included (median [IQR] age, 72 [64-79] years; 75.3% male, 19.2% Black, 79.0% White). Median N-terminal pro-brain natriuretic peptide was 471 pg/mL and 61.7% had New York Heart Association class II or III heart failure symptoms. The overall sensitivity was 94% (95% CI, 85%-98%; P < .001); specificity, 86% (95% CI, 77%-92%; P < .001); positive predictive value, 85% (95% CI, 75%-92%); and negative predictive value, 94% (95% CI, 87%-98%).\n\nCONCLUSIONS AND RELEVANCE: 124I-evuzamitide PET/CT is highly sensitive and specific for diagnosing cardiac amyloidosis with an acceptable safety profile. These results support 124I-evuzamitide PET/CT as a diagnostic test to evaluate patients with suspected cardiac amyloidosis.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT06788535.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure",
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669052",
+      "pmid": "42669052",
+      "doi": "10.1093/eurheartj/ehag729",
+      "title": "Finerenone in hypertensive non-diabetic chronic kidney disease: a FIND-CKD subgroup analysis.",
+      "authors": [
+        "Heerspink HJL",
+        "Beernink JM",
+        "Agarwal R",
+        "Cherney DZI",
+        "Lam CSP",
+        "Neuen BL",
+        "Perkovic V",
+        "Tuttle KR",
+        "Sarafidis P",
+        "Birne R",
+        "Chen X",
+        "Hornum M",
+        "Maldonado RA",
+        "Nangaku M",
+        "Nicholas SB",
+        "Ohashi A",
+        "Pergola PE",
+        "Yeo SC",
+        "Jongs N",
+        "Smeijer JD",
+        "Aldworth C",
+        "Brinker M",
+        "Kolkhof P",
+        "Reis JD",
+        "Scalise A",
+        "Wanner C",
+        "FIND-CKD Investigators"
+      ],
+      "journal": "European heart journal",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND AND AIMS: Hypertension is a common attributable cause of chronic kidney disease (CKD). Mineralocorticoid receptor overactivation can lead to hypertension and contributes to CKD progression. In FIND-CKD, finerenone reduced kidney function decline in participants with CKD without diabetes. This prespecified FIND-CKD analysis assessed finerenone efficacy and safety in participants with hypertensive nephropathy.\n\nMETHODS: Adults with estimated glomerular filtration rate (eGFR) 25-&lt;90 mL/min/1.73 m2 and urinary albumin-to-creatinine ratio (UACR) 200-3500 mg/g were randomized 1:1 to once-daily finerenone or placebo. Hypertensive nephropathy was investigator-reported. Total eGFR slope from baseline to Month 32 was assessed, along with a kidney-cardiovascular composite of sustained ≥57% eGFR decline, kidney failure, hospitalization for heart failure, or cardiovascular death.\n\nRESULTS: Of 1584 randomized participants, 459 (29.0%) had hypertensive nephropathy. Mean blood pressure (± SD) was 134/80 ± 14/10 mmHg, mean eGFR was 44 ± 15 mL/min/1.73 m2, median UACR was 797 mg/g (Q1, Q3: 566, 1247). In participants with hypertensive nephropathy, finerenone slowed total eGFR decline versus placebo by 0.65 mL/min/1.73 m2/year (95% CI: 0.02, 1.29; P = .044) and was associated with a reduction in composite kidney-cardiovascular outcome events (HR: 0.61; 95% CI: 0.38, 0.99; P = .045). These effects were consistent irrespective of baseline systolic blood pressure (SBP) (P-interaction: eGFR slope, 0.96; composite outcome, 0.91). Finerenone reduced SBP by -3.5 mmHg and UACR by 33% at Month 6 vs placebo. Hyperkalaemia occurred more frequently with finerenone (17.1%) than placebo (9.8%); related discontinuation was uncommon (1.3% vs 0.0%, respectively).\n\nCONCLUSIONS: Finerenone slowed eGFR decline and reduced kidney-cardiovascular outcome risk in participants with hypertensive nephropathy, supporting its use in this population. ClinicalTrials.gov registration: NCT05047263.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "heart-failure",
+        "nephrology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669043",
+      "pmid": "42669043",
+      "doi": "10.1001/jama.2026.17036",
+      "title": "Anticoagulation Monotherapy vs Antiplatelet Monotherapy After Transcatheter Aortic Valve Implant: The ACASA-TAVI Randomized Clinical Trial.",
+      "authors": [
+        "Dodgson CS",
+        "Herstad J",
+        "Kløve SF",
+        "Flygel M",
+        "Akhavi M",
+        "Høie S",
+        "Beitnes JO",
+        "Eek CH",
+        "Broch K",
+        "Cunen C",
+        "Gullestad L",
+        "Aaberge L",
+        "Lunde K",
+        "Bendz B",
+        "Lie ØH"
+      ],
+      "journal": "JAMA",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "IMPORTANCE: Transcatheter aortic valve implant (TAVI) is increasingly being performed in younger and healthier patients with severe aortic valve stenosis. Antithrombotic therapy after TAVI is a key element of optimizing valve durability and clinical outcomes.\n\nOBJECTIVE: To evaluate the safety and efficacy of a factor Xa inhibitor non-vitamin K antagonist oral anticoagulant (NOAC) monotherapy strategy vs an acetylsalicylic acid (ASA) monotherapy strategy after TAVI.\n\nDESIGN, SETTING, AND PARTICIPANTS: Between December 2021 and June 2025, 360 participants between the ages of 65 and 80 years undergoing TAVI for severe aortic valve stenosis were enrolled in this prospective, randomized, open-label, blinded end point trial conducted at 3 Norwegian centers managing the majority of TAVI procedures nationally. The last patient completed follow-up on May 19, 2026.\n\nINTERVENTION: A total of 360 participants were randomly assigned (1:1) to receive 12 months of monotherapy with either NOAC (intervention) or ASA (control).\n\nMAIN OUTCOMES AND MEASURES: A predefined co-primary end point strategy was chosen to address both efficacy and safety. The primary efficacy end point was TAVI valve leaflet thrombosis defined as the presence of hypoattenuated leaflet thickening (HALT) on blinded core laboratory 4-dimensional cardiac computed tomographic (CT) scan at 12 months. The primary safety end point was a composite of adjudicated Valve Academic Research Consortium 3 (VARC-3) bleeding events, thromboembolic events, and all-cause death at 12 months.\n\nRESULTS: Of the 360 participants randomized (mean age, 74.5 years [SD, 3.7]; 134 females [37%]), 336 completed the trial (168 in each group). The primary efficacy end point occurred in 27 participants (16.2%) allocated to the NOAC group and in 48 participants (28.6%) allocated to the ASA group (risk ratio, 0.55; 95% CI, 0.37 to 0.82, P = .004). The primary safety end point occurred in 13 participants (7.5%) in the NOAC group and in 19 participants (10.6%) in the ASA group (risk difference, -3.3%; 95% CI, -9.5% to 2.8%; P for noninferiority <.001).\n\nCONCLUSIONS AND RELEVANCE: A strategy of NOAC monotherapy after TAVI reduced the incidence of HALT and was noninferior for bleeding, thromboembolic events, or death compared with acetylsalicylic acid monotherapy. These findings suggest that anticoagulation therapy can be beneficial after TAVI in selected patients.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05035277.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669042",
+      "pmid": "42669042",
+      "doi": "10.1001/jama.2026.17327",
+      "title": "Anticoagulation Monotherapy vs Antiplatelet Monotherapy After Transcatheter Aortic Valve Implant: Research Summary.",
+      "authors": [],
+      "journal": "JAMA",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669035",
+      "pmid": "42669035",
+      "doi": "10.1001/jamainternmed.2026.4773",
+      "title": "Specialist Referral for Cardiovascular Risk in Patients With Prostate Cancer: A Randomized Clinical Trial.",
+      "authors": [
+        "Leong DP",
+        "Higano C",
+        "Cano Garcia C",
+        "Fradet V",
+        "Siemens DR",
+        "Niazi T",
+        "Shayegan B",
+        "Guha A",
+        "Cirne F",
+        "Selvanayagam JB",
+        "Violette PD",
+        "Valle FH",
+        "Lavallée LT",
+        "Duceppe E",
+        "Anderson P",
+        "Xavier D",
+        "Lopez-Lopez JP",
+        "Villareal Trujillo N",
+        "Galapo Kann A",
+        "Piccoli RK",
+        "Mourtzakis M",
+        "Sarid D",
+        "Narasimha S",
+        "Luke PPW",
+        "Hajjar LA",
+        "Lukka H",
+        "Klotz L",
+        "Balasubramanian K",
+        "Mian R",
+        "Agapay S",
+        "Rangarajan S",
+        "Karampatos S",
+        "Ng KKH",
+        "Avezum A",
+        "Devereaux PJ",
+        "Pinthus JH",
+        "RADICAL PC Investigators"
+      ],
+      "journal": "JAMA internal medicine",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "IMPORTANCE: Patients with prostate cancer have a high burden of cardiovascular risk factors, often suboptimally controlled, and adverse cardiovascular outcomes.\n\nOBJECTIVE: To determine whether the routine referral of patients with prostate cancer to a cardiovascular specialist to implement a systematic risk factor strategy is more likely to reduce adverse cardiovascular outcomes and improve risk factor control than usual care.\n\nDESIGN, SETTINGS, AND PARTICIPANTS: This randomized clinical trial included patients with prostate cancer from 55 sites in 8 countries between 2015 and 2025. Eligible patients were diagnosed with prostate cancer during the past 12 months; had received treatment with androgen deprivation therapy (ADT) for the first time within the past 6 months; or planned to start ADT in the next month. Patients taking a statin with a systolic blood pressure of 130 mm Hg or lower were ineligible. Data were analyzed from May 25 to August 7, 2026.\n\nINTERVENTION: Patients were allocated in a 1:1 ratio to receive usual care alone or usual care plus routine referral to an internist or cardiologist. The specialists provided a systematic intervention, including a target of systolic blood pressure of 130 mm Hg or lower and a statin medication, irrespective of the patient's cholesterol levels (even if not usual or guideline-driven practice); encourage smoking cessation; and provide guidance on diet and exercise.\n\nMAIN OUTCOMES AND MEASURES: Hierarchical composite of cardiovascular death, myocardial infarction, stroke, heart failure, suboptimal cholesterol (total cholesterol, >155 mg/dL [to convert to mmol/L, multiply by 0.0259]) and suboptimal blood pressure (systolic blood pressure, >130 mm Hg) as evaluated by the win ratio.\n\nRESULTS: The analysis included 2487 patients with prostate cancer (mean [SD] age, 68 [8] years). During median (IQR) follow-up of 5.8 (2.7-8.2) years, the win ratio in favor of the intervention was 1.60 (95% CI, 1.42-1.81), mostly attributable to lower cholesterol in the intervention group (mean difference, 12 mg/dL; 95% CI, 9-15 mg/dL) as a consequence of greater protocol-mandated statin use. Mean (SD) close-out systolic blood pressure values were 131.1 (16.9) mm Hg in the intervention group and 132.9 (18.3) mm Hg in the control group. There was no difference in time to cardiovascular death, myocardial infarction, stroke, or heart failure between groups (subdistribution hazard ratio, 1.08; 95% CI, 0.79-1.49).\n\nCONCLUSIONS AND RELEVANCE: In this randomized clinical trial, routine referral of patients with prostate cancer to a cardiovascular specialist lead to improved outcomes, specifically through better cholesterol control. However, it is uncertain whether this reduced clinical cardiovascular events.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03127631.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure",
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42669033",
+      "pmid": "42669033",
+      "doi": "10.1093/eurheartj/ehag707",
+      "title": "Safety of withdrawal of pharmacological treatment after recovery from HER2 therapy-related cardiac dysfunction: the HER-SAFE trial.",
+      "authors": [
+        "Dowsing B",
+        "Dehbi HM",
+        "Andres MS",
+        "Chung R",
+        "Oashou A",
+        "Wilson JM",
+        "Hussein I",
+        "Meredith B",
+        "Pierce I",
+        "Ahmed S",
+        "Pedra J",
+        "Worn O",
+        "Howe M",
+        "Assadullah S",
+        "Schmid P",
+        "Roylance R",
+        "Crake T",
+        "Westwood M",
+        "Ghosh AK",
+        "Auger D",
+        "Plymen CM",
+        "Baksi J",
+        "Nazir MS",
+        "Moon JC",
+        "Chen D",
+        "Lyon AR",
+        "Walker JM",
+        "Manisty CH"
+      ],
+      "journal": "European heart journal",
+      "date": "2026-08-30",
+      "year": 2026,
+      "abstract": "BACKGROUND: Heart failure therapy (HFT) is routinely continued in breast cancer survivors after recovery from anti-HER2 cancer therapy-related cardiac dysfunction (CTRCD), despite limited evidence. HER-SAFE is the first randomised trial to assess HFT withdrawal in this population.\n\nMETHODS: In this open-label, multicentre, randomised controlled trial, breast cancer survivors with recovered anti-HER2 CTRCD (asymptomatic, left ventricular ejection fraction [LVEF] ≥50%, normalised biomarkers) were randomised to HFT withdrawal or continuation. Antecedent CTRCD was mild (relative global longitudinal strain [GLS] decline >15%, LVEF ≥50%), moderate (LVEF fall >10% to <50%), or severe (LVEF <40%). The primary endpoint was a moderate or severe CTRCD event over 12 months analysed by intention to treat; secondary endpoints included serial cardiac function, biomarkers, and quality of life.\n\nRESULTS: Between July 2023 and June 2025, 90 patients were randomised (all female; median age 50 years [IQR 43-59]; median 17.3 months [IQR 7.7-33.2] since CTRCD recovery; HFT predominantly renin-angiotensin system inhibitors [98%] and beta-blockers [88%]) - 46 randomised to HFT withdrawal (1 lost to follow-up) and 44 to continuation. The primary endpoint occurred in 1 of 45 with withdrawal (moderate asymptomatic CTRCD) versus 0 of 44 with continuation (between-group difference 2.2pp; 90% CI upper limit 9.4pp). No cardiovascular deaths, heart failure hospitalisations or symptomatic CTRCD occurred. Cardiac magnetic resonance-derived LVEF remained stable in both arms at 12 months (between-group difference -0.8% [-2.0 to +0.4], p=0.21).\n\nCONCLUSIONS: Among breast cancer survivors with recovered anti-HER2 CTRCD, HFT withdrawal was not associated with symptomatic events or significant between-group difference in LVEF at 12-months.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "cardio-oncology",
+        "heart-failure",
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42669031",
       "pmid": "42669031",
       "doi": "10.1093/ejhf/xuag258",
@@ -62650,11 +63426,11 @@
       "doi": "10.21091/mppa.2026.03009",
       "title": "Prevalence and Associated Factors of Temporomandibular Symptom Reporting in Portuguese Professional Orchestral Musicians: A Cross-Sectional Study.",
       "authors": [
-        "Pinho DA",
+        "Abrantes Pinho D",
         "Lopez SR",
         "Santos PC",
         "Meroni R",
-        "Mesquita CC"
+        "Carvalho Mesquita C"
       ],
       "journal": "Medical problems of performing artists",
       "date": "2026-08-28",
