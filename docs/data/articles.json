@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:58:35.737551+00:00",
+  "generated_at": "2026-08-30T14:53:32.400389+00:00",
   "articles": [
     {
       "id": "pmid:42657385",
@@ -39382,8 +39382,8 @@
         "clinical-trials",
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13524796/",
       "source": "PubMed"
     },
     {
@@ -46799,8 +46799,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525611/",
       "source": "PubMed"
     },
     {
@@ -54979,8 +54979,8 @@
       "topics": [
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525737/",
       "source": "PubMed"
     },
     {
@@ -55590,8 +55590,8 @@
       "topics": [
         "gastro-hepatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525414/",
       "source": "PubMed"
     },
     {
@@ -55645,8 +55645,8 @@
       "topics": [
         "nephrology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525411/",
       "source": "PubMed"
     },
     {
@@ -55680,8 +55680,8 @@
       "topics": [
         "endocrine"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525420/",
       "source": "PubMed"
     },
     {
@@ -56710,8 +56710,8 @@
         "coronary",
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525482/",
       "source": "PubMed"
     },
     {
@@ -56890,8 +56890,8 @@
         "electrophysiology",
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525480/",
       "source": "PubMed"
     },
     {
@@ -57528,8 +57528,8 @@
       "topics": [
         "gastro-hepatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525348/",
       "source": "PubMed"
     },
     {
@@ -58135,8 +58135,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525650/",
       "source": "PubMed"
     },
     {
@@ -58366,8 +58366,8 @@
       "topics": [
         "nephrology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525663/",
       "source": "PubMed"
     },
     {
@@ -64471,8 +64471,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525022/",
       "source": "PubMed"
     },
     {
@@ -64620,8 +64620,8 @@
       "topics": [
         "congenital"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13524997/",
       "source": "PubMed"
     },
     {
@@ -64757,8 +64757,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13524989/",
       "source": "PubMed"
     },
     {
@@ -64886,8 +64886,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525033/",
       "source": "PubMed"
     },
     {
@@ -66208,8 +66208,8 @@
         "imaging",
         "valvular"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525484/",
       "source": "PubMed"
     },
     {
@@ -66250,8 +66250,8 @@
         "heart-failure",
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525483/",
       "source": "PubMed"
     },
     {
@@ -67631,8 +67631,8 @@
         "heart-failure",
         "imaging"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525481/",
       "source": "PubMed"
     },
     {
@@ -67713,8 +67713,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13525116/",
       "source": "PubMed"
     },
     {
