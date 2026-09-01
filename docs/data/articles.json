@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:19:26.056778+00:00",
+  "generated_at": "2026-09-01T09:27:02.552657+00:00",
   "articles": [
     {
       "id": "pmid:42657385",
@@ -1344,6 +1344,40 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13351626/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42675010",
+      "pmid": "42675010",
+      "doi": "10.1080/25787489.2026.2722768",
+      "title": "Barriers and facilitators of cardiovascular disease prevention among people with HIV in the Southern United States: a photo-elicitation study.",
+      "authors": [
+        "Kwawuvi JE",
+        "Reif S",
+        "McKenna K",
+        "Dombeck C",
+        "Perry M",
+        "Iradukunda J",
+        "Corneli A",
+        "Okeke NL",
+        "Gulden C",
+        "Thompson W",
+        "Farrow L",
+        "Muiruri C"
+      ],
+      "journal": "HIV research & clinical practice",
+      "date": "2026-12-31",
+      "year": 2026,
+      "abstract": "BACKGROUND: As progress toward the UNAIDS 95-95-95 goals has transformed HIV into a chronic, manageable condition, cardiometabolic disease has emerged as a critical determinant of long-term health among people living with HIV. Despite effective antiretroviral therapy, people with HIV remain at elevated risk for hypertension, diabetes, and cardiovascular disease, while HIV care models often prioritize viral suppression over integrated cardiovascular prevention.\n\nOBJECTIVE: This study aimed to explore the social and structural determinants that shape cardiovascular preventive health behaviors among people with HIV in the Southern United States to inform the development of interventions that promote sustained health outcomes.\n\nMETHODS: We conducted a qualitative descriptive study with twenty people with HIV aged ≥ 35 years, each living with at least one cardiometabolic condition, recruited from three HIV clinics in the Southern United States. Photo-elicitation integrated with semi-structured interviews allowed participants to document and interpret their experiences related to diet, physical activity, lifestyle behaviors, and health monitoring.\n\nRESULTS: Thematic analysis mapped findings to five determinant domains: economic stability, neighborhood and environment, social and community context, education, and healthcare access and quality. Participants (median age 57; predominantly African American/Black; most living with HIV for more than 10 years) identified three intersecting, modifiable barriers: the high cost of healthy food, unsafe or poorly designed environments limiting physical activity, and family or peer norms reinforcing unhealthy behaviors.\n\nCONCLUSIONS: These findings highlight the need to embed food insecurity screening, context-tailored activity counseling, family engagement strategies, and structural supports within HIV care to advance equitable cardiovascular prevention for people with HIV.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -5448,6 +5482,33 @@
       ],
       "topics": [
         "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42675011",
+      "pmid": "42675011",
+      "doi": "10.1080/14767058.2026.2724778",
+      "title": "Comparative outcomes and predictive factors in vacuum, forceps, and sequential vacuum-forceps operative vaginal deliveries.",
+      "authors": [
+        "Chen X",
+        "Cui J",
+        "Li L",
+        "Ou'yang L",
+        "Li P"
+      ],
+      "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Operative vaginal delivery (OVD) is an important alternative to cesarean section, but the relative outcomes of vacuum, forceps, and sequential vacuum + forceps approaches remain uncertain. Moreover, predictors of instrument choice are incompletely understood. This study aimed to compare maternal, intrapartum, and neonatal outcomes across OVD modalities and to integrate conventional statistics with machine learning to identify key predictive factors.\n\nMETHODS: We retrospectively analyzed 967 singleton deliveries at a tertiary center: vacuum (n = 208), forceps (n = 706), and sequential vacuum + forceps (n = 53). Maternal characteristics, intrapartum variables, and neonatal outcomes were compared using ANOVA and chi-square tests. A Random Forest classifier was trained to rank predictors of delivery mode, with performance assessed by accuracy, AUC, and Cohen's κ.\n\nRESULTS: Forceps deliveries were more frequent among younger, primiparous women, while vacuum was used in older, higher-parity mothers with better base excess (BE). Vacuum + forceps deliveries had the longest decision-to-delivery interval (26.9 vs. 17.7 and 16.8 min, p < 0.001), highest rates of severe perineal laceration (73.6% vs. 34.1% and 47.5%, p < 0.001), and poorest neonatal outcomes, including lower Apgar scores and higher cephalohematoma, hyperbilirubinemia, and transfer rates. Random Forest achieved 73.7% accuracy (AUC 0.758) and identified second-stage duration, decision-to-delivery time, lactate, and BE as top predictors, some not significant in univariate tests.\n\nCONCLUSIONS: Vacuum and forceps each have distinct maternal and neonatal risk profiles, while sequential vacuum + forceps delivery confers the greatest morbidity, largely reflecting case complexity. Traditional statistics and machine learning offer complementary insights, highlighting both established and novel predictors. Integrating these approaches may support individualized decision-making and improve OVD outcomes.",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "topics": [
+        "research-methods"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -20886,6 +20947,34 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13520988/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42660076",
+      "pmid": "42660076",
+      "doi": "10.1016/j.midw.2026.104964",
+      "title": "Comparison of Labor Characteristics and Maternal-Neonatal Outcomes in Induced Labor Between Women with A1 Gestational Diabetes Mellitus and Normoglycemic Controls.",
+      "authors": [
+        "Zhou Y",
+        "Lin Q",
+        "Zou J",
+        "Lu X",
+        "Li J",
+        "Hua Y",
+        "Dong K"
+      ],
+      "journal": "Midwifery",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: This study compared labor characteristics and maternal-neonatal outcomes between pregnant women with diet-controlled (A1) gestational diabetes mellitus (GDM) and normoglycemic women, within a cohort of women undergoing induction of labor (IOL) at term. Furthermore, we aimed to identify risk factors associated with cesarean section (CS) in this specific population.\n\nMATERIAL AND METHODS: A total of 686 pregnant women were enrolled and divided into an A1 GDM group (n=256) and a non-GDM control group (n=430). Propensity score matching (PSM) was used to adjust for maternal age, BMI, gravidity, parity, and Bishop score, resulting in 254 matched pairs. Labor induction characteristics, clinical interventions, and maternal and neonatal outcomes were compared. Risk factors for CS were analyzed using univariate and multivariate logistic regression.\n\nRESULTS: The A1 GDM group had higher rates of episiotomy and postpartum blood loss, and greater fetal weight (P<0.05), but no significant difference in CS rates (9.8% vs. 11.4%) or most neonatal outcomes. Multivariate analysis showed that advanced maternal age (OR 1.177, 95% CI 1.089-1.272), nulliparity (OR 0.110, 95% CI 0.053-0.231), and lower Bishop score (OR 0.605, 95% CI 0.442-0.828) were independent risk factors for CS, while A1 GDM was not.\n\nCONCLUSIONS: In this cohort of women undergoing IOL at term, pregnancy outcomes for those with well-managed A1 GDM were comparable to non-GDM controls. After adjustment for confounders, A1 GDM was not observed to be an independent risk factor for CS, instead, maternal age, parity, and cervical readiness were the primary determinants of delivery mode.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -38841,6 +38930,1252 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42675023",
+      "pmid": "42675023",
+      "doi": "10.1111/cch.70339",
+      "title": "Strengthening School-Based Support Systems for Children and Youth With Developmental Coordination Disorder: A National Survey of Canadian Parents.",
+      "authors": [
+        "Klein ES",
+        "Pereira N",
+        "Gill A",
+        "Zwicker JG"
+      ],
+      "journal": "Child: care, health and development",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Parents of children with Developmental Coordination Disorder (DCD) face barriers in accessing school-based services and supports for their children despite challenges in academic attainment related to motor coordination difficulties and secondary consequences associated with DCD. Changes to service delivery are vital for student success but need to be rooted in parent- and child-identified needs and priorities.\n\nPURPOSE: To explore parent perspectives of children (5-18 years) with DCD on the barriers and facilitators in accessing clinical and curriculum-based services and supports across Canada.\n\nMETHOD: We circulated an online cross-sectional survey using a multi-pronged recruitment strategy to parents of children with suspected or confirmed DCD across Canada from November 2021 to June 2022. Quantitative data were analysed using descriptive statistics and chi-square tests. Exploratory content analysis was completed for qualitative data.\n\nFINDINGS: Parents across Canada responded, with 488 included surveys. There is inconsistent availability and access to school-based therapies, creating an inequitable service delivery. There are long waitlists, limited frequency of visits and often children are ineligible for services. Despite classroom accommodations and resource support, parents report a lack of educator awareness and understanding with variable adherence to needed curriculum adaptations. Canadian school supports and services are failing to meet the needs of children with DCD, resulting in negative trajectories in physical, social, emotional and academic pursuits.\n\nCONCLUSION: Transformative changes are required for provision of school-based clinical and curriculum services and supports. Evidence-informed approaches, such as a tiered service delivery model, can provide effective and financially viable processes, ensuring positive outcomes for students with DCD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42675021",
+      "pmid": "42675021",
+      "doi": "10.1002/vms3.71180",
+      "title": "Successful Treatment of Mycobacterium caprae Infection in Two UK Cats.",
+      "authors": [
+        "Clark E",
+        "Gunn-Moore D",
+        "O'Halloran C"
+      ],
+      "journal": "Veterinary medicine and science",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "A 4-year-old, male-neutered Savannah cat (Case 1) and a 3-year-old female-neutered British shorthair cat (Case 2) were each investigated for chronic coughing, lethargy and weight loss. Thoracic imaging revealed diffuse broncho-interstitial changes and multifocal soft-tissue nodules (Case 1), and two cavitating masses in the left lung (Case 2). Bronchoalveolar lavage cytology (BAL) in both cases identified macrophagic inflammation with acid-fast bacilli and was culture (Case 1) or PCR (Case 2) positive for Mycobacterium caprae. The cats were treated with 11 months (Case 1) and 9 months (Case 2) of triple antimicrobial therapy comprising pradofloxacin (5 mg/kg orally once every 24 h), rifampicin (10 mg/kg orally once every 24 h) and azithromycin (15 mg/kg orally once every 24 h). Both made complete clinical recoveries and radiographic improvement in the thoracic changes were static for 2 months prior to cessation of therapy. Both cats remain clinically well 12 and 10 months after cessation of treatment, respectively.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42675014",
+      "pmid": "42675014",
+      "doi": "10.1111/famp.70189",
+      "title": "Indirect Effects of Individual-Oriented Relationship Education on Children's Social-Emotional Outcomes: A Randomized Controlled Trial of MotherWise.",
+      "authors": [
+        "Lee J",
+        "Le Y",
+        "Rhoades GK"
+      ],
+      "journal": "Family process",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Despite growing evidence supporting the positive effects of individual-oriented relationship education on romantic relationship outcomes, few studies have explored impacts on child outcomes. This study examined indirect effects of MotherWise, a community-based perinatal program using the Within My Reach curriculum, on child social-emotional well-being. Perinatal individuals from marginalized groups were randomly assigned during pregnancy or within three months postpartum to the MotherWise program (n = 512) or the no-treatment control group (n = 437). Three mechanisms were assessed at 12-months post-enrollment: general conflict management skills, romantic relationship skills, and disapproval of relationship violence. Child problem behaviors and social-emotional competency were measured at 30-months post-enrollment. Path models were tested using Mplus to examine each mechanism individually and then all together in a combined model. Results are consistent with positive indirect effects of MotherWise on child outcomes. Compared to the control group, MotherWise participants reported better conflict management skills, romantic relationship skills, and greater disapproval of relationship violence at 12-months post-enrollment. These enhanced skills and knowledge were, in turn, associated with fewer problem behaviors and greater social-emotional competency for children at 30-months post-enrollment. The combined model supported that disapproval of relationship violence uniquely contributed to MotherWise's indirect effects on both child outcomes, while romantic relationship skills uniquely contributed to children's social-emotional competency. Results showed indirect benefits of individual-oriented relationship education for children and suggest that clinicians and community-based programs serving families can support child well-being by providing relationship education to individual parents.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674977",
+      "pmid": "42674977",
+      "doi": "10.1002/jimd.70241",
+      "title": "Phase 3 Randomized Trial Results of DTX401 AAV Gene Therapy for the Treatment of GSDIa.",
+      "authors": [
+        "Mitchell JJ",
+        "Abdenur JE",
+        "de Boer F",
+        "Boyer M",
+        "Breilyn MS",
+        "Couce ML",
+        "De Leon DD",
+        "Derks TG",
+        "El-Gharbawy A",
+        "Haijer-Schreuder AB",
+        "Loechner K",
+        "Longo N",
+        "Lund AM",
+        "Olmos MAM",
+        "McCandless SE",
+        "de Oliveira BM",
+        "Mount M",
+        "Muschol N",
+        "Pytlak K",
+        "Radhakrishnan K",
+        "Riba-Wolman R",
+        "Rodriguez-Buritica DF",
+        "La Rosa A",
+        "Rossi A",
+        "Saavedra H",
+        "Santer R",
+        "Shayota B",
+        "Smit GPA",
+        "Moura De Souza CF",
+        "van der Klauw MM",
+        "Weinstein DA",
+        "Wolfsdorf JI",
+        "Blake A",
+        "Grimm AA",
+        "Mitragotri D",
+        "Rahman S",
+        "Turner-Bowker DM",
+        "Collis R"
+      ],
+      "journal": "Journal of inherited metabolic disease",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Glycogen storage disease type Ia (GSDIa) is a rare, life-threatening inherited carbohydrate metabolism disorder caused by biallelic pathogenic G6PC gene variants resulting in deficiency of glucose-6-phosphatase. DTX401 is an investigational AAV8 vector containing the human G6PC gene. DTX401-CL301 is a pivotal, phase 3, double-blind, randomized, placebo-controlled trial of DTX401 in patients ≥ 8 years with GSDIa. The primary endpoint was percent change from Baseline to Week 48 in daily cornstarch intake for the DTX401 versus placebo group. Participants were randomly assigned (1:1) to blinded DTX401 or placebo. After the 48-week Primary Efficacy Analysis Period (PEAP), participants crossed over in a blinded manner for an additional 48-week blinded Crossover Period. Following randomization: 21 participants received DTX401; 25 received placebo. At Week 48, DTX401 treatment resulted in a statistically significant least squares (LS) mean (SE) daily cornstarch intake reduction of 41% (4.6) versus 10% (4.1) for Placebo (p < 0.0001). Clinical meaningfulness was evidenced by a mean desired percent reduction in daily cornstarch intake among those reporting in Baseline interviews (n = 33) of 45% (median = 41%). Greater and faster reductions in cornstarch were observed at Week 96 for the Crossover DTX401 group compared with the DTX401 group in the PEAP. The DTX401 safety profile was acceptable, and expected hepatic reactions consisting of transaminase elevations were managed with prophylactic corticosteroids. Treatment with DTX401 resulted in both a statistically significant and clinically meaningful reduction in cornstarch intake in the 48-week PEAP versus placebo, with greater cornstarch reductions in both groups at Week 96.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674936",
+      "pmid": "42674936",
+      "doi": "10.1016/j.acra.2026.08.008",
+      "title": "When Statistics Meet AI, or How to Not Show Your Results to the Scientific Community.",
+      "authors": [
+        "López-Úbeda P",
+        "Martín-Noguerol T",
+        "Luna A"
+      ],
+      "journal": "Academic radiology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674864",
+      "pmid": "42674864",
+      "doi": "10.1097/j.jcrs.0000000000002012",
+      "title": "ESCRS guideline for cataract surgery 2024: executive summary.",
+      "authors": [
+        "Wanten JC",
+        "Till V",
+        "Findl O",
+        "Cochener-Lamard B",
+        "Kohnen T",
+        "Nuijts RMMA",
+        "ESCRS Cataract Surgery Guidelines Working Group"
+      ],
+      "journal": "Journal of cataract and refractive surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Cataract is a leading cause of visual impairment globally, with surgery as the only effective treatment. Management involves a care pathway, including screening, patient selection, preoperative assessment, surgery, and postoperative care. The ESCRS developed evidence-based guidelines to aid decision-making for patients, clinicians, and stakeholders. A multidisciplinary panel, supported by methodologists using the Grading of Recommendations, Assessment, Development, and Evaluations approach, addressed 32 key clinical questions. Recommendations include intracameral antibiotics to prevent endophthalmitis, topical anesthesia as the preferred technique, and toric intraocular lenses for corneal astigmatism ≥1.0 diopter. Conventional and femtosecond laser-assisted surgeries are comparably safe and effective. Nonsteroidal anti-inflammatory drug eyedrops, alone or with corticosteroids, are recommended to reduce inflammation and prevent cystoid macular edema. Additional guidance includes shared decision-making for lens selection, safe use of immediate sequential bilateral cataract surgery, and potential of remote postoperative care to enhance healthcare efficiency. These guidelines aim to improve outcomes, patient experience, and care delivery.",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674766",
+      "pmid": "42674766",
+      "doi": "10.1016/j.tvir.2026.101139",
+      "title": "Fundamental Surgical Principles for Interventional Radiology and Vascular Practice.",
+      "authors": [
+        "Ward C",
+        "Hausen B"
+      ],
+      "journal": "Techniques in vascular and interventional radiology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Interventional radiology (IR) and vascular procedures are minimally invasive in approach, yet complications such as bleeding, infection, pseudoaneurysm formation, and delayed wound healing remain closely linked to fundamental surgical principles. Despite increasing procedural complexity, structured training in tissue handling, suturing, and infection prevention remains variable across IR practice. This narrative review synthesises established surgical literature, IR guidance, and procedural evidence to present a practical, principle-based framework applicable to routine IR and vascular interventions. By optimising tissue handling, closure technique, infection prevention, and data-driven audit, procedural safety and reproducibility can be maximized and the best possible outcomes achieved.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674760",
+      "pmid": "42674760",
+      "doi": "10.1016/j.tvir.2026.101130",
+      "title": "Technical Considerations for Wound Closure: A Plastic Surgery Perspective Part I.",
+      "authors": [
+        "Rowntree C",
+        "Chew KY"
+      ],
+      "journal": "Techniques in vascular and interventional radiology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Although most interventional radiology (IR) access wounds are small, they frequently occur in physiologically high-risk patients-including those who are anticoagulated, vasculopathic, diabetic, immunosuppressed, or previously irradiated. Even minor wound breakdown in this population can lead to hematoma, infection tracking to grafts or devices, pseudoaneurysm exposure, and reintervention. This invited review discusses reconstructive surgery principles and delves into a practical IR workflow to reduce wound complications. We focus on actionable strategies: hemostasis-first closure, preservation of marginal perfusion, tension offloading, shear mitigation, and dead space control. A rapid preclosure assessment framework evaluates patient physiology, wound edge viability, contamination, mechanical stress, and hematoma potential before committing to closure. Primary closure techniques are discussed with an emphasis on layered repair, suture selection, fragile skin management, and site-specific considerations for high-risk regions such as the groin and upper limb. Indications for delayed primary closure and incisional negative pressure wound therapy (NPWT) are highlighted. Common failure modes-including hematoma, edge necrosis, and infection threatening vascular grafts or devices-are addressed with corresponding reconstructive responses. A range of common and useful wound dressings and their indications are also discussed. Integrating microvascular principles and biomechanical awareness into routine IR wound closure may reduce complication rates, improve access site durability, and minimize the need for reintervention in high-risk cohorts.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674757",
+      "pmid": "42674757",
+      "doi": "10.1016/j.tvir.2026.101128",
+      "title": "General and Surgical Considerations for Enteral Access.",
+      "authors": [
+        "Tischner B",
+        "Sinnamon AJ"
+      ],
+      "journal": "Techniques in vascular and interventional radiology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Durable enteral access with feeding tube placement is critical for patients expected to require enteral nutrition for an extended period. There are different options for enteral access, including gastrostomy tube and jejunostomy tube. Gastrostomy tubes are often preferred for feeding access when possible, as they are generally more physiologic and because the stomach is distensible and can accommodate a large volume, making intermittent bolus feeding possible, which is generally much easier for patient and provider management. Gastrostomy tubes may not be preferred in patients at risk of aspiration. Radiographic gastrostomy tube placement may not be feasible due to gastroesophageal obstruction precluding nasogastric tube placement and insufflation or due to body habitus. In these situations, endoscopic or surgical placement is preferred and a basic understanding of these techniques is helpful. Jejunostomy tubes are generally used when gastrostomy feeding is not possible and typically require surgical placement. Gastrostomy tubes may also serve a palliative role as venting tubes to relieve symptoms of malignant or recurrent bowel obstruction, while jejunostomy tubes are poor choices for palliative venting. Jejunostomy tubes require continuous feeding, are at higher risk of tube impaction, and carry risk of bowel obstruction due to tethering to the abdominal wall. Regardless of indication, diligent tube care is essential to reduce complications such as dislodgement, clogging, malposition, leakage, and peristomal infection. Routine flushing, appropriate medication administration, and proper site care help maintain function and minimize morbidity. Ultimately, a clear understanding the intent of tube placement-nutritional support vs palliative venting-as well as considering patient goals and comorbidities is fundamental to appropriate enteral access selection and method of placement.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674726",
+      "pmid": "42674726",
+      "doi": "10.21873/anticanres.18360",
+      "title": "Antiproteinuric Effect of SGLT2 Inhibitors in Patients With Hepatocellular Carcinoma Receiving Atezolizumab Plus Bevacizumab.",
+      "authors": [
+        "Hori T",
+        "Yamamoto K",
+        "Aoi H",
+        "Koizumi Y",
+        "Kuromatsu M",
+        "Fukui A",
+        "Okamoto H",
+        "Hirata A",
+        "Shinmori K",
+        "Imanaka Y",
+        "Namba M",
+        "Kitamura S",
+        "Nakanishi K",
+        "Tsushima H",
+        "Yano I",
+        "Moriya K",
+        "Matsui M",
+        "Ikushima S"
+      ],
+      "journal": "Anticancer research",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND/AIM: Sodium-glucose cotransporter 2 inhibitors (SGLT2i) reduce proteinuria in patients with diabetes mellitus and chronic kidney disease. However, their effect on vascular endothelial growth factor inhibitor-induced proteinuria remains unclear. This study evaluated the prophylactic effect of SGLT2i on bevacizumab-induced proteinuria in patients with hepatocellular carcinoma (HCC) treated with atezolizumab plus bevacizumab.\n\nPATIENTS AND METHODS: This multicenter retrospective study included patients with HCC who started therapy with atezolizumab plus bevacizumab between September 2020 and December 2023. The primary outcome was the time to exacerbation of proteinuria from baseline within 6 months after treatment initiation according to SGLT2i use. Secondary outcomes included the development of grade ≥2 proteinuria.\n\nRESULTS: A total of 188 patients were included, of whom 29 received SGLT2i. No significant difference in the time to exacerbation of proteinuria was observed between the SGLT2i and non-SGLT2i groups considering the overall population (median: 157 vs. 116 days, p=0.95). Multivariate analysis identified diabetes with systolic blood pressure ≥130 mmHg as an independent risk factor for proteinuria exacerbation (hazard ratio=2.19, 95% confidence interval=1.18-4.06, p=0.013), whereas SGLT2i use was not significantly associated with proteinuria exacerbation. In patients with both diabetes and systolic blood pressure ≥130 mmHg, SGLT2i significantly prolonged the time to proteinuria exacerbation.\n\nCONCLUSION: SGLT2i may suppress proteinuria progression only in high-risk patients with HCC complicated by diabetes and hypertension.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "topics": [
+        "endocrine",
+        "nephrology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674716",
+      "pmid": "42674716",
+      "doi": "10.21873/anticanres.18352",
+      "title": "Predictors of Discontinuation of Eribulin Therapy for Metastatic Breast Cancer: A Retrospective Cohort Study.",
+      "authors": [
+        "Hata C",
+        "Hata T",
+        "Hosomi K",
+        "Kataoka N",
+        "Nishihara M",
+        "Kimura K",
+        "Iwamoto M",
+        "Ashida A"
+      ],
+      "journal": "Anticancer research",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND/AIM: This study aimed to identify clinical predictors associated with early discontinuation of eribulin therapy in patients with unresectable or recurrent breast cancer.\n\nPATIENTS AND METHODS: We retrospectively reviewed data for 63 patients with breast cancer starting eribulin therapy between August 2011 and December 2022 at a single institution. Patients with missing data for hormone receptor/human epidermal growth factor receptor 2 (HER2) status or baseline hematological parameters were excluded. Data were collected on demographics, tumor subtype, comorbidities, concomitant medications, and baseline complete blood count. The primary outcome was time to treatment discontinuation for any reason. Cox proportional hazards models were used to identify predictors of discontinuation, stratified by reason: progressive disease (PD) or adverse events (AE).\n\nRESULTS: The median age was 62 years; 69.8% were hormone receptor-positive and 15.9% HER2-positive. During follow-up, 61 out of 63 patients (96.8%) discontinued treatment. Discontinuation was due to PD in 69.8%, AE in 17.5%, and other causes in 9.5%. Considering all reasons, multivariate analysis identified a neutrophil-to-lymphocyte ratio (NLR) ≥3.5 [hazard ratio (HR)=1.97, p=0.020] as an independent predictor of discontinuation. Multivariate analysis identified dyslipidemia (HR=3.59, p=0.009) as independent predictors of PD-related discontinuation, whilst antidepressant use (HR=0.22, p=0.049) was associated with a lower risk of discontinuation. Univariate analysis showed that oral glucocorticoid use was associated with a higher risk of AE-related discontinuation (HR=4.79, p=0.013).\n\nCONCLUSION: High NLR and dyslipidemia were associated with early discontinuation of eribulin therapy. These findings highlight the need for individualized treatment strategies based on baseline risk factors.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674704",
+      "pmid": "42674704",
+      "doi": "10.21873/anticanres.18368",
+      "title": "Endoscopic Drainage Strategies for Postoperative Pancreatic Fistula Following Distal Pancreatectomy.",
+      "authors": [
+        "Kimura K",
+        "Minagawa R",
+        "Tsutsui Y",
+        "Kawano S",
+        "Furukawa T",
+        "Kurose S",
+        "Matsuda D",
+        "Nobuto Y",
+        "Yano H",
+        "Kajiwara Y",
+        "Azemoto N",
+        "Yamaoka T",
+        "Yokota T",
+        "Minami K",
+        "Nishizaki T"
+      ],
+      "journal": "Anticancer research",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND/AIM: Pancreatic fistula following distal pancreatectomy (DP) is a significant postoperative complication associated with high mortality and challenging treatment. Moreover, no optimal drainage method has yet been established. This study reports the current status and treatment approaches for pancreatic fistula following DP at our institution.\n\nPATIENTS AND METHODS: We included 122 patients who underwent DP at our hospital between April 2016 and February 2025. Pancreatic fistulas were defined according to International Study Group for Pancreatic Surgery criteria.\n\nRESULTS: The procedures performed for DP included open surgery (29 patients; 23.8%), laparoscopic surgery (patients; 63.1%), and robot-assisted surgery (16 patients; 13.1%). Postoperative pancreatic fistulas (POPF; grade B/C) occurred in 29 cases (23.8%) [9 (31.3%) open surgery, 17 (22.1%) laparoscopic surgery, and 3 (18.8%) robot-assisted surgery]. Postoperative intra-abdominal infections occurred in 26 patients (21.3%): [7 (24.1%) open surgery, 15 (19.5%) laparoscopic surgery, and 4 (25%) robot-assisted surgery]. Among patients presenting with POPFs, 14 (48.3%) required percutaneous transpapillary or transgastric drainage, and 6 (42.9%) required combined management. Transpapillary, transgastric, and combined drainage were performed in six (42.9%), five (35.7%), and three (21.4%) patients, respectively. Post-treatment hospital stays for these groups were 18.3±2.7, 12.9±6.4, and 49.2±5.3 days, respectively. The transgastric drainage group had a significantly shorter hospital stay (p=0.0350), whereas the drain tube management group had a significantly longer hospital stay (p<0.0001).\n\nCONCLUSION: Transgastric drainage is a useful treatment for pancreatic fistula and intra-abdominal infection following DP and may allow early improvement. However, postoperative hemorrhage, pseudoaneurysm bleeding, and high medical costs remain challenges.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674696",
+      "pmid": "42674696",
+      "doi": "10.21873/anticanres.18332",
+      "title": "Neurofibromatosis Type I: Consensus on Current Terminology for Neurofibromas, as a Basis for Recommendations on the Use of MEK Inhibitors.",
+      "authors": [
+        "Baldino L",
+        "Koeppen JA",
+        "Kammermeier J",
+        "Gugel I",
+        "Ristow I",
+        "Hagel C",
+        "Panse J",
+        "Kresbach C",
+        "Friedrich RE",
+        "Farschtschi SC",
+        "Rosenbaum T",
+        "Kurtz A",
+        "Hernaiz-Driver P",
+        "Kaufmann D",
+        "Zenker M",
+        "Schuhmann MU",
+        "Widemann BC",
+        "Rosahl SK",
+        "Alt F",
+        "Kehrer-Sawatzki H",
+        "Baezner U",
+        "Tippner D",
+        "Harder A",
+        "Mautner VF"
+      ],
+      "journal": "Anticancer research",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Neurofibromatosis type 1 (NF1) is characterized by the development of neurofibromas, including cutaneous neurofibromas and plexiform neurofibromas (PNFs). Despite more than a century of clinical recognition, the terminology used to describe these tumors remains inconsistent across disciplines, particularly in pathology, radiology, and clinical practice. This lack of standardized nomenclature complicates communication, diagnostic assessment, risk stratification, and therapeutic decision-making. In this multidisciplinary consensus paper, experts from the German NF Working Group sought to harmonize current terminology for NF1-associated neurofibromas, with particular emphasis on PNF, and to relate this terminology to diagnostic procedures, clinical course, and treatment considerations. A new structured terminology of NF integrating anatomic and histological descriptions is proposed. Using a modified Delphi process, the group developed consensus statements addressing the definition and classification of neurofibromas and their relevance for imaging, pathology, surgery, biopsy, and medical treatment. A unified terminology is especially important in the era of targeted therapy, as MEK inhibitors have emerged as a promising treatment option for selected patients with NF1-associated PNF. Establishing a shared conceptual framework may improve interdisciplinary communication, support more consistent clinical decision-making, and provide a stronger basis for future recommendations on the use of MEK inhibitors in NF1.",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement",
+        "Review"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674693",
+      "pmid": "42674693",
+      "doi": "10.21873/anticanres.18349",
+      "title": "Impact of Cirrhosis Outcome Risk Estimator (CORE) Risk Score on Prognosis Following Hepatectomy for Hepatocellular Carcinoma.",
+      "authors": [
+        "Takagi K",
+        "Nishiyama T",
+        "Kimura J",
+        "Fuji T",
+        "Yasui K",
+        "Fujiwara T"
+      ],
+      "journal": "Anticancer research",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND/AIM: Several studies have reported the clinical value of prognostic markers in patients with hepatocellular carcinoma (HCC). However, no study has examined the clinical significance of the Cirrhosis Outcome Risk Estimator (CORE) risk score on outcomes. This study aimed to investigate the impact of CORE risk score on survival in patients undergoing hepatectomy for HCC.\n\nPATIENTS AND METHODS: This single-center retrospective study included 639 patients who underwent hepatectomy for HCC between January 2004 and December 2023. Clinical parameters were compared between the low (≤2.4) and high (>2.4) CORE score groups. Multivariate analyses were performed to assess the impact of the CORE risk score on outcomes.\n\nRESULTS: Patients in the high CORE score group had significantly worse 5-year overall (58.9% vs. 80.4%; p<0.001) and recurrence-free (32.9% vs. 52.5%; p<0.001) survival rates than the low CORE score group. Multivariable analyses indicated high CORE risk score as an independent prognostic factor for poor overall [hazard ratio (HR)=1.84; 95% confidence interval (CI)=1.38-2.43; p<0.001] and recurrence-free (HR=1.38; 95%CI=1.09-1.75; p=0.007) survival.\n\nCONCLUSION: The CORE risk score, an easily accessible screening test, may be a reliable predictor of survival in patients undergoing hepatectomy for HCC.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674615",
+      "pmid": "42674615",
+      "doi": "10.1542/neo.27-9-044",
+      "title": "Severe Fetal Cardiomyopathy: Considerations for Extracorporeal Cardiopulmonary Resuscitation During Neonatal Resuscitation.",
+      "authors": [
+        "Morrison TM",
+        "Poorvu T",
+        "Leeman K",
+        "Krispin E",
+        "Schidlow D",
+        "Vanderpluym C",
+        "Guseh S",
+        "Wojcik MH"
+      ],
+      "journal": "NeoReviews",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Primary cardiomyopathies are associated with poor neonatal outcomes, including high mortality rates. Neonatal care of infants with significant prenatal cardiac diagnoses may warrant additional management considerations beyond standard Neonatal Resuscitation Program guidelines. Many of these management considerations are described in the Neonatal Resuscitation, 9th Edition, which details several congenital cardiac lesions and their delivery room management; still, a prenatal primary cardiomyopathy diagnosis warrants additional, unique predelivery care planning, especially in more severe cases. This case report describes our multidisciplinary team's approach to predelivery planning and neonatal resuscitation and stabilization of an infant with prenatal diagnosis of severe cardiomyopathy. The case underscores that with continued refinement in patient selection, timing, and technology, a similar approach undertaken in a future case might yield a favorable outcome.",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674613",
+      "pmid": "42674613",
+      "doi": "10.1542/neo.27-9-050",
+      "title": "Red Blood Cell Transfusion for Preterm and Term Infants in the NICU.",
+      "authors": [
+        "Gaffar S",
+        "Easterlin MC"
+      ],
+      "journal": "NeoReviews",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Red blood cell (RBC) transfusion practices in neonatal intensive care units are variable. Determining which patients should be transfused, and the specific hemoglobin or hematocrit thresholds, remains a recurring challenge in neonatal intensive care. Although some well-conducted randomized controlled trials and short-term follow-up studies exist for premature infants, data on term infants remain limited. Most information on term infants is derived from heterogeneous observational studies or expert consensus guidelines intended for a wider pediatric critical care population. In this review, we summarize the current literature on RBC transfusions in preterm and term infants, discuss unique characteristics of critically ill infants with varying comorbidities, and provide general strategies to guide the neonatologist in deciding when to transfuse RBCs. We also review specific considerations during RBC transfusion, such as volume, rate, and preparation as well as strategies to decrease the need for RBC transfusions.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674612",
+      "pmid": "42674612",
+      "doi": "10.1542/neo.27-9-048",
+      "title": "An Extremely Premature Neonate With Recurrent Hypoxic Respiratory Failure.",
+      "authors": [
+        "Beauchamp S",
+        "Cardona VQ",
+        "Souder E",
+        "Joshi S"
+      ],
+      "journal": "NeoReviews",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674611",
+      "pmid": "42674611",
+      "doi": "10.1542/neo.27-9-046",
+      "title": "When the Valve Narrows: Maternal and Neonatal Implications of Aortic Stenosis in Pregnancy.",
+      "authors": [
+        "Marchese M",
+        "Ayala NK"
+      ],
+      "journal": "NeoReviews",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674604",
+      "pmid": "42674604",
+      "doi": "10.1542/pir.2025-006894",
+      "title": "Peptic Ulcer Disease in Pediatrics: A Comprehensive Review.",
+      "authors": [
+        "Martinez CA",
+        "Castillo P",
+        "Medina AL",
+        "Felipez LM"
+      ],
+      "journal": "Pediatrics in review",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Peptic ulcer disease (PUD) in children, while less prevalent than in adults, poses significant diagnostic and therapeutic challenges because of age-specific presentations and pathophysiology. This review addresses the epidemiology, etiologies, clinical manifestations, and management strategies of pediatric PUD, with particular emphasis on Helicobacter pylori-associated and non-H pylori ulcers. The review outlines the limitations of applying adult-based \"test-and-treat\" strategies to children and underscores the importance of guideline-directed endoscopic evaluation and targeted therapy. The review also explores emerging antibiotic resistance patterns, appropriate use of acid therapy, and follow-up protocols to confirm H pylori eradication. Distinct pediatric considerations, including age-appropriate diagnostics, medication dosing, and caregiver education, are discussed. Additionally, the review presents updated guidance from the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and European Society for Paediatric Gastroenterology Hepatology and Nutrition to aid clinicians in tailoring care. By synthesizing recent advances and best practices, this review aims to enhance recognition, reduce inappropriate testing, and improve outcomes in children affected by PUD.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674579",
+      "pmid": "42674579",
+      "doi": "10.1111/apm.70257",
+      "title": "Trends in the Frequency and Antimicrobial Resistance of Common Gram-Negative Bacilli Isolated From Urine Cultures.",
+      "authors": [
+        "Castellano-Sánchez L",
+        "Rosales-Castillo A",
+        "Requena-Fernández L",
+        "Ramos-Bermúdez M",
+        "Esteban-Martín V",
+        "Gutiérrez-Fernández J"
+      ],
+      "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "The sustained increase in antimicrobial resistance among Gram-negative bacilli (GNB) compromises the effectiveness of empirical treatment regimens. This study aims to describe the evolution of the frequency and antimicrobial resistance profiles of the most commonly isolated GNB in urine cultures in our area. A cross-sectional, descriptive, and retrospective study was conducted, analyzing urine cultures from patients with suspected UTIs between 2021 and 2025. Microorganism identification was performed using MALDI Biotyper or MicroScan systems, and antimicrobial susceptibility testing was carried out using MicroScan, interpreted according to EUCAST guidelines. A total of 81,791 urine cultures were analyzed. In E. coli, a significant increase in resistance was observed for amoxicillin-clavulanate, ciprofloxacin, piperacillin-tazobactam, and fosfomycin (from 3.48% in 2021 to 25.31% in 2025). Klebsiella pneumoniae showed a marked increase in resistance to fosfomycin (from 27.25% to 79.73%) and imipenem. Pseudomonas aeruginosa, predominantly hospital-acquired, exhibited a significant increase in resistance to piperacillin-tazobactam, imipenem, and antipseudomonal cephalosporins. The evolution of antimicrobial resistance in uropathogenic GNB in our region is complex and dynamic. The spread of carbapenemases highlights the need for rigorous local epidemiological surveillance and optimization of antimicrobial stewardship programs to guide empirical therapy and infection control measures.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674575",
+      "pmid": "42674575",
+      "doi": "10.1302/0301-620X.108B9.BJJ-2025-1481.R1",
+      "title": "A prospective double-blinded randomized controlled trial comparing conventional jig-based versus robotic arm-assisted medial unicompartmental knee arthroplasty.",
+      "authors": [
+        "Kayani B",
+        "Fontalis A",
+        "Tahmassebi J",
+        "Konan S",
+        "Plastow R",
+        "Wazir U",
+        "Shah M",
+        "Oussedik S",
+        "Haddad FS"
+      ],
+      "journal": "The bone & joint journal",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "AIMS: This study reports the interim outcomes of a randomized controlled trial comparing the accuracy of component positions, early functional outcomes, patient-reported outcome measures, and complications in conventional jig-based unicompartmental knee arthroplasty with navigational control (CO UKA) with robotic arm-assisted unicompartmental knee arthroplasty (RO UKA) for patients who have medial compartment knee osteoarthritis (OA).\n\nMETHODS: In total, 107 patients with symptomatic medial compartment OA were prospectively randomized to undergo CO UKA (n = 52) or RO UKA (n = 55), representing the currently available recruited cohort. Patients in both treatment groups had CT-based surgical planning. All procedures were completed using the medial parapatellar approach, and all patients received a standardized postoperative rehabilitation programme. Predefined study outcomes were recorded at regular intervals for two years after surgery.\n\nRESULTS: RO UKA was associated with increased accuracy in executing the planned femoral (p < 0.001) and tibial (p < 0.001) component positions compared with CO UKA. RO UKA was associated with reduced inpatient pain scores (p < 0.001), decreased inpatient opioid analgesia consumption (p = 0.008), and shorter length of hospital stay (p = 0.004) compared with CO UKA. There were no differences between the treatment groups in the Oxford Knee Score (p = 0.299), Knee Injury and Osteoarthritis Outcome Score (p = 0.261), and Western Ontario and McMaster Universities Arthritis Index (p = 0.281) at two-year follow-up. RO UKA was associated with improved Forgotten Joint Score (FJS) at six-month (p = 0.002) and two-year (p = 0.021) follow-up. Patient recruitment declined during the trial as an increasing proportion of eligible patients expressed a preference for RO UKA, and operating surgeons experienced reduced clinical equipoise between the treatment groups.\n\nCONCLUSION: The interim results of this study show that RO UKA was associated with increased accuracy in achieving the planned femoral and tibial component positions, improved early functional recovery, and decreased length of hospital stay compared with CO UKA. RO UKA was associated with higher FJSs compared with CO UKA at short- to mid-term follow-up.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674573",
+      "pmid": "42674573",
+      "doi": "10.1302/0301-620X.108B9.BJJ-2026-0517.R1",
+      "title": "Locking plate fixation compared with tension-band wiring for patellar fractures: a multicentre randomized controlled trial.",
+      "authors": [
+        "Larsen P",
+        "Thorninger R",
+        "Severinsen RP",
+        "Beuke JC",
+        "Jensen SS",
+        "Rasmussen MK",
+        "Petruskevicius J",
+        "Barckman J",
+        "Bruun NH",
+        "Elsoe R",
+        "Trial Site investigators",
+        "Rölfing JD",
+        "Jorgensen R",
+        "Traerup J",
+        "Stausholm AMK",
+        "Ferreira L",
+        "Al-Bayati MA",
+        "Rosenstand M",
+        "Serritslev R"
+      ],
+      "journal": "The bone & joint journal",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "AIMS: Patellar fractures are associated with considerable postoperative morbidity, and tension-band wiring has high complication rates and suboptimal outcomes. Locking plate fixation is a recent surgical innovation which confers superior biomechanical stability. However, there is little information about the clinical outcomes of this method of treatment. The aim of this study was to compare locking plate fixation with tension-band wiring in patients requiring surgical treatment for a patellar fracture.\n\nMETHODS: In this patient- and assessor-blinded, multicentre randomized trial, 122 adults with a displaced patellar fracture were assigned 1:1 to locking plate fixation or tension-band wiring. The primary outcome was patient-reported knee function measured by the five sub-scales of the Knee Injury and Osteoarthritis Outcome Score (KOOS) at 12 months. Superiority was predefined as a statistically significant difference in at least three KOOS sub-scales exceeding the minimal clinically important difference (pain 10, symptoms 9, activities of daily living 6, sport and recreation 10, quality of life 10). Secondary outcomes included additional clinical and functional outcomes. Analyses were performed according to the intention-to-treat principle.\n\nRESULTS: A total of 63 patients were assigned to locking plate fixation and 59 to tension-band wiring; 57 (90.5%) and 52 (88.1%), respectively, completed 12-month follow-up. Locking plate fixation resulted in statistically significant and clinically meaningful improvements in three KOOS sub-scales at this time: symptoms (mean difference -10.4 (95% CI -16.4 to -4.4)), sport and recreation (-14.1 (95% CI -24.7 to -3.4)), and quality of life (-10.9 (95% CI -19.0 to -2.7)). Removal of hardware, failure of fixation, and reoperation occurred more frequently after tension-band wiring.\n\nCONCLUSION: Locking plate fixation yielded superior patient-reported outcomes compared with tension-band wiring at 12 months, providing high-level evidence supporting the use of plate fixation as a preferred surgical technique for patients with a displaced patellar fracture.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674571",
+      "pmid": "42674571",
+      "doi": "10.1302/0301-620X.108B9.BJJ-2026-0551.R1",
+      "title": "Five-year survival and complications of more than 300 articulating high-dose antibiotic spacers in two-stage revision total hip arthroplasties for infection.",
+      "authors": [
+        "Weintraub MT",
+        "Midthun WR",
+        "Pagnano MW",
+        "Taunton MJ",
+        "Sierra RJ",
+        "Mabry TM",
+        "Perry KI",
+        "Berry DJ",
+        "Abdel MP"
+      ],
+      "journal": "The bone & joint journal",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "AIMS: Two-stage exchange arthroplasty with an antibiotic-eluting cement spacer remains the predominant strategy in the USA for managing chronic periprosthetic joint infection (PJI) following total hip arthroplasty (THA). The aim of this study was to evaluate a commercially available, partially intraoperatively fabricated articulating high-dose antibiotic cement spacer, focusing on survival, complications, and patient-reported outcomes.\n\nMETHODS: A total of 298 patients (302 THAs) underwent two-stage exchange arthroplasty for PJI using a specific articulating antibiotic spacer between August 2005 and May 2022. Patients with a previous failed two-stage exchange were excluded, although 121 THAs (302, 40%) had undergone previous PJI-related procedures. The mean age of the patients was 65 years (SD 11), the mean BMI was 32 kg/m2 (SD 7), and 116 (38%) were female. Most patients were classified as McPherson host B (158; 52%) and limb grade 2 (165; 55%), and 265 (88%) met the 2011 Musculoskeletal Infection Society criteria. The mean follow-up was six years (2 to 16). .\n\nRESULTS: At five years after reimplantation, survival free of reinfection, aseptic rerevision, any rerevision, or any reoperation were 89% (95% CI 85.2 to 93.1), 93% (95% CI 89.3 to 96.1), 86% (95% CI 81.3 to 90.3), and 80% (95% CI 74.7 to 84.9), respectively. Dislocation accounted for most aseptic rerevisions (15/20). McPherson host C (HR 3.7 (95% CI 1.4 to 9.6); p = 0.007) and limb grade 3 (HR 3.3 (95% CI 1.0 to 11.1); p = 0.049) were significantly associated with an increased risk of reinfection. The mean Harris Hip Score at the latest follow-up was 76 (29 to 100). A total of 17 patients underwent revision or removal of a spacer for concerns about persistent infection and two for dislocation of the spacer. Eight patients underwent a non-rerevision reoperation during the spacer interval for wound drainage (n = 5), dislocation of the spacer (n = 2), and perispacer fracture (n = 1). A total of 26 spacer-related complications were treated nonoperatively (15 perispacer fractures, 11 dislocations). Dislocation of the spacer was strongly associated with dislocation after reimplantation (HR 6.2 (95% CI 2.3 to 16.9); p < 0.001).\n\nCONCLUSION: This commercially available, partially intraoperatively fabricated articulating spacer showed excellent reinfection-free five-year survival (89%). Spacer-related fracture and dislocation each occurred in 5% of patients. Dislocation of the spacer significantly increased the risk of dislocation following reimplantation, supporting the use of higher-stability bearings in these high-risk patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674570",
+      "pmid": "42674570",
+      "doi": "10.1302/0301-620X.108B9.BJJ-2026-0044.R2",
+      "title": "Patient-evaluated functional outcome is systematically different from physician-evaluated outcome after proximal humerus fracture fixation.",
+      "authors": [
+        "Sahu D",
+        "Chaubey A",
+        "Shah D"
+      ],
+      "journal": "The bone & joint journal",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "AIMS: The study aimed to investigate the agreement between Constant-Murley score (CMS) and the shoulder subjective value (SSV); and the association of poor self-evaluated outcome with shoulder pain, range of motion (ROM) limitation, and shoulder strength after fixation of proximal humerus fractures.\n\nMETHODS: The study included 74 shoulders in 72 patients (mean age 56 years (SD 14), 40 male (56%)) who underwent locking plate fixation of displaced proximal humerus fractures between January 2015 and January 2024. We evaluated CMS, SSV, pain scores (visual analogue scale), and ROM measurements at the most recent (minimum one-year) follow-up. Agreement statistics between CMS and SSV were used descriptively, rather than to test true substitutability, because CMS and SSV are nonequivalent constructs.\n\nRESULTS: The Bland-Altman analysis showed differences between CMS and SSV, as the mean difference between CMS and SSV (-14.21 (95% CI -17.25 to -11.18)) did not include the zero-difference line. The Pitman's test suggested that the variances were significantly different (p = 0.029). Firth's penalized method of logistic regression revealed that only the presence of shoulder pain was associated with an increased likelihood of a poor functional outcome (SSV ≤ 69.4) (coefficient 3.5 (95% CI 1.53 to 6.47); p < 0.001). The SSV threshold (69.4) was derived from the CMS ≤ 55 threshold on the same dataset and therefore may have nonindependence. However, a sensitivity analysis using a priori SSV threshold (75) of patient-acceptable symptom state (PASS) also showed that presence of pain was associated with increased likelihood of a lower SSV. Limitations in ROM (elevation, external rotation, and internal rotation) and lower shoulder strength were not independently associated with a poor SSV. In shoulders that did not develop avascular necrosis (n = 66), the bivariate exploratory analysis between presence of pain and predefined injury and radiological factors showed that malreduction (χ2 (1, n = 66) = 6.8; p = 0.009) and absent postoperative medial hinge (χ2 (1, n = 66) = 4.6; p = 0.032) were significantly associated with more frequent presence of shoulder pain.\n\nCONCLUSION: Physician-evaluated outcomes (as measured by the CMS) and patient self-evaluated outcomes (as measured by the SSV) are likely to differ systematically after internal fixation of proximal humerus fractures. Additionally, shoulder pain is independently associated with a poor self-evaluated functional outcome.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674565",
+      "pmid": "42674565",
+      "doi": "10.1302/0301-620X.108B9.BJJ-2026-0389.R1",
+      "title": "Patient, surgeon, and institutional variation in dual-mobility component use in primary total hip arthroplasty : a retrospective cohort study using data from the National Joint Registry Study.",
+      "authors": [
+        "Zucker BE",
+        "Howard JT",
+        "Whitehouse MR",
+        "Judge A"
+      ],
+      "journal": "The bone & joint journal",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "AIMS: The aim of this study was to quantify the contribution of patient-, surgeon-, and institution-level factors to variation in dual-mobility component use in primary total hip arthroplasty (DM-THA) in England. We sought to determine whether current patterns reflect appropriate patient selection or unwarranted practice variation. We hypothesized that surgeon- and institution-level factors account for a greater proportion of variation in DM-THA use than patient-level characteristics.\n\nMETHODS: We analyzed 238,455 primary THAs recorded in the National Joint Registry which were linked with Hospital Episode Statistics for England between 1 January 2018 and 31 December 2022. Using cross-classified multilevel logistic regression modelling, we partitioned variation in DM-THA use attributable to patient, surgeon, and institutional factors. Patient risk factors were included as fixed effects, with random effects specified for surgeons and hospitals to account for clustering.\n\nRESULTS: Of the total cohort, 7,032 underwent DM-THA. These patients were older, more frail, and more frequently treated for neck of femur fractures. Surgeon-level factors explained 32.4% and institutional factors 22.9% of variation in DM-THA use. Patient-level factors accounted for approximately 10% of the variance (marginal R² = 0.10), while the full model explained 59.8% of variation (conditional R² = 0.598). Findings were consistent in analyses restricted to high-volume surgeons.\n\nCONCLUSION: Variation in DM-THA use is predominantly driven by surgeon and institutional practice rather than patient characteristics. Prognostic tools which can identify patients at high dislocation risk, to guide inclusion criteria for targeted randomized trials, are needed to establish evidence-based guidance for DM implant selection and reduce unwarranted practice variation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674562",
+      "pmid": "42674562",
+      "doi": "10.1302/0301-620X.108B9.BJJ-2026-0255.R1",
+      "title": "Necrotizing fasciitis.",
+      "authors": [
+        "White TO",
+        "Ablett AD",
+        "Neo C",
+        "Clement ND",
+        "Moran CG",
+        "Morgan MS",
+        "Duckworth AD"
+      ],
+      "journal": "The bone & joint journal",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Necrotizing fasciitis is a rapidly progressive, life-threatening infection originating in a fascial plane which requires emergency surgery. Although uncommon, with an incidence of 0.63 per 100,000 per year, it affects the limbs in 40% of cases and carries a 22% 30-day mortality rate. The diagnosis is principally clinical. Severe pain, out of proportion to any visible abnormality of the skin, is the cardinal early feature, frequently accompanied by tenderness beyond the area of erythema, swelling, and local hypoaesthesia. Crucially, the skin may initially appear normal or nearly normal while rapid fascial destruction progresses beneath. Laboratory investigations, imaging, and scoring systems lack sufficient sensitivity and specificity to confirm or exclude the diagnosis and must not delay surgical exploration. The suspected diagnosis is confirmed or excluded by a diagnostic incision to the fascial plane. Necrotizing fasciitis is classified into four types based on the microbiology: polymicrobial (type I), Gram-positive monomicrobial (type II), Gram-negative monomicrobial (type III), and fungal (type IV). The focus of treatment is emergency radical excision of all necrotic tissue to healthy margins and broad-spectrum antibiotics. Surgery should not be delayed by medical management, imaging, or inter-hospital transfer. Failure to recognize and act within six hours of presentation is associated with a five-fold increased risk of mortality and amputation, while survivors of delayed surgery report health-related quality of life comparable to death. Postoperative review within six hours is mandatory. This annotation complements the publication of the British Orthopaedic Association Standards on musculoskeletal infections, and provides recommendations for orthopaedic surgeons managing patients with necrotizing fasciitis.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674550",
+      "pmid": "42674550",
+      "doi": "10.1111/nep.70274",
+      "title": "Nintedanib-Associated Glomerular Endothelial Injury With Secondary Collapsing Focal Segmental Glomerulosclerosis: Potential Role of Sodium-Glucose Cotransporter 2 Inhibition.",
+      "authors": [
+        "Furuto Y",
+        "Hashimoto H",
+        "Yoshino D",
+        "Ikeda S",
+        "Namikawa A",
+        "Sato D",
+        "Takahashi H",
+        "Morikawa T",
+        "Shibuya Y"
+      ],
+      "journal": "Nephrology (Carlton, Vic.)",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Nintedanib (NIB), a small-molecule tyrosine kinase inhibitor (TKI), is approved for idiopathic pulmonary fibrosis (IPF) and systemic sclerosis-associated interstitial lung disease. Although nephrotoxicity is uncommon, cases of nephrotic syndrome (NS), acute kidney injury (AKI) and glomerular lesions including thrombotic microangiopathy (TMA) and anti-glomerular basement membrane (GBM) nephritis have been reported. However, the optimal management of NIB-associated glomerular disease remains undefined. We report a 69-year-old man with IPF, hypertension, diabetes and underlying chronic kidney disease who developed persistent NS and renal dysfunction 16 months after initiation of NIB. Kidney biopsy demonstrated glomerular endothelial injury with microangiopathic features, accompanied by secondary collapsing focal segmental glomerulosclerosis (FSGS) and background diabetic kidney disease. Despite discontinuation of NIB and intensification of renin-angiotensin system inhibition and mineralocorticoid receptor blockade, nephrotic-range proteinuria persisted. Subsequent initiation of the sodium-glucose cotransporter 2 inhibitor (SGLT2i) dapagliflozin was temporally associated with a gradual and sustained reduction in proteinuria, with partial remission achieved while preserving the estimated glomerular filtration rate. To our knowledge, this is the first report of NIB-associated glomerular endothelial injury with secondary collapsing FSGS in which SGLT2i initiation was temporally associated with sustained proteinuria reduction under concomitant supportive therapy. TKIs may induce both endothelial and podocyte injury and therapeutic options beyond drug withdrawal remain limited. In this context, SGLT2 inhibition may represent a potential adjunctive therapeutic strategy in selected cases with underlying chronic kidney disease and warrants further systematic evaluation.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "nephrology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674468",
+      "pmid": "42674468",
+      "doi": "10.1055/s-0046-1827040",
+      "title": "Delayed diagnosis of cluster headache in Portugal.",
+      "authors": [
+        "Silva L",
+        "Millner T",
+        "Cabral M",
+        "Costa A",
+        "Almeida P",
+        "Barreto B",
+        "Pinto M",
+        "Dias R",
+        "Moreira S",
+        "Bonifácio GV",
+        "Pinto SM",
+        "Castro R",
+        "Alves I",
+        "Rocha AL",
+        "Varanda S",
+        "Costa A",
+        "Andrade C"
+      ],
+      "journal": "Arquivos de neuro-psiquiatria",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Cluster headache (CH) has well-defined diagnostic criteria, but its diagnostic delay (DD) remains substantial, averaging 3.6 to 9 years, leading to inappropriate treatments and significant psychosocial and socioeconomic burdens.\n\nOBJECTIVE: To identify demographic and clinical factors associated with DD in CH to promote earlier diagnosis.\n\nMETHODS: A multicenter cross-sectional study recruited 64 patients with episodic or chronic CH from 6 Portuguese neurology centers. Participants completed an online questionnaire covering demographics, clinical features, prior consultations, diagnoses, and treatments. Diagnostic delay was defined as the time from symptom onset to formal diagnosis. Correlation tests and multiple linear regression were performed to identify predictors of DD.\n\nRESULTS: The mean DD was of 6.4 ± 8.3 (range: 0-39) years, with 46.9% experiencing delays > 4 years. No sex differences were observed. Younger age at onset (ρ = -0.45; p < 0.001); attack onset between midnight and 3 am (p = 0.029), and eyelid edema (p = 0.001) were associated with shorter DD. The number of pain episodes before neurology consultation strongly correlated with DD (ρ = 0.92; p < 0.001), underscoring the impact of referral delays. Most patients (59.4%) received alternative diagnoses, mainly migraine and sinusitis. Prior triptan (p = 0.037) and topiramate use (p = 0.012) were linked to longer DD. Multivariate models highlighted age at onset and clinical features as primary predictors, explaining nearly 60% of variance.\n\nCONCLUSION: Diagnostic delay in CH remains considerable in Portugal. Increasing awareness among primary care physicians and non-neurologist specialists is crucial to reduce DD and inappropriate treatments. Further research should clarify the role of educational level and support targeted interventions for timely recognition.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674467",
+      "pmid": "42674467",
+      "doi": "10.1055/s-0046-1827210",
+      "title": "Prognostic factors related to neurological disability after the implementation of the first stroke unit in a remote region of Brazil.",
+      "authors": [
+        "Fonseca ARR",
+        "Fonseca AJD",
+        "Martins LMDS",
+        "Queiroz CC",
+        "Oliveira Júnior JF",
+        "Albuquerque AM",
+        "Sousa KHS",
+        "Matos RG",
+        "Silva GP",
+        "Mangueira RLA",
+        "Siqueira AM"
+      ],
+      "journal": "Arquivos de neuro-psiquiatria",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Stroke is the main public health problem in Brazil.\n\nOBJECTIVE: To evaluate the incidence of moderate-to-severe disability in patients admitted to the Stroke Unit in Roraima (2024), and estimate the impact of Stroke Unit implementation on neurological outcomes compared with historical data.\n\nMETHODS: This hospital-based observational cohort study assessed factors associated with moderate-to-severe disability in patients admitted to the Stroke Unit. Clinical and sociodemographic data were collected using a semistructured questionnaire. Participants were evaluated daily until discharge or death using the National Institutes of Health stroke scale (NIHSS).\n\nRESULTS: A total of 400 patients was included. Mean age was 64.2 ± 15.8 years, and 52% of patients were male. Most cases were of ischemic stroke (82.2%), followed by wake-up stroke (13%), transient ischemic attack (TIA: 10%), and hemorrhagic stroke (1%). Systemic arterial hypertension (SAH: 57.1%), and diabetes (33.1%) were the most frequent comorbidities. Nearly 80% of patients were discharged, and the mortality rate was 3.7%. According to the modified Rankin Scale (mRS), moderate-to-severe disability at day 90 was associated with age > 70 years (RR = 1.45; 95% CI = 1.02-4.53), previous stroke (RR = 1.35; 95% CI = 1.12-3.42), and structural heart disease (RR = 1.80; 95% CI = 1.23-3.28). Thrombolytic therapy was performed in 12.5% of cases and reduced moderate-to-severe sequelae by 50%.\n\nCONCLUSION: Stroke Unit implementation represented a significant advance in stroke care in Roraima, reducing sequelae severity and mortality, including among older patients. However, access to thrombolytic therapy remains limited due to delayed hospital admission.",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "topics": [
+        "endocrine",
+        "neurology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673627",
+      "pmid": "42673627",
+      "doi": "10.1097/HC9.0000000000001041",
+      "title": "Reply: \"Physical frailty is the most important predictor of early mortality in hospitalized patients with decompensated cirrhosis\".",
+      "authors": [
+        "D'Arcangelo F",
+        "Zanetto A"
+      ],
+      "journal": "Hepatology communications",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673626",
+      "pmid": "42673626",
+      "doi": "10.1097/HC9.0000000000001037",
+      "title": "Letter to the Editor: Physical frailty is the most important predictor of early mortality in hospitalized patients with decompensated cirrhosis.",
+      "authors": [
+        "Li CM",
+        "Feng X"
+      ],
+      "journal": "Hepatology communications",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673608",
+      "pmid": "42673608",
+      "doi": "10.3928/01477447-20260811-01",
+      "title": "Association of GLP-1 Agonists With Postoperative Complications Following Knee Extensor Mechanism Repair:An Analysis of 1,092 Patients.",
+      "authors": [
+        "Forst E",
+        "Tully L",
+        "Moran TE",
+        "Althoff AD"
+      ],
+      "journal": "Orthopedics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Diabetes and obesity are recognized as risk factors for postoperative complications including increased surgical site infection (SSI) and reoperation in patients undergoing knee extensor mechanism repair. However, limited literature evaluates how preoperative glucagon-like peptide-1 (GLP-1) receptor agonist therapy may influence these outcomes. This study evaluated GLP-1 receptor agonist use as an independent risk factor for postoperative outcomes following knee extensor mechanism repair.\n\nMATERIALS AND METHODS: Patients who underwent quadriceps or patellar tendon repair from 2012 to 2025 were identified in the TriNetX database and stratified by GLP-1 agonist use within 1 year of surgery. One-to-one propensity score matching yielded 2 well-balanced cohorts (n = 546). Postoperative complications were assessed at 90 days, 1 year, and 2 years, and Kaplan-Meier survival analysis was performed.\n\nRESULTS: No significant 90-day postoperative differences were observed. At 1 year, patients using GLP-1 agonists demonstrated significantly lower rates of SSI (2.38% vs 5.31%; odds ratio [OR] = 0.435; P = .0118) and wound complications (2.02% vs 5.31%; OR = 0.367; P = .0037). Differences persisted at 2 years, with lower rates of SSI (2.75% vs 6.04%; OR = 0.439; P = .0079), wound complications (2.38% vs 6.04%; OR = 0.379; P = .0026), and acute kidney injury (9.71% vs 13.55%; OR = 0.686; P = .0474). No significant differences in revision surgery were found. Kaplan-Meier analysis demonstrated significant separation for SSI and wound complications beginning at 1 year.\n\nCONCLUSION: Preoperative GLP-1 receptor agonist therapy was associated with reduced postoperative SSI and wound complications following knee extensor mechanism repair. These findings suggest potential for perioperative risk modulation as GLP-1 use becomes increasingly prevalent in patients undergoing knee extensor mechanism repair.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "infectious",
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673602",
+      "pmid": "42673602",
+      "doi": "10.7326/ANNALS-26-03105-JC",
+      "title": "In adults with CKM syndrome, finerenone vs. placebo reduced sudden death at a median 2.9 y.",
+      "authors": [
+        "Joshi M",
+        "Kelsey M",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Endocrinology: [Formula: see text] Nephrology: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673599",
+      "pmid": "42673599",
+      "doi": "10.7326/ANNALS-26-03151-JC",
+      "title": "A single colonoscopy screening invitation vs. no invitation reduced colorectal cancer incidence but not related mortality at 13 y.",
+      "authors": [
+        "Onady GM",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "GIM/FP/GP: [Formula: see text] Gastroenterology: [Formula: see text] Public Health: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673598",
+      "pmid": "42673598",
+      "doi": "10.7326/ANNALS-26-03022-JC",
+      "title": "In adults with early uncontrolled T2D, tirzepatide vs. intensified conventional care reduced HbA1c levels and weight at 2 y.",
+      "authors": [
+        "Davidson MB",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "GIM/FP/GP: [Formula: see text] Endocrinology: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673597",
+      "pmid": "42673597",
+      "doi": "10.7326/ANNALS-25-05519-PS",
+      "title": "Summary for Patients: An Updated Systematic Review on Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes.",
+      "authors": [],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673594",
+      "pmid": "42673594",
+      "doi": "10.7326/ANNALS-26-03150-JC",
+      "title": "In advanced CKD with high CV risk, low-dose rivaroxaban vs. placebo did not reduce CV events and increased major bleeding.",
+      "authors": [
+        "Mouawad Y",
+        "Molony DA",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "GIM/FP/GP: [Formula: see text] Nephrology: [Formula: see text] Hematology: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology",
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673593",
+      "pmid": "42673593",
+      "doi": "10.7326/ANNALS-26-03132-JC",
+      "title": "In AIS with inadequate response to tenecteplase, tirofiban vs. placebo increased excellent functional outcome rate at 90 d.",
+      "authors": [
+        "Alsaaran Z",
+        "Hill MD",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Emergency Med: [Formula: see text] GIM/FP/GP: [Formula: see text] Neurology: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673592",
+      "pmid": "42673592",
+      "doi": "10.7326/ANNALS-26-03135-JC",
+      "title": "In thrombolysis-treated AIS, early DAPT improved functional outcomes at 90 d without increasing symptomatic ICH.",
+      "authors": [
+        "Gül S",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "GIM/FP/GP: [Formula: see text] Neurology: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673591",
+      "pmid": "42673591",
+      "doi": "10.7326/ANNALS-26-03114-VS",
+      "title": "Annals Video Summary - Efficacy and Safety of Glucagon-Like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes.",
+      "authors": [],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673588",
+      "pmid": "42673588",
+      "doi": "10.7326/ANNALS-26-03185-JC",
+      "title": "In SLE, adding dapirolizumab pegol vs. placebo to usual care improved disease activity at 48 wk.",
+      "authors": [
+        "Lafita FR",
+        "Schattner A",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "GIM/FP/GP: [Formula: see text] Rheumatology: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673587",
+      "pmid": "42673587",
+      "doi": "10.7326/ANNALS-26-03037-JC",
+      "title": "In men with osteoporosis/osteopenia, denosumab, alendronate, and zoledronic acid did not differ for lumbar spine BMD at 12 mo.",
+      "authors": [
+        "Lim LS",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "GIM/FP/GP: [Formula: see text] Endocrinology: [Formula: see text] Geriatrics: [Formula: see text] Rheumatology: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673586",
+      "pmid": "42673586",
+      "doi": "10.7326/ANNALS-26-03036-JC",
+      "title": "In septic shock, early vasopressors with restricted fluids vs. liberal fluids with later vasopressors as needed did not improve 90-d outcomes.",
+      "authors": [
+        "Zehtabchi S",
+        "ACP Journal Club Editorial Team at McMaster University"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Emergency Med: [Formula: see text] GIM/FP/GP: [Formula: see text] Infectious Disease: [Formula: see text] Critical Care: [Formula: see text].",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673585",
+      "pmid": "42673585",
+      "doi": "10.7326/ANNALS-25-05519",
+      "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.",
+      "authors": [
+        "Moiz A",
+        "Filion KB",
+        "Samuels AE",
+        "Tsoukas MA",
+        "Yu OHY",
+        "Peters TM",
+        "Eisenberg MJ"
+      ],
+      "journal": "Annals of internal medicine",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management.\n\nPURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes.\n\nDATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026.\n\nSTUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks).\n\nDATA EXTRACTION: Two reviewers independently extracted data.\n\nDATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide.\n\nLIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported.\n\nCONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies.\n\nPRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558).",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42673573",
       "pmid": "42673573",
       "doi": "10.1002/edm2.70267",
@@ -50009,6 +51344,33 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42637238",
+      "pmid": "42637238",
+      "doi": "10.1542/peds.2025-074462",
+      "title": "Trends in Pathogens Causing Late-Onset Sepsis in Very Preterm Infants: 2010-2023.",
+      "authors": [
+        "Jiang S",
+        "Liu J",
+        "Schaffer K",
+        "Bennett MV",
+        "Profit J",
+        "Lee HC"
+      ],
+      "journal": "Pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To examine long-term trends in overall and pathogen-specific late-onset sepsis (LOS) incidence among very preterm infants (VPIs) in a statewide, population-based network.\n\nMETHODS: We analyzed data for infants born at 22 to 31 weeks' gestation in the California Perinatal Quality Care Collaborative from 2010 to 2023. LOS was defined as a positive blood and/or cerebrospinal fluid culture obtained more than 3 days after birth. Annual percentage changes (APCs) were estimated using Poisson regression, with and without adjustment for gestational age.\n\nRESULTS: Among 66 441 VPIs, 6012 (9.0%) had at least 1 LOS episode, with 15.4% mortality. Of 6817 pathogens, 64.7% were gram-positive bacteria, 28.3% gram-negative bacteria, and 7.0% fungi; coagulase-negative staphylococcus (CoNS, 34.5%), Staphylococcus aureus (18.1%), Escherichia coli (10.9%), and Klebsiella species (7.2%) were the most common pathogens. From 2010 to 2017, LOS incidence declined from 15.0% to 8.2% (adjusted APC [aAPC] -5.5% [95% CI, -6.6% to -4.4%]). From 2018 to 2023, LOS incidence increased (aAPC 2.1% [95% CI, 0.6% to 3.6%]), driven by non-CoNS gram-positive (aAPC 5.4% [95% CI, 3.1% to 7.9%]) and gram-negative (aAPC 5.3% [95% CI, 2.4% to 8.2%]) pathogens. S aureus LOS increased in both periods (aAPC 4.3% [95% CI, 1.0% to 7.6%] and 7.7% [95% CI, 4.4% to 11.1%]), and Klebsiella LOS increased during 2018-2023 (aAPC 9.9% [95% CI, 4.2% to 15.8%]).\n\nCONCLUSIONS: In this contemporary VPI cohort, LOS incidence declined during 2010-2017 but increased thereafter, driven by rising non-CoNS gram-positive and gram-negative infections, particularly S aureus. Targeted prevention strategies should address the evolving pathogen epidemiology of LOS.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42636838",
       "pmid": "42636838",
       "doi": "10.1016/S1470-2045(26)00247-0",
@@ -52728,6 +54090,35 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42624503",
+      "pmid": "42624503",
+      "doi": "10.1542/peds.2025-074216",
+      "title": "Improving First-Attempt Success Rate During Neonatal Intubation in a Tertiary NICU.",
+      "authors": [
+        "Kaczor MW",
+        "Brumbaugh JE",
+        "Wilhelm J",
+        "Bosley C",
+        "Schultz T",
+        "Schram L",
+        "Gallup MC",
+        "Stetson RC"
+      ],
+      "journal": "Pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND AND OBJECTIVES: Neonatal tracheal intubation is a high-risk procedure, and multiple attempts are associated with adverse events. At our tertiary neonatal intensive care unit, the baseline first-attempt success rate was 45%, which we aimed to increase to over 55% through a quality improvement (QI) initiative.\n\nMETHODS: A multidisciplinary team conducted a QI project using the define-measure-analyze-improve-control framework. Root cause analysis identified poor glottic visualization and patient instability as primary drivers of failure. Plan-do-study-act cycles were carried out (April 2023-July 2024), followed by a sustainability phase (August 2024-May 2025). Key interventions included the phased implementation of video laryngoscopy (VL) as the primary intubation device and the standardization of oxygenation during laryngoscopy using nasal high flow. First-attempt success was tracked using statistical process control, and bimonthly VL use was monitored as a process measure.\n\nRESULTS: A total of 642 intubations were analyzed. By control chart analysis, the first-attempt success rate increased from a baseline of 45% to a sustained process mean of 61% during the intervention and sustainability phases. VL use increased from 0% at baseline to 70% to 90% during the sustainability phase. Success rates improved across all clinician types and locations. Notably, first-attempt success in infants weighing less than 1000 g increased from 38% at baseline to 62% during the intervention phase.\n\nCONCLUSION: A systematic QI initiative focused on VL and standardized oxygenation improved and sustained neonatal intubation success rates, exceeding the project aim. The maintenance of high-success rates confirms the durability of these safety improvements.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42624340",
       "pmid": "42624340",
       "doi": "10.1016/j.etap.2026.105136",
@@ -54247,6 +55638,37 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42618057",
+      "pmid": "42618057",
+      "doi": "10.1542/peds.2024-069315",
+      "title": "Two-Year Outcomes of a 211 Care Coordination Trial.",
+      "authors": [
+        "Gulsrud A",
+        "Nelson BB",
+        "Vangala S",
+        "Dudovitz RN",
+        "Thompson LR",
+        "Porras-Javier L",
+        "Romley JA",
+        "Aceves I",
+        "Chung PJ"
+      ],
+      "journal": "Pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND AND OBJECTIVES: Early screening for developmental concerns enables timely diagnosis and referral, yet many families face barriers accessing services. Prior work showed that early childhood care coordination could improve timely service connection. This study assessed developmental outcomes among children participating in a randomized controlled trial of Information and Referral Federation of Los Angeles County (211LA).\n\nMETHODS: Participants, aged 21-42 months, were randomized to usual care or the 211LA intervention. Developmental and behavioral measures, including the Parental Evaluation of Developmental Status Developmental Milestones Assessment Level (PEDS-DM-AL) and the Child Behavior Checklist (CBCL), were collected at baseline and 24 months later. The sample included 499 participants, 250 in the 211LA intervention and 249 in usual care. Primary analyses examined changes in PEDS-DM-AL and CBCL scores over the 24-month period by study arm. Post hoc analyses compared family characteristics between intervention and control families who enrolled in services.\n\nRESULTS: Developmental and behavioral measures showed some clinically insignificant change over time, but these changes did not differ by condition (expressive/receptive language skills mastered: P > .9; autism, attention, aggression, and externalizing behavior T scores: P > .4). Post hoc analyses identified potentially relevant imbalances between the treatment arms at baseline as well as in the subgroup that enrolled in services, with families assigned to the 211LA intervention being more likely to have a non-US born parent and a parent with limited English proficiency compared with families assigned to usual care. Intervention families enrolled in services also used telehealth more frequently and received a lower duration of services than those receiving usual care.\n\nCONCLUSIONS: This study measured the indirect influence of service enrollment through 211LA care coordination on developmental outcomes. Although increased service enrollment through 211LA did not affect developmental outcomes, we hypothesize this may be because of several factors, including overrepresentation of a subset of historically underrepresented families in the 211LA intervention, suboptimal performance of our developmental assessment tool, and complexity of conducting a trial of this magnitude during the COVID-19 pandemic, which may have diminished the ability of this trial to demonstrate developmental benefits despite demonstrated service enrollment gains.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42618051",
       "pmid": "42618051",
       "doi": "10.1111/nhs.70409",
@@ -55501,6 +56923,33 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42613046",
+      "pmid": "42613046",
+      "doi": "10.1542/peds.2025-074675",
+      "title": "Congenital Tuberculosis in a 2-Week-Old Neonate With an Asymptomatic Mother.",
+      "authors": [
+        "Pavalagantharajah S",
+        "Ahmed SU",
+        "Hummel B",
+        "Malhi R",
+        "Pernica JM"
+      ],
+      "journal": "Pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Congenital tuberculosis (TB) is a rare condition, and diagnosis is challenging due to its nonspecific clinical presentation and rarity. It has a very high case-fatality rate (estimated at 30%-50%). We report the case of a 2-week-old male neonate, born from an uncomplicated diamniotic, dichorionic twin pregnancy at 36 weeks 1 day's gestation, who presented with poor feeding and low-grade fever. Blood, urine, and cerebrospinal fluid (CSF) cultures, as well as nasopharyngeal and CSF viral polymerase chain reactions were negative. However, persistent poor feeding and rising inflammatory markers prompted continued hospitalization. On the fourth day of admission, he developed acute hypoxemic, hypercarbic respiratory failure with apneas and progressive lung parenchymal disease requiring intubation. The diagnosis of congenital TB was confirmed through endotracheal aspirates. He was initiated on TB treatment but ultimately developed a paradoxical reaction, requiring readmission and initiation of corticosteroids. His mother, father, and twin brother were initially asymptomatic. His twin was subsequently admitted to the hospital and was diagnosed with congenital TB as well. His mother was ultimately diagnosed with genitourinary TB based on an endometrial biopsy. This case contributes to the limited literature on congenital TB, highlighting the broad clinical spectrum and complications in managing the disease. Additionally, the unique presentation of disseminated congenital TB in an infant with an asymptomatic mother and a fraternal twin who initially did not require hospitalization underscores the importance of heightened awareness of tuberculosis during pregnancy, particularly in populations at risk, to facilitate early diagnosis and prevent perinatal transmission.",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42612915",
       "pmid": "42612915",
       "doi": "10.1016/j.diabres.2026.113505",
@@ -56178,6 +57627,35 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13481289/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42607540",
+      "pmid": "42607540",
+      "doi": "10.1016/j.ienj.2026.101890",
+      "title": "The role of artificial intelligence in predicting readmission risk in emergency patients: An umbrella review.",
+      "authors": [
+        "Alrazeeni DM",
+        "Alharrasi M",
+        "Rony MKK",
+        "Biswas RK",
+        "Tama IJ",
+        "Saha S"
+      ],
+      "journal": "International emergency nursing",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Hospital readmission following emergency care remains a persistent challenge, reflecting gaps in care continuity, discharge planning, and risk stratification. Conventional prediction methods often fail to capture complex clinical interactions. The emergence of artificial intelligence offers new opportunities to enhance predictive accuracy by analyzing large, multidimensional healthcare datasets.\n\nAIM: This umbrella review aimed to synthesize existing evidence on the role, performance, and clinical applicability of artificial intelligence in predicting readmission risk among emergency patients.\n\nMETHODS: An umbrella review design was adopted following established evidence synthesis guidelines. Systematic reviews and meta-analyses examining artificial intelligence-based readmission prediction in emergency settings were identified through comprehensive database searches. Data were extracted on study characteristics, model types, performance metrics, and clinical implications. Methodological quality was assessed using standardized appraisal tools, and findings were integrated through narrative synthesis.\n\nRESULTS: The findings revealed consistent evidence that artificial intelligence enhances readmission risk prediction by effectively analyzing complex and multidimensional healthcare data. Machine learning and deep learning approaches were widely applied, with ensemble and neural network models frequently demonstrating strong predictive capability. The integration of electronic health records and diverse patient level variables emerged as a critical factor in improving model performance. Across the evidence, artificial intelligence was shown to support early risk stratification and inform clinical decision making in emergency settings. However, important challenges were identified, including variability in study design, limited external validation, concerns regarding interpretability, and barriers to integration within existing healthcare systems.\n\nCONCLUSION: Artificial intelligence holds substantial potential to improve readmission prediction in emergency care by enabling more personalized and data driven decision making. Addressing issues related to validation, transparency, and system integration is essential to support its translation into routine clinical practice.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -58542,6 +60020,35 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42586559",
+      "pmid": "42586559",
+      "doi": "10.1542/peds.2026-076045",
+      "title": "Early Exclusive Enteral Feeding in Preterm Infants: A Meta-Analysis.",
+      "authors": [
+        "Santokh I",
+        "Fursule A",
+        "Dorasamy D",
+        "Chaudhari T",
+        "Carlisle H",
+        "Rath C"
+      ],
+      "journal": "Pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "CONTEXT: Early exclusive enteral feeding (EEF) in preterm infants may provide advantages such as improved nutritional delivery, reduced need for intravenous fluids (IVF), and lower health care costs. However, concerns persist regarding adverse outcomes, particularly necrotizing enterocolitis (NEC).\n\nOBJECTIVE: To determine if EEF compared with progressive enteral feed (PEF) is associated with benefits without causing any adverse effects.\n\nDATA SOURCES: MEDLINE, EMBASE, EMCARE, CINAHL, Cochrane Library, and clinical trial registries from inception to October 2025.\n\nSTUDY SELECTION: Randomized controlled trials comparing EEF commenced within 48 hours of birth with PEF in preterm infants.\n\nDATA EXTRACTION: Two authors independently extracted data on clinical outcomes of interest using a standardized data collection form.\n\nRESULTS: Eleven studies (n = 3145) were included (27+0 to 36+0 weeks). No significant differences were observed in the incidence of NEC stage 2 or greater (pooled relative risk [RR], 1.00; 95% CI, 1.00-1.01; P = .53), hypoglycemia (pooled RR, 1.00; 95% CI, 0.98-1.02; P = .80), or culture-proven sepsis (pooled RR, 1.03; 95% CI, 1.00-1.07; P = .08). EEF was associated with significantly shorter time to full feeds, reduced duration of IVF, faster regain of birth weight, and shorter hospital stay. Certainty of evidence (COE) was moderate for \"any NEC\" and low to very low for other outcomes.\n\nLIMITATIONS: Presence of statistical heterogeneity in some outcomes and lack of blinding in interventions.\n\nCONCLUSIONS: EEF appears to be feasible. Based on moderate COE, it does not appear to increase the risk of NEC. Larger and well-designed trials across diverse settings are needed to confirm its safety, evaluate potential benefits-including cost, and assess long-term outcomes.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42586506",
       "pmid": "42586506",
       "doi": "10.1016/j.diabres.2026.113496",
@@ -60707,6 +62214,29 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42575517",
+      "pmid": "42575517",
+      "doi": "10.1542/hpeds.2026-009228",
+      "title": "Developing Consensus Using the Delphi Method.",
+      "authors": [
+        "Russ CM",
+        "Luff D"
+      ],
+      "journal": "Hospital pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "The Delphi method is a technique for obtaining consensus from a panel of experts on a particular topic or set of decisions, such as diagnostic or treatment algorithms, medical education competencies, or curricular components. This article aims to introduce researchers new to consensus methodology to the Delphi method. A classic Delphi process is characterized by anonymity of panelists, who complete iterative surveys to rank items and suggest changes. After each survey round, researchers amend the items, seeking a predetermined cutoff of consensus. The amended survey is sent to panelists for reconsideration along with quantitative and qualitative analysis of prior results. Modified Delphi methods may include having in-person components and basing initial surveys on literature rather than panelist input. Rigor is enhanced by clear reasoning for selection and representation of the expert panel, evidence for items in the initial survey, a clear definition of consensus, response rates and results after each round, how iterative feedback was provided, and reasoning for steps researchers took along the way to move toward consensus. Qualitative analysis of comments can yield insights into the topic, including items for which consensus is not achieved. Thoughtful Delphi design can lead to trustworthy results with broader community acceptance.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42575463",
       "pmid": "42575463",
       "doi": "10.1016/j.yjmcc.2026.08.002",
@@ -61409,6 +62939,59 @@
       "abstract": "Small interfering RNAs (siRNAs) are powerful tools to target cellular protein expression, making them promising candidates for therapeutic applications. siRNA-based approaches to target detrimental mechanisms in airway diseases such as asthma and chronic obstructive pulmonary disease are highly appealing. However, such delivery systems must be nontoxic, protect siRNAs from degradation, and enable intracellular uptake that accesses cytosolic RNA machinery. The present study examines the mechanisms by which guanidinium-functionalized poly(oxanorbornene)imide polymer (PONI-Guan) nanoparticles can effectively and safely deliver siRNA in human bronchial epithelial (BEC) and airway smooth muscle cells (ASM). PONI-Guan polymers were engineered to self-assemble with siRNA through electrostatic interactions. Primary BEC and ASM cells were preincubated with methyl-β-cyclodextrin, dynasore, dansylcadaverine chlorpromazine, latrunculin B, or cytochalasin D followed by incubation with nanoparticles at a single concentration but different guanidinium/phosphate ratios (G/P). BEC and ASM treated with methyl-β-cyclodextrin and dynasore demonstrated significant decrease in nanoparticle uptake. In addition, BEC showed decreased uptake with latrunculin B. Minimal BEC toxicity was observed with 20, 30, and 40 G/P ratios; ASM showed some toxicity with 40 G/P. Transepithelial electrical resistance readings were stable with 20 and 30 G/P, whereas 40 G/P showed significant but transient changes, with barrier integrity restored in ∼6 h. Furthermore, 30 G/P did not induce markers of necrosis, apoptosis, or inflammation in BEC or ASM. Transfection of BDNF siRNA in ASM and Arginase 1 and 2 siRNA in BEC showed significant decrease in corresponding mRNA and protein expression. Overall, these data indicate that PONI-Guan polymers can deliver siRNA safely and effectively in bronchial cells, primarily through caveolar or macropinocytosis uptake, offering a promising tool for future siRNA-based therapies.NEW & NOTEWORTHY siRNA delivery to target cellular processes is an appealing area in lung diseases such as asthma. To realize this potential requires efficient, targeted cytosolic delivery without cellular toxicity or siRNA degradation. We demonstrate the efficacy of PONI-Guan nanoparticles in accessing airway epithelial and smooth muscle cells with specific siRNA targeting of mRNAs of interest while maintaining barrier integrity and avoiding cellular toxicity.",
       "publication_types": [
         "Journal Article"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42571890",
+      "pmid": "42571890",
+      "doi": "10.1542/peds.2025-074267",
+      "title": "Asthma Exacerbation Risk and School Asthma Readiness.",
+      "authors": [
+        "Kenyon CC",
+        "Negro D",
+        "Fluehr J",
+        "Shults J",
+        "Seay H",
+        "Pappas J",
+        "Bryant-Stephens T"
+      ],
+      "journal": "Pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVES: School-based asthma management is a key facet of child asthma care. We aimed to describe the proportion of students whose schools have child-specific components of asthma care, derive a composite metric of these components (\"school asthma readiness\"), and assess its association with asthma exacerbations (asthma risk) in the preceding year.\n\nMETHODS: Within a nested cohort of children enrolled in a larger randomized clinical trial, we assessed the baseline proportion of children whose school had elements of necessary asthma care. We then derived a \"school asthma readiness\" composite and used ordinal logistic regression to model the association between number of asthma exacerbations in the preceding year and the composite, accounting for demographic, clinical, and school characteristics.\n\nRESULTS: Of 202 participants aged 5 to 13 years, most identified as Black (95%) and non-Hispanic (98%), and most participants (73%) had an emergency department visit for asthma in the year before enrollment. Most students' schools (79%) had awareness of the child's asthma diagnosis, whereas fewer had reliever medications and valved holding chambers (both 31%) and asthma care plans (7%). Asthma exacerbations in the prior year were associated with a significantly higher school asthma readiness in bivariate (odds ratio [OR], 1.44 [95% CI, 1.14-1.82]; P = .002) and multivariable analysis (OR, 1.31 [95% CI, 1.02-1.7]; P = .037).\n\nCONCLUSIONS: A minority of children attended schools that were equipped to manage asthma symptoms. More past exacerbations were associated with higher school readiness, suggesting that more work is needed to support proactive asthma care in schools.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42571888",
+      "pmid": "42571888",
+      "doi": "10.1542/peds.2026-077133",
+      "title": "Preparing for School Asthma Readiness.",
+      "authors": [
+        "Brunner WM",
+        "Kjolhede C"
+      ],
+      "journal": "Pediatrics",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Editorial",
+        "Comment"
       ],
       "topics": [
         "respiratory"
@@ -75188,6 +76771,43 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42334389",
+      "pmid": "42334389",
+      "doi": "10.1016/j.jtcvs.2026.04.004",
+      "title": "Erratum to 2025 American Association for Thoracic Surgery (AATS) Expert Consensus Document: Surgical management of acute myocardial infarction and associated complications: The Journal of Thoracic and Cardiovascular Surgery, Volume 170, Issue 5, 2025, Pages 1327-1344.",
+      "authors": [
+        "Kaczorowski DJ",
+        "Takeda K",
+        "Atluri P",
+        "Cevasco M",
+        "Cogswell R",
+        "D'Allesandro D",
+        "Daneshmand MA",
+        "Jeevanandam V",
+        "Kapur NK",
+        "Milano C",
+        "Ono M",
+        "Potapov E",
+        "Ramzy D",
+        "Silvestry SC",
+        "Soltesz E",
+        "Uriel N"
+      ],
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42331126",
       "pmid": "42331126",
       "doi": "10.1016/j.amjcard.2026.06.016",
@@ -75371,6 +76991,29 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42320752",
+      "pmid": "42320752",
+      "doi": "10.1016/j.jjcc.2026.06.010",
+      "title": "Author's reply to \"Comment on 'Cardio-ankle vascular index as a screening tool for coronary artery disease in patients with metabolic dysfunction-associated steatotic liver disease'\".",
+      "authors": [
+        "Nakashima M",
+        "Miyoshi T"
+      ],
+      "journal": "Journal of cardiology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "topics": [
+        "coronary"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42320698",
       "pmid": "42320698",
       "doi": "10.1016/j.bcp.2026.118183",
@@ -75469,6 +77112,33 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13460832/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42311121",
+      "pmid": "42311121",
+      "doi": "10.1097/j.jcrs.0000000000002003",
+      "title": "Reply : Global consensus on the evidence-based functional classification of simultaneous vision IOLs.",
+      "authors": [
+        "Fernández J",
+        "Koch DD",
+        "Barrett GD",
+        "Andrade N",
+        "Ribeiro F",
+        "Functional Vision Working Group"
+      ],
+      "journal": "Journal of cataract and refractive surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -75770,6 +77440,29 @@
       ],
       "topics": [
         "coronary"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42302316",
+      "pmid": "42302316",
+      "doi": "10.1097/j.jcrs.0000000000002001",
+      "title": "Comment on: Global consensus on the evidence-based functional classification of simultaneous vision IOLs.",
+      "authors": [
+        "Calossi A",
+        "Vinciguerra P"
+      ],
+      "journal": "Journal of cataract and refractive surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "guidelines"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -78790,6 +80483,42 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42097537",
+      "pmid": "42097537",
+      "doi": "10.1016/j.jtcvs.2026.03.617",
+      "title": "2026 American Association for Thoracic Surgery (AATS) expert consensus statement: Antithrombotic management of neonates/infants undergoing cardiac interventions.",
+      "authors": [
+        "Nathan M",
+        "Kiskaddon AL",
+        "Emani S",
+        "Bigelow AM",
+        "Callahan RM",
+        "Cleveland JD",
+        "Federman M",
+        "Ma M",
+        "McMullan DM",
+        "Mir A",
+        "Branstetter J",
+        "VanderPluym C",
+        "Yerebakan C"
+      ],
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVES: The hemostatic system in neonates and infants with congenital heart disease is distinct as a result of developmental and disease-specific factors, necessitating population-specific periprocedural evaluation and antithrombotic management. Ongoing practice variation reflects limited evidence and highlights the need for structured guidance and further study.\n\nMETHODS: To develop a more unified management strategy for periprocedural antithrombotic testing and therapy in this vulnerable population, a group of experts (cardiac surgeons, cardiologists, interventionalist, hematologists, intensivists, and pharmacologists) commissioned by the American Association for Thoracic Surgery was convened to define the basic differences in the hemostatic systems of neonates and infants compared with older children and adults and develop a framework for periprocedural antithrombotic management in neonates and infants undergoing congenital cardiac interventions using the modified Delphi methodology.\n\nRESULTS: Consensus was reached on all 34 statements and related figures and tables. These provide information specific to neonates and infants with congenital heart disease on the coagulation cascade; testing for congenital, acquired, and therapy-related abnormalities in the hemostatic system; and commonly used antithrombotic (anticoagulant and antiplatelet) agents and their monitoring. Recommendations were made on pre-, intra-, and postprocedural antithrombotic management, including procedure and device-specific recommendations both in the short and long term.\n\nCONCLUSIONS: The hemostatic system in neonates and infants with congenital heart disease is distinct from that of older children and adults and warrants focused periprocedural evaluation and therapy. These recommendations guide understanding of the complex interactions during antithrombotic management in this patient population during cardiac surgical and catheter-based interventions.",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement",
+        "Practice Guideline"
+      ],
+      "topics": [
+        "congenital"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42093162",
       "pmid": "42093162",
       "doi": "10.1097/MCP.0000000000001277",
@@ -78809,6 +80538,67 @@
       ],
       "topics": [
         "pulmonary-vascular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42092510",
+      "pmid": "42092510",
+      "doi": "10.1016/j.jtcvs.2026.04.017",
+      "title": "Randomized trial of tricuspid flexible band versus rigid ring in patients with moderate tricuspid regurgitation or greater: results of the JPH2019 trial.",
+      "authors": [
+        "Xu X",
+        "Gu J",
+        "Liu H",
+        "Du J",
+        "Gu W",
+        "Ni B",
+        "Shao Y"
+      ],
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To compare the efficacy and clinical outcomes of flexible band versus rigid ring annuloplasty for the correction of moderate tricuspid regurgitation (TR) or greater.\n\nMETHODS: In this single-center randomized trial, adult patients with moderate or greater TR were assigned to receive either a flexible band or a rigid ring. The primary outcome was recurrent TR during follow-up. Secondary outcomes included death, permanent pacemaker implantation, and other adverse events.\n\nRESULTS: In total, 400 patients were randomized with a 1:1 ratio, and 321 were included in the final analysis (flexible band, n = 156; rigid ring, n = 165). Baseline characteristics were balanced between arms. At discharge, recurrent TR was significantly greater in the flexible band arm than the rigid ring arm (10.1% vs 3.8%, P = .03). However, the significance was no longer significant during follow-up (6.1%/patient-years vs 4.7%/ patient-years, P = .21). Multivariable analysis identified female sex (subdistribution hazard ratio [sHR], 2.16, 95% CI, 1.1-4.22, P = .025), preoperative severe TR (sHR, 2.09; 95% CI, 1.06-4.11, P = .033) and massive TR (sHR, 4.63; 95% CI, 1.29-16.61, P = .019), and preoperative permanent pacemaker implantation (sHR, 3.69; 95% CI, 1.35-10.09, P = .011) as independent risk factors for recurrent TR. Subgroup analyses based on these factors showed no significant between-arm difference in the primary outcome. secondary outcomes were also comparable between the arms during follow-up.\n\nCONCLUSIONS: Both annuloplasty devices provided acceptable TR correction with similar adverse event rates over a median 3-year follow-up.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42092499",
+      "pmid": "42092499",
+      "doi": "10.1016/j.jtcvs.2026.03.616",
+      "title": "Virtual reality in planning complex heart surgery.",
+      "authors": [
+        "Maya HA",
+        "Kottayil BP",
+        "Pandey AK",
+        "Reddy PB",
+        "Srimurugan B",
+        "Xavier S",
+        "Sudhakar A",
+        "Kumar RK",
+        "Kappanayil M"
+      ],
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVES: Intraventricular tunneling is a pivotal step in biventricular or 1.5 ventricle repair of complex congenital heart disease, conventionally reliant on surgeon's intraoperative inspection and judgement. We evaluated novel assistive processes and translational tools for aiding intraventricular tunneling during complex surgical repairs using 3-dimensional virtual reality and 3-dimensional printing technologies.\n\nMETHODS: Computed tomography data of prospective complex congenital heart disease cases considered for biventricular/1.5 ventricle repair with intraventricular tunneling were converted to \"digital twins\" and analyzed in 3-dimensional virtual reality using medical modeling software. Digital dissection, annotation, and measurement tools helped identify critical anatomic elements: interventricular septum to great vessel orientation, optimal pathway least likely to obstruct, dynamic changes, conduit requirement, and so forth. Virtual baffle design tool simulated baffles with morphometrics. Novel workflows helped convert virtual baffles to physical templates: 3-dimensionally printed in flexible resin, digitally unfolded and printed in rigid resin, and on plain paper. Templates were compared and used as surgical guides. Adherence to simulation-based plans and surgical baffle placement were assessed.\n\nRESULTS: Twenty cases (mean age 8.61 ± 7.61 years) included double outlet right ventricles (n = 12; 2 with superior-inferior ventricles, 2 with common atrioventricular canal), double outlet both ventricles (1), corrected transposition (5), and D-transposition (2) variants. Situs abnormalities (5/20), dextrocardia (7/20), and additional defects added to the complexity. Operative findings were as predicted, and repair was achieved in 100% (2 ventricle repair in 14 patients and 1.5 ventricle repair in 6 patients). Morphometrics of virtual, 3-dimensional printed, and paper-printed baffles were identical and successfully used as surgical guides; deviation from predicted geometry was less than 10%. All baffles were single patch, placed as per digital plan, with no residuals. Mean cardiopulmonary bypass time was 322 ± 109 minutes, and crossclamp time was 159 ± 54 minutes. Median hospital stay was 10 days (interquartile range, 8-16) with no operative mortality. No reinterventions or residuals were observed at 20 months median follow-up.\n\nCONCLUSIONS: Early-stage exploration of translational impact of 3-dimensional virtual reality-based baffle planning is encouraging. Workflow for creating paper-printable baffle templates shows great promise.",
+      "publication_types": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "topics": [
+        "congenital"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -78907,6 +80697,47 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13270433/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42081973",
+      "pmid": "42081973",
+      "doi": "10.1016/j.jtcvs.2026.04.005",
+      "title": "Multicenter comparison of hybrid and Norwood procedures in patients with Fontan circulation.",
+      "authors": [
+        "Kobayashi K",
+        "Schiff M",
+        "Seese L",
+        "Olivieri L",
+        "Da Fonseca Da Silva L",
+        "Da Silva JP",
+        "Muthurangu V",
+        "Yao T",
+        "Christopher A",
+        "Liddle D",
+        "Morell V",
+        "Castro Medina M",
+        "Morell E",
+        "Kreutzer J",
+        "Krishnamurthy R",
+        "Rathod RH",
+        "Alsaied T",
+        "Fontan Outcomes Registry Using Clinical Examinations investigators"
+      ],
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: The hybrid stage 1 palliation (HS1P) procedure has been proposed as an alternative to the Norwood operation. We utilized a multicenter database to compare both strategies.\n\nMETHODS: The Fontan Outcomes Registry using Clinical Examinations was queried for patients who underwent HS1P or Norwood. Propensity score matching was performed. Composite outcome (death, transplant listing, protein losing enteropathy, plastic bronchitis, atrial/ventricular tachyarrhythmia, or pulmonary artery reintervention) and cardiac magnetic resonance variables were compared. Secondary analyses compared between HS1P and shunt type (Sano vs Blalock-Thomas-Taussig).\n\nRESULTS: Two hundred twenty-eight patients were analyzed (76 HS1P, 152 Norwood) after exclusion and matching. Median follow-up after Fontan was 14 years (95% CI, 13.0-15.1 years) using the reverse Kaplan-Meier method. The freedom from composite outcome was 82.3%, 74.5%, and 61.2% for HS1P patients compared with 81.4%, 69.5%, and 54.7% for Norwood patients at 5-, 10-, and 15-year follow-ups, respectively (hazard ratio, 1.02; 95% CI, 0.62-1.70; P = .9305). Individual components of the composite outcome were also similar between HS1P and Norwood in the matched cohort, including pulmonary artery reintervention. Cardiac magnetic resonance and echocardiographic parameters did not differ between groups. In a 3-group analysis of the unmatched cohort (n = 954) using Blalock-Thomas-Taussig conduit as the reference, HS1P was not associated with differences in adjusted hazard for the composite outcome or its individual components compared with Blalock-Thomas-Taussig.\n\nCONCLUSIONS: HS1P in those who survived to Fontan completion had comparable Fontan era outcomes and cardiac magnetic resonance findings to Norwood in a propensity matched multicenter cohort. Further longitudinal work is essential to refine patient selection and to optimize long-term outcomes.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "topics": [
+        "congenital"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -79348,6 +81179,47 @@
       ],
       "topics": [
         "congenital"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:41985624",
+      "pmid": "41985624",
+      "doi": "10.1016/j.jtcvs.2026.04.003",
+      "title": "Clinical value of the flow-adjusted pressure gradient in patients undergoing surgical aortic valve replacement.",
+      "authors": [
+        "Ohmori T",
+        "Maeda K",
+        "Hiraoka A",
+        "Pak K",
+        "Ohtani A",
+        "Yanagino Y",
+        "Handa K",
+        "Taguchi T",
+        "Kumagai K",
+        "Inoue K",
+        "Yamada S",
+        "Misumi Y",
+        "Yamashita K",
+        "Kawamura A",
+        "Yoshioka D",
+        "Shimamura K",
+        "Kondoh H",
+        "Yoshitaka H",
+        "Miyagawa S"
+      ],
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVES: Accurate assessment of prosthetic valve function after surgical aortic valve replacement is still challenging. This study aims to evaluate the clinical utility of the flow-adjusted pressure gradient after surgical aortic valve replacement.\n\nMETHODS: A total of 734 patients underwent isolated surgical aortic valve replacement at 7 Japanese institutions between January 2016 and December 2021. After excluding 4 emergency cases and 215 cases with missing postoperative echocardiographic data, 515 patients were analyzed. The flow-adjusted pressure gradient was defined as mean pressure gradient divided by stroke volume. The primary end point was a composite of 3-year cardiovascular death and heart failure rehospitalization.\n\nRESULTS: The median age was 76 years (interquartile range, 70-80), and 240 patients (46.6%) were male. The median flow-adjusted pressure gradient was 0.20 mm Hg/mL (interquartile range, 0.15-0.25). In univariable analysis, mean pressure gradient, stroke volume, and prosthesis-patient mismatch were not significantly associated with the primary end point (P = .14, .98, and .73, respectively). In multivariable analysis, flow-adjusted pressure gradient remained an independent predictor of the primary end point (adjusted hazard ratio, 1.76; 95% CI, 1.11-2.67; P = .012). Patients were categorized into high (≥0.30 mm Hg/mL; n = 62 [12.0%]) and low (<0.30 mm Hg/mL; n = 453 [88.0%]) flow-adjusted pressure gradient groups for exploratory analysis, and the incidence of the primary end point was significantly higher in the high flow-adjusted pressure gradient group than in the low flow-adjusted pressure gradient group (14.8% vs 5.3%; P = .004).\n\nCONCLUSIONS: Flow-adjusted pressure gradient was associated with an increased risk of 3-year adverse cardiac events after isolated surgical aortic valve replacement. Integrating flow-adjusted pressure gradient into conventional parameters may improve the assessment of prosthetic valve function.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "topics": [
+        "valvular"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -79820,6 +81692,36 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:41831709",
+      "pmid": "41831709",
+      "doi": "10.1016/j.jtcvs.2026.02.037",
+      "title": "Sodium-glucose cotransporter 2 inhibitor use and outcomes after surgical aortic valve replacement.",
+      "authors": [
+        "Jacquemyn X",
+        "Hasan I",
+        "Ogami T",
+        "Serna-Gallegos D",
+        "Bonatti J",
+        "Abdullah M",
+        "Chu D",
+        "Kaczorowski DJ",
+        "Sultan I"
+      ],
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: Sodium-glucose cotransporter 2 inhibitors have demonstrated mortality and heart failure hospitalization benefits across cardiovascular populations. However, their impact on patients with severe aortic stenosis undergoing surgical aortic valve replacement, with or without concomitant coronary artery bypass grafting, remains unclear. This study evaluated clinical outcomes associated with sodium-glucose cotransporter 2 inhibitor use in a real-world surgical aortic valve replacement population.\n\nMETHODS: Patients who underwent surgical aortic valve replacement or combined surgical aortic valve replacement and coronary artery bypass grafting between 2014 and 2025 were reviewed. The inclusion criteria were consistent with contemporary trials including severe aortic valve replacement with left ventricular ejection fraction 40% or less, estimated glomerular filtration rate 25 to 75 mL/min/1.73 m2, or type 2 diabetes mellitus. Propensity score matching was used to adjust for baseline differences. The primary outcome was all-cause mortality. Secondary outcomes included stroke, heart failure hospitalization, atrial fibrillation admission, and all-cause rehospitalization.\n\nRESULTS: A total of 2930 patients (age 76 [69-83] years, 40.3% female) were included, of whom 85 (2.9%) received sodium-glucose cotransporter 2 inhibitor therapy. In the overall cohort, sodium-glucose cotransporter 2 inhibitor use was associated with significantly lower 5-year all-cause mortality compared with nonuse (13.6% vs 33.5%, log-rank P = .022). After matching, mortality remained lower among sodium-glucose cotransporter 2 inhibitor users (13.8% vs 25.8%, P = .012), with reduced stroke incidence (2.0% vs 19.3%; P = .046) and no significant differences in atrial fibrillation or rehospitalization.\n\nCONCLUSIONS: In patients undergoing surgical aortic valve replacement, perioperative sodium-glucose cotransporter 2 inhibitor therapy was associated with improved 5-year survival and reduced stroke risk. These observational findings are hypothesis generating and support further investigation of sodium-glucose cotransporter 2 inhibitors in prospective, randomized studies in the surgical valve population.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:41801373",
       "pmid": "41801373",
       "doi": "10.1007/s00261-026-05441-0",
@@ -79947,6 +81849,37 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13443385/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:41782460",
+      "pmid": "41782460",
+      "doi": "10.1308/rcsann.2026.0019",
+      "title": "Outcomes for congenitally corrected transposition of great arteries using various surgical techniques: a systematic review and network meta-analysis.",
+      "authors": [
+        "Hasan SU",
+        "Usmani S",
+        "Ahmed SH",
+        "Pervez A",
+        "Kamalia MA",
+        "Shah AD",
+        "Zubair MM"
+      ],
+      "journal": "Annals of the Royal College of Surgeons of England",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Congenitally corrected transposition of the great arteries (ccTGA) is a rare disorder. Here, we evaluated the effectiveness of physiological, anatomical and Fontan repair techniques for ccTGA.\n\nMETHODS: A systematic database search in PubMed, Embase and Cochrane Central Register of Controlled Trials was conducted from inception to 5 June 2023. Random-effects network meta-analysis was performed, comparing mortality, postoperative arrhythmias, reintervention after definitive surgery and transplant-free survival in patients undergoing physiological, anatomical and Fontan repair.\n\nFINDINGS: A total of 1,209 patients were included from nine studies. Fontan repair was associated with a higher rate of transplant-free survival (absolute risk [AR] 0.999 (±0.0101), 95% confidence interval [CI]) and reintervention after definitive surgery (AR 0.098 (±0.067), 95% CI), whereas the difference for mortality and postoperative arrhythmias did not reach statistical significance.\n\nCONCLUSIONS: Fontan repair is significantly better than anatomical or physiological repair in terms of transplant-free survival and also had a better rank probability for overall survival and reintervention after definitive surgery.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis",
+        "Review"
+      ],
+      "topics": [
+        "congenital"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -81053,6 +82986,125 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13490702/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674925",
+      "pmid": "42674925",
+      "doi": "10.1016/j.jfma.2026.08.052",
+      "title": "Clonal hematopoiesis and atherosclerotic cardiovascular disease: Clinical implications, biological mechanisms, and emerging therapeutic strategies.",
+      "authors": [
+        "Yao CY",
+        "Chen YC",
+        "Tsai BR",
+        "Chen JW",
+        "Chan CY",
+        "Chen WJ",
+        "Lin LY",
+        "Chou WC",
+        "Ho YL",
+        "Yang LT"
+      ],
+      "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "date": "2026-08-31",
+      "year": 2026,
+      "abstract": "Clonal hematopoiesis (CH), defined by the age-related expansion of hematopoietic stem cells harboring somatic driver mutations, has emerged as a novel and clinically relevant contributor to atherosclerotic cardiovascular disease (ASCVD). Once considered primarily a precursor to hematologic malignancy, CH is now recognized as a systemic pro-inflammatory state linking somatic evolution to cardiovascular pathology. Epidemiological studies consistently demonstrate that CH is independently associated with increased risks of coronary artery disease, heart failure, aortic stenosis, and cardiovascular mortality. Mechanistically, CH-associated mutations-most commonly in DNMT3A, TET2, and ASXL1-reprogram immune cells toward a pro-inflammatory phenotype, characterized by activation of the NLRP3 inflammasome and increased cytokine production, thereby promoting endothelial dysfunction, atherogenesis, and adverse cardiac remodeling. These insights have catalyzed the development of targeted therapeutic strategies, particularly anti-inflammatory interventions, as well as approaches aimed at modulating clonal expansion and leveraging cardiometabolic agents. Clinically, incorporation of CH genotype and clonal burden into risk assessment may refine cardiovascular risk stratification and guide personalized prevention strategies. In this review, we summarize current evidence on the biological mechanisms linking CH to ASCVD, its clinical implications across cardiovascular phenotypes, and emerging therapeutic approaches. Collectively, CH represents a paradigm shift toward inflammation-driven precision cardiology.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674284",
+      "pmid": "42674284",
+      "doi": "10.1016/j.jocmr.2026.102793",
+      "title": "Accelerated Cardiac MRI Using Deep Learning Cine Imaging: Validation in Pediatric Patients both with and without Congenital Heart Disease.",
+      "authors": [
+        "Kochav J",
+        "Ma J",
+        "Jambawalikar S",
+        "Fung M",
+        "Quarterman P",
+        "Shah A",
+        "Farooqi K",
+        "Majeed A",
+        "Jhaveri S",
+        "Channing A",
+        "Hsien S",
+        "Janich M",
+        "DiLorenzo MP"
+      ],
+      "journal": "Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance",
+      "date": "2026-08-31",
+      "year": 2026,
+      "abstract": "BACKGROUND: Conventional breath-held 2D bSSFP cine CMR requires multiple breath holds and prolonged acquisition time, posing challenges for children and patients with congenital heart disease (CHD). Deep-learning (DL)-based reconstruction enables undersampled data acquisition with rapid image completion, offering the potential for substantial time savings while preserving diagnostic accuracy.\n\nMETHODS: Fifty pediatric patients (median age 16.1 years [14.7, 17.5], 56% CHD) with two-ventricle physiology were prospectively recruited, and underwent conventional breath-held bSSFP cine imaging and DL-accelerated cine imaging at three acceleration levels: with breath-held acquisitions over 3-RR intervals, 1-RR interval, and 1-RR interval with free-breathing. Acquisition time, image quality, and quantitative ventricular measurements were compared across sequences.\n\nRESULTS: Median short-axis cine stack acquisition time was reduced by 66%, 83%, and 89% for the 3-RR, 1-RR, and 1-RR free-breathing sequences, respectively, compared with conventional cine (all p<0.001). Image quality remained diagnostic in 96%, 88%, and 88% of cases, respectively with no statistical difference in image quality score between conventional cine and 3-RR acquisition. Quantitative assessment of myocardial thickening via radial strain demonstrated excellent agreement (ICC = 0.92, 95% CI 0.82-0.96, p < 0.001) between conventional cine and 3-RR acquisition, with only slightly higher measurements. on 3-RR sequences (29.7 ± 6.5% vs. 28.5 ± 6.1%, p<0.001). LV and RV volumes differed by <5 and <10mL/m² across all acceleration levels, LV mass by <3g/m², and LVEF/RVEF by ≤2%. Among CHD patients, a 2% overestimation of RVEF was observed.\n\nCONCLUSIONS: DL Cine enables rapid and diagnostically robust quantification of biventricular size and function in pediatric patients, including those with CHD. Image acceleration with 3-RR acquisitions optimally balances efficiency and image quality, supporting integration of DL cine imaging into routine pediatric and congenital CMR workflows.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "congenital"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42674227",
+      "pmid": "42674227",
+      "doi": "10.1016/j.mri.2026.110780",
+      "title": "A novel convolution-transformer model for differentiating hypertrophic cardiomyopathy from Phenocopies using cardiac MRI.",
+      "authors": [
+        "Guo X",
+        "Zhou S",
+        "Shen Y",
+        "Gong X",
+        "Jiang Q",
+        "Ding J",
+        "Yang Y",
+        "Zhang L"
+      ],
+      "journal": "Magnetic resonance imaging",
+      "date": "2026-08-31",
+      "year": 2026,
+      "abstract": "BACKGROUND AND OBJECTIVES: Hypertrophic Cardiomyopathy (HCM) is the most prevalent inherited cardiomyopathy. Its left ventricular hypertrophy (LVH) phenotype exhibits substantial radiological overlap with HCM phenocopies such as Hypertensive Heart Disease (HHD) and Cardiac Amyloidosis (CA), posing significant challenges to clinical differential diagnosis. Differentiating HCM from its phenocopies and normal hearts on cardiac MRI is an important but difficult task. This study leveraged a cardiovascular magnetic resonance foundation model to develop a deep learning approach that enables accurate and automated differentiation among HCM, normal controls, and HCM phenocopies.\n\nMETHODS: We integrated 463 cases from a multi-center dataset comprising two public benchmarks, ACDC and M&Ms2, along with a clinical cohort from a tertiary medical center. The final cohort included 207 HCM cases, 166 normal controls, and 90 cases of HCM phenocopies (including HHD, CA, and aortic stenosis, among other etiologies). To address the challenge of differential diagnosis in HCM, a tailored network was developed based on the Convolution-Transformer hybrid backbone of the CineMA cardiac MRI foundation model. The architecture employs a dual-head multi-task learning design: a primary classification head performs three-class diagnosis (HCM vs. Normal vs. Other), while an auxiliary classification head targets fine-grained discrimination between HCM and non-HCM myocardial hypertrophy. A Boundary Prior Attention Module (BPAM) was further integrated into the convolutional encoder, utilizing left ventricular myocardial segmentation masks as anatomical priors to guide spatially selective feature modulation. A three-stage progressive transfer learning strategy was implemented, transitioning from frozen backbone to partial unfreezing and finally to global optimization, with class-weighted cross-entropy and Focal Loss to address class imbalance.\n\nRESULTS: The proposed method achieved an accuracy of 85.6% ± 1.7%, a macro-averaged F1-score of 0.840 ± 0.019, and an ROC AUC of 0.954 ± 0.008 under five-fold cross-validation, significantly outperforming the randomly initialized baseline (F1-score 0.704 ± 0.021, AUC 0.853 ± 0.014). HCM detection achieved a recall of 85.5% ± 2.4%, indicating a low rate of missed diagnoses in this high-risk population. Ablation experiments demonstrated that pretrained weights, the dual-head architecture, the progressive training strategy, and BPAM contributed incremental AUC gains of +6.5%, +1.2%, +1.1%, and + 1.3%, respectively.\n\nCONCLUSIONS: The CineMA-based framework incorporating dual-head multi-task learning, three-stage progressive transfer learning, and anatomy-guided boundary prior attention achieves robust and accurate differentiation among HCM, normal controls, and HCM phenocopies. The approach demonstrates promising potential for AI-assisted HCM screening and clinical decision support across multi-center, multi-device settings.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42673746",
+      "pmid": "42673746",
+      "doi": "10.1016/j.jacadv.2026.103187",
+      "title": "Association Between Hypertensive Disorders of Pregnancy, Lifestyle Factors, and Premature Cardiovascular Events.",
+      "authors": [
+        "Marschner SL",
+        "Quintans DJ",
+        "Chow CK"
+      ],
+      "journal": "JACC. Advances",
+      "date": "2026-08-31",
+      "year": 2026,
+      "abstract": "BACKGROUND: Hypertensive disorders of pregnancy (HDP) increase the risk of future cardiovascular events.\n\nOBJECTIVES: The objective of the study was to examine the association between lifestyle factors and premature (<50 years) cardiovascular (pCV) events in women with and without HDP.\n\nMETHODS: Data from young parous women in the Australian Longitudinal Study on Women's Health 1973-1978 cohort were linked with medical records. Time-varying Cox proportional hazards models were used to assess whether lifestyle factors were associated with pCV in those with and without HDP. Outcomes of pCV included stroke, ischemic heart disease, valvular heart disease, cardiomyopathy, select arrhythmias, valvular heart disease, pulmonary embolism, and deep vein thrombosis.\n\nRESULTS: Among 10,368 parous women (median follow-up: 16.5 years), 14.4% (1,493/10,368) had HDP and 4.3% (448/10,310) experienced a pCV event. HDP (adjusted HR [aHR]: 1.74; 95% CI: 1.32-2.31), obesity (aHR: 1.60; 95% CI: 1.19-2.15), and high saturated-fat intake (>319 g/day) (aHR: 1.67; 95% CI: 1.11-2.53) were associated with an increased risk of pCV. Breastfeeding (>16 months) (aHR: 0.66; 95% CI: 0.49-0.89) and high protein intake (>90 g/day) (aHR: 0.65; 95% CI: 0.43-0.96) were associated with a lower risk of pCV. The association between smoking, the Australian Recommended Food Score diet, and glycemic index with pCV events differed in women with and without HDP.\n\nCONCLUSIONS: This study found that a HDP diagnosis was associated with pCV. Obesity and high saturated-fat intake were associated with increased pCV, whereas breastfeeding and high protein intake were associated with lower pCV. The impact of some risk factors on the development of pCV differs between women with and without HDP. These findings highlight the importance of prevention management in women with HDP.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -156279,33 +158331,6 @@
       "source": "PubMed"
     },
     {
-      "id": "pmid:42637238",
-      "pmid": "42637238",
-      "doi": "10.1542/peds.2025-074462",
-      "title": "Trends in Pathogens Causing Late-Onset Sepsis in Very Preterm Infants: 2010-2023.",
-      "authors": [
-        "Jiang S",
-        "Liu J",
-        "Schaffer K",
-        "Bennett MV",
-        "Profit J",
-        "Lee HC"
-      ],
-      "journal": "Pediatrics",
-      "date": "2026-08-25",
-      "year": 2026,
-      "abstract": "OBJECTIVE: To examine long-term trends in overall and pathogen-specific late-onset sepsis (LOS) incidence among very preterm infants (VPIs) in a statewide, population-based network.\n\nMETHODS: We analyzed data for infants born at 22 to 31 weeks' gestation in the California Perinatal Quality Care Collaborative from 2010 to 2023. LOS was defined as a positive blood and/or cerebrospinal fluid culture obtained more than 3 days after birth. Annual percentage changes (APCs) were estimated using Poisson regression, with and without adjustment for gestational age.\n\nRESULTS: Among 66 441 VPIs, 6012 (9.0%) had at least 1 LOS episode, with 15.4% mortality. Of 6817 pathogens, 64.7% were gram-positive bacteria, 28.3% gram-negative bacteria, and 7.0% fungi; coagulase-negative staphylococcus (CoNS, 34.5%), Staphylococcus aureus (18.1%), Escherichia coli (10.9%), and Klebsiella species (7.2%) were the most common pathogens. From 2010 to 2017, LOS incidence declined from 15.0% to 8.2% (adjusted APC [aAPC] -5.5% [95% CI, -6.6% to -4.4%]). From 2018 to 2023, LOS incidence increased (aAPC 2.1% [95% CI, 0.6% to 3.6%]), driven by non-CoNS gram-positive (aAPC 5.4% [95% CI, 3.1% to 7.9%]) and gram-negative (aAPC 5.3% [95% CI, 2.4% to 8.2%]) pathogens. S aureus LOS increased in both periods (aAPC 4.3% [95% CI, 1.0% to 7.6%] and 7.7% [95% CI, 4.4% to 11.1%]), and Klebsiella LOS increased during 2018-2023 (aAPC 9.9% [95% CI, 4.2% to 15.8%]).\n\nCONCLUSIONS: In this contemporary VPI cohort, LOS incidence declined during 2010-2017 but increased thereafter, driven by rising non-CoNS gram-positive and gram-negative infections, particularly S aureus. Targeted prevention strategies should address the evolving pathogen epidemiology of LOS.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
       "id": "pmid:42637094",
       "pmid": "42637094",
       "doi": "10.1016/j.ijcard.2026.134752",
@@ -171485,7 +173510,7 @@
       "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
       "date": "2026-08-24",
       "year": 2026,
-      "abstract": "INTRODUCTION: Avacopan, an oral C5a receptor inhibitor, approved for ANCA-associated vasculitis (AAV) in 2021. Following FDA reports of 76 worldwide drug induced liver injury (DILI) cases (66 in Japan, 5 in the US), the agency requested market withdrawal, which the manufacturer declined. US risk has not been quantified using real-world data. This study estimated the incidence of hepatic enzyme elevations among US avacopan users and characterized confirmed DILI cases.\n\nMETHODS: Data came from the Rheumatology Informatics System for Effectiveness Registry. We identified AAV patients with ≥1 avacopan prescription (October 2021-March 2025). Hepatic enzyme elevations were defined per FDA guidance (AST/ALT >3×ULN, alkaline phosphatase >2×ULN, total bilirubin >2 mg/dL). Person-time at risk was estimated from prescribing information. Patients meeting elevated laboratory thresholds underwent Roussel Uclaf Causality Assessment Method (RUCAM) evaluation.\n\nRESULTS: Among 238 AAV patients treated with avacopan, liver enzyme elevations during treatment were uncommon: 5 patients had elevated AST, 3 ALT, 4 Alk Phos, and 2 T.bili, with incidence rates of 4.24 (1.77, 10.19), 2.67 (0.86, 8.27), 3.56 (1.34, 9.49), and 1.80 (0.45, 7.19) per 100 person-years, respectively. Median time to first hepatic enzyme screening was 32 days, with testing intervals averaging 125 days. Two DILI cases (0.8%) were identified, both with RUCAM scores of 9 (highly probable causality), including one with histologically-confirmed severe hepatocellular injury.\n\nCONCLUSIONS: Hepatic enzyme elevations during avacopan therapy were infrequent in this US cohort, yet severe DILI occurred. Findings support vigilant early monitoring and informed discussions of potential risks during ongoing regulatory reassessment.",
+      "abstract": "OBJECTIVE: Avacopan, an oral C5a receptor inhibitor, was approved for antineutrophil cytoplasmic antibody-associated vasculitis (AAV) in 2021. Following US Food and Drug Administration (FDA) reports of 76 worldwide drug-induced liver injury (DILI) cases (66 in Japan and five in the United States), the agency requested market withdrawal, which the manufacturer declined. US risk has not been quantified using real-world data. This study estimated the incidence of hepatic enzyme elevations among US avacopan users and characterized confirmed DILI cases.\n\nMETHODS: Data came from the Rheumatology Informatics System for Effectiveness registry. We identified patients with AAV with at least one avacopan prescription (October 2021-March 2025). Hepatic enzyme elevations were defined per FDA guidance (aspartate transferase [AST] or alanine transaminase [ALT] >3 × the upper limit of normal [ULN], alkaline phosphatase [Alk Phos] >2 × ULN, and total bilirubin >2 mg/dL). Person-time at risk was estimated from prescribing information. Patients meeting elevated laboratory thresholds underwent Roussel Uclaf Causality Assessment Method (RUCAM) evaluation.\n\nRESULTS: Among 238 patients with AAV treated with avacopan, liver enzyme elevations during treatment were uncommon: five patients had elevated AST, three ALT, four Alk Phos, and two total bilirubin, with incidence rates of 4.24 (95% confidence interval [CI] 1.77-10.19), 2.67 (95% CI 0.86-8.27), 3.56 (95% CI 1.34-9.49), and 1.80 (95% CI 0.45-7.19) per 100 person-years, respectively. Median time to first hepatic enzyme screening was 32 days, with testing intervals averaging 125 days. Two DILI cases (0.8%) were identified, both with RUCAM scores of 9 (highly probable causality), including one with histologically confirmed severe hepatocellular injury.\n\nCONCLUSION: Hepatic enzyme elevations during avacopan therapy were infrequent in this US cohort, yet severe DILI occurred. Findings support vigilant early monitoring and informed discussions of potential risks during ongoing regulatory reassessment.",
       "publication_types": [
         "Journal Article"
       ],
@@ -204488,6 +206513,32 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42674821",
+      "pmid": "42674821",
+      "doi": "10.21873/cgp.20612",
+      "title": "Integrative Cross-platform Analysis of Kinase Inhibitor Effects on Statin-relevant Cardioprotective Pathways in Human Cardiomyocytes.",
+      "authors": [
+        "Kuo TY",
+        "Cheng MC",
+        "Jhou HJ",
+        "Lee CH",
+        "Chen PH"
+      ],
+      "journal": "Cancer genomics & proteomics",
+      "date": "2026-01-01",
+      "year": 2026,
+      "abstract": "BACKGROUND/AIM: Kinase inhibitors (KIs) can cause cardiotoxicity through mechanisms overlapping with statin cardioprotective pathways, yet their effects on these pathways in cardiomyocytes remain uncertain. We evaluated six literature-defined statin-relevant gene sets using transcriptomic and proteomic data.\n\nMATERIALS AND METHODS: Pre-ranked gene set enrichment analysis was performed for 23 KIs in primary cardiac cells (GSE146096; n=319) and iPSC-derived cardiomyocytes (GSE217421; n=541), with cross-platform analysis of 21 KIs by shotgun proteomics (PXD014791; n=300). Pathway-specific concordance was assessed by Spearman correlation with Benjamini-Hochberg correction; protein scores were estimated after adjustment for cell line.\n\nRESULTS: KI effects were heterogeneous. The anti-fibrotic pathway showed nominal concordance across the two transcriptomic datasets (ρ=0.495, p=0.016, q=0.098; 91% direction concordance) and significant cell-line-adjusted transcriptomic-proteomic concordance (ρ=0.644, p=0.0016, q=0.0081). Nilotinib reproducibly upregulated NF-κB pathway genes [normalized enrichment score (NES)=+2.29 and +2.18 in discovery and validation], with targeted inter-gene-correlation-adjusted testing supporting higher NF-κB expression than under rosuvastatin (CAMERA p=3.54×10-8). No global cross-omics summary remained significant after harmonizing pathway universes and accounting for repeated pathways.\n\nCONCLUSION: KI effects on statin-relevant pathways were pathway-specific. Anti-fibrotic concordance and nilotinib-associated NF-κB upregulation are hypothesis-generating candidates for experimental validation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "cardio-oncology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42671965",
       "pmid": "42671965",
       "doi": null,
@@ -213487,6 +215538,32 @@
       ],
       "topics": [
         "pulmonary-vascular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:41995668",
+      "pmid": "41995668",
+      "doi": "10.1016/j.pedhc.2026.01.008",
+      "title": "Left Ventricular Bubbles in an Asymptomatic Pediatric Outpatient: Sound the Alarm or False Alarm?",
+      "authors": [
+        "Masterson EM",
+        "Burns J",
+        "Kyle WB",
+        "Parthiban A",
+        "Molossi S"
+      ],
+      "journal": "Journal of pediatric health care : official publication of National Association of Pediatric Nurse Associates & Practitioners",
+      "date": "2026-01-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "congenital"
       ],
       "has_full_text": false,
       "full_text_url": null,
