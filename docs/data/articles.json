@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:24:39.185163+00:00",
+  "generated_at": "2026-09-03T00:20:01.690864+00:00",
   "articles": [
     {
       "id": "pmid:42683123",
@@ -1408,6 +1408,52 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13351626/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42684015",
+      "pmid": "42684015",
+      "doi": "10.1080/2162402X.2026.2695491",
+      "title": "A phase II multi-institutional single arm trial evaluating TG4010 vaccine plus nivolumab in non-small cell lung cancer.",
+      "authors": [
+        "Wang CX",
+        "Luxardi G",
+        "Mori H",
+        "Maverakis EM",
+        "Merleev AA",
+        "Marusina AI",
+        "Borowsky AD",
+        "Parikh M",
+        "Riess JW",
+        "Moshiri A",
+        "Bazhenova L",
+        "Gubens M",
+        "Koczywas M",
+        "Butner JD",
+        "Huang J",
+        "Kim SK",
+        "Vick LV",
+        "Sun Y",
+        "Canter RJ",
+        "Murphy WJ",
+        "Daly ME",
+        "Kelly K",
+        "Monjazeb AM"
+      ],
+      "journal": "Oncoimmunology",
+      "date": "2026-12-31",
+      "year": 2026,
+      "abstract": "Immune checkpoint inhibitors (ICIs) have transformed non-small cell lung cancer (NSCLC) therapy, but only 25% of patients have durable responses. TG4010, a mucin 1 (MUC1) vaccine, has demonstrated activity in NSCLC. We conducted a multi-institutional study to determine the safety and activity of nivolumab plus TG4010 in ICI naïve NSCLC patients (NCT02823990). The target accrual was 29 evaluable patients. The primary endpoint was the response rate requiring at least 10/29 responders. The study was terminated early due to slow accrual after enrolling 13 patients. The treatment was well tolerated. The most common adverse effects were fatigue (grades 1-3) and injection site reactions (grades 1-2). TG4010+ICI had limited benefit in NSCLC with 1 of 12 (8.3%) evaluable patients responding, 2 with disease control, and 9 progressing on therapy. The median overall survival was 7.23 months. One patient with a HER2 driver mutation (which prognosticates poor ICI response) achieved an ongoing durable complete response. This exceptional responder had significant baseline upregulation of GSEA pathways linked to interferon signaling, which may be critical for generating vaccine directed immune responses. In general, therapy decreased MUC1 expression in tumors and PD-1 on T cells and upregulated pathways of adaptive and innate immune responses within tumors and circulating immune cells. However, TCR sequencing demonstrated no T cell clonal expansion or epitope spreading, which may explain the lack of clinical benefit. TG4010+ICI appears to have limited benefit. Further study is needed to optimize the clinical efficacy, which may include a role in NSCLC with driver mutations or in combination with cytotoxic therapy.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Clinical Trial, Phase II"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -5976,7 +6022,8 @@
       "year": 2026,
       "abstract": "BACKGROUND: Acute Exacerbations of Chronic Obstructive Pulmonary Disease (AECOPD) drive disease progression and morbidity. Early prediction could enable timely intervention and thereby potentially limit the severity of the AECOPD and shorten its course. Smart inhalers measure inhalation parameters that may detect physiological changes preceding AECOPDs.\n\nOBJECTIVE: To explore whether changes in inhalation parameters (inhalation duration, Peak Inspiratory Flow (PIF), inhalation volume) as measured by a smart inhaler (RS01XTM) can identify clinical worsening leading up to an exacerbation within 14 days preceding an AECOPD.\n\nMETHODS: This single-centre observational pilot study included nine COPD patients using maintenance therapy (LAMA/LABA ± ICS) with the RS01XTM inhaler for six months. AECOPD were defined based on daily symptom diary data. Trends in inhalation parameters during the 14-day pre-AECOPD window were compared with 14-day control periods without AECOPD using descriptive statistics, visual inspection, slope calculations, and exploratory generalised estimating equations (GEE).\n\nRESULTS: During the follow-up period, five AECOPDs occurred in three patients. While PIF (p = .007) showed a clear decline preceding AECOPD, inhalation duration (p = .712) and volume (p = .215) remained stable prior to an AECOPD.\n\nCONCLUSION: Inhalation parameters, particularly PIF, appear promising and may reflect physiological changes associated with AECOPD. However, their use as a standalone predictor is still too early. The heterogeneity of COPD and the explorative design of this study limit their current predictive utility within a 14-day window. Nevertheless, these findings suggest potential for future research, particularly when combined with clinical and contextual data to improve predictive accuracy.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Observational Study"
       ],
       "topics": [
         "research-methods",
@@ -6164,9 +6211,11 @@
       "year": 2026,
       "abstract": "OBJECTIVE: To investigate interindividual variability in post-exercise hypotension (PEH) and to characterise cardiovascular and autonomic differences between responders and non-responders following aerobic and isometric exercise in adults of African and South Asian descent with elevated blood pressure (BP).\n\nMETHODS: Physically inactive adults of African and South Asian descent living in Suriname (18-65 years) with high-normal BP or grade I hypertension participated in a randomised controlled crossover trial. In this randomised cross-over trial, 47 adults (50.1 ± 10.8 years; 38% male) with high-normal blood pressure or grade I hypertension completed three conditions: aerobic exercise (30 min at 40-60% heart rate reserve), isometric handgrip exercise, and a non-exercise control. Ambulatory BP was assessed over 24 h. PEH was defined as the net effect: (post-exercise - pre-exercise) - (post-control - pre-control). Participants were classified as responders if daytime BP decreased ≥5 mmHg. Arterial stiffness, cardiac, and autonomic parameters were assessed.\n\nRESULTS: Following aerobic exercise, 46% of participants were classified as systolic responders compared with 28% after isometric exercise. No baseline differences were observed in demographic or clinical characteristics between responders and non-responders, suggesting that PEH variability may reflect underlying physiological rather than clinical differences. Aerobic responders demonstrated greater reductions in aortic augmentation index (-19.4% vs. -10.9%, p = 0.05), larger increases in stroke volume (+8.1 vs. -5.3 mL, p = 0.05) and cardiac output (+1.54 ± 1.89 vs. +0.58 ± 1.60 L/min, p = 0.009), and more favourable autonomic recovery. Among all variables, only the change in cardiac output was associated with PEH magnitude (r = -0.46, p = 0.006). No consistent physiological differences were observed following isometric exercise.\n\nCONCLUSION: PEH following aerobic exercise is characterised by a distinct responder phenotype associated with greater reductions in aortic augmentation index and favourable cardiac adaptations. These findings highlight substantial interindividual variability in BP responses and support the need for individualised exercise strategies in hypertension management.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Randomized Controlled Trial"
       ],
       "topics": [
+        "clinical-trials",
         "neurology",
         "prevention"
       ],
@@ -40713,6 +40762,560 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42683846",
+      "pmid": "42683846",
+      "doi": "10.1097/MCA.0000000000001673",
+      "title": "The perforation triad as a recognition-and-response pattern for balloon- or stent-related Ellis II-III coronary artery perforation during percutaneous coronary intervention.",
+      "authors": [
+        "Acar E",
+        "Acar M",
+        "Dönmez İ",
+        "İzci S",
+        "Güneş Y",
+        "İzgi İA",
+        "Kirma C"
+      ],
+      "journal": "Coronary artery disease",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "OBJECTIVE: Coronary artery perforation (CAP) is a rare but potentially catastrophic complication of percutaneous coronary intervention (PCI). We describe a prespecified candidate recognition pattern - the perforation triad - that may help operators identify an evolving perforation during inflation.\n\nMETHODS: In this single-center retrospective matched case-control study, 9865 PCI procedures performed between 2020 and 2025 were screened. Forty-one balloon- or stent-related Ellis II-III CAP cases (0.42%) were matched 1: 1 by age, sex, American College of Cardiology/American Heart Association lesion class, and rotational atherectomy use with uncomplicated PCI controls, each contributing one stage-matched index inflation. The triad - chest or back pain during inflation, abrupt balloon-waist disappearance without balloon rupture, and ventricular extrasystole temporally linked to inflation - was prespecified before data abstraction and adjudication. Prespecified descriptive analyses covered the three components, their pairwise combinations, and component-count thresholds; no threshold optimization was undertaken.\n\nRESULTS: Among CAP cases, components were present in 78.0, 85.4, and 73.2%, respectively; the complete triad in 28 of 41 cases (68.3%; 95% confidence interval: 51.9-81.9) and in 0 of 41 selected control inflations. Control inflations meeting the pattern fell as more components were required (≥1, 20 of 41; ≥2, 10 of 41; triad, 0 of 41), with case-level sensitivity of 87.8, 80.5, and 68.3%. Tamponade requiring drainage occurred in 29.3%, and in-hospital mortality was 7.3%.\n\nCONCLUSION: The perforation triad is a plausible recognition pattern for balloon- or stent-related Ellis II-III CAP. Because of retrospective sampling, selected controls, and incorporation bias, it should not be interpreted as a validated diagnostic rule or as evidence of real-world specificity; prospective inflation-level validation is required.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42634005",
+      "pmid": "42634005",
+      "doi": "10.1071/AH26030",
+      "title": "Appointment adherence, weight reduction, and retention at 9 months in Australian clinical obesity services: a retrospective cohort study.",
+      "authors": [
+        "Adapa S",
+        "Fahey P",
+        "Piya M",
+        "Atlantis E"
+      ],
+      "journal": "Australian health review : a publication of the Australian Hospital Association",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "OBJECTIVE: This study aimed to compare demographic, clinical, and early engagement characteristics between participants retained and not retained at 9 months in specialist obesity services.\n\nMETHODS: This retrospective cohort study analysed 235 records of patients (mean body mass index 49.2 kg/m²) from eight Australian specialist obesity services. Participants were classified as retained (n = 153) and not retained (n = 82) at 9 months. Demographic variables and baseline comorbidities were examined to identify potential predictors of retention. Appointment adherence and weight reduction outcomes during the first 6 months were also analysed according to retention status. Descriptive statistics and appropriate comparative tests were used to test the differences between groups.\n\nRESULTS: Baseline demographic characteristics were similar between participants retained and not retained at 9 months. Type 2 diabetes was more prevalent among participants retained compared with those not retained (55.6% vs 39.0%; P = 0.02). Eating disorders (7.8% vs 22.0%; P = 0.002), gallstones (1.9% vs 8.6%; P = 0.04), and prior stroke (0.6% vs 8.6%; P = 0.003) were more common in participants who were not retained. Retention at 9 months was associated with significantly higher appointment adherence throughout the study period, with the greatest difference in cumulative 9-month adherence (0.88 vs 0.77, P < 0.001). At 6 months, retained participants achieved significantly greater weight reduction (-9.02 kg ± 10.29 kg vs -5.78 kg ± 10.55 kg; P = 0.04).\n\nCONCLUSIONS: In this cohort, 9-month retention was strongly associated with early appointment adherence and greater 6-month weight reduction. Non-retained patients clustered with eating disorders and prior stroke indicate patients requiring additional support. Early adherence and weight reduction appear key to sustained engagement.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "neurology",
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42608336",
+      "pmid": "42608336",
+      "doi": "10.1071/AH26080",
+      "title": "Extended dispensing intervals for pancreatic enzyme extract without access destabilisation: a national retrospective study evaluating supply resilience during policy changes and medicine shortages in Australia.",
+      "authors": [
+        "Bonython M",
+        "Kalisch Ellett L",
+        "Hall K",
+        "Carson J",
+        "Pearson SA",
+        "Pratt N",
+        "Janetzki J"
+      ],
+      "journal": "Australian health review : a publication of the Australian Hospital Association",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "OBJECTIVE: This study aims to describe national trends in pancreatic enzyme replacement therapy (PERT) dispensing in Australia and assess changes following the introduction of 60-day prescription dispensing, in the context of medicine shortages and market changes.\n\nMETHODS: Publicly available Pharmaceutical Benefits Scheme (PBS) data for pancreatic enzyme extract dispensings were analysed from February 2014 to October 2025. Monthly dispensing rates per 100,000 population were calculated using Australian Bureau of Statistics population estimates. Medicine shortage periods, including sustained shortages in 2025, were identified using the Therapeutic Goods Administration (TGA) database. Interrupted time-series analyses were conducted to evaluate changes in dispensing of 5000 U, 10,000 U, 25,000 U, and 35,000 U strengths before (July 2021-August 2023) and after (October 2023-October 2025) implementation of 60-day dispensing.\n\nRESULTS: PERT dispensing increased from 33 to 85 dispensings per 100,000 population per month between February 2014 and October 2025 (160% increase). Dispensing patterns varied across formulations in response to market changes. Following the introduction of the 35,000 U strength in July 2021, its share of total dispensings increased, whereas dispensing of the discontinued 40,000 U strength declined from November 2020. Interrupted time-series analyses indicated a statistically significant immediate change in dispensing only for the 5000 U strength of PERT. Statistically significant changes in dispensing were observed following introduction of the policy for the 25,000 and 35,000 strengths, but the absolute difference in dispensings per 100,000 population per month was minimal.\n\nCONCLUSIONS: PERT use in Australia has increased over time, reflecting growing clinical need. Although medicine shortages influenced utilisation patterns across strengths, the introduction of 60-day dispensing was not associated with significant changes in PBS dispensing of PERT. Ongoing monitoring is warranted given reliance on a single-brand therapy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42608334",
+      "pmid": "42608334",
+      "doi": "10.1071/AH26079",
+      "title": "Beyond the protocol: navigating ethics and governance in the multicentre implementation trials - the QASC Australasia and T3 Trials.",
+      "authors": [
+        "Dale S",
+        "Saheb S",
+        "Fasugba O",
+        "Coughlan K",
+        "McInnes E",
+        "Cadilhac DA",
+        "Cheung NW",
+        "Hill K",
+        "Page K",
+        "Sanjuan Menendez E",
+        "Neal E",
+        "Pollnow V",
+        "Gilder E",
+        "Straiton N",
+        "Holman T",
+        "Slark J",
+        "Ranta A",
+        "Levi C",
+        "Middleton S"
+      ],
+      "journal": "Australian health review : a publication of the Australian Hospital Association",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To describe and compare ethics and governance approval timelines for the Quality in Acute Stroke Care (QASC) Australasia Trial (2021-present) and Triage, Treatment, and Transfer of Patients with Stroke in Emergency Departments (T3) Trial (2012-2014), benchmarking against national and international targets.\n\nMETHODS: Retrospective, descriptive analysis of approval timelines for ethics, Site-Specific Assessment (SSA), Clinical Trials Research Agreements (CTRA), and Public Health Act (PHA) application (Queensland hospitals).\n\nRESULTS: The QASC Australasia Trial involved 52 Australian and 8 New Zealand hospitals. In Australia, lead ethics approval took 30 days. SSA approvals took a median of 91 days (interquartile range (IQR) 52-144). CTRA execution required a median of 56 days (IQR 38-105). PHA approval was required at 10 sites, with a median of 34 days (IQR 29-52). In New Zealand, ethics approval took 53 days. SSA approvals and CTRA execution took medians of 121 days (IQR 73-152) and 133 days (IQR 84-146), respectively. The T3 Trial involved 26 Australian hospitals. Lead ethics approval took 76 days. SSA approvals (n = 22) took a median of 132 days (IQR 106-175). Since the T3 Trial, Australian lead ethics approval times decreased by 61% and SSA approvals decreased by 31%. Only 33% of Australian QASC Australasia Trial and 5% of T3 Trial SSA approvals met the 60-day national benchmark.\n\nCONCLUSIONS: Multicentre trial governance processes remain lengthy, particularly for New Zealand. CTRA and jurisdiction requirements delayed SSA approval. Streamlined processes are needed to optimise resources and accelerate evidence translation.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42604850",
+      "pmid": "42604850",
+      "doi": "10.1071/AH25307",
+      "title": "Following the rules: which type 1 diabetes guidelines, protocols and recommendations are tertiary clinics in Australia following? A quantitative study.",
+      "authors": [
+        "Smith CL",
+        "Carrigan A",
+        "Singh N",
+        "Jones TW",
+        "Cromb L",
+        "Woodhead HJ",
+        "Pease A",
+        "Huynh T",
+        "Maguire AM",
+        "Neville KA",
+        "Bloom DE",
+        "Zoungas S",
+        "Couper J",
+        "Braithwaite J",
+        "Davis EA",
+        "Zurynski Y"
+      ],
+      "journal": "Australian health review : a publication of the Australian Hospital Association",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "OBJECTIVES: This study characterises the use of type 1 diabetes (T1D) guidelines and protocols in Australian T1D clinics working with paediatric patients, and determines if management practices align with T1D-specific guidelines.\n\nMETHODS: T1D clinic service leaders responded to an online survey on guidelines (e.g. glycated haemoglobin target levels, time in range targets, and technology uptake and management) and protocols (e.g. surgery) used. Responses were compared with T1D guidelines or protocols.\n\nRESULTS: A representative healthcare professional from 32 T1D services (16 metropolitan; 16 regional) from all Australian states and territories completed the survey. Most services (90%) reported glycated haemoglobin targets of <7% and a time in range of ≥70% (95%). Twenty-one services (72%) developed shared care plans, giving access to schools (91%), patients/families (81%) and general practitioners (71%), and with referrals to other health professionals (52%). Most (79%) clinics provided patients with International Society for Pediatric and Adolescent Diabetes/National Institute of Clinical Excellence guideline-aligned responses on managing out-of-range blood glucose level readings from T1D-related technologies. Regional clinics (68%) provided guideline-aligned responses less frequently than metropolitan clinics (91%). Services used combinations of state-based, national and locally developed protocols for patient management.\n\nCONCLUSIONS: This is the first Australia-wide study examining the protocols and guidelines followed for paediatric T1D management by T1D clinics. Most services reported management practices aligned with T1D guidelines. Greater sharing of care plans when referring patients to other services could improve care continuity. Increasing regional clinics' delivery of guideline-aligned information to patients on using T1D technology could support patient self-management. This survey provides a benchmark of diabetes guideline awareness and protocol usage in Australia.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42604849",
+      "pmid": "42604849",
+      "doi": "10.1071/AH26057",
+      "title": "End-of-life planning and its governing policies: a comparison of New South Wales public health facility documents.",
+      "authors": [
+        "Billing DJ",
+        "Learmonth G",
+        "Edwards G",
+        "White K"
+      ],
+      "journal": "Australian health review : a publication of the Australian Hospital Association",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "OBJECTIVE: This desktop/scoping document review aimed to determine differences in availability, content, definitions, and terminology used in NSW Health policy documents that pertained to end-of-life planning.\n\nMETHODS: A desktop/scoping comparative analysis of identified documents from the 15 NSW Local Health District (LHD) intranet sites was conducted to identify policy documents that describe elements of or were relevant to end-of-life planning. Of those that pertained to end-of-life planning, data were extracted and analysed using the READ approach.\n\nRESULTS: A total of 105 documents were obtained, with 49 (46%) being identified as discussing or mentioning resuscitation plans, advance care plans, or advance care directives (36 LHD, 9 facility-level, and 5 state-level). The frequency of definitions identified in the 49 documents included 26 (53%) using advance care plan, 24 (48%) using advance care directive, and 16 (32%) using resuscitation plan. The greater proportion of these did not align with the state policy PD_2014_030. Significant variation was observed in terminology and abbreviations among all documents. Using the Australian Statistical Geography Standard Remoteness Structure of geographical remoteness, there are differences in the availability and accessibility between major cities (61% of documents) versus inner-regional/outer-regional/remote/very-remote-areas (11.4 /15.9/2.3/9.1%).\n\nCONCLUSION: This review highlights variations in the number and type of documents available to clinicians across LHDs. There were evident disparities in the number of documents available on LHD intranets as well as between regional-remote NSW when compared to major cities. When viewed in conjunction with document-to-document inconsistencies in terminology and definitions, these findings highlight the possibility that current state policies are not meeting the needs of LHDs and hospitals at the local level. This underscores the importance of accepted, uniform definitions within the context of statewide policymaking.",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42479566",
+      "pmid": "42479566",
+      "doi": "10.1097/ALN.0000000000006275",
+      "title": "Association of Intraoperative Narrow Pulse Pressure during Normotension with Postoperative Acute Kidney Injury: A Retrospective Cohort Analysis.",
+      "authors": [
+        "Yao S",
+        "Liu Q",
+        "Zeng R",
+        "Tang C"
+      ],
+      "journal": "Anesthesiology",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "BACKGROUND: The association between narrow pulse pressure and acute kidney injury (AKI) remains controversial. We hypothesized that normal mean arterial pressure (MAP) with narrow pulse pressure is independently associated with postoperative AKI.\n\nMETHODS: This retrospective cohort study analyzed adult noncardiac surgeries at a single academic medical center in South Korea (2011 to 2020). Patients were stratified by median intraoperative pulse pressure: narrow (less than 40 mmHg), reference (40 to 70 mmHg), and wide (greater than 70 mmHg). Entropy balancing adjusted for covariates, including cumulative vasopressor load and hypotension duration. A two-by-two risk matrix evaluated the interaction between MAP (less than 65 vs . 65 mmHg or greater) and pulse pressure. A mechanistic substudy correlated pulse pressure with stroke volume index.\n\nRESULTS: Among 30,039 patients (median age 60 yr; 54.6% male), AKI incidence was 6.7%. Compared to reference pulse pressure, narrow pulse pressure was independently associated with AKI (odds ratio, 1.66; 95% CI, 1.42 to 1.94; P < 0.001). Hypotension with reference pulse pressure did not significantly increase risk (odds ratio, 1.09; 95% CI, 0.86 to 1.38; P = 0.475). Conversely, normotension with narrow pulse pressure elevated AKI risk (odds ratio, 1.56; 95% CI, 1.27 to 1.89; P < 0.001). Patients experiencing a \"double hit\" of concurrent hypotension and narrow pulse pressure exhibited the highest risk (odds ratio, 1.85; 95% CI, 1.21 to 2.81). Mechanistically, stroke volume index was significantly lower in the normotensive narrow pulse pressure group than the hypotensive reference group (27 vs . 47 ml/m 2 ). Risk became significant after 40 min of exposure.\n\nCONCLUSIONS: Narrow pulse pressure is independently associated with postoperative AKI, even when MAP is maintained above 65 mmHg. A MAP-centric approach may obscure low-flow states, highlighting the potential value of incorporating pulse pressure into perioperative assessments.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "nephrology",
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42364319",
+      "pmid": "42364319",
+      "doi": "10.1016/j.bbrc.2026.154205",
+      "title": "Research progress on the association between diabetes mellitus and risk of cancer: From epidemiology to molecular mechanisms.",
+      "authors": [
+        "Huang Y",
+        "Ju S",
+        "Li S"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Diabetes mellitus and cancer represent two major global health burdens. This paper systematically reviews and analyzes recent research advances on the relationship between diabetes and cancer risk, encompassing both epidemiological and molecular mechanism studies. Epidemiological data indicate that the association between diabetes and cancer exhibits significant organ specificity, geographic and population variability, as well as type-specific differences. Diabetes mellitus significantly increases the risk of hepatocellular carcinoma, pancreatic cancer, breast cancer, and colorectal cancer, yet exhibits a unique inverse association with prostate cancer risk. At the molecular level, hyperinsulinemia directly promotes tumor cell proliferation by activating the PI3K/AKT/mTOR and Ras/MAPK/ERK signaling pathways through the insulin/IGF-1 axis. Concurrently, hyperglycemia creates a favorable microenvironment for tumorigenesis by enhancing the Warburg effect, promoting advanced glycation end-product (AGE) accumulation, and inducing oxidative stress and chronic inflammation. Beyond the classical pathways of hyperinsulinemia and hyperglycemia in diabetes, recent research has explored novel directions, including tumor microenvironment remodeling, epigenetics, and immunometabolism. These discoveries encompass emerging mechanisms such as exosomes acting as long-range messengers of systemic metabolic disorders, novel key signaling molecules (e.g., inhibin subunit βB (INHBB) and fibrinogen C domain containing 1 (FIBCD1)), and the remodeling of Schwann cells within the tumor microenvironment. These mechanisms, coupled with potential intervention targets like INHBB, glioma-associated oncogene 1 (Gli-1), FIBCD1, and estrogen-related receptor alpha (ERRα), offer novel clinical approaches for tumor screening, treatment, and prevention.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42364318",
+      "pmid": "42364318",
+      "doi": "10.1016/j.bbrc.2026.154160",
+      "title": "Integrative analysis of machine learning and single-cell sequencing identifies IGHG1 as a therapeutic target for epimedium in diabetes-gastric cancer comorbidity.",
+      "authors": [
+        "Tang D",
+        "Yao H",
+        "Bao W",
+        "Zhai Y",
+        "Li Q",
+        "Zhao Y",
+        "Zhou W",
+        "Wu W"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "BACKGROUND: The clinical comorbidity of diabetes mellitus (DM) and gastric cancer (GC) presents a significant healthcare challenge, as these two conditions often synergistically promote disease progression. Although Epimedium is known for its anti-tumor and metabolic regulatory properties, the precise molecular mechanism by which it intervenes in the DM-GC comorbidity remains poorly understood.\n\nMETHODS: We integrated transcriptomic datasets of DM and GC to identify common differentially expressed genes (DEGs). Machine learning algorithms, enhanced by SHapley Additive exPlanations (SHAP) analysis, were utilized to isolate core genes within both disease contexts. These candidates were then intersected with the predicted targets of Epimedium. To refine the targets, single-cell RNA sequencing (scRNA-seq) analysis was performed to evaluate cell-specific expression patterns. Additionally, CCK-8, Western blot, and qPCR assays were conducted in human HGC-27 cells to validate the therapeutic efficacy of Epimedium in vitro.\n\nRESULTS: Eight common DEGs were identified, leading to the selection of GABRA1 and IGHG1 as primary hub genes. scRNA-seq analysis revealed that IGHG1 was significantly overexpressed in GC tissues compared to normal tissues, particularly within the B-cell population, whereas GABRA1 showed insufficient expression levels for further analysis. In cellular verification, HGC-27 cell viability was significantly inhibited by Epimedium in a dose-dependent manner, with a half-maximal inhibitory concentration (IC50) of 632.3 μg/ml. Furthermore, the expression of IGHG1 was markedly downregulated at both the transcriptional and translational levels following Epimedium treatment.\n\nCONCLUSIONS: Our findings identify IGHG1 as a critical molecular bridge in the DM-GC comorbidity. Epimedium exerts potent anti-tumor effects by targeting and downregulating IGHG1 expression. This study provides a novel therapeutic strategy and a robust theoretical basis for the treatment of patients suffering from concurrent diabetes and gastric cancer.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42361744",
+      "pmid": "42361744",
+      "doi": "10.1016/j.bbrc.2026.154153",
+      "title": "Crystal structure of a LysR regulator reveal an unconventional effector pocket from Acinetobacter baumannii.",
+      "authors": [
+        "Lu Q",
+        "Hu B",
+        "Yu Y",
+        "Xu Y",
+        "Qian X",
+        "Ge H",
+        "Ma J",
+        "Wang N"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Acinetobacter baumannii is a multidrug-resistant pathogen, and rising chlorhexidine tolerance threatens infection control. chlorhexidine induces the AceI efflux pump via the transcriptional regulator AceR, but the structural basis of effector recognition by AceR is unknown. Here, we report the 1.82 Å crystal structure of the AceR effector-binding domain (EBD) and its co-crystal structure with spermidine, a physiological substrate. A clear spermidine density appeared at the homodimer interface, where the ligand is symmetrically coordinated by both protomers-an arrangement seldom seen in LTTR family. Site-directed mutagenesis combined with isothermal titration calorimetry (ITC) demonstrates that amino acid substitutions at this interface impair CHX binding, confirming its physiological relevance. These results reveal an unconventional ligand-binding site at the AceR homodimer interface, expanding the LTTR regulatory paradigm and identifying a novel pocket.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42349124",
+      "pmid": "42349124",
+      "doi": "10.1016/j.bbrc.2026.154148",
+      "title": "Astragaloside II-preconditioned bone marrow mesenchymal stem cells attenuate sepsis-induced acute lung injury by restoring mitochondrial function via NRF2/PGC-1α pathway activation.",
+      "authors": [
+        "Zhang H",
+        "Sun Y",
+        "Tang Y",
+        "Yao L",
+        "Abulimiti X",
+        "Wu Q"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "OBJECTIVE: Sepsis-induced acute lung injury (ALI) is characterized by mitochondrial dysfunction and oxidative stress, contributing to high mortality rates. This study investigates the protective effects of astragaloside II (ASII)-preconditioned bone marrow mesenchymal stem cells (BMSCs) on sepsis-induced ALI and explores the underlying mechanism.\n\nMETHODS: BMSCs were isolated from C57BL/6 mice and preconditioned with ASII. The viability, migration, and apoptosis of these BMSCs were assessed. LPS-injured MLE-12 cells were co-cultured with ASII-preconditioned BMSCs to evaluate their protective effects on cell survival, apoptosis, mitochondrial membrane potential, and oxidative stress markers. A cecal ligation and puncture (CLP)-induced sepsis model in mice was used to assess the in vivo efficacy of ASII-preconditioned BMSCs on lung injury, pulmonary edema, inflammation, and apoptosis. The involvement of the NRF2 pathway was confirmed using a specific inhibitor, ML385.\n\nRESULTS: BMSCs pretreated with ASII exhibited enhanced viability, migration, and resistance to apoptosis. In LPS-injured MLE-12 cells, ASII-preconditioned BMSCs improved cell survival, reduced apoptosis, and restored mitochondrial membrane potential by modulating mitochondrial dynamics (increasing Mfn2 and decreasing Fis1 expression) and promoting mitochondrial biogenesis via the NRF2/PGC-1α/Nrf1/Tfam signaling axis. These protective effects were attenuated upon NRF2 inhibition with ML385, confirming NRF2 pathway involvement. In a CLP-induced sepsis model, ASII-preconditioned BMSCs significantly reduced lung injury, pulmonary edema, and apoptosis, while lowering inflammatory cytokine levels (TNF-α, IL-1β, IL-6) and increasing TIPE2 in bronchoalveolar lavage fluid.\n\nCONCLUSIONS: Collectively, these findings highlight ASII preconditioning as an effective strategy to enhance BMSCs therapeutic efficacy for sepsis-induced ALI through NRF2-mediated mitochondrial protection.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42349119",
+      "pmid": "42349119",
+      "doi": "10.1016/j.bbrc.2026.154170",
+      "title": "Circadian dysregulation of voltage-gated ion channels orchestrates cross-organ electrophysiological remodeling and therapeutic timing.",
+      "authors": [
+        "Mohammadiaria M"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Disruption of intrinsic circadian rhythms alters cellular electrophysiology, promoting disease across multiple organ systems. We show that dysregulation of core clock genes (BMAL1, CLOCK, PER, CRY) remodels voltage-gated ion-channel (VGIC) expression, leading to sustained depolarization, impaired repolarization, and oxidative stress, unifying malignant and degenerative phenotypes. Integrative transcriptomic analysis across multi-organ datasets (GSE130408, GSE62944, TCGA-BRCA, TCGA-LAML, GSE56473) revealed consistent signatures: upregulation of sodium channels (SCN family), suppression of potassium channels (KCNQ, KCNH), and membrane potential drift toward -45 mV. In neuronal simulations, Vm shifted from -63 to -50 mV with a 2.3-fold ROS increase and firing rates rising from 2.5 to 6.7 Hz, reproducing seizure-like hyperexcitability. Retinal photoreceptors (rd10) depolarized from -65 to -47 mV, with a doubled burst index, indicating stress. In cardiac models and MEA-validated human iPSC-cardiomyocytes, SCN5A upregulation and KCNQ1/KCNH2 suppression prolonged action-potential duration by ∼35% and generated circadian oscillations in beat rate and field-potential duration, accurately predicted by a phase-aware LSTM network (r = 0.86 for BPM, r = 0.79 for FPD). In hematologic tissue, Gardos-channel impairment and TF/PAI-1 overexpression disrupted ROS-ATP coupling, accelerating leukemogenic and prothrombotic signaling. The LSTM model, trained on circadian multi-omic trajectories, predicted VGIC remodeling and cell-cycle transitions with >85% accuracy. Validation against published datasets via reanalysis in synchronized cell systems (MCF-10A → MDA-MB-231, U2OS, OCI-AML3) showed that NaV blockers (tetrodotoxin, lidocaine) or K+ openers (retigabine) restored rhythmicity, reduced ROS by ∼40%, and lowered proliferation by ∼35%. This integrative circadian-electrophysiological framework highlights tissue-specific trends in VGIC remodeling and suggests potential circadian-informed therapeutic strategies. While phase-dependent effects are supported in neuronal, retinal, and cardiac models, predictions for other organs remain inferred from transcriptomic data and require further experimental validation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "electrophysiology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42341420",
+      "pmid": "42341420",
+      "doi": "10.1016/j.bbrc.2026.154193",
+      "title": "Imeglimin enhances GLUT4-mediated glucose uptake and is more effective than metformin in 3T3-L1 adipocytes.",
+      "authors": [
+        "Takahashi N",
+        "Kimura AP",
+        "Yoshizaki T",
+        "Ohmura K"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Imeglimin, a novel oral antidiabetic agent derived from metformin, improves insulin secretion and sensitivity in patients with type 2 diabetes. Recent clinical clamp studies have identified adipose tissue as a potential target of imeglimin; however, its direct effects on adipocytes are unclear. In this study, differentiated 3T3-L1 adipocytes were treated with imeglimin or metformin. We then examined glucose concentration in the culture medium, glucose uptake, plasma membrane glucose transporter expression, and the effects of signaling inhibitors. Imeglimin enhanced glucose uptake in a dose-dependent manner and reduced glucose concentration in the culture medium. Imeglimin was more effective than metformin at equivalent concentrations. Imeglimin also exerted an additive effect in the presence of insulin. Plasma membrane fractionation and immunoblotting revealed that imeglimin increased cell-surface glucose transporter (GLUT) 4 expression selectively, without altering total GLUT4 protein or plasma membrane GLUT1 levels. This suggests that increased GLUT4 translocation contributes to enhanced glucose uptake. Further, pharmacological inhibition studies demonstrated that imeglimin-induced glucose uptake was unaffected by AMPK inhibition but attenuated by inhibition of phosphoinositide 3-kinase, Akt, or protein kinase C. Additionally, the PI3K inhibitor Ly294002 suppressed imeglimin-induced GLUT4 accumulation at the plasma membrane. These findings identify adipocytes as a relevant cellular target of imeglimin and support, at least in part, the involvement of PI3K-dependent GLUT4 regulation in facilitating glucose transport, which may contribute to favorable effects of imeglimin on adipose tissue glucose metabolism in vivo.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42335657",
+      "pmid": "42335657",
+      "doi": "10.1016/j.bbrc.2026.154166",
+      "title": "E-InfertilityTest: Implementing an explainable AI framework for male infertility assessment.",
+      "authors": [
+        "Das G",
+        "Ghosh B",
+        "Ghosh Z"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Male infertility has emerged as a significant concern in modern society, with genetic defects as one of the major underlying cause behind it. This impairment negatively impacts sperm motility and morphology, leading to conditions such as Asthenozoospermia (reduced sperm motility), Teratozoospermia (abnormal sperm morphology) and sometimes Asthenoteratozoospermia (both motility and morphology defects). Assisted reproductive technologies (ART), such as in-vitro fertilization (IVF), offer a potential solution for such cases but with a low success rate. Classical semen analysis provides only a phenotypic snapshot without revealing the fertilizing potential of the sperms. Hence, in order to screen the functional sperm population as well as to get a deeper insight into the reasons underlying the aberrant sperm population, it is important to study their genetic profile. In this work, we have performed a meta analysis of the transcriptomic data of infertile sperms from Asthenozoospermia and Teratozoospermia patients with that from fertile sperms of normal individuals. Thereafter we have screened a signature gene set which has been used to develop a prediction model named Explainable Infertility Test (E-InfertilityTest) to classify between fertile versus infertile sperm at the preliminary level. For each prediction, it will also provide the set of genes which are playing a dominant role towards such prediction. Thus, it will provide patient specific dominant gene expression profile responsible for the aberration. Overall, this AI based framework will serve as a proof-of-concept towards predicting the genetic basis associated with male infertility. User can access the tool named E-InfertilityTest as a standalone version on GitHub. Github Link: https://github.com/zglabDIB/einfertility.git.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42330890",
+      "pmid": "42330890",
+      "doi": "10.1016/j.bbrc.2026.153935",
+      "title": "Formulation and characterization of 15d-PGJ2 loaded PLGA nanoparticles and in vitro evaluation of small intestinal submucosa integrated with nanoparticles for diabetic wound.",
+      "authors": [
+        "Koolabadi Z",
+        "Taghipour N",
+        "Rouhani M",
+        "Soleimani M",
+        "Keshel SH",
+        "Rahimi A",
+        "Pourjabbar B",
+        "Saeedi Landi F"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Diabetic foot ulcers represent chronic and often non-healing wounds. Their treatment is particularly challenging due to persistent inflammation and infection, necessitating the exploration of innovative strategies for more effective therapeutic approaches. This study aimed to develop a biodegradable extracellular matrix-mimicking wound dressing with anti-inflammatory properties designed to control inflammation and support cell proliferation and migration in the wound area. The anti-inflammatory drug prostaglandin J2 (15d-PGJ2) was encapsulated in PLGA nanoparticles (NPs). The average hydrodynamic size and zeta potential of 15d-PGJ2-loaded NPs were 261.6 nm and -14.3 mV, respectively, with a polydispersity index below 0.2. The entrapment efficiency and drug loading were 96.7% and 18.5%, respectively, with 50% of the drug released within 240 min. Cellular studies, including MTT assays and scratch tests, were performed to evaluate drug toxicity and determine the safe dose of NPs. Porcine small intestinal submucosa (SIS) sheets were cross-linked with EDC/NHS and integrated with NPs. The modified scaffolds were subjected to in vitro characterization, including FTIR analysis, enzymatic degradation, swelling behavior, contact angle measurements, mechanical evaluation, and cell adhesion studies. They demonstrated a hydrophilic surface with suitable water adsorption capacity, a low degradation rate, enhanced mechanical strength, and effective interaction with fibroblast cells. The EDC-crosslinked SIS scaffold carrying anti-inflammatory NPs exhibited promising characteristics based on its physicochemical and biological properties. Thus, it can be considered a suitable option for diabetic wound healing.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42330886",
+      "pmid": "42330886",
+      "doi": "10.1016/j.bbrc.2026.154167",
+      "title": "In vitro alpha amylase and protein denaturation inhibitory activity of newer generation Schiff base Oxazolone derivatives: Synthesis, chemical characterization, molecular docking, MD simulation, DFT, ADMET, and bioactivity.",
+      "authors": [
+        "Saha S",
+        "Sarawat J",
+        "Elbouamri L",
+        "Chtita S"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Chronic inflammation and diabetes mellitus are closely linked diseases and involved in metabolic dysfunction and disease pathogenesis. So, three new Oxazolone Schiff base derivatives (JS1A, JS2A and JS3A) were synthesized by a multi-step procedure, and then characterized by FTIR, 1H NMR, 13C NMR, mass spectrometry and elemental analysis. A series of synthetic compounds was screened by integrated computational and experimental studies to assess their antidiabetic and anti-inflammatory properties. Molecular docking studies with pancreatic α-amylase (4GQR) and cyclooxygenase-2 (6COX) revealed good binding interactions with the highest docking affinity of JS2A with both targets. Furthermore, the 100 ns molecular dynamics simulations showed that the protein-ligand complexes were stable, especially for JS2A. The synthesized derivatives have been analyzed using frontier molecular orbital and molecular electrostatic potential to identify suitable electronic properties, reactive sites, and interaction potentials. The drug-likeness, pharmacokinetic behavior, and low predicted toxicity were deemed acceptable based on ADMET prediction studies; improvements in solubility and permeability may be needed. All synthesized compounds showed α-amylase inhibitory and protein-denaturation inhibitory activities in vitro in a dose-dependent manner. Among the synthesized compounds, JS2A showed strong in vitro inhibitory activities against α-amylase and protein denaturation. Overall, these results indicate that Schiff base Oxazolone derivatives can be considered as multifunctional scaffolds with prospective antidiabetic and anti-inflammatory properties.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42322816",
+      "pmid": "42322816",
+      "doi": "10.1016/j.bbrc.2026.154171",
+      "title": "Dual transcriptomic analysis of Toxoplasma gondii infection in a human PBMC ex vivo model.",
+      "authors": [
+        "Acosta Dávila JA",
+        "Arenas-Soto AF",
+        "Aranda LA",
+        "Gómez Marín JE"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "The mechanisms governing host-parasite interactions in human toxoplasmosis remain insufficiently characterized, as research has relied on murine models that fail to capture human cellular responses. Murine resistance to Toxoplasma gondii depends on the IL-12/IFN-γ axis and immunity-related GTPases (IRGs); however, these differ in humans due to the absence of TLR11/12 and a distinct IRG repertoire. We implemented the EXMOWS (ex vivo model without supplements) to investigate early human host-parasite interactions without the biological artifacts induced by fetal bovine serum (FBS) or cryopreservation. Peripheral blood mononuclear cells (PBMCs) were freshly isolated from five healthy individuals (three Toxoplasma IgG+, two seronegative) and infected with T. gondii (RH strain; multiplicity of infection, 1:3) in supplement-free media. Global transcriptional profiling was performed using dual RNA-seq at 0, 1, and 6 h post-infection (hpi). We identified differentially expressed host genes (DEGs), characterized by potent early activation of innate immune sensing, nuclear factor-κB (NF-κB) signalling, and type I/II interferon signalling pathways. Key overexpressed hubs included IL1B, IL1A, CXCL8, IL6, and TNF, whereas NFBIA and IL10 were significantly downregulated. Simultaneously, T. gondii modulated hundreds of genes, including major virulence factors, such as ROP16, ROP18, GRA7, and GRA15. The EXMOWS model reveals that human primary cells initiate a robust transcriptional Th1 and NF-κB response within 6 h of infection, potentially preceding or overcoming early parasite-mediated suppressive mechanisms. These results provide a standardized, high-resolution framework for identifying protective molecular signatures in human toxoplasmosis.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42320298",
+      "pmid": "42320298",
+      "doi": "10.1016/j.bbrc.2026.154115",
+      "title": "Exosome-like nanoparticles derived from Salvia miltiorrhiza promote diabetic wound healing by reducing oxidative stress and inflammation.",
+      "authors": [
+        "Bai B",
+        "Song Y",
+        "Tian L"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Chronic non-healing wounds remain a major cause of amputation and mortality for diabetic patients. Therefore, finding effective treatment options has become a significant issue that biomedical research needs to address. Nanovesicles that resemble exosomes participate in intercellular communication in plants and may transfer bioactive substances between animals and plants with implications for regenerative medicine. Salvia miltiorrhiza, a traditional medicinal plant, has been used for centuries to treat cardiovascular diseases, infections, inflammation, and wounds. However, little is known of exosome-like nanovesicles derived from Salvia miltiorrhiza (SmELNs), including any actions to promote wound healing in diabetic patients. SmELNs were isolated and identified in the current work and assessment of their impact on proliferation, migration and angiogenesis in vitro indicated the potential to promote diabetic wound healing. In diabetic mouse wound models, subcutaneous SmELN rescued the delayed wound healing caused by streptozotocin-induced diabetes, promoted the formation of new blood vessels and did not damage internal organs in vivo. Subsequent studies further revealed that SmELN reduced reactive oxygen species production in response to high blood sugar and reduced secretion of inflammatory factors, IL-6, IL-1β and TNF-α. These findings suggest that the SmELN-enriched preparation represents a promising natural nanotherapeutic candidate for diabetic wound repair, potentially through attenuation of oxidative stress and inflammatory responses.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42308766",
+      "pmid": "42308766",
+      "doi": "10.1016/j.bbrc.2026.154140",
+      "title": "HSP90 is involved in curcumin-mediated inhibition of tau aggregation.",
+      "authors": [
+        "Kam MK",
+        "Kim JW",
+        "Choi JY",
+        "Koh YH",
+        "Jo C"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Tau aggregation in neurons is a pathological hallmark of Alzheimer's disease (AD). The development of therapeutic drugs that inhibit tau aggregation in tauopathies, including AD, remains challenging. Herein, we developed a tau self-interaction reporter system using split Nanoluciferase (Tau-NLuc) in which luciferase activity is restored by the self-assembly of split Nanoluciferases following self-interaction between tau proteins. Curcumin (CCM), a phenolic organic compound, significantly reduced luciferase activity in the Tau-NLuc system, including mutant tau forms such as S396/404E and P301L, which are known aggregation-prone tau forms, suggesting that CCM may act as a potential inhibitor of tau aggregation. CCM did not alter the protein levels of phosphorylated tau as well as total tau, indicating that the reduction in luciferase activity by CCM did not originate from tau degradation, but rather from tau aggregation inhibition. Of note, CCM significantly increased heat shock protein (HSP) 90 dimer. The reduced luciferase activity in the Tau-NLuc system by CCM was recovered by knockdown of the HSP90 gene using a siRNA specific for HSP90 or treatment of an inhibitor of HSP90 NCT-58, supporting the involvement of HSP90. Intriguingly, hexahydrocurcumin (HHC), a derivative of CCM, did not reduce luciferase activity, nor did it induce the formation of the HSP90 dimer, suggesting that HSP90 dimer formation may contribute to the CCM-mediated inhibition of tau aggregation. Taken together, the results demonstrate that CCM inhibits tau aggregation with the involvement of HSP90, providing novel insights into the development of therapeutic strategies for AD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42302381",
+      "pmid": "42302381",
+      "doi": "10.1016/j.bbrc.2026.154145",
+      "title": "MicroRNA-300-3p promotes cardiac hypertrophy by modulating the ACOX-1/GPX4 pathway.",
+      "authors": [
+        "Li X",
+        "Wang Y",
+        "Yang Z",
+        "Li X",
+        "Li X",
+        "Li Z",
+        "Xu X",
+        "Xu J",
+        "Gu J",
+        "Yang X"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-09-03",
+      "year": 2026,
+      "abstract": "Cardiac hypertrophy (CH) represents a key pathological process in cardiac remodeling and progression toward heart failure. Understanding its underlying molecular mechanisms is essential for developing novel therapeutic strategies. MicroRNAs (miRNAs) play crucial regulatory roles in cardiovascular diseases, however, their specific involvement in CH remains incompletely understood. Here, we demonstrate that miR-300-3p modulates angiotensin II (Ang II)-induced CH through the ACOX1/GPX4 pathway. Functionally, miR-300-3p directly targets ACOX1, leading to its downregulation and subsequent enhancement of ferroptosis. Overexpression of ACOX1 reversed these effects. Mechanistically, hypomethylation of the miR-300-3p promoter region, mediated by DNMT1, elevated miR-300-3p expression and contributed to Ang II-induced hypertrophic responses. Furthermore, ACOX1 exerted anti-hypertrophic effects via activation of the GPX4 signaling pathway. In conclusion, DNMT1-regulated promoter hypomethylation enhances miR-300-3p expression, suppresses ACOX1, and promotes ferroptosis in Ang II-induced CH. The miR-300-3p/ACOX1/GPX4 axis uncovers novel molecular pathways in CH and identifies potential therapeutic regulators.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42684069",
       "pmid": "42684069",
       "doi": "10.1002/wjs.70546",
@@ -43953,8 +44556,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533592/",
       "source": "PubMed"
     },
     {
@@ -45059,6 +45662,32 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42684068",
+      "pmid": "42684068",
+      "doi": "10.1002/pon.70591",
+      "title": "Effect of a Nurse-Navigated Game-Based Program on Transition Readiness and Psychosocial Outcomes in Adolescents With Osteosarcoma: A Cluster-Nonrandomized Controlled Study.",
+      "authors": [
+        "Ma J",
+        "Zhang X",
+        "Li J",
+        "Liu F"
+      ],
+      "journal": "Psycho-oncology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Adolescents with osteosarcoma face clinical and psychosocial challenges during the transition from adolescence to adulthood.\n\nAIMS: This study examined the effects of a nurse-navigated game-based intervention (N2-GBI) on transition readiness in adolescents.\n\nMETHODS: Participants in the control group received usual care, whereas the intervention group received the N2-GBI programme alongside usual care. Transition readiness was assessed using the Self-Management and Transition to Adulthood with Rx = Treatment Questionnaire as the primary outcome. Secondary outcomes included cancer worry, transition expectation and patient activation, which were measured using the Cancer Worry Scale, Transition Expectation Scale, and Patient Activation Measure, respectively. Outcomes were assessed at baseline (T0), immediately after intervention (T1) and at 12-week follow-up (T2). Generalized estimating equations were used to estimate the intervention effects.\n\nRESULTS: A total of 59 adolescents were enrolled. The intervention and control groups comprised 32 and 27 adolescents, respectively, with mean ages of 15 and 13 years, respectively. A total of 19 and 15 participants were male in the intervention and control groups, respectively. Compared with the control group, the N2-GBI group showed significantly greater improvement in transition readiness at T1 (β = 8.83, p < 0.001) and T2 (β = 7.97, p = 0.001). The N2-GBI programme also significantly reduced cancer worry (p = 0.009) and increased patient activation (p = 0.001), but had no significant effect on transition expectation (p = 0.056).\n\nCONCLUSIONS: The N2-GBI programme improved transition readiness, reduced cancer worry, and increased patient activation among adolescents with osteosarcoma, but did not significantly improve transition expectation. This intervention may be a useful nurse-led approach to transition preparation in pediatric oncology care. Future studies with larger sample sizes and prolonged follow-up durations are needed.",
+      "publication_types": [
+        "Journal Article",
+        "Controlled Clinical Trial"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42683991",
       "pmid": "42683991",
       "doi": "10.4103/ijp.ijp_253_26",
@@ -45100,7 +45729,8 @@
       "year": 2026,
       "abstract": "BACKGROUND: Antimicrobial resistance has emerged as a global challenge to human health, primarily due to inappropriate use. The ICMR reports revealed that there is sustained rise of AMR in India.\n\nOBJECTIVE: The objective of this study was to evaluate the prescribing pattern of antimicrobials and rationality of empiric antimicrobial use in a tertiary care hospital.\n\nMETHOD: A prospective observational study, approved by the Institutional Ethical Committee (IEC) was conducted for a period of one year from July 2023 to June 2024 among the admitted patients of the hospital. The prescribing pattern was assessed in accordance with AWaRe classification and prescribing indicators by the World Health Organization. Rational use of empiric therapy was assessed as per the ICMR 2022 guidelines.\n\nRESULTS: A total of 653 antimicrobials were prescribed to 289 patients and maximum antimicrobials were from Watch category (55.7%), followed by Access (40.4%), and Reserve category (2.3%). The respiratory tract infection was the most common indication to start empiric antimicrobial therapy. The empiric therapy was appropriate for 80.3% patients as per the ICMR guidelines. The observed deviations were the empiric use of amikacin for bone & joint infection, duplicate beta lactam therapy, 3rd generation cephalosporins for uncomplicated urinary tract infection, the use of Reserve antibiotic-linezolid, and the use of piperacillin/tazobactam for sepsis patients.\n\nCONCLUSION: There is a need to strengthen the antimicrobial stewardship program by adhering to the national guidelines in the hospital settings, to prevent antimicrobial misuse and resistance. The use of Assess category should be encouraged, Watch category should be used under proper monitoring and the use of Reserve antimicrobials as an empiric therapy should be avoided.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Observational Study"
       ],
       "topics": [
         "critical-care",
@@ -45187,10 +45817,41 @@
       "year": 2026,
       "abstract": "BACKGROUND: While both clopidogrel and prasugrel inhibit platelet aggregation, their comparative pleiotropic effects on inflammatory and oxidative stress markers remain unclear.\n\nOBJECTIVE: To compare the anti-inflammatory and antioxidant potential of clopidogrel and prasugrel given as dual antiplatelet therapy (DAPT) along with aspirin in acute coronary syndrome (ACS) patients undergoing percutaneous coronary intervention (PCI).\n\nSUBJECTS AND METHODS: In this prospective cohort study, patients aged 18-65 years undergoing PCI for ACS and eligible candidates for DAPT were included. The two study groups were: aspirin + clopidogrel (AC group; n = 52) and aspirin + prasugrel (AP group; n = 52). A change in inflammatory (high-sensitivity C-reactive protein [hs-CRP]) and oxidative stress (total antioxidant capacity [TAOC]) markers at 4 weeks was compared to baseline in two groups.\n\nRESULTS: A total of 90 patients (46 in AC group and 44 in AP group) completed the study and were included in the analysis. AP group demonstrated a significantly greater reduction in hs-CRP levels at 4 weeks compared to AC group (-7.17 ± 5.95 in AP vs. -4.10 ± 3.81 mg/L in AC groups, P = 0.002). A relatively greater increase in TAOC was also seen in AP group though statistically insignificant (184.25 ± 274.03 in AP vs. 126.67 ± 198.49 in AC groups, P = 0.117). Bleeding and adverse events were comparable in two groups.\n\nCONCLUSIONS: Prasugrel-based DAPT showed significantly greater reduction in inflammation compared to clopidogrel-based DAPT, with comparable antioxidant benefit and hematological safety indicating a greater pleiotropic benefit of prasugrel than clopidogrel.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Comparative Study"
       ],
       "topics": [
         "coronary"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42683981",
+      "pmid": "42683981",
+      "doi": "10.4103/ijp.ijp_285_26",
+      "title": "Distribution of CYP2C19 polymorphism and predicted metabolizer phenotypes in the Indian population: A systematic review.",
+      "authors": [
+        "Singh S",
+        "Goyal C",
+        "Patel TK",
+        "Hada V",
+        "Bhusal CK",
+        "Bhalla HL",
+        "Saurabh MK"
+      ],
+      "journal": "Indian journal of pharmacology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "The distribution of CYP2C19 polymorphisms and associated metabolizer phenotypes varies across populations. There is a lack of large scale pooled data on CYP2C19 polymorphisms and associated metabolizer phenotypes in Indian population. This systematic review and meta analysis aimed to determine the prevalence of CYP2C19 loss of function and gain of function polymorphisms (*2, *3, and *17) and their associated genotype predicted metabolizer phenotypes in the Indian population. A systematic literature search was conducted in electronic databases to identify relevant studies reporting CYP2C19 polymorphisms in individuals of Indian origin. Observational studies employing validated genotyping methods were included. Meta analysis was performed using a random effects model with double arcsine transformation to estimate pooled prevalence with 95% confidence intervals (CI). Subgroup analyses were conducted based on geographical regions of India, and heterogeneity was assessed using the I2 statistic. A total of 31 studies were included in the analysis. The pooled prevalence of the CYP2C19*2 allele was 32% (95% CI: 28%-37%), with the highest prevalence observed in South India. The CYP2C19*3 allele was rare, with a pooled prevalence of 1% (95% CI: 0%-1%). The gain of function allele CYP2C19*17 showed a prevalence of 17% (95% CI: 13%-21%), with the highest frequency in North India. The pooled prevalence of poor metabolizers was 16% (95% CI: 11%-22%), whereas ultra rapid metabolizers accounted for 12% (95% CI: 4%-24%) of the population. Substantial regional variability in allele frequencies and metabolizer phenotypes was observed. The distribution of CYP2C19 polymorphisms and metabolizer phenotypes shows considerable regional variability within the Indian population.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "topics": [
+        "systematic-reviews"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -45212,7 +45873,8 @@
       "year": 2026,
       "abstract": "Obesity is now recognized as a chronic, multifactorial, and progressive disease as opposed to mere excess of body weight. It significantly increases the risk of type 2 diabetes, cardiovascular disease, metabolic-associated fatty liver disease, and mental health disorders. 2022 data reveal that nearly 3 billion individuals worldwide were living with either obesity or overweight. Pharmacological therapy has evolved remarkably. Earlier medications targeted primarily the brain's monoaminergic pathways but they were withdrawn due to safety concerns. Currently, six medications (Orlistat, Phentermine/Topiramate, Naltrexone/Bupropion, Liraglutide, Semaglutide, and Tirzepatide) are approved by the U.S. Food and Drug Administration for long-term obesity management and among these, glucagon-like peptide receptor agonists have revolutionized the therapy. The emerging pipeline is even more promising. It has new dual and triple combinations such as CagriSema, Survodutide, and Retatrutide for better efficacy and metabolic outcomes, as well as long-acting and oral formulations, which will improve adherence and accessibility. India released its new obesity guideline in January 2025, emphasizing on early pharmacotherapy initiation and the adoption of stage-based obesity classification. Together, these developments signify a transformative era in obesity care where pharmacotherapy is a powerful and evidence-based tool that, in many cases, approaches the efficacy and metabolic benefits traditionally associated with bariatric surgeries.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "topics": [
         "endocrine",
@@ -45664,6 +46326,61 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42683908",
+      "pmid": "42683908",
+      "doi": "10.3791/70912",
+      "title": "Effect of Post-Discharge Oral Nutritional Supplements on Nutritional Status in Patients after Gastrectomy: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Xu W",
+        "Niu C"
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "Nutritional intervention after gastrectomy is central to postoperative recovery, but the optimal outpatient supplementation strategy remains uncertain. This systematic review assessed the efficacy and safety of oral nutritional supplementation (ONS) after hospital discharge in patients undergoing gastrectomy for gastric cancer. Eligible randomized controlled trials (RCTs) were identified from five databases through September 2025. Extracted outcomes included adverse events, laboratory indices, body composition, handgrip strength, and body-weight change. Seven RCTs involving 1,736 participants met the review criteria, although the number of trials contributing to each pooled outcome varied. ONS significantly attenuated absolute body-weight loss (WMD: 0.75 kg; 95% CI: 0.11 to 1.40) and percentage body-weight loss (WMD: 1.42; 95% CI: 0.78 to 2.07) compared with control care. Risk-of-bias assessment identified generally adequate randomization and allocation reporting in most trials, but certainty remains limited by the small number of trials, substantial heterogeneity in the primary weight outcome, and the absence of a formal GRADE assessment. No significant inter-group differences were found for body composition, handgrip strength, or laboratory markers. Adverse-event incidence was not significantly different between groups when analyzed with the fixed-effect model selected for minimal heterogeneity (RR: 1.17; 95% CI: 0.92 to 1.49). These findings suggest that post-discharge ONS may help reduce early to intermediate postoperative weight loss after gastrectomy without a clear safety penalty. Because most endpoints were assessed between 8 weeks and 3 months, the durability of benefit beyond this period remains unclear.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Video-Audio Media",
+        "Meta-Analysis"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42683896",
+      "pmid": "42683896",
+      "doi": "10.3791/71085",
+      "title": "A Meta-Analysis of the Impact of Lifestyle and Gynecologic Oncology Nursing Interventions on the Enhancement of Quality of Life.",
+      "authors": [
+        "Sun H",
+        "Wang C",
+        "Gao Y",
+        "Yang D",
+        "Gong T",
+        "Zhang J"
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "This meta-analysis evaluated the impact of lifestyle and gynecologic oncology nursing interventions on quality of life (QoL). A systematic search conducted through June 2026 identified 1,123 records. Thirteen randomized controlled trials involving 915 women with gynecologic cancer were included. The impact of lifestyle and gynecologic oncology nursing interventions on QoL was evaluated using pooled mean differences (MDs) with 95% confidence intervals, using random-effects models for the general analyses and fixed-effect models for the cancer-specific subgroup analyses. Compared with controls, interventions significantly improved QoL in women with ovarian cancer (MD 4.28, 95% CI: 0.45-8.10, p = 0.03; I2 = 0%). No significant differences emerged for 6-month QoL in mixed cancers (MD 2.11, 95% CI: -0.90-5.12, p = 0.17; I2 = 71%), endometrial cancer at 6 months (MD 2.00, 95% CI: -1.49-5.49, p = 0.26; I2 = 0%) or mixed cancers at 3 months (MD 6.43, 95% CI: -0.16-13.01, p = 0.06; I2 = 74%). However, marked heterogeneity, varied designs and interventions, small sample sizes, and variable risk of bias limit the certainty of the findings, which warrant cautious interpretation and confirmation through robust, standardized trials. Lifestyle and gynecologic oncology nursing interventions significantly improved QoL only in women with ovarian cancer at 6 months. However, substantial heterogeneity, methodological limitations, and very low-certainty evidence warrant cautious interpretation, and larger standardized trials are needed.",
+      "publication_types": [
+        "Journal Article",
+        "Video-Audio Media",
+        "Meta-Analysis"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42683893",
       "pmid": "42683893",
       "doi": "10.3791/71162",
@@ -45682,6 +46399,35 @@
       ],
       "topics": [
         "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42683892",
+      "pmid": "42683892",
+      "doi": "10.3791/72385",
+      "title": "Stage-Dependent Cognitive Effects of a Multinutrient Intervention in Alzheimer's Disease: A Stage-Stratified Meta-Analysis.",
+      "authors": [
+        "Han P",
+        "Dong P",
+        "Zhou Y",
+        "Zhang L",
+        "Mahomed O"
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "A specific multinutrient intervention provides precursors and cofactors for synaptic membrane synthesis. Randomized trials across the Alzheimer's disease (AD) continuum have reported mixed findings. We conducted a systematic review and stage-stratified meta-analysis of randomized, placebo-controlled trials. MEDLINE, Embase, CENTRAL, Web of Science, Scopus, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform were searched through February 28, 2026. Disease stage was prespecified as an effect modifier. Standardized mean differences (SMDs; Hedges' g) were synthesized using restricted maximum likelihood random-effects models. Four trials met the inclusion criteria; three contributed to the quantitative synthesis (analyzed n = 906). Souvenir I was retained for qualitative synthesis because its distinct co-primary outcomes and reporting did not permit a compatible SMD for the prespecified pooled analysis. The exploratory pooled cognitive effect was small and not significant (SMD = 0.08; 95% CI, -0.09 to 0.26; p = 0.35; I2 = 41.8%). For biomarker-confirmed prodromal AD, the 24-month primary neuropsychological test battery (NTB) 5-item composite endpoint showed a small, nonsignificant effect (SMD = 0.16; 95% CI, -0.08 to 0.41; original trial p = 0.166). The primary NTB memory endpoint in mild, drug-naive AD showed a small effect (SMD = 0.21; 95% CI, -0.06 to 0.49; original longitudinal-model p = 0.023), whereas the primary Alzheimer's disease assessment scale-cognitive subscale (ADAS-Cog) endpoint in treated mild-to-moderate AD showed no benefit (SMD = -0.06; 95% CI, -0.25 to 0.13; p = 0.513). At 36 months, the LipiDiDiet extension reported significant differences in the NTB 5-item composite, clinical dementia rating - sum of boxes (CDR-SB), memory, and brain-volume outcomes. The intervention was well tolerated. The evidence is compatible with a potential early-stage signal, but the small evidence base, lack of replication across stages, and manufacturer sponsorship warrant cautious interpretation.",
+      "publication_types": [
+        "Journal Article",
+        "Video-Audio Media",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "topics": [
+        "systematic-reviews"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -45769,6 +46515,38 @@
       ],
       "topics": [
         "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42683856",
+      "pmid": "42683856",
+      "doi": "10.4111/icu.20260135",
+      "title": "Intravesical mitomycin-C administered immediately before transurethral resection of bladder tumor in non-muscle-invasive bladder cancer: Clinical outcomes and molecular predictors from over 3 years of extended follow-up in a phase II trial.",
+      "authors": [
+        "Lee HW",
+        "Song G",
+        "Lee HH",
+        "Jung EH",
+        "Kim SY",
+        "Kim H",
+        "Park WS",
+        "Kwon J",
+        "Seo HK"
+      ],
+      "journal": "Investigative and clinical urology",
+      "date": "2026-09-01",
+      "year": 2026,
+      "abstract": "PURPOSE: To evaluate the long-term outcomes and molecular correlates of response after immediate preoperative intravesical chemotherapy (IPeIC) with mitomycin-C (MMC) in patients with non-muscle-invasive bladder cancer (NMIBC).\n\nMATERIALS AND METHODS: In this single-center, open-label, randomized phase II trial, 33 patients received two split doses of IPeIC/MMC (40 mg/20 mL), whereas 38 patients underwent transurethral resection of bladder tumor (TURBT) alone. The primary endpoint was 3-year recurrence-free survival (RFS), and secondary endpoints included progression-free survival (PFS). Exploratory RNA sequencing was performed on IPeIC-treated patients (three with recurrence, 25 without) using a Monte Carlo-based resampling strategy.\n\nRESULTS: The median follow-up durations were comparable between the intervention (60.0 months) and control arms (60.4 months). IPeIC/MMC reduced recurrence risk by 76.8% versus TURBT alone (p=0.024), yielding a 3-year RFS rate of 90.7% versus 78.6%. On multivariable analysis, IPeIC/MMC independently improved RFS (hazard ratio [HR] 0.266, p=0.044). IPeIC was associated with superior PFS, with 3-year and 5-year rates of 100% versus 92.1% and 85.8%, respectively, in the controls (HR 0.078, p=0.014). Exploratory transcriptomics identified low Glutathione S-transferase Mu 1 (GSTM1) expression as the factor most strongly associated with recurrence.\n\nCONCLUSIONS: IPeIC/MMC is associated with improved long-term oncological outcomes compared with TURBT alone and represents a safe prophylactic option for patients with NMIBC who are unable to receive standard immediate postoperative intravesical chemotherapy because of safety concerns or practical constraints. The GSTM1 findings are hypothesis-generating and support future biomarker-driven validation studies.",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -45913,7 +46691,8 @@
       "year": 2026,
       "abstract": "BACKGROUND: People living with HIV (PWH) are at increased risk for metabolic and cardiovascular diseases. However, there is no structured prevention strategy for these subjects. The triglyceride-glucose (TyG) index has shown predictive value for Type 2 diabetes mellitus (T2DM) and cardiovascular events (CVEs) in the general population, but its utility in PWH remains unclear.\n\nMETHODS: We conducted a retrospective study including 477 PWH without baseline T2DM. TyG index was calculated as follows: ln[fasting triglycerides (mg/dL) × fasting glucose (mg/dL)]/2. ROC analysis was used to identify the optimal TyG threshold for T2DM, and logistic regression analysis was used to evaluate the association with T2DM. The association between TyG index and CVEs was investigated using Kaplan-Meier survival analysis and Cox proportional hazards regression models.\n\nRESULTS: 477 PWH were included. Median age was 38 years and 26% were women. During a median follow-up of 14.2 years, 38 participants developed T2DM and 45 experienced CVEs. The TyG index demonstrated fair discrimination for incident T2DM (AUC: 0.675, 95% CI 0.591-0.759), with an optimal threshold of 4.78. Participants with TyG ≥ 4.78 had a higher risk of developing T2DM (aOR 2.86, 95% CI 1.35-6.12). PWH in the highest TyG tertile had also higher risk for CVEs compared with those in the lowest tertile (aHR 3.31, 95% CI 1.10-9.97).\n\nCONCLUSION: In PWH, a higher TyG index was independently associated with an increased risk of both T2DM and CVEs over long-term follow-up. The TyG index represents a practical, low-cost tool for early metabolic risk stratification in this population.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Observational Study"
       ],
       "topics": [
         "endocrine"
@@ -49202,8 +49981,8 @@
         "cardio-oncology",
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531930/",
       "source": "PubMed"
     },
     {
@@ -54920,8 +55699,8 @@
       "topics": [
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533187/",
       "source": "PubMed"
     },
     {
@@ -54961,8 +55740,8 @@
         "coronary",
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533320/",
       "source": "PubMed"
     },
     {
@@ -55116,8 +55895,8 @@
         "electrophysiology",
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533318/",
       "source": "PubMed"
     },
     {
@@ -55194,8 +55973,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533040/",
       "source": "PubMed"
     },
     {
@@ -55344,8 +56123,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533374/",
       "source": "PubMed"
     },
     {
@@ -55508,13 +56287,14 @@
       "abstract": "BACKGROUND: Pediatric ear, nose, and throat (ENT) surgery is common, but generates perioperative anxiety for caregivers and distress in children. Limited time for perioperative education and reliance on unverified online information can reduce family preparedness and increase stress. Few studies have evaluated co-designed mobile health (mHealth) apps to support and engage families in the perioperative ENT journey.\n\nOBJECTIVE: This study aimed to compare caregiver anxiety between an mHealth app-supported care pathway and standard supportive and educational care alone in the perioperative ENT context. Secondary objectives explored between-group differences in caregiver anxiety at follow-up, family preparation, child distress, and social-impact indicators.\n\nMETHODS: A 2-arm, parallel-group, open-label randomized controlled trial (RCT) enrolled caregivers of children undergoing ENT surgery (tonsillectomy, adenoidectomy, tympanostomy tube insertion). The intervention was an mHealth app co-designed through a user-centered participatory approach and developed following Schnall and colleagues' Information Systems Research Framework, with content based on caregivers' informational needs. RCT participants were recruited at the hospital during their presurgery visit, when a health care provider introduced the study and provided instructions on how to use the app. No additional human support was scheduled thereafter. A sample size of 180 participants (90 per group) was estimated to detect the expected between-group difference in caregiver anxiety. Participants were randomly assigned in a 1:1 ratio to app use or standard care alone. The primary outcome was the between-group difference in caregiver state anxiety (State-Trait Anxiety Inventory [STAI-Y]). Secondary outcomes included between-group differences in child distress (modified version of the Yale Preoperative Anxiety Scale [mYPAS]), child preparation for surgery, family preparation for hospital admission and surgery, and social impact indicators. Outcomes were assessed online through questionnaires, which included both self-reported measures and evaluations completed by a nurse on the day of surgery. App engagement metrics were also collected. Reporting followed the CONSORT-EHEALTH (Consolidated Standards of Reporting Trials of Electronic and Mobile Health Applications and Online Telehealth) guidelines.\n\nRESULTS: The study enrolled 227 caregivers, with 111 allocated to the control group (CG) and 116 to the experimental group (EG), achieving the target sample size. No statistically significant differences were observed between the groups for the primary or secondary outcomes (all P>.05). In the EG, 75% (n=87) of the participants accessed at least 1 item of in-app content. Higher baseline anxiety was linked to lower app use (ρ=-0.22, 95% CI -0.39 to -0.04; P=.02), while greater use was linked to lower child distress (ρ=-0.23, 95% CI -0.40 to -0.04; P=.02).\n\nCONCLUSIONS: Although the hypotheses were not confirmed, these findings provide valuable insights for future perioperative mHealth research. The lack of effectiveness may reflect limited exposure to the intervention, outcome selection and timing, and contextual factors such as caregivers' independent information-seeking. These findings support a greater focus on implementation processes and on identifying the caregivers most likely to benefit from mHealth-supported education.",
       "publication_types": [
         "Journal Article",
-        "Randomized Controlled Trial"
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533037/",
       "source": "PubMed"
     },
     {
@@ -55541,8 +56321,8 @@
         "infectious",
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533340/",
       "source": "PubMed"
     },
     {
@@ -55655,8 +56435,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533355/",
       "source": "PubMed"
     },
     {
@@ -55744,8 +56524,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13532688/",
       "source": "PubMed"
     },
     {
@@ -57078,8 +57858,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13532392/",
       "source": "PubMed"
     },
     {
@@ -59456,8 +60236,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531242/",
       "source": "PubMed"
     },
     {
@@ -59510,8 +60290,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531726/",
       "source": "PubMed"
     },
     {
@@ -59913,8 +60693,8 @@
         "pulmonary-vascular",
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531628/",
       "source": "PubMed"
     },
     {
@@ -60017,8 +60797,8 @@
         "research-methods",
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531657/",
       "source": "PubMed"
     },
     {
@@ -60127,8 +60907,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531660/",
       "source": "PubMed"
     },
     {
@@ -60151,8 +60931,8 @@
       "topics": [
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13528914/",
       "source": "PubMed"
     },
     {
@@ -60185,8 +60965,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13528936/",
       "source": "PubMed"
     },
     {
@@ -60209,8 +60989,8 @@
       "topics": [
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13528911/",
       "source": "PubMed"
     },
     {
@@ -60232,8 +61012,8 @@
       "topics": [
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13528916/",
       "source": "PubMed"
     },
     {
@@ -60260,8 +61040,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531473/",
       "source": "PubMed"
     },
     {
@@ -60286,8 +61066,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531433/",
       "source": "PubMed"
     },
     {
@@ -60321,8 +61101,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531366/",
       "source": "PubMed"
     },
     {
@@ -60603,8 +61383,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13536899/",
       "source": "PubMed"
     },
     {
@@ -60716,8 +61496,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531367/",
       "source": "PubMed"
     },
     {
@@ -60901,8 +61681,8 @@
       "topics": [
         "imaging"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531372/",
       "source": "PubMed"
     },
     {
@@ -60927,8 +61707,8 @@
       "topics": [
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13537212/",
       "source": "PubMed"
     },
     {
@@ -60996,8 +61776,8 @@
       "topics": [
         "coronary"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13536972/",
       "source": "PubMed"
     },
     {
@@ -61042,8 +61822,8 @@
       "topics": [
         "guidelines"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531392/",
       "source": "PubMed"
     },
     {
@@ -61069,8 +61849,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531397/",
       "source": "PubMed"
     },
     {
@@ -61100,8 +61880,8 @@
       "topics": [
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531398/",
       "source": "PubMed"
     },
     {
@@ -61133,8 +61913,8 @@
         "clinical-trials",
         "imaging"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531395/",
       "source": "PubMed"
     },
     {
@@ -61158,8 +61938,8 @@
         "clinical-trials",
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531359/",
       "source": "PubMed"
     },
     {
@@ -61184,8 +61964,8 @@
       "topics": [
         "hematology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531247/",
       "source": "PubMed"
     },
     {
@@ -63048,8 +63828,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530385/",
       "source": "PubMed"
     },
     {
@@ -63074,8 +63854,8 @@
       "topics": [
         "hematology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530393/",
       "source": "PubMed"
     },
     {
@@ -63105,8 +63885,8 @@
       "topics": [
         "electrophysiology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530383/",
       "source": "PubMed"
     },
     {
@@ -63129,8 +63909,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530402/",
       "source": "PubMed"
     },
     {
@@ -63160,8 +63940,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530379/",
       "source": "PubMed"
     },
     {
@@ -63213,7 +63993,8 @@
       "abstract": "BACKGROUND: Racial and ethnic disparities in cardiovascular outcomes are well established, but whether these inequities extend to acute myocarditis remains insufficiently characterized.\n\nHYPOTHESIS: Racial and ethnic minority groups hospitalized with acute myocarditis would have higher odds of in-hospital mortality than White patients.\n\nMETHODS: Using the National Inpatient Sample from 2012 to 2021, we identified adult hospitalizations with a primary diagnosis of acute myocarditis. The primary outcome was all-cause in-hospital mortality. Secondary outcomes included cardiogenic shock, mechanical circulatory support (MCS), cardiac arrest, ventricular tachycardia/fibrillation (VT/VF), acute kidney injury, renal replacement therapy, and stroke. Multivariable logistic regression estimated adjusted odds ratios (aORs).\n\nRESULTS: A total of 105 235 weighted hospitalizations were identified. After adjustment, all minority groups had higher odds of in-hospital mortality than White patients: Black (aOR 1.30, 95% CI 1.10-1.55), Hispanic (aOR 1.37, 95% CI 1.14-1.66), Asian/Pacific Islander (aOR 2.07, 95% CI 1.58-2.72), and Other (aOR 1.40, 95% CI 1.07-1.83). Asian/Pacific Islander patients had the highest odds of cardiogenic shock and MCS use. Black patients had higher odds of cardiac arrest and VT/VF. Hispanic patients had higher in-hospital mortality despite lower odds of VT/VF and MCS use. Race and ethnicity by pandemic era interaction for mortality was not significant (p = 0.072).\n\nCONCLUSIONS: Among adults hospitalized with acute myocarditis, racial and ethnic minority groups had higher adjusted odds of in-hospital mortality than White patients. Distinct patterns of complications further underscore the need for equitable, attentive, and risk-informed clinical care.",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "topics": [
         "critical-care",
@@ -63221,8 +64002,8 @@
         "nephrology",
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530382/",
       "source": "PubMed"
     },
     {
@@ -63368,8 +64149,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530318/",
       "source": "PubMed"
     },
     {
@@ -63538,8 +64319,8 @@
       "topics": [
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13529923/",
       "source": "PubMed"
     },
     {
@@ -63585,8 +64366,8 @@
       "topics": [
         "imaging"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13529631/",
       "source": "PubMed"
     },
     {
@@ -63738,8 +64519,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13529847/",
       "source": "PubMed"
     },
     {
@@ -63800,8 +64581,8 @@
       "topics": [
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530238/",
       "source": "PubMed"
     },
     {
@@ -63847,8 +64628,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530150/",
       "source": "PubMed"
     },
     {
@@ -63872,8 +64653,8 @@
       "topics": [
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530208/",
       "source": "PubMed"
     },
     {
@@ -64687,8 +65468,8 @@
         "nephrology",
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13529372/",
       "source": "PubMed"
     },
     {
@@ -64726,8 +65507,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13529355/",
       "source": "PubMed"
     },
     {
@@ -64761,8 +65542,8 @@
         "neurology",
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13529349/",
       "source": "PubMed"
     },
     {
@@ -65171,8 +65952,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13529306/",
       "source": "PubMed"
     },
     {
@@ -89786,8 +90567,8 @@
       "topics": [
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13537270/",
       "source": "PubMed"
     },
     {
@@ -99069,7 +99850,6 @@
       "abstract": "Solitary plasmacytomas (SPs) are rare localized tumors of clonal plasma cells, either in the bone (solitary bone plasmacytoma) or in soft tissue/extraosseous (extramedullary) with either no or with minimal bone marrow (BM) infiltration (<10% clonal plasma cells by immunohistochemistry) and no evidence of systemic involvement or myeloma defining events. Approximately 50% of SPs will progress to symptomatic myeloma within 5 years after initial definitive local radiotherapy. Increased availability of improved diagnostic and monitoring tools has increased the sensitivity of detection of additional lesions and marrow involvement and has implications for the follow-up strategy after treatment. Thus, the definitions and requirements for the diagnosis and follow-up of SPs are evolving. The diagnosis of SP requires the careful exclusion of multiple myeloma (MM) that would require systemic therapy, by using all the available methods to detect systemic disease (advanced imaging, sensitive BM assessment methods, blood and urine tests). Local radiotherapy remains the mainstay of therapy, and despite the availability of innovative drugs for MM, the clinical benefit of systemic therapy currently remains poorly defined. The International Myeloma Working Group provides here updated recommendations for the diagnosis, evaluation, treatment, and response assessment of patients with SPs, incorporating recent data and advances in diagnostic tools.",
       "publication_types": [
         "Journal Article",
-        "Review",
         "Practice Guideline"
       ],
       "topics": [
@@ -104362,7 +105142,8 @@
       "year": 2026,
       "abstract": "OBJECTIVE: For youth with juvenile idiopathic arthritis (JIA) and childhood-onset systemic lupus erythematosus (cSLE), the time leading up to the transfer from pediatric to adult care is an especially vulnerable, yet optimal time to support building healthcare self-management skills. Few studies have explored how readiness for transition changes over time prior to transfer. We aimed to assess transition readiness over time in youth with JIA or cSLE.\n\nMETHODS: Patients aged 14-17 years with JIA or cSLE were recruited from the McMaster Rheumatology Transition Clinic and asked to complete the 14-item Transition-Q (maximum score 100) at each clinic visit to assess transition readiness. Descriptive statistics summarized patient demographics. Generalized estimating equations assessed transition readiness across multiple clinic visits and evaluated the role of sex, age at enrollment, and age at diagnosis.\n\nRESULTS: Analyses included 392 clinic visits from 94 participants. The number of clinic visits per participant ranged from 2 to 8, with varying time between visits. More visits (all P < 0.001), female sex (β 4.5, P = 0.03), and older age at baseline (β 3.6, P < 0.001) were significant positive predictors of higher or improved Transition-Q scores, whereas age at diagnosis was not significant (P = 0.48). There was no significant interaction between sex and number of visits.\n\nCONCLUSION: Our study demonstrated transition readiness increases at each clinic visit, with female sex and older age at enrollment positively predicting higher Transition-Q scores over time; however, longitudinal trajectories did not differ by sex. This suggests that male individuals and younger adolescents may require additional supports to optimize transition readiness.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "rheumatology"
@@ -106750,7 +107531,8 @@
       "year": 2026,
       "abstract": "OBJECTIVE: Identifying patient characteristics that predict treatment response in psoriatic arthritis (PsA) may help optimize treat-to-target strategies. We aimed to explore overall and sex-specific predictors of secukinumab (SEC) effectiveness in European patients with PsA treated in routine care.\n\nMETHODS: We analyzed data from 14 registries in the European Spondyloarthritis (EuroSpA) Research Collaboration. Patients aged ≥ 18 years at diagnosis, initiating SEC treatment from January 2015 to January 2021, were included. Multiple imputation was used for missing covariates at treatment start (baseline) and Disease Activity Index for Psoriatic Arthritis based on 28 joints (DAPSA28) at 6 months. Overall and sex-stratified analyses were performed by logistic and Cox regressions to identify baseline predictors of the following treatment outcomes: (1) DAPSA28 low disease activity (LDA; DAPSA28 ≤ 14) at 6 months, (2) DAPSA28 moderate response at 6 months, and (3) SEC discontinuation within 12 months.\n\nRESULTS: In total, 2790 patients (43% male) were included. Median age was 43 years (IQR 34-52), and SEC was the first-line biologic/targeted synthetic disease-modifying antirheumatic drug (b/tsDMARD) in 665 patients (24%). Positive predictors for both DAPSA28 LDA and DAPSA28 moderate response were male sex, fewer previous b/tsDMARDs, C-reactive protein (CRP) > 10 mg/L, and lower Health Assessment Questionnaire (HAQ) score. Absence of psoriasis, higher patient fatigue, and tender joint counts predicted SEC discontinuation within 12 months. For some outcomes, sex-specific predictors were fewer previous b/tsDMARDs and CRP > 10 mg/L among male patients and lower patient fatigue score among female patients.\n\nCONCLUSION: We identified overall and sex-specific predictors of SEC effectiveness in European patients with PsA. Our findings may support personalized treatment decisions.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "rheumatology"
@@ -106778,7 +107560,8 @@
       "year": 2026,
       "abstract": "OBJECTIVE: Little is known as to whether the American College of Rheumatology/European Alliance of Associations for Rheumatology Total Improvement Score (TIS) reflects how patients with autoimmune inflammatory myopathies (AIM) feel and function. We assessed the associations between TIS and changes in the scores of a wide range of patient-reported outcomes (PROs).\n\nMETHODS: Adult patients with AIM and active disease at baseline who completed a 1-year follow-up visit were identified from a research cohort. PROs included a numerical rating scale for pain, the Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT-Fatigue) scale, the Patient-Reported Outcomes Measurement Information System (PROMIS) Short Form v1.0 Fatigue 8a, the 9-item Patient Health Questionnaire (PHQ-9), and the 36-Item Short Form Health Survey (SF-36) physical and mental component summary scores (PCS and MCS, respectively). Multivariable linear regression models were generated to determine the absolute change in PRO scores for each 20-unit increase in absolute TIS.\n\nRESULTS: We identified 65 patients with active disease for whom TIS could be calculated. At 1 year, 40% showed no improvement, 34% achieved minimal improvement, and 26% achieved moderate improvement. In adjusted models, increase in absolute TIS was associated with statistically significant improvements in pain, PROMIS-Fatigue, FACIT-Fatigue, and SF-36 PCS scores. For FACIT-Fatigue, a significant interaction was identified between age and TIS. In stratified analyses, only patients with shorter disease duration significantly improved in pain and FACIT-Fatigue scores.\n\nCONCLUSION: The findings of this cohort study support the use of the TIS in AIM research but also highlight potential limitations in its ability to capture outcomes across the broader AIM spectrum, particularly among older individuals and those with longer disease duration.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "rheumatology"
@@ -108076,7 +108859,8 @@
       "year": 2026,
       "abstract": "Despite international recommendations advocating for structured assessment of disease activity in psoriatic arthritis (PsA), the routine use of outcome measures in clinical practice remains inconsistent. Barriers such as limited time, lack of training, and restricted access to resources may be contributing to this implementation gap. To address this, the Global Exploration of Psoriatic Arthritis Disease Activity Assessment (EXPLORE-PsA) study aims to systematically evaluate how disease activity measures, including both composite and domain-specific tools, are used in PsA care across diverse global settings. This cross-sectional study will deploy a short English-language online survey targeting rheumatologists and allied health professionals involved in the assessment of people with PsA. Key objectives include the following: (1) characterizing the use of outcome measures in routine practice; (2) comparing usage patterns between academic and nonacademic settings; and (3) identifying perceived barriers and facilitators to implementation. Additional domains include preferences for digital vs paper-based tools, the inclusion of skin and nail assessments in rheumatology, the use of axial spondyloarthritis indices in axial PsA, and perspectives on treat-to-target strategies and patient-initiated follow-up. As the first research initiative led by the Young Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (Y-GRAPPA) network, EXPLORE-PsA not only aims to inform future strategies to enhance outcome assessment in PsA globally but also establishes a collaborative foundation for early career-led research in psoriatic disease. This study was presented at the GRAPPA 2025 annual meeting in Bogotá, Colombia.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "rheumatology"
@@ -108101,7 +108885,8 @@
       "abstract": "Hydroxychloroquine (HCQ) is pivotal in rheumatology and dermatology for its potent antimalarial and immunomodulatory properties. Though generally safe, HCQ causes cutaneous adverse reactions ranging from mild pigmentation to life-threatening severe cutaneous adverse reactions. This review synthesizes data from studies indexed in PubMed, Web of Science, Embase, and the Cochrane Library through December 2025. Search keywords included \"hydroxychloroquine,\" \"adverse reactions,\" \"skin lesions\" (eg, pigmentation, maculopapular rash, psoriasiform eruption), and \"mechanisms.\" We included original studies, reviews, and case reports, excluding duplicates and studies focused solely on noncutaneous reactions. Two reviewers independently screened the literature, and any discrepancies were resolved via discussion. Study quality was assessed based on methodological rigor and data completeness, with priority given to high-impact literature published within the last decade. Common adverse reactions include pigmentation, maculopapular rash, and pruritus; rare but severe reactions include acute generalized exanthematous pustulosis, drug reaction with eosinophilia and systemic symptoms, Stevens-Johnson syndrome, and toxic epidermal necrolysis. Underlying mechanisms may involve alteration of pigment metabolism, lysosomal ion trapping, and T-cell-mediated hypersensitivity. Management depends on early recognition, dose adjustment, or drug discontinuation. For select mild cases, desensitization may be appropriate. Ongoing monitoring of pharmacovigilance databases is crucial for proactive surveillance and early detection.",
       "publication_types": [
         "Journal Article",
-        "Review"
+        "Review",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "rheumatology"
@@ -109308,7 +110093,8 @@
       "year": 2026,
       "abstract": "The Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA) 2025 annual meeting, held in Bogotá, Colombia, featured soapbox presentations highlighting innovative approaches to psoriatic disease (PsD) care. Dr. Vasileios Charisis presented the Psoriatic Arthritis Inflammation Explained Through Multi-Source Data Analysis Guiding a Novel Personalised Digital Care Ecosystem (iPROLEPSIS) project, which applies digital phenotyping and explainable artificial intelligence to monitor psoriatic arthritis (PsA) using smartphone-based typing dynamics and hand motion tracking. Pilot data demonstrated high accuracy in detecting functional impairments, underscoring the potential of digital biomarkers for personalized disease management. Dr. Rodrigo García-Salinas reported consensus recommendations from the Red de Excelenciaen Artritis para la América Latina-Pan American League of Associations for Rheumatology (REAL-PANLAR) group to establish PsD Centers of Excellence (CoEs) in Latin America. Through a Delphi process, experts from 12 countries defined structural, process, and outcome standards, resulting in 2 adaptable models-optimal and model-designed to reduce diagnostic delays, enhance multidisciplinary collaboration, and improve outcomes. Dr. Juan Raul Castro-Ayarza summarized real-world evidence on biologic drug survival in Latin America, emphasizing fragmented data and variability across national cohorts. Findings from Venezuela, Brazil, Argentina, and Colombia revealed differences in treatment persistence and predictors of discontinuation, reinforcing the need for a standardized regional registry. Collectively, these initiatives demonstrate the value of digital health tools, region-specific care frameworks, and real-world evidence in advancing PsD management globally.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "rheumatology"
@@ -110695,7 +111481,8 @@
       "publication_types": [
         "Journal Article",
         "Systematic Review",
-        "Review"
+        "Review",
+        "Research Support, N.I.H., Extramural"
       ],
       "topics": [
         "rheumatology"
@@ -111517,7 +112304,8 @@
       "year": 2026,
       "abstract": "OBJECTIVE: Children are more likely to experience early B-cell repopulation (ie, < 6 months) following rituximab treatment, necessitating redosing as early as 3 months post infusion. We hypothesized that rituximab serum concentration measurements can predict the risk of early B-cell repopulation in children and adolescents.\n\nMETHODS: Blood samples were collected at routine clinical appointments from children and adolescents receiving treatment with rituximab. Starting ≥ 2 weeks after rituximab administration, rituximab serum concentration, antirituximab antibodies, and CD19+ B cells were measured at each clinical visit. The first 2 serum concentrations, taken > 1 month apart, were used to calculate the half-life and predict future rituximab serum concentrations based on the exponential decay principle. Predicted future levels were compared to actual follow-up measurements (ie, absolute error).\n\nRESULTS: Ten participants (7 female, median age 14.0 years) with antineutrophil cytoplasmic antibodies-associated vasculitis (n = 4), neuroinflammatory disease (n = 4), or childhood-onset systemic lupus erythematosus (n = 2) contributed 40 samples. The median rituximab half-life was 2.7 (range 1.7-3.5) weeks, and the median absolute error was 0.12 (IQR -0.02 to 0.26) μg/mL, representing a slight overestimation of the predictions. The minimum required rituximab concentration to maintain B-cell depletion (0.55 μg/mL) was reached at a median of 22.2 (range 13.3-28.8) weeks. B-cell repopulation was observed in 5 participants at concentrations ≤ 0.3 μg/mL. One participant had positive antidrug antibodies (half-life 1.8 weeks).\n\nCONCLUSION: This proof-of-concept study demonstrates that rituximab serum concentration measurements can predict future drug concentrations that are associated with early B-cell repopulation. This approach may enable earlier rituximab redosing to prevent increased disease activity associated with B-cell repopulation.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "rheumatology"
@@ -127059,8 +127847,8 @@
       "topics": [
         "rheumatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13528100/",
       "source": "PubMed"
     },
     {
@@ -157514,8 +158302,8 @@
         "prevention",
         "pulmonary-vascular"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531196/",
       "source": "PubMed"
     },
     {
@@ -157618,8 +158406,8 @@
         "prevention",
         "pulmonary-vascular"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531190/",
       "source": "PubMed"
     },
     {
@@ -179295,7 +180083,7 @@
       "id": "pmid:42641789",
       "pmid": "42641789",
       "doi": "10.1016/j.clnesp.2026.105055",
-      "title": "Rheumatoid Arthritis Guidelines Require Dietary Recommendations: An Overlooked Opportunity.",
+      "title": "Rheumatoid arthritis guidelines require More Specific dietary recommendations: An overlooked opportunity.",
       "authors": [
         "Xin T",
         "Liu A"
@@ -179303,7 +180091,7 @@
       "journal": "Clinical nutrition ESPEN",
       "date": "2026-08-25",
       "year": 2026,
-      "abstract": "Clinical guidelines for rheumatoid arthritis (RA), including those from the American College of Rheumatology (ACR) and the European Alliance of Associations for Rheumatology (EULAR), predominantly emphasize pharmacotherapy while largely omitting dietary recommendations. This omission persists despite accumulating clinical evidence and strong patient interest in nutrition. Recent cohort studies and randomized trials have demonstrated that anti-inflammatory dietary patterns, such as the Mediterranean diet, improve RA clinical outcomes; yet international guidelines remain silent on nutrition. This critical gap is especially pronounced in low-resource settings, where dietary modifications could serve as accessible, cost-effective adjuncts to pharmacotherapy. Although several national associations (including those in Germany, France, Australia, the UK, and New Zealand) have begun incorporating whole-food and plant-based recommendations, these frameworks often fail to personalize based on age, sex, ethnicity, and body composition. This opinion paper calls on the ACR and EULAR to integrate evidence-based, culturally sensitive, and individualized dietary recommendations into future RA guidelines. Addressing this gap is essential to align clinical practice with emerging scientific evidence and support equitable, patient-centered care.",
+      "abstract": "Clinical guidelines for rheumatoid arthritis (RA), including those from the American College of Rheumatology (ACR) and the European Alliance of Associations for Rheumatology (EULAR), predominantly emphasize pharmacotherapy while largely omitting dietary recommendations. This omission persists despite accumulating clinical evidence and strong patient interest in nutrition. Recent cohort studies and randomized trials have demonstrated that anti-inflammatory dietary patterns, such as the Mediterranean diet, may improve RA clinical outcomes; yet dietary recommendations remain limited in international guidelines. This critical gap is especially pronounced in low-resource settings, where dietary modifications could serve as accessible, cost-effective adjuncts to pharmacotherapy. Although several national associations (including those in Germany, France, Australia, the UK, and New Zealand) have begun incorporating whole-food and plant-based recommendations, these frameworks often fail to personalize based on age, sex, ethnicity, and body composition. This opinion paper calls on the ACR and EULAR to integrate evidence-based, culturally sensitive, and individualized dietary recommendations into future RA guidelines. Addressing this gap is essential to align clinical practice with emerging scientific evidence and support equitable, patient-centered care.",
       "publication_types": [
         "Journal Article"
       ],
@@ -235399,6 +236187,34 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42683999",
+      "pmid": "42683999",
+      "doi": "10.1111/wrr.70207",
+      "title": "Stem Cell-Based and Stem Cell-Related Regenerative Therapies for Pure Venous Ulcers: A Systematic Review.",
+      "authors": [
+        "Zhang B",
+        "Zhu J",
+        "Wang S",
+        "Li Y",
+        "Wu Y"
+      ],
+      "journal": "Wound repair and regeneration : official publication of the Wound Healing Society [and] the European Tissue Repair Society",
+      "date": "2026-01-01",
+      "year": 2026,
+      "abstract": "Previous systematic reviews of stem cell-based therapies for lower limb ulcers have largely focused on arterial, diabetic or mixed-aetiology ulcers, while evidence in strictly defined pure venous ulcers remains scarce. This systematic review evaluated the efficacy and safety of stem cell-based and stem cell-related regenerative therapies for pure venous ulcers. PubMed, Embase, Web of Science and the Cochrane Library were searched up to February 2026 for comparative clinical studies. Studies involving arterial, diabetic, mixed or non-venous ulcers, non-comparative designs or insufficiently extractable data were excluded. Three studies involving 43 patients were included, comprising two randomised controlled trials and one non-randomised comparative study. Interventions included autologous bone marrow-derived mesenchymal stem cells in fibrin spray, hair follicle-containing punch grafts and antlerogenic stem cell extract. In one randomised double-blind pilot trial, mesenchymal stem cells in fibrin spray accelerated linear healing by approximately 10-fold compared with saline spray and fibrin spray alone (p < 0.01). Another randomised trial found greater ulcer area reduction at 18 weeks in hair follicle-treated areas than in control areas (75.15% [SD 23.03] vs. 33.07% [SD 46.17], p = 0.002). The non-randomised study reported significant improvements in wound area, circumference and healing-related indices, although Ki-67 expression did not differ significantly. No major treatment-related safety concerns were reported, although adverse-event data were limited. Current evidence suggests potential benefit, but findings remain preliminary because of small samples, heterogeneous interventions and variable outcome definitions. Larger standardised studies are needed. Trial Registration: CRD420261304878.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42683772",
       "pmid": "42683772",
       "doi": "10.1111/1460-6984.70309",
@@ -235738,8 +236554,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533378/",
       "source": "PubMed"
     },
     {
@@ -235770,8 +236586,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533348/",
       "source": "PubMed"
     },
     {
@@ -235802,8 +236618,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533393/",
       "source": "PubMed"
     },
     {
@@ -235828,8 +236644,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533372/",
       "source": "PubMed"
     },
     {
@@ -235888,8 +236704,8 @@
       "topics": [
         "electrophysiology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533352/",
       "source": "PubMed"
     },
     {
@@ -235916,8 +236732,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533391/",
       "source": "PubMed"
     },
     {
@@ -235940,8 +236756,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533341/",
       "source": "PubMed"
     },
     {
@@ -235974,8 +236790,8 @@
         "endocrine",
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533362/",
       "source": "PubMed"
     },
     {
@@ -236008,8 +236824,8 @@
         "endocrine",
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533349/",
       "source": "PubMed"
     },
     {
@@ -236080,8 +236896,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533350/",
       "source": "PubMed"
     },
     {
@@ -236108,8 +236924,8 @@
       "topics": [
         "nephrology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13533339/",
       "source": "PubMed"
     },
     {
@@ -238278,10 +239094,9 @@
       "year": 2026,
       "abstract": "BACKGROUND: Serratus anterior plane block (SAPB) is widely used for postoperative analgesia following modified radical mastectomy (MRM). Adjuvant drugs such as dexamethasone and dexmedetomidine may enhance its efficacy.\n\nOBJECTIVE: To compare the analgesic efficacy of dexamethasone versus dexmedetomidine as adjuncts to SAPB in patients undergoing MRM.\n\nMETHODS: This randomized clinical study included 126 female patients undergoing MRM, allocated into two equal groups: dexamethasone (DXA) and dexmedetomidine (DMX). Outcomes included postoperative pain scores, analgesic consumption, sedation level, adverse effects, and recovery parameters.\n\nRESULTS: The DXA group demonstrated significantly lower postoperative pain scores at all time points (p < 0.05), prolonged time to first rescue analgesia, reduced opioid consumption, shorter hospital stay, and lower chronic pain scores. Early postoperative sedation scores were higher in the DXA group but without clinical significance. No significant differences were observed in adverse effects between groups.\n\nCONCLUSION: Dexamethasone is superior to dexmedetomidine as an adjunct to SAPB in MRM, providing prolonged analgesia and improved recovery outcomes.",
       "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
         "Comparative Study",
-        "Clinical Trial"
+        "Journal Article",
+        "Randomized Controlled Trial"
       ],
       "topics": [
         "clinical-trials"
@@ -238308,10 +239123,9 @@
       "year": 2026,
       "abstract": "BACKGROUND: Minimally invasive approaches have revolutionized the management of benign ovarian cysts, with laparoscopy long regarded as the gold standard. Vaginal natural orifice transluminal endoscopic surgery (vNOTES) is an emerging alternative offering the potential for scarless access and reduced postoperative discomfort. However, comparative data on pain outcomes between vNOTES and conventional laparoscopy for ovarian cystectomy remain lacking in the literature.\n\nOBJECTIVE: To evaluate and compare postoperative pain scores, patient satisfaction, and surgical outcomes between vNOTES and conventional laparoscopic ovarian cystectomy.\n\nMETHODS: This prospective quasi-randomized pilot study included 20 premenopausal women undergoing ovarian cystectomy for benign pathology at a tertiary care center at Ain Shams University Maternity hospitals, Minimal Access surgery unit. Patients were equally divided into two groups: vNOTES (n = 10) and conventional laparoscopy (n = 10).\n\nRESULTS: vNOTES was successfully completed in 80% of cases, with one conversion due to adhesions; laparoscopic completion rate was 90%. Operative time was shorter in the vNOTES group (85.6 ± 38.4 min) versus the laparoscopy group (103.7 ± 31.6 min), though not statistically significant (p = 0.26). Pain scores at 6 and 24 hours were lower in the vNOTES group (VAS: 6.0 and 3.0) compared to laparoscopy (VAS: 6.7 and 3.7), and patient satisfaction was significantly higher with vNOTES.\n\nCONCLUSIONS: vNOTES ovarian cystectomy is a safe, feasible technique associated with reduced early postoperative pain and improved patient satisfaction compared to conventional laparoscopy. These findings support the potential of vNOTES as a patient-centered surgical alternative and warrant further investigation in larger trials.",
       "publication_types": [
-        "Journal Article",
+        "Clinical Trial",
         "Comparative Study",
-        "Randomized Controlled Trial",
-        "Clinical Trial"
+        "Journal Article"
       ],
       "topics": [
         "clinical-trials"
@@ -238337,10 +239151,9 @@
       "year": 2026,
       "abstract": "BACKGROUND: The present study aimed to determine the effectiveness of the microsurgical approach in treating gingival recession with collagen matrix by comparing it with Conventional surgery in terms of clinical and patient-centered outcomes.\n\nMETHODS: A total of 29 patients with bilateral gingival recession in the maxillary canine and/or premolar region were selected. After randomisation, bilateral recession sites were grouped into the test group (Microsurgery under 3.5 X magnification) and the control group (Conventional surgery). All the clinical and patient-reported parameters were recorded at baseline, 1, 3 and 6 months.\n\nRESULTS: Both groups showed statistically significant differences in terms of reduction in gingival recession height (GRH), gingival recession width (GRW), clinical attachment level gain (CAL gain), increase in keratinized tissue thickness (KTT) and keratinized tissue width (KTW) after 6 months. But intergroup comparison showed no significant difference in terms of clinical parameters. The only significant difference was noted in terms of patient-centred parameters (Patient satisfactory score, Hypersensitivity score, Root aesthetic scores), which favoured the microsurgical group.\n\nCONCLUSIONS: Both groups demonstrated comparable clinical improvement; However, Patient-centred parameters were significantly better with the Microsurgical approach. Selection of the surgical approach should balance patient needs with practical considerations like cost, time, and clinician proficiency.",
       "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
         "Comparative Study",
-        "Clinical Trial"
+        "Journal Article",
+        "Randomized Controlled Trial"
       ],
       "topics": [
         "clinical-trials"
