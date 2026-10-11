@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:52:22.124176+00:00",
+  "generated_at": "2026-10-11T20:21:50.057421+00:00",
   "articles": [
     {
       "id": "pmid:42841288",
@@ -48682,6 +48682,291 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42859948",
+      "pmid": "42859948",
+      "doi": "10.1007/s11538-026-01769-2",
+      "title": "The Curse of Black Sigatoka: A Backward Bifurcation Perspective.",
+      "authors": [
+        "Afful BA",
+        "Gordillo LF"
+      ],
+      "journal": "Bulletin of mathematical biology",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "Black Sigatoka disease (BSD), also known as black leaf streak disease, is an airborne fungal infection caused by Pseudocercospora fijiensis that severely impacts global banana and plantain production. Its persistence and resistance to eradication make it one of the most challenging plant diseases to manage. In this paper, we propose a deterministic pathogen-host model to describe BSD dynamics. Due to dual transmission pathways (ascospores and conidia) and mate limitation in sexual reproduction, the model exhibits a backward bifurcation: a stable endemic equilibrium coexists with the disease-free equilibrium for certain parameter values in which the basic reproduction number, R 0  , is less than 1. This phenomenon explains why control strategies that solely reduce R 0  below one may fail. For the backward bifurcation regime, we perform sensitivity analysis of the endemic equilibrium using normalized forward sensitivity indices, Latin Hypercube Sampling, and Partial Rank Correlation Coefficients. Results indicate that effective control must extend beyond R 0  reduction and prioritize (1) limiting production of new susceptible leaves during high-risk periods and (2) developing and deploying disease-resistant plant varieties. To incorporate transmission variability, we also formulate a stochastic version of the model using the Stochastic Simulation Algorithm (SSA). Extensive numerical simulations compare stochastic realizations with deterministic predictions and quantify variability in disease dynamics. To identify the principal drivers of persistence and variability, we analyze the endemic equilibrium using Sobol's variance-based sensitivity method, which highlights the role of nonlinear parameter interactions in shaping variability.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859946",
+      "pmid": "42859946",
+      "doi": "10.1186/s13244-026-02392-4",
+      "title": "Sustainable iodine contrast media for a healthy future (SUSTAINED): a global survey of practice.",
+      "authors": [
+        "England A",
+        "Hadi YH",
+        "Precht H",
+        "Sipos D",
+        "Mekiš N",
+        "Cornacchione P",
+        "Sarchosoglou A",
+        "Nousiainen T",
+        "Cunha A",
+        "Justich C",
+        "Cruwys C",
+        "Carrié D",
+        "McEntee MF"
+      ],
+      "journal": "Insights into imaging",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "OBJECTIVES: To investigate healthcare professionals' knowledge, attitudes, and practices (KAPs) of the environmental impact and sustainability of iodinated contrast media (ICM).\n\nMATERIALS AND METHODS: A cross-sectional web-based survey was distributed to members of professional societies and advertised via social media between June and December 2024. The questionnaire covered themes including sustainability attitudes, reduction strategies, waste management, patient awareness, and institutional policies. Data were analysed using descriptive statistics, chi-square tests, and analysis of variance (ANOVA).\n\nRESULTS: 231 respondents from 44 countries completed the survey, primarily diagnostic radiographers (59%) and radiologists (38%). Most respondents (60%) reported that their institutions had sustainable ICM policies, and there was a significant association between institutional size and alignment with sustainability goals    X 2  = 14.2 , p = 0.003   . Adoption of reduction strategies such as protocol optimisation, saline chasers, and multi-patient systems varied significantly across institutions    X 2  = 18.5 , p = 0.001   , with younger professionals (25-44 years) more engaged  A N O V A , F = 5.62 , p = 0.001   . Respondents reported waste management practices being inconsistently applied, with 26% of respondents reporting \"never engaging\"    X 2  = 19.6 , p  <  0.001   . Patient awareness was perceived as low, 47% \"strongly disagreeing\" that patients understood the environmental impact of ICM use    X 2  = 16.9 , p = 0.002   . Variability in KAPs across European countries was minimal    s 2  = 0.0068   .\n\nCONCLUSIONS: This survey highlights widespread professional awareness of ICM sustainability issues but reveals variability in institutional practices, limited patient awareness, and inconsistent waste management. Findings emphasise the importance of stronger institutional policies, targeted education, and international collaboration to promote sustainable ICM use.\n\nKEY POINTS: Question How do healthcare professionals perceive and implement sustainable practices in the use of iodinated contrast media (ICM) within clinical practice? Findings While many institutions endorse sustainability, notable gaps exist in waste management, patient and practitioner education, and consistency of reduction strategies. Critical relevance statement Strengthening institutional frameworks and professional and patient engagement can enhance sustainable ICM use, safeguard resources, and mitigate environmental impact.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859941",
+      "pmid": "42859941",
+      "doi": "10.1007/s40121-026-01449-7",
+      "title": "Time-Dependent Prognostic Value of the sCD25-to-Ferritin Ratio in Chronic Active Epstein-Barr Virus-Associated Hemophagocytic Lymphohistiocytosis.",
+      "authors": [
+        "Zhu Y",
+        "Gao T",
+        "Zhang X",
+        "Gong C",
+        "Yang C",
+        "He X",
+        "Song Y"
+      ],
+      "journal": "Infectious diseases and therapy",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Chronic active Epstein-Barr virus infection (CAEBV) is an EBV-positive T/NK-cell lymphoproliferative disease characterized by persistent EBV infection in T or NK cells. CAEBV-HLH refers to hemophagocytic lymphohistiocytosis secondary to CAEBV. As important markers of HLH activity, soluble CD25 (sCD25) and serum ferritin reflect lymphocyte activation and macrophage-mediated inflammation, respectively. The sCD25-to-ferritin ratio may therefore integrate information between the underlying EBV-driven T/NK-cell lymphoproliferative process and HLH-related hyperinflammation. Considering the heterogeneous clinical course varying over time, we evaluated the time-dependent prognostic value of baseline sCD25/ferritin in CAEBV-HLH.\n\nMETHODS: This multicenter retrospective study included 108 patients with CAEBV-HLH diagnosed between January 2015 and February 2026. Baseline sCD25/ferritin was calculated at diagnosis. All-cause mortality within the first year was assessed across cumulative monthly follow-up. Time-restricted Cox regression and time-dependent receiver operating characteristic (ROC) analysis were performed to evaluate prognostic association and discriminative performance over time. The optimal cutoff was determined using the Youden Index, and the AUC was validated by bootstrap resampling (1000 iterations) to correct for optimism bias. Survival was compared by Kaplan-Meier analysis. The discriminative performance of the sCD25/Fer ratio was further compared against the existing HScore using DeLong's test for paired ROC curves. Analyses were repeated in patients who did not undergo hematopoietic stem cell transplantation (HSCT).\n\nRESULTS: During follow-up censored at 12 months, 43 (39.81%) deaths occurred. Baseline sCD25/ferritin was significantly higher in non-survivors than in survivors (P = 0.002). In the overall cohort, the sCD25/ferritin was significantly associated with mortality from month 3 onward (HR, 1.23; 95% CI, 1.02-1.47), with stable estimates through 12 months. The 4-month window was selected as an early clinically informative time point, with an AUC of 0.705 in conventional ROC analysis. A cutoff of 27.98 stratified the overall cohort into distinct survival groups (P < 0.001). In the non-HSCT subgroup, predictive performance became significant from month 4 onward, and the 4-month AUC increased to 0.766, with a cutoff of 22.80. Notably, sCD25/Ferritin ratio significantly outperformed the conventional HScore for 4-month mortality prediction (AUC 0.730 vs. 0.584; P = 0.022 by DeLong's test), with consistent superiority in the non-HSCT subgroup (AUC 0.768 vs. 0.597; P = 0.029).\n\nCONCLUSIONS: The baseline sCD25/ferritin ratio is a disease-relevant biomarker in CAEBV-HLH. Its prognostic value became statistically significant from month 3 onward and was more pronounced in patients without HSCT, indicating that this ratio may better reflect the natural disease course when outcomes are less influenced by transplantation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859938",
+      "pmid": "42859938",
+      "doi": "10.1007/s10495-026-02440-w",
+      "title": "Necroptosis as a key player in cervical cancer progression and management: a systematic review and transcriptomic cross-study consensus analysis.",
+      "authors": [
+        "Fobian SF",
+        "Eldering E",
+        "Tromp J",
+        "Oei AL"
+      ],
+      "journal": "Apoptosis : an international journal on programmed cell death",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "Immunotherapy has improved outcomes for a subset of patients with locally advanced cervical cancer. However, many tumors remain immunologically \"cold\" and fail to respond. Strategies that enhance tumor immunogenicity are therefore of increasing interest. Necroptosis, a regulated form of inflammatory cell death, has emerged as a potential mechanism capable of promoting the anti-tumor immune responses through the release of damage-associated molecular patterns and enhanced antigen presentation. In this study, we performed a systematic review and transcriptomic cross-study consensus analysis of all studies carried out describing the role and mechanisms of necroptosis occurrence in cervical cancers. We analyzed all published necroptosis-related prognostic gene signatures and integrated these findings into an exploratory transcriptomic analyses to identify mechanistic insights into interlinked biological pathways, and potential therapeutic targets. Following PRISMA guidelines, we analyzed seven published prognostic models, from studies using RNA sequencing and least absolute shrinkage and selection operator (LASSO)-based feature selection to generate a prognostic risk score for patients. We then conducted a comparative analyses of eight overlapping genes and their reported risk score coefficients. Across studies, seven necroptosis-related genes were identified, many of which are functionally linked to mitochondrial transport and permeability regulation, reactive oxygen species (ROS) generation, and inflammatory signaling. Overall, our findings support a key role for necroptosis in cervical cancer, where activation thereof is generally associated with enhanced immune infiltration and activation; thereby improved prognosis. These findings position necroptosis as a promising target for combination therapy strategies aimed at converting immunologically \"cold\" tumors into more responsive phenotypes. By integrating published signatures with exploratory analyses, we identify potential avenues to modulate necroptotic signaling in ways that may enhance synergy with immunotherapies, and have synthesized a hypothetical cell signaling and interaction diagram. Collectively, this work provides a foundation for future experimental validation and therapeutic development.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859937",
+      "pmid": "42859937",
+      "doi": "10.1007/s00415-026-14153-w",
+      "title": "An update on neuro-otology and neuro-ophthalmology - focusing on new developments in the last three years.",
+      "authors": [
+        "Tarnutzer AA",
+        "Strupp ML",
+        "Lehner L"
+      ],
+      "journal": "Journal of neurology",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "Vertigo, dizziness, and imbalance are among the most frequent presenting symptoms in primary care and in the emergency department (ED). The clinical diagnosis is based on a structured patient history and bedside examination of the vestibular system and the ocular motor system, looking especially for central ocular motor signs. Recent guidelines, such as the GRACE-3 guideline on acute vertigo and dizziness, the increasing availability of bedside diagnostic algorithms, and the use of quantitative vestibular and ocular motor testing in both the ED-setting and in the outpatient center have facilitated and standardized the approach to the dizzy patient. Here we review recent developments in neuro-otology and neuro-ophthalmology, covering the period after the latest neuro-otology update was published in this journal in 2023. Both new-onset acute, episodic and chronic vestibular conditions are discussed separately, highlighting advancements in disease characterization, diagnostic criteria, and treatment strategies. While major progress has been made in terms of the pathophysiology, etiology, genetics, and diagnostic criteria of peripheral, central, and functional vestibular diseases as well as ocular motor disorders, this knowledge has to be transferred into clinical practice. Systematic teaching of doctors to increase knowledge and to improve skills in applying the different tests in clinical practice on a high level are identified challenges. In terms of treatment, there is still a very great need for state-of-the art clinical trials applying approved therapies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859934",
+      "pmid": "42859934",
+      "doi": "10.1007/s12325-026-03823-w",
+      "title": "Methotrexate in Still's Disease: An Updated Perspective on Efficacy and Safety.",
+      "authors": [
+        "Daghor-Abbaci K",
+        "Koker O"
+      ],
+      "journal": "Advances in therapy",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "The EULAR/PreS and American College of Rheumatology (ACR) guidelines for Still's disease (SD) were recently published with new therapeutic management strategies to achieve therapeutic targets within a specified timeframe. The early use of interleukin (IL)-1 or IL-6 inhibitors associated with short-term corticosteroids is recommended. Methotrexate (MTX) is not recommended as initial monotherapy for the acute systemic phase and should not be considered an alternative to early cytokine-targeted therapy when biologic treatment is available. Nevertheless, observational and real-world studies retain clinical utility of MTX as a corticosteroid-sparing agent with a favorable safety profile particularly in adult patients with residual arthritis and preserved organ function. Beyond its well-known immunomodulatory effects, MTX has been hypothesized to influence IL-1-related inflammatory pathways; however, this hypothesis is extrapolated from other inflammatory diseases, and no SD-specific mechanistic study has directly demonstrated an IL-1-mediated therapeutic effect of MTX. Reported remission rates varied according to the therapeutic regimen and study definition and should therefore be interpreted cautiously. In settings where access to biologic agents is limited, MTX may also represent a pragmatic therapeutic option, although this use reflects healthcare constraints rather than evidence of equivalence to IL-1 or IL-6 inhibition. In children with SD, MTX is mainly used for residual arthritis or as a steroid-sparing agent after control of systemic inflammation. Moreover, combining MTX with biologic agents may provide additional benefit in selected patients with residual arthritis or corticosteroid dependence. This review provides an updated perspective on the efficacy and safety of MTX in SD, with particular emphasis on its complementary role within the current biologic-first therapeutic landscape.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859932",
+      "pmid": "42859932",
+      "doi": "10.1007/s12325-026-03809-8",
+      "title": "Perinatal Outcomes of Pleuro-Amniotic Shunting in Isolated Pleural Effusions: Systematic Review and Meta-analysis.",
+      "authors": [
+        "Amorim EL",
+        "Araujo Júnior E",
+        "da Silva Lourenço MC",
+        "de Sousa DG",
+        "Ferreira FM",
+        "Dos Santos Lobo MF",
+        "Provinciatto H",
+        "Nader EM",
+        "Braga A",
+        "Granese R"
+      ],
+      "journal": "Advances in therapy",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Pleuro-amniotic shunting has been proposed for fetal pleural effusion, although its safety and efficacy remain uncertain. Therefore, we aimed to evaluate the perinatal outcomes of the fetal therapy for isolated pleural effusion through a systematic review and single-arm meta-analysis.\n\nMETHODS: PubMed/MEDLINE, Embase, Scopus, and Cochrane Central were searched for studies reporting outcomes of fetuses undergoing pleuro-amniotic shunting for isolated pleural effusion. The primary outcomes were overall survival and resolution of fetal hydrops. Single-arm random-effects meta-analyses were performed to estimate pooled event rates with 95% confidence intervals (CI).\n\nRESULTS: Ten retrospective cohort studies comprising 416 fetuses treated with pleuro-amniotic shunting were included. The pooled overall survival rate was 65.36% (95% CI 59.46-70.83; I2 = 30.7%). Resolution of fetal hydrops occurred in 62.25% of cases (95% CI 54.27-69.62; I2 = 0%). A total of 62 catheter displacements were recorded, corresponding to a combined prevalence of 17.13% (95% CI 13.59-21.36). Overall, there were 155 preterm births, resulting in a pooled prevalence of 69.67% (95% CI 61.24-76.95; I2 = 26.9%). Preterm premature rupture of membranes (PPROM) prevalence was 17.65% (95% CI 7.78-35.28; I2 = 84.5%; p < 0.001).\n\nCONCLUSION: Pleuro-amniotic shunting achieves overall survival in approximately two-thirds of treated fetuses and resolving fetal hydrops in most cases. However, the procedure may be associated with preterm birth and PROM, underscoring the need for multidisciplinary perinatal management. Although the evidence is limited, these findings support pleuro-amniotic shunting as a promising treatment for progressive isolated fetal pleural effusion and highlight the need for prospective studies to optimize patient selection and perinatal care.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859923",
+      "pmid": "42859923",
+      "doi": "10.1080/14622416.2026.2732153",
+      "title": "Pharmacogenomics of cancer therapy-related cardiomyopathy in childhood cancer survivors.",
+      "authors": [
+        "Poudel S",
+        "Sapkota Y"
+      ],
+      "journal": "Pharmacogenomics",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "Cancer therapy-related cardiomyopathy (CTR-cardiomyopathy) is the leading noncancer late effect contributing to morbidity and mortality among adult survivors of childhood cancer. Anthracycline chemotherapy and thoracic radiotherapy are the primary treatment-related risk factors. However, substantial variability among similarly treated individuals highlights the role of germline genetic susceptibility. This review summarizes pharmacogenomic evidence for CTR-cardiomyopathy and the integration of genetic and clinical risk factors for individualized risk prediction. We searched PubMed through July 2026 for studies examining the molecular underpinnings and risk prediction in these survivors. Candidate gene studies identified associations across pathways involved in drug transport (ABCC1, ABCC2, SLC28A3), metabolism (CBR3), oxidative stress (SOD2, CYBA, NCF4), DNA damage response (RARG, XRCC5, MGMT), and inflammation (P2RX7). Genome-wide studies have identified additional loci, including HAS3, ancestry-specific signals (PHTF1/MAGI3, AGBL1), and a doxorubicin-specific locus (KCNK17). Despite progress, barriers to clinical implementation remain, including heterogeneous phenotype definitions, limited replication, especially in non-European populations, and lack of prospectively validated risk models. Integration of multi-omics approaches may improve detection of subclinical cardiac injury. Ultimately, combining polygenic and other omic risk scores with clinical factors and validating these models prospectively across diverse populations will be essential for advancing precision survivorship care.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859887",
+      "pmid": "42859887",
+      "doi": "10.1177/09697330261493482",
+      "title": "A grounded theory of compassionate care among clinical nurses.",
+      "authors": [
+        "Kim HS",
+        "Roh EH",
+        "Moon KS",
+        "Kim JH",
+        "Lee Y"
+      ],
+      "journal": "Nursing ethics",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "BackgroundCompassionate care is a core ethical obligation in nursing, yet the processes through which nurses enact and sustain it remain insufficiently theorized. Existing grounded theory models have not examined an East Asian care context in which nursing staff may assume both clinical and daily living care.Research question/aim/objectivesHow do clinical nurses experience, construct, and sustain compassionate care, and what ethical challenges shape this process?Research designA grounded theory design following Strauss and Corbin was employed. Semi-structured interviews were analysed using open, axial, and selective coding with constant comparison. Ethics of care and moral distress served as sensitizing concepts, while categories were generated inductively. Trustworthiness followed Lincoln and Guba's criteria.Participants and research contextParticipants were thirteen female nurses from tertiary and secondary hospitals in South Korea, working across intensive care, hospice and palliative care, general and haematology wards, and emergency settings (mean clinical experience 14.9 years). Interviews were conducted from July 2020 to February 2021 during the COVID-19 pandemic.Ethical considerationsInstitutional Review Board approval was obtained, and all participants provided written informed consent.Findings/resultsThe core category-comprehensive care grounded in an understanding of the illness trajectory-described compassionate nursing as a practice in which anticipating where a patient stands in the illness course shaped responses to present and emerging needs. Workload and time pressure constrained compassionate engagement, while collegial support helped nurses sustain it. Professional fulfilment and emotional depletion appeared as consequences that could influence subsequent care.ConclusionsCompassionate care was shaped by the integration of clinical understanding, relational engagement, and organizational conditions. Sustaining this practice may require workload governance and structured collegial support rather than reliance on individual resilience alone.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859886",
+      "pmid": "42859886",
+      "doi": "10.1177/09697330261489549",
+      "title": "A cross-sectional study of transplant clinicians' moral distress and grit.",
+      "authors": [
+        "Miller PH",
+        "Modi S",
+        "Hoy H"
+      ],
+      "journal": "Nursing ethics",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "BackgroundWhen transplant clinicians encounter ethical challenges and are constrained by their institution from acting in a manner within their professional ethical obligations, they may experience moral distress. Moral distress has been associated with negative effects such as burnout and turnover. Conversely, high grit has been positively correlated with job satisfaction, job performance, and organizational commitment.Research questionsWhat is the level of grit and moral distress among transplant clinicians? What correlations between demographics, grit, moral distress, and intent to leave exist among transplant clinicians?Research designThis cross-sectional study was conducted from October 2024 through March 2025. Three instruments, an investigator-developed demographic survey, the 12-Item Grit Scale, and the Measure of Moral Distress for Healthcare Professionals, were used to capture transplant clinician's grit and level of moral distress. Data were analyzed using descriptive statistics, Pearson correlation, and generalized structural equation modeling.Participants and research contextThe target population for this study consisted of organ transplant clinicians (e.g., surgeons, physicians, coordinators, advanced practice providers, nurses, and allied health team members) in the United States.Ethical considerationsEthics review and approval was obtained prior to subject recruitment.ResultsAmong 101 transplant clinicians, higher moral distress was observed in those with advanced education, frequent ethical challenges, and specific transplant roles (e.g., advanced practice providers, physicians, multi-organ), while grit remained consistent across demographic and clinical factors. Generalized structural equation modeling suggests a potential mediating role between clinician characteristics (education), workforce factors (frequent ethical issues and specific transplant roles), and turnover intentions.ConclusionTransplant clinicians who experience moral distress frequently and at high intensity may express an intent to leave their role regardless of their level of grit. Healthcare organizations must create targeted interventions and resources to mitigate moral distress and support transplant clinicians who experience moral distressing events.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859860",
+      "pmid": "42859860",
+      "doi": "10.1002/ijgo.71442",
+      "title": "RETRACTION: Prospective Study of the Effect of Maternal Body Mass Index on Labor Progress in Nulliparous Women in Egypt.",
+      "authors": [],
+      "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "A.M. Maged, D.S. Belal, H.M. Marie, H. Rashwan, S. Abdelaziz, A. A. Gabr, and A.R. Elzayat, \"Prospective Study of the Effect of Maternal Body Mass Iwndex on Labor Progress in Nulliparous Women in Egypt,\" International Journal of Gynecology & Obstetrics 139, no. 3 (2017): 329-335, 10.1002/ijgo.12322. The above article, published online on 08 September 2017 in Wiley Online Library (wileyonlinelibrary.com) has been retracted by agreement between the journal Editor-in-Chief, Michael Geary; and John Wiley & Sons Ltd. Concerns were raised on PubPeer [1] that the reported p-values in Table 1 are not consistent with the reported summary statistics, including maternal age, maternal height, and pregnancy duration at admission. When the editorial team re-calculated the p-values, they showed a very high statistical significance, as opposed to the non-significance presented in the article. The publisher asked the authors to clarify these inconsistencies and provide the raw data for the study. The authors did not provide the requested data as the study was conducted more than 10 years ago, but responded to the concerns by acknowledging that there may have been errors in reporting, including the cervical dilation measurements, the p-values, and the sub-group data. Without the study data to clarify and correct further, the Editor-in-Chief has lost confidence in the reported data and conclusions. Therefore, a retraction is warranted. [1] J. Thornton, and N. Brown \"Prospective Study of the Effect of Maternal Body Mass Index on Labor Progress in Nulliparous Women in Egypt,\" PubPeer, May 2024-May 2026, https://pubpeer.com/publications/850968C31F9E584350E0445D5A5BEC.",
+      "publication_types": [
+        "Journal Article",
+        "Retraction Notice"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42859852",
       "pmid": "42859852",
       "doi": "10.1113/JP292175",
@@ -49131,6 +49416,34 @@
       ],
       "topics": [
         "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42859927",
+      "pmid": "42859927",
+      "doi": "10.1016/j.jaccas.2026.110659",
+      "title": "Surgical Ligation for Partial Anomalous Pulmonary Venous Connection With Dual Drainage in an Elderly Patient.",
+      "authors": [
+        "Tanaka T",
+        "Wakisaka H",
+        "Kimura M",
+        "Miyazaki T",
+        "Takashima N",
+        "Suzuki T"
+      ],
+      "journal": "JACC. Case reports",
+      "date": "2026-10-10",
+      "year": 2026,
+      "abstract": "BACKGROUND: Partial anomalous pulmonary venous connection with dual drainage into both the superior vena cava (SVC) and left atrium (LA) is a rare congenital anomaly, with few reported cases.\n\nCASE SUMMARY: A 78-year-old woman presented with exertional dyspnea. Cardiac computed tomography revealed that the right pulmonary vein drained into both the SVC and LA, resulting in a significant left-to-right shunt. We ligated the anomalous connection with a median sternotomy. This approach allowed avoidance of complex reconstructions and cardioplegic arrest.\n\nDISCUSSION: Simple ligation may represent a less invasive surgical option that avoids cardiac arrest and shortens operative time. Moreover, it may prevent pulmonary venous obstruction and future heart failure caused by right heart volume overload.\n\nTAKE-HOME MESSAGE: In elderly patients with heart failure caused by partial anomalous pulmonary venous connection with dual drainage into both the SVC and LA, ligation of the left-to-right shunt may be less invasive and prevent late complications.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -358724,347 +359037,6 @@
       ],
       "topics": [
         "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42791522",
-      "pmid": "42791522",
-      "doi": "10.1186/s12887-026-07737-y",
-      "title": "Parental needs and experiences with e-Health applications in chronic pediatric care - a scoping review.",
-      "authors": [
-        "Grüter H",
-        "Loeffler A",
-        "Stähler L",
-        "Gönen I",
-        "Prüfe J",
-        "De Bock F",
-        "Pischke CR"
-      ],
-      "journal": "BMC pediatrics",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "BACKGROUND: The number of children and adolescents living with a chronic condition is steadily increasing. These conditions often place a considerable burden on affected individuals and their families. E-Health applications have the potential to support families by providing accessible resources and personalized tools for disease management. This scoping review aims to synthesize the specific needs and experiences that parents of children with chronic conditions across different diagnosis categories express in relation to e-Health applications.\n\nMETHODS: This review was conducted in accordance with the Joanna Briggs Institute (JBI) methodology for scoping reviews and the PRISMA-ScR reporting guidelines. A systematic search of the literature published between January 2010 and February 2025 was carried out in the Web of Science and Ovid databases, including Ovid MEDLINE and APA PsycInfo. The initial search identified 1,173 articles, of which 39 underwent data analysis via narrative synthesis.\n\nRESULTS: A broad spectrum of needs and experiences was identified regarding e-Health applications intended to support parents of children with chronic conditions. Across conditions, such as autism, diabetes, asthma, congenital heart disease, and obesity, recurring themes emerged. Parents consistently emphasized the need for accessible and user-friendly interfaces, reliable and comprehensible health information, and tools to support care coordination and communication with healthcare professionals. Social support and psychological resources provided via e-Health applications were also valued, while concerns regarding data privacy persisted. Experiences with e-Health applications were generally positive, particularly for mobile apps, web-based platforms, and video conferencing, which improved monitoring, empowerment, and access to care. However, parents also reported barriers, including technical difficulties, limited customization, and fear of reduced personal contact with providers. Needs and experiences were frequently repeated across different modalities and conditions, suggesting common priorities for digital health design. Evidence on needs along the care trajectory was limited, with early and long-term phases better represented than transitional periods.\n\nCONCLUSION: Parents of children with chronic conditions articulate broad, cross-cutting needs for e-Health applications that go beyond diagnosis-specific management. From their perspective, effective tools should integrate accessible design, reliable information, coordination features, social support, and ensure data protection. Research gaps remain regarding transitional care phases and the dynamic evolution of needs over time.",
-      "publication_types": [
-        "Scoping Review",
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13613592/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42791152",
-      "pmid": "42791152",
-      "doi": "10.1016/j.ejim.2026.107199",
-      "title": "European practices for screening and follow-up in mixed connective tissue disease: a survey of clinicians from the European Federation of Internal Medicine and ERN ReCONNET.",
-      "authors": [
-        "Chevalier K",
-        "Truchetet ME",
-        "Comarmond C",
-        "de Vries-Bouwstra J",
-        "Ong V",
-        "Triggianese P",
-        "Marinello D",
-        "Mosca M",
-        "Randone SB",
-        "Pietro-Gonzalez S",
-        "Brkic Z",
-        "Guimarães V",
-        "Ciupera M",
-        "Olesinska M",
-        "Mouthon L",
-        "Chaigne B",
-        "European Federation of Internal Medicine Diseases Systemic Autoimmune Diseases working group and the European Reference Network on Rare and Complex Connective Tissue and Musculoskeletal Mixed connective tissue group"
-      ],
-      "journal": "European journal of internal medicine",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Mixed connective tissue disease (MCTD) is a rare systemic autoimmune disorder in which interstitial lung disease (ILD) and pulmonary hypertension (PH) constitute the leading causes of death. No MCTD-specific recommendations currently exist regarding the timing, frequency, or indications for key paraclinical investigations. This study aimed to assess current European clinical practices regarding the use of high-resolution computed tomography (HRCT), pulmonary function tests (PFTs), transthoracic echocardiography (TTE), and nailfold capillaroscopy (NFC) in MCTD patients.\n\nMETHODS: We conducted a cross-sectional survey distributed through the European Federation of Internal Medicine (EFIM) and the European Reference Network for Rare and Complex Connective Tissue and Musculoskeletal Diseases (ERN ReCONNET).\n\nRESULTS: One hundred and thirty-five clinicians from 102 centers in 21 European countries were included. Respondents were predominantly rheumatologists (61.5%) and internists (32.6%). Systematic baseline screening was performed by 91.1% of respondents for PFTs, 85.9% for TTE, 74.1% for HRCT, and 71.9% for NFC. However, substantial heterogeneity was observed in follow-up strategies: 61.5% relied on clinical judgement alone to guide HRCT re-screening in ILD-negative patients, and 35.6% did not repeat NFC in patients with a scleroderma-like pattern at baseline. Referral for RHC after TTE suggestive of PH was also heterogeneous, with 34.8% requiring prior DETECT algorithm validation, despite this algorithm not being validated in MCTD.\n\nCONCLUSIONS: This first European survey on paraclinical monitoring practices in MCTD reveals a broadly proactive approach to baseline screening, but highlights critical gaps in follow-up standardization. These data provide an empirical foundation for the development of evidence-based, MCTD-specific monitoring recommendations.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42790196",
-      "pmid": "42790196",
-      "doi": "10.1016/j.transci.2026.104540",
-      "title": "Concurrent marked hypocalcemia and hypokalemia are associated with clinically significant citrate toxicity during peripheral blood stem cell collection.",
-      "authors": [
-        "Sainoki H",
-        "Fujii K",
-        "Mitsuhashi T",
-        "Tanaka Y",
-        "Shimono J",
-        "Murakami H",
-        "Otsuka F",
-        "Maeda Y",
-        "Fujii N"
-      ],
-      "journal": "Transfusion and apheresis science : official journal of the World Apheresis Association : official journal of the European Society for Haemapheresis",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "BACKGROUND: Citrate anticoagulation during peripheral blood stem cell (PBSC) collection decreases ionized calcium and may also reduce potassium. Although hypocalcemia is a well-recognized cause of citrate toxicity, the clinical significance of concurrent hypokalemia remains unclear. We evaluated whether concurrent marked hypocalcemia and marked hypokalemia were associated with citrate toxicity in PBSC donors.\n\nMATERIALS AND METHODS: This secondary analysis included healthy PBSC donors from a prospective study. Marked hypocalcemia and marked hypokalemia were defined as minimum ionized calcium ≤ 1.0 mmol/L and potassium ≤ 3.0 mmol/L, respectively. Donors were classified as neither decrease, either decrease alone, or concurrent decreases. The primary outcome was Grade ≥ 2 citrate toxicity. Firth-type modified Poisson regression with an improved robust variance estimator was used to estimate risk ratios (RRs).\n\nRESULTS: Forty-two donors were included. Grade ≥ 2 citrate toxicity occurred in 1/29 donors (3.4%) with neither decrease, 2/8 (25.0%) with either decrease alone, and 2/5 (40.0%) with concurrent marked hypocalcemia and marked hypokalemia. Compared with neither decrease, concurrent decreases were associated with higher Grade ≥ 2 citrate toxicity risk in the primary adjusted Firth-type analysis (RR, 5.472; 95% CI, 1.126-26.590). In the adjusted continuous-exposure sensitivity analysis, RRs per 0.1 mmol/L increase were 0.462 and 1.244 for minimum ionized calcium and potassium, respectively. Categorical estimates had wide confidence intervals, warranting cautious interpretation.\n\nCONCLUSION: Concurrent marked hypocalcemia and marked hypokalemia were associated with clinically significant citrate toxicity during PBSC collection. Concurrent electrolyte depletion may identify donors at increased risk of clinically significant citrate reactions.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42786878",
-      "pmid": "42786878",
-      "doi": "10.2174/011573403X516185260914073314",
-      "title": "Cardio-Hepatic Syndrome in Iron Overload: A Scenario Beyond Alcohol and Metabolic Dysfunction.",
-      "authors": [
-        "Gerasimenko Y",
-        "Tarasenko S",
-        "Tarasova O",
-        "Rachina S",
-        "Rozina N",
-        "Popandopulo D",
-        "Zayratyants G",
-        "Bykov D",
-        "Poltavskaya M",
-        "Soloveva A"
-      ],
-      "journal": "Current cardiology reviews",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "Liver disease and heart failure have interconnected pathophysiology and frequently coexist within the common framework of systemic metabolic disorder, as a result of alcohol overuse, or as a consequence of one organ's failure precipitating the other, in the form of congestive hepatopathy or, conversely, cirrhotic cardiomyopathy. Iron overload represents a less common but potentially devastating cardio-hepatic phenotype that may be missed when liver dysfunction, diabetes, arrhythmia, and heart failure are attributed prematurely to more prevalent causes. In this narrative mini-review, illustrated by an autopsy-confirmed case of fatal multiorgan iron overload, we aim (i) to raise clinical suspicion of iron overload among cardiologists, (ii) to address the wide spectrum of differential diagnoses to consider when liver disorder and heart failure coexist, and (iii) to emphasize the need for correct interpretation of iron indices and targeted management to improve patient outcomes.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "electrophysiology",
-        "gastro-hepatology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42780979",
-      "pmid": "42780979",
-      "doi": "10.1177/17449871261462853",
-      "title": "Effect of education on oral antiviral use on medication adherence and quality of life in patients with chronic hepatitis B: a randomised trial.",
-      "authors": [
-        "Korkmaz Binay Ş",
-        "Özakgül A"
-      ],
-      "journal": "Journal of research in nursing : JRN",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "BACKGROUND: Adherence to oral antiviral therapy is essential to reduce progression from chronic hepatitis B (CHB) to cirrhosis and hepatocellular carcinoma.\n\nAIM: To evaluate the effect of education on oral antiviral use on medication adherence and quality of life (QoL) in patients with CHB.\n\nMETHODS: This randomised controlled trial included 60 of 105 eligible patients with CHB. All completed the study. The intervention, delivered by the researcher, consisted of individualised education and telephone counselling tailored to patients' learning needs and focused on medication adherence. The control group received usual care. Data were collected using the MARS-5, MedTake test, LDSI, SF-12 and PLNS at baseline and 3 months. Data were analysed using SPSS 26.\n\nRESULTS: At baseline, there were no significant differences between the groups in medication adherence and laboratory parameters (p > 0.05). Mean baseline PLNS scores were 154.43 ± 3.61 in the control group and 162.63 ± 9.6 in the intervention group. At 3 months, the proportion of patients achieving medication adherence above 80% was significantly higher in the intervention group (p < 0.01). The intervention group showed significant improvements in MARS-5, MedTake Test scores, SF-12 and LDSI scores, with lower HBV-DNA, ALT and AST levels (p < 0.01).\n\nCONCLUSION: Individualised education may improve medication adherence and QoL in patients with CHB.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13597957/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42780625",
-      "pmid": "42780625",
-      "doi": "10.4291/wjgp.121790",
-      "title": "Accuracy of non-invasive tests for diagnosing liver fibrosis and steatosis: A systematic review.",
-      "authors": [
-        "Shukla SR",
-        "Baig MAA",
-        "Pareek A",
-        "Johari N",
-        "Thapa Y",
-        "Kumpati BB",
-        "Nirmal SM",
-        "Ayesha Imdad I",
-        "Azid D",
-        "Aina E",
-        "Lakhani A"
-      ],
-      "journal": "World journal of gastrointestinal pathophysiology",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "BACKGROUND: Liver fibrosis is a key determinant of prognosis and management in chronic liver diseases. Although liver biopsy is considered the gold standard for fibrosis assessment, its invasiveness, sampling variability, and associated risks have prompted increasing reliance on non-invasive tests. This systematic review evaluates the diagnostic accuracy and clinical applicability of non-invasive modalities for diagnosing liver fibrosis in adult patients with chronic liver diseases.\n\nAIM: To systematically evaluate the diagnostic accuracy, clinical utility, and applicability of non-invasive tests for detecting and staging liver fibrosis in adult patients with chronic liver diseases, using liver biopsy as the reference standard.\n\nMETHODS: A systematic literature search was conducted using predefined search terms combining liver fibrosis, chronic liver disease, non-invasive diagnostic tests, and diagnostic accuracy measures, with liver biopsy as the reference standard. Studies were selected based on a PICO (Population, Intervention, Comparison, Outcome) framework including adults (≥ 18 years) with chronic liver diseases such as hepatitis B, hepatitis C, non-alcoholic fatty liver disease, and alcohol-related liver disease. Eligible interventions included serum biomarkers (e.g., aspartate aminotransferase-to-platelet ratio index, fibrosis-4 index, enhanced liver fibrosis), imaging-based techniques (e.g., transient elastography, acoustic radiation force impulse, magnetic resonance imaging elastography), and combined diagnostic algorithms. Diagnostic accuracy outcomes including sensitivity, specificity, positive predictive value, and negative predictive value were extracted. Two independent reviewers performed abstract and full-text screening according to predefined inclusion and exclusion criteria, with disagreements resolved by consensus or a third reviewer.\n\nRESULTS: The included studies comprised prospective and retrospective cohort studies, randomized controlled trials, and cross-sectional studies. Elastography-based techniques consistently demonstrated high diagnostic accuracy for detecting significant and advanced fibrosis across multiple chronic liver disease etiologies. Serum biomarker panels showed variable performance but were effective as first-line screening tools due to their accessibility and cost-effectiveness. Heterogeneity was observed in study design, fibrosis staging systems, and cut-off values.\n\nCONCLUSION: Non-invasive tests represent reliable and clinically applicable alternatives to liver biopsy for fibrosis assessment in chronic liver diseases. Elastography-based modalities, particularly transient elastography and two-dimensional shear wave elastography, demonstrated consistently high diagnostic accuracy for advanced fibrosis across included studies. Serum biomarker panels such as fibrosis-4 index and enhanced liver fibrosis showed variable performance but are effective as first-line screening tools due to their accessibility and cost-effectiveness. A sequential diagnostic approach integrating serum biomarkers followed by imaging modalities improves overall diagnostic accuracy and reduces the need for invasive procedures. However, significant heterogeneity in study design, patient populations, and cut-off values limits standardization and highlights the need for larger multicentric validation studies.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13598451/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42778912",
-      "pmid": "42778912",
-      "doi": "10.1186/s12909-026-10239-1",
-      "title": "Academic educators' leadership styles and their associations with student engagement and critical thinking disposition among Saudi health sciences students: a mixed-methods study.",
-      "authors": [
-        "Abou Hashish EA",
-        "Felemban RA",
-        "Allehaiby WH"
-      ],
-      "journal": "BMC medical education",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "BACKGROUND: Educator leadership behaviors are widely recognized as an important component of the classroom environment and may be associated with student engagement and critical thinking disposition. In health sciences education, these competencies are fundamental to clinical reasoning and evidence-based decision-making. However, empirical evidence examining the associations among educator leadership styles, student engagement, and critical thinking disposition remains limited.\n\nMETHODS: This explanatory sequential mixed-methods study was conducted at a Saudi health sciences university. Quantitative data were collected from a stratified random sample of 351 undergraduate students across four health sciences colleges using the Leadership Style Questionnaire, the Critical Thinking Disposition Scale, and the University Student Engagement Inventory. Data were analyzed using descriptive statistics, Pearson's correlations, multiple linear regression, and bootstrapped cross-sectional indirect-effect analysis. Qualitative data were subsequently collected from 58 unique participants through 40 semi-structured interviews and four focus group discussions (28 participants, including 10 who also participated in interviews) and analyzed using inductive reflexive thematic analysis.\n\nRESULTS: Students reported mean student engagement and critical thinking disposition scores above the scale midpoint. Democratic leadership demonstrated the strongest positive bivariate associations with student engagement (r = .363, p < .001) and critical thinking disposition (r = .402, p < .001), whereas laissez-faire leadership demonstrated comparatively weaker associations. In adjusted regression analyses, democratic leadership remained independently associated with student engagement (β = 0.39, p < .001) and critical thinking disposition (β = 0.15, p = .007), whereas laissez-faire leadership showed no statistically significant independent association with either outcome after adjustment for the remaining leadership styles. Bootstrapped indirect-effect analysis indicated that student engagement statistically accounted for part of the association between democratic leadership and critical thinking disposition. Qualitative findings converged with and expanded the quantitative results, with students describing participatory teaching behaviors, open dialogue, constructive questioning, collaborative learning, and clear instructional guidance as supporting engagement and reflective thinking.\n\nCONCLUSIONS: Democratic educator leadership demonstrated the strongest positive associations with student engagement and critical thinking disposition. These findings suggest that participatory teaching approaches may represent valuable components of faculty development and educational practice. Longitudinal and multi-institutional studies are warranted to further examine the temporal relationships among educator leadership, student engagement, and critical thinking disposition.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13599112/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42778386",
-      "pmid": "42778386",
-      "doi": "10.2169/internalmedicine.8161-26",
-      "title": "Lactic Acidosis and Inferior Epigastric Artery Hemorrhage Complicating Alcohol-Associated Cirrhosis and Pancreatic Diabetes: A Case Report.",
-      "authors": [
-        "Kawahara K",
-        "Harai N",
-        "Sato A",
-        "Suzuki Y",
-        "Uchida T",
-        "Matsumura K",
-        "Nagasawa K",
-        "Goto S",
-        "Yamamoto S",
-        "Tanishima T",
-        "Yasui R",
-        "Akuta N",
-        "Mori Y"
-      ],
-      "journal": "Internal medicine (Tokyo, Japan)",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "A woman in her 50s with alcohol-associated cirrhosis and pancreatic diabetes presented with disorientation, hypotension, coagulopathy, a plasma glucose level of 1,626 mg/dL, and severe lactic acidosis (lactate ＞30 mmol/L) after alcohol consumption and self-discontinuation of insulin. High-volume fluid resuscitation, vasopressors, continuous insulin infusion, and blood transfusion improved the metabolic derangements; however, she subsequently developed an inferior epigastric artery hemorrhage (IEAH), which required emergency transcatheter arterial embolization. IEAH can be fatal in critically ill patients with coagulopathy, necessitating prompt imaging and immediate life-saving treatment. Multidisciplinary comprehensive care is indispensable to ensure strict alcohol abstinence and thus prevent a relapse.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42778382",
-      "pmid": "42778382",
-      "doi": "10.2169/internalmedicine.7824-26",
-      "title": "Aphasic Status Epilepticus as a Stroke Mimic: A Literature Review.",
-      "authors": [
-        "Inatomi Y",
-        "Nakajima M",
-        "Yonehara T"
-      ],
-      "journal": "Internal medicine (Tokyo, Japan)",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "We reviewed the clinical features of previously reported cases of aphasic status epilepticus. In an analysis of medical information from 87 reported cases (92 attacks), the types of aphasia associated with aphasic status epilepticus were global aphasia in 44 (48%) of 92 attacks, motor aphasia in 29 (32%), and sensory aphasia in 11 (12%) attacks. The findings of diffusion and perfusion imaging, as well as electroencephalography, were often compatible with aphasia, although variations in the distribution and findings were observed in several cases. Furthermore, in 16 (32%) of 67 attacks, it took more than 1 week from the onset of the aphasic status epilepticus to treatment; therefore, the sequelae of aphasia were observed in 18 (20%) of 92 attacks. Aphasic status epilepticus should be considered a stroke mimic and it may cause sequelae due to delayed treatment. Patients suspected of having aphasic status epilepticus should be immediately treated with benzodiazepine without waiting for either electroencephalography or perfusion imaging.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42778381",
-      "pmid": "42778381",
-      "doi": "10.2169/internalmedicine.7749-26",
-      "title": "Acute Respiratory Failure Associated with Severe Obstructive Sleep Apnea as an Early Manifestation of Multiple System Atrophy: A Case Report.",
-      "authors": [
-        "Hagiwara Y",
-        "Kanbayashi T",
-        "Kobayashi S"
-      ],
-      "journal": "Internal medicine (Tokyo, Japan)",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "Sleep-related breathing disorders are common in patients with multiple system atrophy (MSA), typically presenting as laryngeal stridor due to vocal cord abductor paralysis; however, severe respiratory impairment in the early stage is rare. We report the case of an 81-year-old woman with MSA who developed acute respiratory failure associated with severe obstructive sleep apnea syndrome (OSAS) preceding stridor. The patient required intubation. Although extubation was successful after six days, nocturnal hypercapnia persisted, necessitating noninvasive ventilation. Polysomnography confirmed the diagnosis of OSAS, while laryngoscopy revealed mild bilateral vocal cord abductor paresis without stridor. This case highlights that life-threatening respiratory failure may precede the development of laryngeal stridor in patients with MSA.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "respiratory"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42778364",
-      "pmid": "42778364",
-      "doi": "10.1292/jvms.26-0210",
-      "title": "Serum fibroblast growth factor-23 and magnesium concentrations in cats with acute kidney injury: association with disease pathophysiology.",
-      "authors": [
-        "Miyagawa A",
-        "Nakano M",
-        "Miyakawa H",
-        "Miyagawa Y",
-        "Takemura N"
-      ],
-      "journal": "The Journal of veterinary medical science",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "Cats with acute kidney injury (AKI) have a high mortality rate and are at risk of progression to chronic kidney disease (CKD). Fibroblast growth factor-23 (FGF-23) and magnesium, which are involved in mineral homeostasis and AKI outcomes, may contribute to this progression. This study aimed to evaluate serum FGF-23 and magnesium concentrations at diagnosis in cats with AKI and to investigate their associations with clinical outcomes. This retrospective study included client-owned cats with AKI. Serum FGF-23 and magnesium concentrations were measured at diagnosis, and their associations with AKI outcomes were analyzed. Forty-five cats were enrolled. Serum FGF-23 (P=0.01) and magnesium (P=0.01) concentrations were elevated. Serum FGF-23 tended to increase with prior CKD severity, although differences among CKD groups were not significant (P=0.10). Serum FGF-23 was significantly associated with treatment duration (P=0.008) and changes in serum creatinine during hospitalization (P=0.003), independent of prior CKD status and serum creatinine at diagnosis. A 10-fold increase in FGF-23 was associated with an approximately 47% decrease in the hazard of reaching the lowest serum creatinine concentration. Magnesium was not significantly associated with these outcomes. Measurement of serum FGF-23 at the time of AKI diagnosis may help predict hospitalization duration and renal function decline. Although the role of serum magnesium in the pathophysiology of AKI could not be clearly determined, further investigation of its relationship with FGF-23 may contribute to the development of novel therapeutic strategies.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42777579",
-      "pmid": "42777579",
-      "doi": "10.1016/j.canep.2026.103235",
-      "title": "Cancer attributable to cigarette smoking by ethnic group in the US in 2022-2023.",
-      "authors": [
-        "Collatuzzo G",
-        "Siea AC",
-        "Mangiaterra S",
-        "Boffetta P"
-      ],
-      "journal": "Cancer epidemiology",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "BACKGROUND: Smoking patterns vary in the US population. We aimed at estimating the attributable fraction (AF) of smoking-related cancer across racial/ethnic groups.\n\nMETHODS: To account for ~ 25-year latency period, sex-specific smoking prevalence data from 1994 to 1996 were linked with recent cancer incidence (2022) and mortality (2023) records from the United States Cancer Statistics (USCS) database. Estimates were calculated for Whites, Blacks, Hispanics, Asians/Pacific Islanders and Alaskans/Native Americans. Relative risks for smoking-cancer associations were derived from meta-analyses. The AF and 95% confidence intervals (CI) were calculated for current and former smokers.\n\nRESULTS: Lung, laryngeal and oral-pharyngeal cancers exhibited the highest AF for ever smoking in both sexes across all groups. The AF for lung cancer ranged from 65.0% (0.64-0.67) in Asian/Pacific Islander women to 92.0% (0.91-0.92) in Alaskan/Native American men. In men, ever smoking explained 26.4% (23.0-29.3) and 36.7% (33.1-40.0) of total cancer cases and deaths in Alaskan/Native Americans, 23.3% (20.8-25.6) and 32.9% (29.9-35.6) in Whites, 22.1% (19.3-24.6) and 32.6% (29.2-35.8) in Asians/Pacific Islanders, 19.9% (17.6-21.9) and 31.0% (28.1-33.7) in Blacks, 16.2% (13.6-18.7) and 23.5% ( 20.2-26.6) in Hispanics. In women, Alaskan/Native Americans had the highest attributable burden (19.8%, 17.6-21.9 of cases and 28.8%, 26.2-31.4 of deaths), while Asians/Pacific Islanders showed the lowest (7.7%, 6.9-8.6 and 10.9%, 9.7-12.2).\n\nCONCLUSIONS: Past smoking remains a major cause of current cancer disparities in the US. The burden is disproportionately high among Alaskan/Native Americans. Similarities between Whites and Blacks suggest that cancer disparities are driven not by an isolated smoking habit but to other unmeasured factors. Our findings underscore the critical need for culturally tailored smoking cessation strategies to mitigate cancer disparities.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
       ],
       "has_full_text": false,
       "full_text_url": null,
