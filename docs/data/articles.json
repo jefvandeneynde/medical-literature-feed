@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:07:24.864195+00:00",
+  "generated_at": "2026-10-11T01:02:22.703000+00:00",
   "articles": [
     {
       "id": "pmid:42834659",
@@ -48303,6 +48303,112 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42855783",
+      "pmid": "42855783",
+      "doi": "10.3760/cma.j.cn112142-20251022-00438",
+      "title": "[Pythium keratitis: a case report].",
+      "authors": [
+        "Xuan M",
+        "Yang BY",
+        "Liang LY"
+      ],
+      "journal": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "A 31-year-old female presented with a 3-week history of right eye redness, ocular pain, photophobia and decreased vision after tap water exposure. Slit-lamp examination revealed corneal lesions with pseudopodia and hill-shaped hypopyon. In vivo confocal microscopy (IVCM) detected filament-like structures in the corneal stroma. The patient was initially suspected of having fungal keratitis, but the condition deteriorated despite standardized antifungal treatment. Repeated corneal scraping culture and targeted DNA sequencing confirmed the infection of Pythium insidiosum. After switching to linezolid-based antibacterial therapy, corneal perforation still occurred, and total keratoplasty with a scleral ring was performed. The infection relapsed at 2 weeks postoperatively and was finally controlled by multiple intracameral and intrastromal injections of linezolid. A secondary penetrating keratoplasty was subsequently performed. No recurrence was observed during the 11-month follow-up; the corneal graft remained transparent, and the best corrected visual acuity improved to 0.6. Pythium species are oomycetes instead of true fungi, which are intrinsically resistant to conventional antifungal agents but susceptible to specific antibacterial drugs such as linezolid. For clinically suspected Pythium keratitis unresponsive to antifungal treatment, early targeted DNA sequencing is essential for rapid pathogen identification. Timely administration of sensitive antibacterial agents and individualized surgical intervention are critical to control infection and optimize visual prognosis.",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "English Abstract"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42855781",
+      "pmid": "42855781",
+      "doi": "10.3760/cma.j.cn112142-20260326-00121",
+      "title": "[Effects of simulated combined visual acuity and visual field impairments on obstacle avoidance walking and searching abilities].",
+      "authors": [
+        "Ye SJ",
+        "Liu YY",
+        "Chen Y",
+        "Luo XH",
+        "Zhou ZX",
+        "Li XM",
+        "Chen J",
+        "Xu D"
+      ],
+      "journal": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "Objective: To investigate the interactive effects of combined visual acuity and visual field impairments on obstacle avoidance walking and searching abilities. Methods: A randomized controlled trial was conducted. Healthy volunteers with normal visual acuity and visual fields were recruited from the Eye Hospital of Wenzhou Medical University between March and September 2024. Binocular presented visual acuity (PVA) was measured using a standard logarithmic visual acuity chart, and binocular visual field was examined using a Humphrey perimeter. Visual function impairments were simulated. Four levels of visual acuity impairment (PVA<0.05, 0.05≤PVA<0.3, 0.3≤PVA<0.5, and PVA≥0.5) were induced by applying occlusion foils of different densities onto the spectacle lenses. Two levels of concentric visual field constriction (visual field radius≤10° and≤20°) were simulated using modified goggle-based tunnel vision simulation glasses. Participants were randomly assigned to four visual acuity simulation groups using computer-generated random numbers, and further randomly assigned in a 1∶2 ratio to the 10° and 20° visual field subgroups within each group. Each participant completed an obstacle avoidance walking task and a target search task under both simulated visual field impairment and normal visual field conditions. The primary outcome measures were task completion time, number of collisions, and target detection rate. The Kruskal-Wallis test and linear mixed-effects model were used for statistical analysis. Results: A total of 143 participants were included [aged(23.94±2.23) years; 55 males and 88 females], with 95 under the simulated 20° visual field condition and 48 under the simulated 10° visual field condition. Under the normal visual field condition, participants in the PVA<0.05 group showed longer obstacle avoidance walking completion time (23.00 s vs. 17.50 s), an increased mean number of collisions (0.75 vs. 0.00), and a decreased target detection rate (80% vs. 100%) compared with those in the PVA≥0.5 group (all P<0.05). At any given level of visual acuity, participants with 20° or 10° visual field constriction demonstrated prolonged task completion time, a reduced target detection rate, and an increased mean number of collisions compared with those with normal visual field (all P<0.05). For example, in the PVA≥0.5 group, the obstacle avoidance walking completion time increased from 17.50 s under normal visual field to 25.50 s and 39.88 s under 20° and 10° visual field constriction, respectively, with the target detection rate decreasing from 100% to 90% and 80%. Both tasks were affected by the interaction between visual acuity and visual field impairments under specific deficit combinations. The combination of 20° visual field constriction and PVA<0.05 showed the most extensive impact, with the obstacle avoidance walking completion time reaching 55.50 s, mean number of collisions reaching 5.50, and target detection rate decreasing to 50%, and significant interaction effects were observed on the task completion time, target detection rate, and collision counts (all P<0.05). Conclusions: Visual field impairment exerts a more pronounced effect on obstacle avoidance walking and target search tasks than visual acuity impairment. Combined visual acuity and visual field impairments produce a compounded interference effect on the performance of both tasks.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "English Abstract"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42855777",
+      "pmid": "42855777",
+      "doi": "10.3760/cma.j.cn112142-20260525-00227",
+      "title": "[Chinese expert consensus on high-dose anti-vascular endothelial growth factor therapy for neovascular age-related macular degeneration (2026)].",
+      "authors": [
+        "Ophthalmology Group of China Alliance for Rare Diseases/Beijing Society of Rare Disease Clinical Care and Accessibility"
+      ],
+      "journal": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "Neovascular age-related macular degeneration (nAMD) is primarily characterized by the formation of abnormal choroidal neovascularization and can lead to substantial visual impairment. Intravitreal administration of anti-vascular endothelial growth factor (anti-VEGF) agents has become the standard first-line treatment for nAMD. However, challenges remain, including the need for frequent injections, considerable treatment burden, and suboptimal responses in a subset of patients. In recent years, the emergence of high-dose anti-VEGF therapies has provided a novel strategy for extending treatment intervals and optimizing long-term disease management. To address these clinical needs, the Ophthalmology Group of China Alliance for Rare Diseases/Beijing Society of Rare Disease Clinical Care and Accessibility organized a multidisciplinary panel of experts to develop this consensus. Based on the latest evidence-based medical findings, together with international guidelines and the realities of clinical practice in China, a standardized consensus-development methodology was employed. Consensus recommendations were formulated for eight key clinical questions regarding the use of high-dose anti-VEGF therapies in the treatment of nAMD. The aim of this document is to provide evidence-based guidance and clinical reference for the standardized application of high-dose anti-VEGF therapies in nAMD, thereby further improving the quality of standardized diagnosis, treatment, and long-term management of nAMD in China.",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement",
+        "English Abstract"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42855776",
+      "pmid": "42855776",
+      "doi": "10.3760/cma.j.cn112142-20260107-00010",
+      "title": "[Chinese expert consensus on the management of corneal and ocular surface adverse events related to antibody-drug conjugates (2026)].",
+      "authors": [
+        "Dry Eye Research Group of Ophthalmology Branch of Chinese National Health Association",
+        "Dry Eye Rehabilitation Specialty of Vision Rehabilitation Committee of Chinese Rehabilitation Medicine Association"
+      ],
+      "journal": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
+      "date": "2026-10-11",
+      "year": 2026,
+      "abstract": "Antibody-drug conjugates (ADCs), as a novel class of targeted anticancer therapies, have demonstrated significantly enhanced efficacy. However, the associated ocular adverse events have emerged as a critical issue impacting patients' quality of life and treatment compliance. ADC-induced ocular adverse events primarily affect corneal and ocular surface tissues. With the recent approval of multiple ADC agents in China and the extensive ongoing clinical trials, standardized guidance for managing corneal and ocular surface adverse events is urgently needed. The Dry Eye Research Group of Ophthalmology Branch of Chinese National Health Association and the Dry Eye Rehabilitation Specialty of Vision Rehabilitation Committee of Chinese Rehabilitation Medicine Association, together with experts from relevant fields, have developed consensus recommendations based on integrated international research and Chinese clinical practice, using the standardized consensus development methods. These recommendations address eight clinical questions concerning corneal and ocular surface adverse events associated with ADCs, aiming to provide evidence-based guidance for the prevention, diagnosis, and management of ADC-related corneal and ocular surface adverse events. Through multidisciplinary collaboration, this consensus seeks to enhance therapeutic benefits of ADC treatment and maximize patients' visual health and quality of life.",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement",
+        "English Abstract"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42856088",
       "pmid": "42856088",
       "doi": "10.1111/all.70538",
@@ -63357,8 +63463,8 @@
       "topics": [
         "endocrine"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13651764/",
       "source": "PubMed"
     },
     {
@@ -74383,7 +74489,7 @@
       "id": "pmid:42849544",
       "pmid": "42849544",
       "doi": "10.1016/j.rmed.2026.109209",
-      "title": "Diaphragm Ultrasound Beyond Numbers: A Call for Bayesian Reasoning in Critical Care.",
+      "title": "Diaphragm ultrasound beyond numbers: A call for Bayesian reasoning in critical care.",
       "authors": [
         "Ferreira JG"
       ],
@@ -102573,8 +102679,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13652018/",
       "source": "PubMed"
     },
     {
@@ -358896,127 +359002,6 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42771077",
-      "pmid": "42771077",
-      "doi": "10.1186/s41747-026-00808-w",
-      "title": "CT-derived myocardial extracellular volume: current evidence, clinical utility, and the emerging role of photon-counting CT-a systematic review.",
-      "authors": [
-        "D'Argenzio J",
-        "Stucchi F",
-        "Tambè V",
-        "Mammadova M",
-        "Carrafiello G",
-        "Secchi F"
-      ],
-      "journal": "European radiology experimental",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "OBJECTIVE: Cardiac extracellular volume (ECV) is a quantitative imaging biomarker of myocardial interstitial expansion and diffuse fibrosis, with cardiac magnetic resonance regarded as the reference standard method for assessment. Interest in computed tomography (CT)-derived cardiac ECV is increasing owing to its wide availability and potential integration into routine cardiac CT examinations. This systematic review was conducted within the framework of the European Network for the Assessment of Imaging in Medicine (EuroAIM).\n\nMATERIALS AND METHODS: This PRISMA-compliant systematic review searched PubMed, Embase, and Scopus, with the last search performed in December 2025. Extracted data included study design, target pathology, CT technology, acquisition approach, timing of delayed imaging, hematocrit estimation, region-of-interest methodology, type of comparator, and reporting and definition of ECV cutoff values. Study quality was evaluated using the Newcastle-Ottawa scale.\n\nRESULTS: Of 304 unique records, 113 studies were included, with a marked increase in publications over the last 3 years (30 studies in 2025). Studies covered a broad range of clinical settings, including aortic stenosis, amyloidosis, heart failure, cardiomyopathies, myocarditis, and cardio-oncology. Sixty-seven studies were retrospective, and forty-six were prospective. ECV was assessed using single-energy CT (n = 65), dual-energy CT (n = 34), and photon-counting CT (n = 14, 10 of them in 2025). Cutoff values were reported in only 38 studies. The Newcastle-Ottawa Scale score was 6.33 ± 1.42 (mean ± standard deviation).\n\nCONCLUSION: Cardiac ECV is rapidly expanding, with photon-counting CT emerging as a promising platform. Nevertheless, substantial methodological heterogeneity and inconsistent cutoff reporting persist, highlighting the need for standardized protocols and harmonized reporting.\n\nREGISTRATION: PROSPERO CRD420251147762.\n\nKEY POINTS: Question What evidence is available in the literature about photon-counting CT-derived myocardial ECV quantification? Findings CT-derived myocardial ECV enables noninvasive assessment of diffuse myocardial fibrosis across multiple cardiovascular diseases. Relevance statement The rapidly expanding evidence and the emergence of photon-counting CT highlight its potential integration into routine cardiac CT imaging. Evidence spans multiple cardiac and systemic disease categories; heterogeneous methods limit cross-study comparability; standardized reporting is needed for clinical translation.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "topics": [
-        "cardio-oncology",
-        "heart-failure",
-        "imaging",
-        "systematic-reviews",
-        "valvular"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13598009/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42771074",
-      "pmid": "42771074",
-      "doi": "10.1007/s00381-026-07475-7",
-      "title": "Global burden of moyamoya syndrome in pediatric sickle cell disease and implications for the neurosurgical workforce: a systematic review.",
-      "authors": [
-        "Haizel-Cobbina J",
-        "Heukwa-Tefoung A",
-        "Pahari S",
-        "Lagunju I",
-        "Jordan LC",
-        "Aldana P",
-        "Dewan MC"
-      ],
-      "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "OBJECTIVE: The aims of the study were twofold: 1) quantify the global burden of pSCD|MMS, and 2) estimate the number of children who warrant specialist evaluation for possible surgical revascularization.\n\nMETHODS: A systematic review was conducted following PRISMA guidelines. Clinical data extracted included number of patients with pSCD, pSCD-MMS, and those who underwent surgical revascularization. Using weighted proportions and 2021 Institute for Health Metrics and Evaluation (IHME) global estimates for pSCD, for each WHO region we estimated the burden of pSCD|MMS, and the volume of pSCD|MMS patients who underwent surgical revascularization.\n\nRESULTS: Of the 6,845 studies identified, 14 were included. Nine (64%) studies were from AMR, 2 (14%) studies from EMR, 1 study (7%) from EUR, 1 study (7%) from AFR, and 1 (7%) multicenter study from AMR and EUR. Of the 2045 pSCD patients between the ages of 1-21 years identified, 1.5% were diagnosed with pSCD|MMS. Of 279 pSCD|MMS patients, 49.8% underwent surgical revascularization. The projected number of pSCD|MMS cases worldwide was 36,587, equating to 18,219 potentially benefiting from surgical revascularization. Across WHO regions, the African region harbors the largest number of projected pSCD|MMS cases (32,189) including 16,030 candidates for surgical consideration. Projections should be interpreted cautiously given the limited number and geographic distribution of the available studies.\n\nCONCLUSION: The vast majority of pSCD and pSCD|MMS burden resides in Africa, wherein SCD-related infrastructure is often limited. Sufficient capacity building for diagnostic accuracy and screening coupled with maximal medical therapy for pSCD, and robust neurosurgical infrastructure is required to improve longitudinal SCD care, mitigate neurologic complications and enhance functional outcomes. Derived from a limited body of published literature, these estimates should be considered exploratory.",
-      "publication_types": [
-        "Systematic Review",
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13597574/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42771071",
-      "pmid": "42771071",
-      "doi": "10.1007/s10143-026-04478-5",
-      "title": "Socioeconomic disparities in vestibular schwannoma diagnosis and management: A systematic review.",
-      "authors": [
-        "Lally AR",
-        "Welch RL",
-        "Terraciano A",
-        "Vadset T",
-        "Saidpour S",
-        "Rayden R",
-        "Cohen E",
-        "Choi A",
-        "Berlas S",
-        "Bhatta M",
-        "Ghosh SR",
-        "Agarwal V"
-      ],
-      "journal": "Neurosurgical review",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "Disparities in neurosurgical care are increasingly recognized, yet how they affect the diagnosis and management of vestibular schwannoma (VS) remains unclear. Differences in tumor size at diagnosis, treatment selection, and outcomes may be influenced by race, insurance status, income, and geography. To date, no comprehensive synthesis has addressed these inequities in patients with sporadic VS. To systematically evaluate the literature for evidence of social determinants of health (SDoH) in the diagnosis, treatment, and outcomes of patients with sporadic vestibular schwannoma. We conducted a PRISMA-guided systematic review of PubMed, Embase, and Web of Science (2000-2024). Included studies examined adult patients with sporadic VS and reported at least one socioeconomic variable. Non-English studies and those involving pediatric patients were excluded. Studies focusing on neurofibromatosis type 2 were excluded. Screening and data extraction were conducted independently by multiple reviewers using Covidence. Outcomes of interest included tumor size, treatment modality (surgery, radiosurgery, observation), hearing preservation, complications, and recurrence. Study quality was assessed using the GRADE framework and evaluated across the domains of risk of bias, inconsistency, indirectness, imprecision, and publication bias. Of 487 records identified, 40 met inclusion criteria. Most were US-based, retrospective studies that utilized national databases for patient recruitment. Race and insurance status were the most frequently reported variables; income and geographic indicators were less commonly assessed. Outcomes described the likelihood of treatment received, including surgery or SRS, complications including morbidity and mortality, length of stay, and discharge disposition including rehab and readmission. Few studies assessed functional status (n=2), hearing outcomes (n=2), or quality of life (n=1). In total, 358,843 patients were included across the 40 studies analyzed. This review suggests that disparities in vestibular schwannoma care are multi-factorial, with race and insurance status showing the most consistent associations between management, outcomes, and disparities. As treatment continues to evolve and become more centralized, future work should prioritize multi-institutional studies to incorporate patient-level socioeconomic data and evaluate outcomes beyond management selection.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13597603/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42771069",
-      "pmid": "42771069",
-      "doi": "10.1186/s43044-026-00785-w",
-      "title": "Sex disparities in STEMI care: pre-hospital delay and acute heart failure.",
-      "authors": [
-        "Dziewierz A",
-        "Zdzierak B",
-        "Rakowski T"
-      ],
-      "journal": "The Egyptian heart journal : (EHJ) : official bulletin of the Egyptian Society of Cardiology",
-      "date": "2026-09-22",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "heart-failure"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13598034/",
       "source": "PubMed"
     }
   ]
