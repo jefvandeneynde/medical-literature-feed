@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:12:26.187581+00:00",
+  "generated_at": "2026-10-14T20:13:56.923682+00:00",
   "articles": [
     {
       "id": "pmid:42867073",
@@ -160,6 +160,36 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871153",
+      "pmid": "42871153",
+      "doi": "10.1002/deo2.70445",
+      "title": "Evaluating a Modified American Society of Anesthesiologists Physical Status-Based Sedation Management System for Pancreatobiliary Endoscopy: A Prospective Feasibility Study.",
+      "authors": [
+        "Hanaoka T",
+        "Okuwaki K",
+        "Watanabe M",
+        "Matsuda H",
+        "Adachi K",
+        "Tamaki A",
+        "Ogawa D",
+        "Sakai M",
+        "Kusano C"
+      ],
+      "journal": "DEN open",
+      "date": "2027-04-01",
+      "year": 2027,
+      "abstract": "OBJECTIVES: To prospectively evaluate the feasibility of implementing a modified American Society of Anesthesiologists Physical Status (ASA-PS)-based sedation management system for endoscopist-managed sedation in pancreatobiliary endoscopy.\n\nMETHODS: This single-center, single-arm prospective feasibility study involved 2000 patients (2024-2025). Sedation risk was stratified using a modified ASA-PS classification system combined with predefined high-risk clinical factors (severe obesity, obstructive sleep apnea requiring continuous positive airway pressure, chronic obstructive pulmonary disease requiring home oxygen therapy, reduced functional capacity, and difficult sedation history). Patients meeting high-risk criteria underwent pre-procedural anesthesiologist assessment to determine sedation providers. The primary outcome was sedation-related adverse event (SRAE) incidence during endoscopist-managed sedation. The secondary outcomes were the sedation success rate and SRAE-associated risk factors.\n\nRESULTS: Among 2000 patients, 231 (11.6%) were classified as having high risk for sedation. Post-assessment, anesthesiologists and endoscopists managed sedation for 86 (4.3%) and 1914 (95.7%) patients, respectively. In the endoscopist-managed group, SRAEs occurred in 63 patients (3.3%), corresponding to a success rate of 96.7%. No patient required tracheal intubation or conversion to general anesthesia. In multivariable analysis, endoscopic ultrasonography-guided sampling was independently associated with reduced SRAEs (odds ratio 0.407, 95% confidence interval 0.184-0.899; p = 0.026); no independent predictors of increased SRAEs were identified.\n\nCONCLUSIONS: The modified ASA-PS-based sedation management system may be a feasible approach in settings with limited anesthesiology resources, warranting further validation.\n\nTRIAL REGISTRATION: UMIN000053211.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658845/",
       "source": "PubMed"
     },
     {
@@ -9134,6 +9164,35 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871529",
+      "pmid": "42871529",
+      "doi": "10.1007/s11571-026-10571-8",
+      "title": "Does chronic occupational demand alter EEG stress biomarkers during cognitive challenge? a study of emergency physicians.",
+      "authors": [
+        "Ahmed MH",
+        "Weerasinghe Y",
+        "Grillo M",
+        "Nielsen IE",
+        "Taebi A",
+        "Thibbotuwawa A",
+        "Kaya M",
+        "Gamage PT"
+      ],
+      "journal": "Cognitive neurodynamics",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "Acute cognitive challenge produces consistent changes in several EEG indices, including alpha-band desynchronization, frontocentral theta enhancement, beta-band activity, and the theta/beta ratio. These measures serve as common biomarkers of cognitive workload and stress. It is not yet clear whether chronic occupational exposure to high cognitive demand alters these responses. Emergency physicians offer a useful test case, since their work involves repeated cognitive control under time pressure and high-stakes decision-making. We recorded 19-channel electroencephalography from 17 board-certified emergency physicians and 18 non-healthcare comparison participants during eyes-open rest and a standardized composite challenge combining Stroop interference, serial subtraction, time pressure, and evaluative feedback. Spectral power was estimated with Welch's method, log-transformed, and analyzed using a hierarchical framework combining six a priori regional features with electrode-wise topographic mapping. Across groups, the challenge produced robust frontal and posterior alpha suppression and increased frontocentral theta, consistent with workload-related cortical engagement. No Group x Condition interaction survived false discovery rate correction for the regional features, and no exploratory electrode-wise interaction survived correction across the full feature set. A complementary Bayesian analysis yielded moderate evidence for the null for the alpha and theta features, but inconclusive evidence for the beta and theta/beta features. Sub-band decomposition showed the challenge-related beta increase was specific to high beta (20-30 Hz), while low and mid beta decreased in emergency physicians. These results indicate an absence of detectable large group differences in EEG stress biomarkers following prolonged occupational exposure to high cognitive demand, although the sample constrains this conclusion to large effects.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658725/",
       "source": "PubMed"
     },
     {
@@ -37106,6 +37165,114 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42871457",
+      "pmid": "42871457",
+      "doi": "10.1007/s13205-026-05088-0",
+      "title": "Machine learning-driven discovery of TGFBR1 inhibitors from Mangifera indica for Atorvastatin-based antidiabetic therapy.",
+      "authors": [
+        "Keni R",
+        "Begum F",
+        "Ranadive N",
+        "Nayak PG",
+        "Murugesan V",
+        "Pradeep K",
+        "Deshpande M",
+        "Krishnadas N",
+        "Theivendren P"
+      ],
+      "journal": "3 Biotech",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "UNLABELLED: Mangiferin, a C-glucosyl xanthone from Mangifera indica, has known antidiabetic activity, but the specific protein target underlying this activity, and its compatibility with existing antidiabetic drugs such as Atorvastatin, were not defined. In this work, machine learning, network pharmacology, molecular dynamics simulations, and experimental validation identified and validated TGFBR1 as a novel molecular target of Mangiferin and evaluated a Mangiferin-Atorvastatin combination for diabetes therapy. A curated collection of TGFBR1 inhibitors from BindingDB was used to train several supervised learning models, with the best performance from Random Forest (94.68% accuracy, κ = 0.8981) and robust external validation (79.35%) on 868 unseen compounds. Screening of 545 M. indica phytochemicals with this model identified Mangiferin, Fisetin, Isochinomin, Mangiferolic acid, and Astragalin as high-confidence TGFBR1 inhibitors. Network pharmacology identified TGF-β as the most central protein in the interaction network (cumulative score 350), and molecular docking showed that Mangiferin forms stable hydrogen bonds with SER-287, ILE-211, and GLU-208 at the TGFBR1 binding site, together with hydrophobic contacts. This binding pose remained structurally stable (RMSD 1.50-1.75 Å) over 100 nanoseconds of molecular dynamics simulation, with ligand-residue occupancy > 85%. ADMET profiling showed favorable drug-likeness (Lipinski compliance, low predicted toxicity) with a moderate permeability limitation (TPSA 201.28 Å²), and DFT analysis showed a HOMO-LUMO gap of 2.85937 eV, supporting antioxidant activity. In cultured cells, Atorvastatin combined with Mangiferin increased apoptosis through the mitochondrial pathway (Bcl-xL downregulation, BAK upregulation, cytochrome c release, caspase-7/8 activation) and enhanced insulin sensitivity, shown by increased glucose uptake (2-NBDG assay) and higher GLUT-4 and pIRS-1(Tyr896) expression. In high-fat diet-fed rats, Atorvastatin plus Mangiferin given for 24 weeks significantly improved glucose tolerance and reduced HbA1c, total cholesterol, triglycerides, and random blood sugar relative to untreated high-fat diet controls, with preserved pancreatic architecture and increased muscle GLUT-4 expression. These findings identify TGFBR1 as a plausible molecular target of Mangiferin and provide a mechanistic rationale for the Mangiferin-Atorvastatin combination as a candidate antidiabetic therapy.\n\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05088-0.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658705/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871260",
+      "pmid": "42871260",
+      "doi": "10.1210/jcemcr/luag296",
+      "title": "Moyamoya disease presenting as galactorrhea.",
+      "authors": [
+        "Noveir SD",
+        "Agrawal N"
+      ],
+      "journal": "JCEM case reports",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Moyamoya disease (MMD) is a progressive cerebrovascular condition marked by carotid narrowing and collateral vessel formation. Patients are often diagnosed after a stroke, but here we describe a case of galactorrhea as the presenting symptom of MMD. A 30-year-old gravida 1, para 0 woman noted milky, nonbloody discharge leaking from both breasts after manual compression during sexual intercourse. Prolactin was mildly elevated at 29.4 ng/mL (SI [International System of Units]: 29.4 µg/L) (reference range, 3-23.1 ng/mL [SI: 3-23.1 µg/L]). Magnetic resonance imaging of the pituitary gland showed no microadenoma but incidentally revealed a tortuous right internal carotid artery compressing the pituitary, raising the possibility of vascular compression contributing to galactorrhea and mild hyperprolactinemia. Magnetic resonance angiography and catheter angiography confirmed MMD. Mild cognitive impairment, persistent headaches, and secondary hypertension eventually necessitated neurosurgical revascularization. After surgery, the patient experienced a significant reduction in symptoms although challenges with memory and headaches have persisted. This case underscores the importance of brain imaging in evaluating hyperprolactinemia and highlights the potential for endocrinologic sequelae when MMD involves vessels in proximity to the pituitary gland.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology",
+        "prevention"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658269/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871228",
+      "pmid": "42871228",
+      "doi": "10.1210/jcemcr/luag309",
+      "title": "When anorexia nervosa conceals Cushing syndrome: a diagnostic pitfall in hypercortisolemia.",
+      "authors": [
+        "Lim MY",
+        "Chong S",
+        "Milner KL"
+      ],
+      "journal": "JCEM case reports",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "A 37-year-old woman presented with severe hypertension, mood changes, and weight loss (body mass index 14.6 kg/m2). She exhibited restrictive eating behaviors consistent with anorexia nervosa, alongside biochemical hypercortisolemia with serum cortisol 43.6 µg/dL (1204 nmol/L; reference range: 6.2-18.1 µg/dL; 170-500 nmol/L), 24-hour urinary free cortisol 430.3 µg/24 hours (1187 nmol/24 hours; reference range: <60.2 µg/24 hours; <166 nmol/24 hours), and unsuppressed adrenocorticotropic hormone of 19.1 pg/mL (4.2 pmol/L; reference range: 7.3-63.1 pg/mL; 1.6-13.9 pmol/L). The cortisol level after the 1 mg dexamethasone suppression test was 23.9 µg/dL (659 nmol/L; reference range: <1.8 µg/dL; <50 nmol/L). Cortisol remained markedly elevated after nasogastric feeding and weight restoration. Pituitary magnetic resonance imaging revealed a 4 mm left anterior pituitary lesion. High-dose dexamethasone suppression, corticotropin-releasing hormone stimulation, and inferior petrosal sinus sampling confirmed a pituitary source of adrenocorticotropic hormone. The patient underwent transsphenoidal resection of a corticotroph adenoma. Eleven months later, her hypertension and restrictive eating behaviors had resolved, and her mood significantly improved. Cushing syndrome can coexist with anorexia nervosa, masking typical cushingoid features and presenting with psychiatric manifestations and weight loss. Persistent hypercortisolemia despite nutritional rehabilitation should prompt dynamic endocrine testing and pituitary evaluation to ensure timely diagnosis and treatment.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "prevention"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658278/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871224",
+      "pmid": "42871224",
+      "doi": "10.1210/jcemcr/luag289",
+      "title": "Aortic coarctation and McArdle disease in histiocytosis-lymphadenopathy plus syndrome: expanding the SLC29A3 spectrum.",
+      "authors": [
+        "Rehman B",
+        "Hassan SMD",
+        "Sagri MN",
+        "Kirmani S",
+        "Arif M"
+      ],
+      "journal": "JCEM case reports",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Histiocytosis-lymphadenopathy plus syndrome (HLPS) is a rare inherited disorder caused by SLC29A3 variants. We report 2 Pakistani brothers with HLPS and markedly different clinical features despite identical genotypes. The 15-year-old had severe growth failure, facial dysmorphism, insulin-dependent diabetes, hypogonadotropic hypogonadism, and coarctation of the aorta (CoA) requiring balloon dilatation. Genetic testing identified SLC29A3 and PYGM variants, indicating concurrent HLPS and McArdle disease. His 20-year-old brother had insulin-dependent diabetes and celiac disease from age 3, later developing hypertension, proteinuria, and characteristic skin changes. This case highlights marked intrafamilial variability in HLPS and identifies CoA as a rare cardiovascular feature. It also supports comprehensive genetic testing in patients with early-onset diabetes and multisystem disease.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "prevention"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658285/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42860293",
       "pmid": "42860293",
       "doi": "10.3343/alm.2026.0589",
@@ -48584,6 +48751,128 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42871133",
+      "pmid": "42871133",
+      "doi": "10.29063/ajrh2026/v30i19.12",
+      "title": "Prevalence of urinary incontinence among women in Turkey: A systematic review and meta-analysis.",
+      "authors": [
+        "Kırıcı S",
+        "Tüzmen HD",
+        "Çelik D"
+      ],
+      "journal": "African journal of reproductive health",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "Urinary incontinence (UI), defined as the involuntary leakage of urine, is a common condition that affects women's quality of life and overall health. UI becomes more frequent with age and is also observed during pregnancy and postpartum. This systematic review and meta-analysis aimed to determine the prevalence of UI among women. A literature search was conducted between December 2024 and February 2025 in Google Scholar, PubMed, Web of Science, Türkiye Citation Index, Ulakbim, and Turkish Medline. Risk of bias was assessed using the Joanna Briggs Institute checklist. Forty-five studies published between 2005 and 2025, including 41,038 participants, were analyzed. The pooled prevalence of UI among women aged 15 years and older was 36.7%. Prevalence estimates for stress, urgency, and mixed UI were 31.1%, 18.4%, and 27.5%. Definitions used influenced prevalence rates. Planning and delivering appropriate health services based on these findings can contribute to protecting and improving women's health. In Türkiye, it would be beneficial to develop a policy to raise awareness about urinary incontinence in women and to evaluate the condition. Interventions can be implemented nationwide in this way.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871112",
+      "pmid": "42871112",
+      "doi": "10.29063/ajrh2026/v30i19.11",
+      "title": "Health literacy as a predictor of family planning attitudes in young men in Ankara, Türkiye.",
+      "authors": [
+        "Gürel R",
+        "Atilla R"
+      ],
+      "journal": "African journal of reproductive health",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "Family planning is a key component of reproductive health; however, young men's attitudes and knowledge remain understudied. This study aimed to examine the relationship between sexual health literacy and family planning attitudes among young men. This cross-sectional, descriptive, and correlational study was conducted with 370 young men aged 18-25 in Ankara using a snowball sampling method. Data were collected using the Family Planning Attitude Scale (FPAS) and Sexual Health Literacy Scale (SHLS). Descriptive statistics, independent samples t-test, one-way ANOVA, Pearson correlation, and multiple linear regression analyses were performed. The mean FPAS score was M=116.26, SD=26.20. A weak positive relationship was found between sexual health literacy and family planning attitudes (p<0.05). Regression analysis indicated that the variables explained 20% of the variance in family planning attitudes. The findings suggest that improving sexual health literacy may positively influence young men's attitudes toward family planning.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871049",
+      "pmid": "42871049",
+      "doi": "10.29063/ajrh2026/v30i19.7",
+      "title": "Maternal risk factors for hypertension in pregnancy: A quantitative study on the role of demographics, obesity, and healthcare compliance.",
+      "authors": [
+        "Cholifah C",
+        "Indriani D",
+        "Chalidyanto D"
+      ],
+      "journal": "African journal of reproductive health",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "Hypertension in pregnancy is a major contributor to maternal and perinatal morbidity and mortality. This study examined the associations between maternal risk factors and hypertension in pregnancy. A prospective observational cohort study was conducted at Wonoayu Health Center, Sidoarjo, Indonesia, from November 2024 to January 2025. Fifty-seven pregnant women with a gestational age of at least 28 weeks and a positive mean arterial pressure screening result were recruited through consecutive sampling. Data were collected from medical records, interviews, adherence cards, physical examinations, blood pressure measurements, and proteinuria tests and analyzed using chi-square tests and multivariable logistic regression. Maternal age (p = 0.022; adjusted OR = 11.848; 95% CI: 1.422-98.739) and adherence to calcium lactate supplementation (p = 0.021; adjusted OR = 0.371; 95% CI: 0.160-0.858) were significantly associated with hypertension in pregnancy. Maternal age and adherence to calcium lactate supplementation may be important factors associated with hypertension in pregnancy.",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "topics": [
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42870997",
+      "pmid": "42870997",
+      "doi": "10.29063/ajrh2026/v30i19.5",
+      "title": "The effect of three- and six-session prenatal haptonomy on pregnancy-related anxiety, distress, and psychological well-being: A randomized controlled trial.",
+      "authors": [
+        "Ozbek H",
+        "Pinar SE"
+      ],
+      "journal": "African journal of reproductive health",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "This randomized controlled trial examined the effects of prenatal haptonomy on pregnancy-related anxiety, distress, and psychological well-being. A total of 102 pregnant women were randomly assigned to a three-session haptonomy group, a six-session haptonomy group, or a control group receiving routine antenatal care. Data were collected using the Pregnancy-Related Anxiety Questionnaire-Revised 2, Tilburg Pregnancy Distress Scale, and Psychological Well-Being Scale at baseline, post-intervention, and follow-up. Repeated measures analysis of variance was used to evaluate group, time, and group × time effects, and effect sizes were reported using partial eta squared (partial η²). In intragroup analyses, the six-session haptonomy group demonstrated a significant reduction in pregnancy-related anxiety, whereas the three-session haptonomy group showed significant reductions in distress and improvements in psychological well-being. Intergroup comparisons revealed statistically significant differences in anxiety, distress, and psychological well-being scores between the haptonomy groups and the control group at post-intervention and follow-up. Repeated measures analysis demonstrated significant group effects for pregnancy-related anxiety, distress, and psychological well-being. These findings suggest that prenatal haptonomy may contribute to improved maternal psychological health during pregnancy, with different intervention durations associated with benefits at different assessment points.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42870984",
+      "pmid": "42870984",
+      "doi": "10.29063/ajrh2026/v30i19.3",
+      "title": "Determinants of early antenatal care booking in Kisumu, Kenya: A hospital-based cross-sectional study applying the Andersen-Newman health service utilization model.",
+      "authors": [
+        "Kere RN",
+        "Omoto J",
+        "Marwa PN"
+      ],
+      "journal": "African journal of reproductive health",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "Starting antenatal care early is important for healthy pregnancies. In 2016, the World Health Organization updated its antenatal care guidelines, recommending that pregnant women begin antenatal care by 12 weeks of gestation. Kenya adopted this model in 2022, yet only 29% of women initiate antenatal care early, compared with 37.5% in Sub-Saharan Africa. This study used a cross-sectional design to examine the proportion of women who booked antenatal care early and the factors associated with early booking. The study used Andersen-Newman's health services utilization model as its conceptual framework. A sample of 292 women was selected through systematic random sampling at Jaramogi Oginga Odinga Teaching and Referral Hospital in Kisumu, Kenya. Data was collected using questionnaires and the Kenya Mother and Child Health Handbooks. Analyses included descriptive statistics, the Mann-Whitney U test, the chi-square test, and multivariable logistic regression. The median time to booking antenatal care was 20.0 weeks (IQR: 16.0-24.0), and only 34.2% of women booked early. The most significant predictor of early antenatal care booking was receiving information from healthcare providers (AOR = 1.96; 95% CI: 1.06-3.71; P = 0.036). This study recommends improving healthcare providers' messaging to address social influences from family and friends and to encourage early ANC booking.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42870770",
       "pmid": "42870770",
       "doi": "10.1002/ncp.70194",
@@ -48656,10 +48945,12 @@
       "abstract": "INTRODUCTION: Glucagon-like peptide-1 (GLP-1), indicated in the treatment of type 2 diabetes mellitus, influences reward processing, integral to disparate mental disorders. Emerging evidence suggests that GLP-1 receptor mono-agonists (GLP-1RAs) are potential treatment strategies for select mental disorders. Herein, we systematically review preclinical research documenting how GLP-1 and GLP-1RAs may impact reward function.\n\nMETHODS: Relevant studies were identified through Web of Science, OVID (MedLINE, Embase, PsycInfo), and PubMed from database inception to June 28, 2026. Preclinical research investigating the association between GLP-1 and select GLP-1RAs and reward function was included. Reward functions assessed were food-, drug-, and sexual-related reward.\n\nRESULTS: A total of 66 studies met inclusion and were synthesised herein. Taken together, results indicate that GLP-1 and GLP-1RAs affect measures of food-related, drug-associated, and sexual behaviours. GLP-1 administration was associated with a reduction in food intake and gross locomotor activity with respect to approaching and engaging in reward-seeking behaviours. When locally administered in selected brain regions of evaluated animal models, exenatide was associated with reduced substance use, food seeking, and sexual behaviours (p < 0.05). Similarly, liraglutide was observed to attenuate substance and food-related rewards (p < 0.05). In addition, semaglutide was demonstrated to reduce substance and sucrose intake, while dulaglutide is reported to reduce substance intake (p < 0.001).\n\nDISCUSSION: Extant preclinical findings demonstrate a trend toward reductions in reward-associated behaviours following GLP-1RA administration. Our findings can also provide rationale and impetus for evaluating GLP-1RAs in the treatment of psychiatric disorders characterised by disturbance in hedonic function and behaviours.",
       "publication_types": [
         "Journal Article",
+        "Systematic Review",
         "Review"
       ],
       "topics": [
-        "endocrine"
+        "endocrine",
+        "systematic-reviews"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -48815,7 +49106,7 @@
       "year": 2026,
       "abstract": "",
       "publication_types": [
-        "Journal Article"
+        "Interview"
       ],
       "topics": [
         "endocrine"
@@ -51492,8 +51783,7 @@
       "year": 2026,
       "abstract": "Genome-wide association studies rely on maximizing cohort size and minimizing environmental noise to increase their efficacy. Model organism Genetic Reference Populations offer significantly reduced environmental noise and deep phenotyping, yet rarely are multiple populations merged together. We evaluated whether combining the Collaborative Cross (CC) and Hybrid Mouse Diversity Panel (HMDP), two well-studied murine Genetic Reference Populations would improve GWAS outcomes. Utilizing two prior studies by our group that had performed the same study for heart failure in each cohort, we examined each cohort individually and then together using the pyLMM GWAS algorithm. Surprisingly, the combined cohort of 175 strains produced only 123 loci, a modest gain over the 104-strain HMDP (114), and fewer than in the 71-strain CC (149) and did not systematically improve resolution. Locus overlap between the CC and HMDP cohorts was very sparse, with only a single locus (near Eprs1) found to be significant in each cohort, although nearly half of all combined loci were also found in the CC cohort. These results caution that merging divergent GRPs may act to dilute signal and complicate interpretation, despite larger sample sizes.",
       "publication_types": [
-        "Journal Article",
-        "Letter"
+        "Journal Article"
       ],
       "topics": [
         "heart-failure"
@@ -66767,11 +67057,10 @@
       "year": 2026,
       "abstract": "IMPORTANCE: Acute pain episodes are the leading cause of emergency department visits and hospitalizations for patients with sickle cell disease (SCD), yet US Food and Drug Administration-approved drugs for acute pain episodes are lacking. During acute pain episodes, patients develop acute arginine deficiency associated with longer time to crisis resolution and greater total parenteral opioid use. Multiple single-center, phase 2 randomized clinical trials have shown that arginine is safe, is opioid sparing, improves cardiopulmonary function, and reduces length of hospital stay.\n\nOBJECTIVE: To determine the efficacy and safety of intravenous arginine for SCD acute pain episodes.\n\nDESIGN, SETTING, AND PARTICIPANTS: Prospective, phase 3, double-blind randomized clinical trial conducted between June 21, 2021, and June 13, 2024, in 10 US children's hospitals enrolling patients aged 3 to 21 years presenting to the emergency department with SCD acute pain episodes requiring parenteral opioids.\n\nINTERVENTIONS: Patients were randomized to receive intravenous arginine (200 mg/kg followed by 100 mg/kg every 8 hours until discharge; n = 129) or saline placebo (n = 142).\n\nMAIN OUTCOMES AND MEASURES: The primary outcome was time to crisis resolution, defined as hours from initial study drug delivery to last intravenous opioid dose. Secondary outcomes included total parenteral opioid use (intravenous morphine equivalents in milligrams per kilogram from first study drug dose to last intravenous opioid dose), pain scores, and patient-reported outcomes.\n\nRESULTS: Of 274 randomized participants, 271 received study drug; the mean age was 14.3 years (SD, 4.3 years), 51% were male, and 92% were Black. The trial was halted early for futility, as time to crisis resolution was similar in those receiving arginine vs placebo (median, 60.8 hours [IQR, 34.8-109.0 hours] vs 65.8 hours [IQR, 31.1-111.1 hours], respectively; absolute difference, 7.2 hours; 95% CI, -21.6 to 35.9 hours). No significant differences were seen in total parenteral opioid use, pain scores, patient-reported outcomes, or safety events.\n\nCONCLUSIONS AND RELEVANCE: Arginine therapy did not shorten time to crisis resolution compared with placebo among children and young adults with SCD acute pain episodes.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04839354.",
       "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
         "Clinical Trial, Phase III",
+        "Journal Article",
         "Multicenter Study",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
       "topics": [
         "clinical-trials"
@@ -66865,13 +67154,12 @@
       "year": 2026,
       "abstract": "IMPORTANCE: Patients undergoing cardiac surgery with cardiopulmonary bypass often require platelet transfusions for bleeding. Platelets are routinely stored at room temperature (20-24 °C) for up to 5 to 7 days; however, cold storage (1-6 °C) may allow for increased storage duration without loss of hemostatic function.\n\nOBJECTIVE: To determine the maximum cold-storage duration, up to 21 days, for which cold-stored platelets (CSPs) are noninferior or superior in hemostatic efficacy to room-temperature platelets (RTPs) when transfused in actively bleeding patients undergoing cardiac surgery with cardiopulmonary bypass.\n\nDESIGN, SETTING, AND PARTICIPANTS: A phase 3, multicenter, randomized, partially blinded, adaptive, noninferiority, storage duration-ranging trial conducted in pediatric and adult patients undergoing cardiac surgery with planned cardiopulmonary bypass at 27 sites in the US and Australia from December 2021 to March 2025. Statistical analysis was conducted from September 9 to October 3, 2025.\n\nINTERVENTION: Patients were randomized 2:1 to receive CSPs with a maximum of 21 days of storage vs RTPs with a maximum of 7 days of storage.\n\nMAIN OUTCOMES AND MEASURES: The primary outcome was a hemostatic efficacy score with values ranging from 1 to 5 and higher values indicating greater bleeding. The noninferiority margin was 1 point. The success criterion was met if at least 1 cold-storage duration of 7 days or more had a posterior probability of noninferiority of at least 97.5%. The secondary outcome was 24-hour chest tube output.\n\nRESULTS: Of the 1000 patients who underwent platelet transfusion, 989 were included in the primary analysis (650 CSPs and 339 RTPs). The cohort had a mean (SD) age of 42.1 (30.1) years and 67.8% were male. CSPs were noninferior to RTPs for the primary outcome, with a probability of greater than 99.9% for all cold-storage durations. Pooled across storage durations, CSPs had a mean difference from RTPs of 0.09 (95% credible interval, -0.06 to 0.23). Median (IQR) chest tube output at 24 hours (8.9 mL/kg [5.2-15.4] for CSPs vs 8.4 mL/kg [5.5-15.9] for RTPs; difference in medians, 0.4 [95% CI, -1.0 to 1.5]) was not statistically different between study groups. In a post hoc analysis, as all storage durations were noninferior, considering the CSPs as a single group, the hemostatic efficacy score was similar between both groups: mean (SD) of 3.08 (1.15) CSPs vs 2.99 (1.10) RTPs. There were no differences in venous or arterial thrombotic events, transfusion-associated adverse events, acute respiratory distress syndrome, kidney failure, septic shock, and mortality between the study groups, except for increased reexploration rates in the CSP group.\n\nCONCLUSIONS AND RELEVANCE: For patients undergoing cardiac surgery, CSPs stored up to 21 days are noninferior to RTPs for the control of active surgical bleeding. Use of CSPs may allow for increased availability of platelets by reducing wastage and shortages and may allow for incorporation of platelets into inventory at locations where platelets cannot be maintained due to the 5- to 7-day shelf life of RTPs.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04834414.",
       "publication_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Equivalence Trial",
         "Journal Article",
         "Multicenter Study",
-        "Randomized Controlled Trial",
-        "Clinical Trial, Phase III",
-        "Equivalence Trial",
-        "Comparative Study",
-        "Comment"
+        "Randomized Controlled Trial"
       ],
       "topics": [
         "clinical-trials",
@@ -68604,6 +68892,84 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871503",
+      "pmid": "42871503",
+      "doi": "10.1177/17571774261497951",
+      "title": "Knowledge and self-reported infection prevention and control practices among community health extension workers in primary healthcare facilities in Southeast Nigeria.",
+      "authors": [
+        "Christopher Ekara E",
+        "Onuorah UM",
+        "Nwelibe FA",
+        "Emma-Echiegu BD",
+        "Okolo JA",
+        "Odo CP"
+      ],
+      "journal": "Journal of infection prevention",
+      "date": "2026-10-12",
+      "year": 2026,
+      "abstract": "AIM/OBJECTIVES: To assess the knowledge and practice of infection prevention and control (IPC) among community health extension workers (CHEWs) in primary healthcare facilities in Southeast Nigeria and examine the relationship between IPC knowledge and preventive practices.\n\nMETHODS AND RESULTS: A cross-sectional study was conducted among 328 CHEWs in Ebonyi State, Southeast Nigeria, using a multistage sampling technique. Data were collected using a structured pre-tested questionnaire and analysed with IBM SPSS version 20. Descriptive statistics and chi-square tests were performed at p ≤ 0.05. Most respondents were female (53.7%) and had received previous IPC training (91.8%). Overall, 97.3% demonstrated good IPC knowledge. High compliance with IPC practices was reported, including hand hygiene (88.1%), consistent use of personal protective equipment (90.9%), safe injection practices (98.2%), and proper sharps disposal (95.4%). Significant associations were observed between IPC knowledge and all assessed preventive practices (p < 0.001).\n\nDISCUSSION: The findings suggest high levels of IPC knowledge and self-reported compliance among CHEWs in primary healthcare settings. Regular training, workplace monitoring, and availability of IPC policies may have contributed to these outcomes. However, gaps in hand hygiene consistency and IPC supply availability indicate the need for sustained institutional support.\n\nSIGNIFICANCE AND IMPACT: Strengthening continuous IPC training, supportive supervision, and access to essential IPC resources may improve frontline preparedness and reduce the risk of healthcare-associated infections in resource-limited primary healthcare settings.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658626/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871403",
+      "pmid": "42871403",
+      "doi": "10.1177/17511437261464341",
+      "title": "Acute spinal cord injury.",
+      "authors": [
+        "Boissaud-Cooke M",
+        "O'Hagan C",
+        "Manning A",
+        "Waddy S"
+      ],
+      "journal": "Journal of the Intensive Care Society",
+      "date": "2026-10-12",
+      "year": 2026,
+      "abstract": "Spinal cord injury results in transient or permanent disruption to the central nervous system with far reaching multi-system consequences, alongside having profound and devastating effects on the individual, their family and wider society. This review provides an overview on the epidemiology, pathophysiology and clinical presentation of spinal cord injury. The clinical syndromes of spinal cord injury are also discussed in detail. The medical and surgical management strategies of spinal cord injury in the acute phase is considered, alongside highlighting the importance of early referral to dedicated spinal rehabilitation services. The natural history and prognosis of traumatic spinal cord injury are also discussed.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658625/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871370",
+      "pmid": "42871370",
+      "doi": "10.1177/17511437261495043",
+      "title": "Surgical cancellation and changes in postoperative level of care among high and moderate risk surgical patients in the UK.",
+      "authors": [
+        "Wong JKL",
+        "Sasson R",
+        "Oddy C",
+        "Pan-London Perioperative Audit and Research Network Committee, The REPACC Study Investigators"
+      ],
+      "journal": "Journal of the Intensive Care Society",
+      "date": "2026-10-12",
+      "year": 2026,
+      "abstract": "BACKGROUND: The clinical and administrative pressures leading to cancellation of surgery are well established. However, it is not known whether the same factors lead to a change in patients' planned postoperative destination and level of care.\n\nMETHODS: We conducted a secondary analysis of the REPACC dataset; a nationwide, retrospective, observational study examining the provision of enhanced and critical care services in the UK. The reasons for cancellation and changes to the level of care received postoperatively were ascertained from free-text data.\n\nRESULTS: Our analysis included 5990 patients from 65 sites across the UK, of which 539 (9.6%) had their surgery cancelled. The most common reason for surgical cancellation was a lack of resources (51.0%), primarily bed shortages (37.1%). Among the 5451 patients who proceeded with surgery, 81.3% received the anticipated level of care postoperatively, 3.9% required escalation and 14.8% were de-escalated to a lower level of care. Changes to the anticipated level of care occurred most often among patients initially triaged to enhanced care. Clinical reasons were the major cause of escalation (53.3%) and de-escalation (61.2%) postoperatively with bed shortages accounting for a minority. Patients were commonly de-escalated following a postoperative assessment (21.8%).\n\nCONCLUSION: Cancellation of surgery in the UK is primarily a consequence of resource scarcity, whereas clinical reasons account for the majority of those re-allocated to different levels of care postoperatively. Future work should explore the clinical and health economic impacts of this dynamic bed management with particular focus on the role of enhanced care as an interface between critical care and the ward.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658631/",
       "source": "PubMed"
     },
     {
@@ -93661,17 +94027,18 @@
       "id": "pmid:42858131",
       "pmid": "42858131",
       "doi": "10.53680/vertex.v37i173.1065",
-      "title": "[Not Available].",
+      "title": "[Psychotic Depression: A Systematic Review of its Clinical Aspects, Diagnosis and Treatment].",
       "authors": [
         "Dines M",
         "Bamondez P",
         "Ailán D",
+        "Domínguez S",
         "Cetkovich-Bakmas M"
       ],
       "journal": "Vertex (Buenos Aires, Argentina)",
       "date": "2026-10-10",
       "year": 2026,
-      "abstract": "La depresión psicótica (DP) es una manifestación grave de la depresión mayor que se caracteriza por la presencia de síntomas psicóticos, como alucinaciones y delirios, junto con los signos y síntomas típicos de la depresión. Este trastorno presenta desafíos significativos tanto en el diagnóstico como en el tratamiento debido a la complejidad de sus manifestaciones clínicas. Se llevó a cabo una revisión sistemática del tema con el objetivo de delimitar los aspectos fundamentales de la DP, incluyendo su definición, características clínicas, diagnóstico diferencial, y estrategias terapéuticas con el fin de proporcionar una visión integral y actualizada para los profesionales de salud sobre la DP, contribuyendo a una mejor comprensión y manejo clínico de este trastorno psiquiátrico grave.",
+      "abstract": "Psychotic depression (PD) is a severe manifestation of major depressive disorder characterized by the presence of psychotic symptoms, such as hallucinations and delusions, alongside the typical signs and symptoms of depression. This condition poses significant challenges in both diagnosis and treatment due to the complexity of its clinical presentation. A systematic review was conducted with the aim of outlining the fundamental aspects of PD, including its definition, clinical features, differential diagnosis, and therapeutic strategies. The goal is to provide healthcare professionals with a comprehensive and up-to-date overview of PD, contributing to a better understanding and clinical management of this serious psychiatric disorder.",
       "publication_types": [
         "Journal Article",
         "Systematic Review",
@@ -93679,6 +94046,79 @@
       ],
       "topics": [
         "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42858123",
+      "pmid": "42858123",
+      "doi": null,
+      "title": "[Regarding the First Argentine Consensus on the Management of Schizophrenia: considering the dissents in relation to maintenance pharmacological treatment].",
+      "authors": [
+        "Fabrissin J",
+        "Oliva N"
+      ],
+      "journal": "Vertex (Buenos Aires, Argentina)",
+      "date": "2026-10-10",
+      "year": 2026,
+      "abstract": "Letter to the Editor.",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement",
+        "English Abstract"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42858122",
+      "pmid": "42858122",
+      "doi": null,
+      "title": "[Response to the Letter to the Editor: \"Regarding the First Argentine Consensus on the Management of Schizophrenia: considering the dissents in relation to maintenance pharmacological treatment\"].",
+      "authors": [
+        "Corrales A",
+        "Leiderman E",
+        "Maresca T",
+        "Rebok F"
+      ],
+      "journal": "Vertex (Buenos Aires, Argentina)",
+      "date": "2026-10-10",
+      "year": 2026,
+      "abstract": "Letter to the Editor",
+      "publication_types": [
+        "Letter"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42858121",
+      "pmid": "42858121",
+      "doi": null,
+      "title": "[Involuntary Admissions: It Is Time to Build the Consensus].",
+      "authors": [
+        "Mercurio E"
+      ],
+      "journal": "Vertex (Buenos Aires, Argentina)",
+      "date": "2026-10-10",
+      "year": 2026,
+      "abstract": "Letter to the Editor",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "guidelines"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -95109,6 +95549,38 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42856167",
+      "pmid": "42856167",
+      "doi": "10.64898/2026.09.26.754330",
+      "title": "Fibrosis burden and spatial pattern affect left atrial appendage stasis in multi-beat multi-physics simulations.",
+      "authors": [
+        "Stöcker Y",
+        "Augustin CM",
+        "Guerrero-Hurtado M",
+        "Flores O",
+        "Gonzalo A",
+        "Telle Å",
+        "Boyle P",
+        "Akoum N",
+        "Del Alamo JC",
+        "García-Villalba M"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "date": "2026-10-10",
+      "year": 2026,
+      "abstract": "Purpose: Atrial fibrosis is associated with thromboembolic risk in atrial fibrillation, but it remains unclear how fibrosis-related contractile impairment alters blood transport in the left atrium (LA) and left atrial appendage (LAA). Prior multi-physics simulations coupling electromechanical (EM) and computational fluid dynamics (CFD) models showed that fibrosis impairs LA function and flow, but were limited to booster-only contraction and could not separate the effects of fibrosis burden from its spatial distribution. Here, we examined how fibrosis burden and spatial pattern independently relate to long-term LA and LAA hemodynamics in full-cycle, multi-beat simulations on a common LA anatomy. Methods: Three fibrosis patterns derived from late gadolinium enhancement MRI were applied globally to a common LA anatomy at matched burdens of 15.6% and 31.2%, yielding six global-fibrosis cases and a non-fibrotic reference. Two patterns were also confined to the LAA at local burdens of 10%, 25%, and 50%, yielding six LAA-fibrosis cases. A 3D EM model of the LA anatomy coupled to a 0D circulatory model resolved the reservoir, conduit, and booster phases, and the EM-derived wall motion drove subsequent multi-beat CFD simulations. Region-specific emptying fraction (EF), non-dimensional kinetic energy (KE), and the 90th percentile of blood residence time (T R ) were evaluated in the LA and LAA. Results: Left ventricular stroke volume remained nearly constant across cases, whereas increasing global fibrosis burden progressively reduced LA and LAA EF (LA: 36% to 30-31%; LAA: 44% to 28-38%), lowered both active and passive LA EF, and monotonically increased LA T R across all patterns. Non-dimensional LA KE showed an approximately quadratic association with LA EF across patterns, whereas LAA KE was more scattered but still increased with LAA EF. In contrast, the 90th percentile of LAA T R did not increase monotonically with decreasing LAA EF for one pattern. When fibrosis was confined to the LAA, non-dimensional LAA KE collapsed onto a single relationship with LAA EF for both patterns, whereas LAA T R followed distinct, non-monotonic trends. Conclusions : Fibrosis burden, through its association with functional impairment, predominantly governed whole-LA hemodynamics, whereas LAA stasis additionally depended on the spatial distribution of fibrosis. In the LAA-fibrosis cases, LAA EF was a robust descriptor of chamber-averaged KE regardless of fibrosis pattern, but did not fully explain LAA residence time. These findings support evaluating imaging-derived fibrosis pattern, in addition to fibrosis burden and functional metrics, as a potential determinant of LAA transport and stasis. Its incremental value for thrombogenic-risk assessment requires prospective clinical validation.",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "topics": [
+        "electrophysiology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13648491/",
       "source": "PubMed"
     },
     {
@@ -211813,6 +212285,118 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871604",
+      "pmid": "42871604",
+      "doi": "10.1002/ccr3.73712",
+      "title": "Suboptimal Response to Eculizumab in Renal-Limited Thrombotic Microangiopathy Associated With Malignant Hypertension and Monoclonal Gammopathy: A Case Report.",
+      "authors": [
+        "Lei W",
+        "Shi T",
+        "Xu M",
+        "Zhou J"
+      ],
+      "journal": "Clinical case reports",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Renal-limited thrombotic microangiopathy (TMA) is clinically milder but etiologically complex and is often underdiagnosed. This case presents as complement-mediated TMA with malignant hypertension and monoclonal gammopathy but showed suboptimal response to eculizumab treatment, suggesting heterogeneity in both etiology and treatment outcomes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "prevention"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13659042/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871486",
+      "pmid": "42871486",
+      "doi": "10.1002/mco2.71063",
+      "title": "Blocking Extracellular Cyclophilin A-Mediated Adhesion Protects Against Bacterial Infection.",
+      "authors": [
+        "Bai X",
+        "Li H",
+        "Jiao P",
+        "Zhao Y",
+        "Jia X",
+        "Pei HZ",
+        "Fan Z",
+        "Lin R",
+        "Zhang H",
+        "Wang B",
+        "Chen X",
+        "Bi Y",
+        "Chang D",
+        "Zhang Z",
+        "Chen Y",
+        "Liu W",
+        "Sun L"
+      ],
+      "journal": "MedComm",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Bacterial pneumonia remains a leading cause of mortality and morbidity worldwide and is primarily managed through antibiotic therapy. However, the increasing threat of antimicrobial resistance underscores the urgent need for alternative strategies. In this study, we identify extracellular cyclophilin A (eCypA) as a key host factor that promotes the adherence of bacteria such as group A Streptococcus (GAS) and Streptococcus pneumoniae (S. P.). Using single-nucleus RNA sequencing of mouse lung tissue, we demonstrate that eCypA upregulates the expression of integrin/extracellular matrix adhesion receptors, including integrin α5, fibronectin, and mucin, an effect largely mediated by enhancing the transforming growth factor-β (TGF-β) signaling. Mechanistically, eCypA interacts with TGF-β receptor II, acting as a coactivator to increase its binding to TGF-β1 and amplify downstream signaling. Notably, administration of an anti-CypA monoclonal antibody yields both prophylactic and therapeutic effects against GAS-induced lung damage in mice by reducing bacterial adhesion and suppressing proinflammatory cytokine production. Collectively, these findings identify eCypA as a critical regulator of infection exploited by diverse bacteria that rely on integrin/extracellular matrix for adherence, highlighting eCypA as a promising target for host-directed therapies designed to mitigate bacterial attachment and subsequent inflammation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13659286/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871362",
+      "pmid": "42871362",
+      "doi": "10.1183/20734735.0058-2026",
+      "title": "AI-augmented cardiopulmonary point-of-care ultrasound: a narrative review for pulmonary and critical care clinicians.",
+      "authors": [
+        "Mattson J",
+        "Deshpande K",
+        "Pradhan D"
+      ],
+      "journal": "Breathe (Sheffield, England)",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Point-of-care ultrasound (POCUS) is an increasingly utilised tool in pulmonary and critical care medicine, yet its effectiveness remains limited by operator dependency and the required cognitive demands of real-time image acquisition and interpretation. Artificial intelligence (AI) has emerged as a promising approach to augment POCUS by supporting image acquisition, interpretation and quantitative analysis. Given the rapid evolution of this field, clinicians must understand both the capabilities and limitations of AI-enabled POCUS. However, prior reviews have largely catalogued applications without focusing on how these tools integrate into bedside workflows. This narrative review examines AI in cardiopulmonary POCUS through a workflow-based lens relevant to pulmonologists and intensivists. We discuss the role of AI as a bedside coach, interpreter and quantifier, highlighting applications in lung and focused cardiac ultrasound, including pneumothorax detection, B-line analysis, left ventricular function assessment, and identification of other cardiopulmonary pathologies. Across domains, AI demonstrates strong performance in controlled settings, although variability persists in real-world environments due to differences in image quality, patient factors and dataset limitations. Future directions include interactive, clinician-in-the-loop systems, protocol-driven integration, and multimodal data synthesis. A clear understanding of these developments will be essential for clinicians as AI becomes increasingly embedded within bedside patient care.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13659354/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42871286",
+      "pmid": "42871286",
+      "doi": "10.7759/cureus.117831",
+      "title": "Acute Kidney Injury Following Whole Cherry Consumption as a Sleep Aid in a Geriatric Patient With Chronic Kidney Disease.",
+      "authors": [
+        "Moshiri KA",
+        "Okamuro L",
+        "Lee J"
+      ],
+      "journal": "Cureus",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Cherries are consumed for their anti-inflammatory and sleep-promoting effects, but their potential adverse effects remain poorly characterized. A 95-year-old woman with stage 3A chronic kidney disease (CKD) presented with an increase in serum creatinine from a baseline of 0.8 to 1.3 mg/dL and a decrease in estimated glomerular filtration rate from 55.3 to 35.2 mL/min/1.73 m² following two weeks of consuming 15-20 fresh or frozen whole cherries nightly. Cherry consumption was discontinued, and her kidney function returned to baseline one month later. Cherries contain high amounts of anthocyanins, which may contribute to acute kidney injury (AKI) in CKD patients through cyclooxygenase (COX)-inhibitory mechanisms, similar to nonsteroidal anti-inflammatory drugs (NSAIDs). Application of the Naranjo Adverse Drug Reaction Probability Scale yielded a score of 7, indicating a \"probable\" association between cherry consumption and AKI.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "nephrology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13659183/",
       "source": "PubMed"
     },
     {
@@ -358285,623 +358869,6 @@
       "topics": [
         "hematology",
         "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789426",
-      "pmid": "42789426",
-      "doi": "10.1177/00031348261489293",
-      "title": "Acute Kidney Injury After Repeated Contrast Studies: Identifying a High-Risk Geriatric Trauma Population.",
-      "authors": [
-        "Fedida LM",
-        "Mikos JN",
-        "Van WC",
-        "Womack J",
-        "Yang K",
-        "Muller A",
-        "Butts C",
-        "Reilly E",
-        "Ong A"
-      ],
-      "journal": "The American surgeon",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BackgroundWhile contrast-associated acute kidney injury (CA-AKI) is a recognized entity, data regarding CA-AKI risk after repeated intravascular (IV) contrast exposures in older adults remain limited. We hypothesized that repeated IV contrast exposures were not associated with AKI in geriatric trauma patients.MethodsWe retrospectively studied patients aged ≥65 years at a level 1 trauma center from January to December 2023. Patients who underwent at least one computed tomography scan or arteriogram within 48 hours were included. Exclusion criteria were death within 48 hours or pre-admission renal replacement therapy. CA-AKI was defined using Kidney Disease: Improving Global Outcomes criteria. Adjusted risks of AKI and CA-AKI were estimated using logistic regression.ResultsOf 1486 patients, 455 (30.6%), 881 (59.2%), and 150 (10.1%) received none, one and ≥2 contrast exposures respectively. AKI occurred in 126 (8.5%). CA-AKI occurred in 64 (6.2%) of 1031 patients who received IV contrast. Multivariate analyses showed that AKI was associated with receiving ≥2 exposures (odds ratio [95% confidence interval] 2.58 (1.42-4.59), but not with only one exposure (0.78 [0.50-1.24]). In patients who received contrast, ≥2 contrast exposures was an independent risk factor for CA-AKI (3.43 [1.89-6.09]). Admission estimated glomerular filtration rate, Charlson comorbidity index and diabetes mellitus were also independent risk factors for AKI and CA-AKI.DiscussionIn geriatric trauma patients, receiving ≥2 contrast exposures was associated with AKI. Concomitant reduced renal function, diabetes mellitus and high comorbidity burden could identify a subgroup in whom greater attention to imaging strategy and contrast stewardship may be warranted.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine",
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789410",
-      "pmid": "42789410",
-      "doi": "10.3138/jvme-2026-0039",
-      "title": "What Supports Students' Well-Being? Insights From Veterinary Learners at an Australian University.",
-      "authors": [
-        "White TLSB",
-        "van Gelderen Mabin IF"
-      ],
-      "journal": "Journal of veterinary medical education",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "Interventions that support well-being while educating future veterinarians are widely reported and embedded within most veterinary curricula. A key challenge for educators is understanding which interventions veterinary students are most likely to engage with and how these can be effectively embedded within the curriculum. At the University of Sydney, well-being support is provided through university services and is explicitly integrated into the curriculum. Our objective was to explore this for DVM students at the University of Sydney as part of a curriculum review. A cross-sectional anonymous, online survey was distributed to all currently enrolled DVM students over 5 weeks during semester 1 in 2025. Response rate was 26.4% (n = 142). DVM year had a significant effect on engagement with university mentor services (p = .03); perceived barriers to accessing external well-being interventions, including time (p = .03) and location (p = .04); overall satisfaction with well-being curriculum (p = .04); desire for more career management learning (p = .03); and likely engagement with a novel pet therapy program (p = .05). International students were significantly more likely than domestic students to engage with university mental health services (p < .01) and to report lower preference scores for additional time management learning (p = .03). Students indicated a high likelihood of engagement with food-based well-being interventions (mode = 5). Findings suggest that students' preferences for school-supported well-being interventions vary across degree stage. Further research is needed to inform development of targeted well-being initiatives that maximize student engagement.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789391",
-      "pmid": "42789391",
-      "doi": "10.1016/j.celrep.2026.118060",
-      "title": "DDX39A unwinds viral RNA G-quadruplexes to limit α-Synuclein amyloidogenesis.",
-      "authors": [
-        "Jain A",
-        "Tripathi S",
-        "Agarwal C",
-        "Biswas A",
-        "Potharaju PS",
-        "De A",
-        "Mansuri S",
-        "Mondal A",
-        "Harshan KH",
-        "Raychaudhuri S"
-      ],
-      "journal": "Cell reports",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "Amyloid aggregates of α-Synuclein are hallmarks of Parkinson's disease (PD) and related neurodegenerative disorders. Literature suggests that mRNA G-quadruplexes (rG4s) bind to α-Synuclein, facilitating its amyloidogenesis. In parallel, α-Synuclein interacts with RNA-binding proteins (RBPs) within cytosolic RNA-protein granules to modulate mRNA stability. However, mechanisms by which α-Synuclein-interacting RBPs regulate its amyloidogenesis remain unexplored. Here, we report that rG4-dependent cytosolic interaction with the DEAD-box helicase DDX39A decelerates α-Synuclein amyloidogenesis. Notably, viral infections transiently elevate rG4s in the cytoplasm. Perturbing interactions between α-Synuclein and DDX39A using genomic rG4-sequences from H1N1 Influenza and SARS-CoV-2 expedites intracellular amyloidogenesis. Conversely, DDX39A overexpression alleviates α-Synuclein amyloidogenesis in SARS-CoV-2-infected primary neurons. We demonstrate that while DDX39A unwinds viral rG4s to mitigate α-Synuclein sol-gel transition, its cooperative phase separation with α-Synuclein enhances the helicase's rG4-unwinding activity. We propose that accelerated α-Synuclein amyloidogenesis reflects a trade-off within this RNA-protein equilibrium and might contribute to the viral etiology of PD.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789384",
-      "pmid": "42789384",
-      "doi": "10.1016/j.celrep.2026.118042",
-      "title": "Transcriptional and epigenomic analysis of insulin sensitivity in human adipocytes.",
-      "authors": [
-        "Zhang Q",
-        "Zhou A",
-        "Maynard AG",
-        "Emont MP",
-        "Jacobs C",
-        "Nagesh S",
-        "Batista TM",
-        "Gibson RM",
-        "Huang Y",
-        "Kaalia R",
-        "Pérez-Schindler J",
-        "Min B",
-        "Lyubetskaya A",
-        "Dawes B",
-        "Chen A",
-        "Tenen D",
-        "De Filippis E",
-        "Merkel E",
-        "Ivison R",
-        "Kar A",
-        "Dashti H",
-        "Claussnitzer M",
-        "Tsai L",
-        "Rosen ED"
-      ],
-      "journal": "Cell reports",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "Insulin resistance is a key feature of type 2 diabetes (T2D) and is also associated with a wide variety of other disease states. We isolated adipocytes from subjects with and without insulin resistance and subjected them to transcriptional and epigenomic profiling, allowing us to identify genes, cis-regulatory elements, and pathways that associate with insulin resistance in this critical cell type. We focused on several differentially enriched regions near the IRS1 gene that were close to, but distinct from, single-nucleotide polymorphisms associated with T2D and insulin resistance. CRISPR interference (CRISPRi)-mediated repression of these elements identified two major enhancer regions that regulate IRS1 expression in a cell-state-dependent manner. Finally, we identified specific transcription factors that act through these sites to enhance IRS1 gene expression. These studies help to define the molecular events that characterize, and potentially determine, human insulin sensitivity and resistance.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789357",
-      "pmid": "42789357",
-      "doi": "10.2196/87047",
-      "title": "The Use of Waivers of Guardian Permission in the United States for Pediatric Digital Health Intervention Research Since 2020: Systematic Review.",
-      "authors": [
-        "Stiles-Shields C",
-        "Shenberger E",
-        "Bernica A",
-        "Bobadilla G",
-        "Fletcher K",
-        "George J",
-        "Gordon S",
-        "Gustafson EL",
-        "Hernandez CS",
-        "Hilderbrand TL",
-        "Kumi SN",
-        "Lee CA",
-        "Lorduy SI",
-        "Phanse M",
-        "Potthoff LM",
-        "Quezada N",
-        "Smith DL",
-        "Hudson HJ",
-        "Anderson EE"
-      ],
-      "journal": "Journal of medical Internet research",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BACKGROUND: Digital health interventions (DHIs) offer scalable ways to reach youth. While DHI research often poses minimal risk, guardian permission is typically required for minors to participate. As a result, requiring guardian permission may unintentionally obstruct safe, high-quality research and delay its translation.\n\nOBJECTIVE: This review aims to explore practices related to guardian permission. This study systematically reviewed randomized controlled trials of DHIs with minors from the United States published between January 1, 2020, and June 17, 2026.\n\nMETHODS: PubMed, Embase, PsycINFO, and ACM Digital Library were searched; Cochrane Library and Web of Science yielded only duplicates and were therefore excluded. Included studies had to be: conducted in the United States, randomized controlled trials evaluating DHIs for pediatric mental and/or behavioral health, written in English, and peer-reviewed. Studies were excluded if participation was decided at the school level, included caregivers or pregnant teens as participants, or had a mean sample age of more than 18 years. Two coders independently screened and extracted data, with a third, unique reviewer resolving discrepancies. Risk of bias was assessed using the revised Cochrane risk of bias tool for randomized trials (RoB 2). A narrative framework was used to identify themes. Inverse variance-weighted linear regressions and logistic regressions were conducted to compare studies with and without permission waivers.\n\nRESULTS: Of 7170 screened studies, 49 met inclusion criteria (21 used guardian permission waivers; 28 required permission). The most commonly reported rationale for waiver use was participant privacy. Logistic regressions showed that studies with waivers were more likely to assess gender beyond the binary of male-female (odds ratio [OR] 4.27, 95% CI 1.22-14.93; P=.02) and more likely to recruit online (OR 0.04, 95% CI 0.01-0.17; P<.001). Weighted study-level regression revealed significantly lower follow-up retention in studies with waivers (mean 77.03%, SD 12.32%) compared to those requiring guardian permission (mean 88.61%, SD 17.17%; P=.005). No significant differences emerged across age, race, ethnicity, assessment of suicidality, sensitive topic assessment, intervention focus, or treatment retention.\n\nCONCLUSIONS: Though several frameworks exist for evaluating ethics around waiving guardian permission for minors in research, this is the first review to systematically evaluate research in DHI, which often varies in terms of its level of risk. Although small sample sizes and variable reporting practices limited statistical power, the lack of differences in sample characteristics or study features between studies that used waivers and those that did not suggests that institutional review boards may be differentially interpreting regulations and guidance on waiving guardian permission. These findings likely indicate the need for more evidence to guide risk and benefit evaluations-or more education about the existing evidence base, as well as the risks and potential benefits of pediatric DHI research.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13614224/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789354",
-      "pmid": "42789354",
-      "doi": "10.1044/2026_JSLHR-25-00815",
-      "title": "Shared Variance Across Cognitive Assessments Predicts Language Outcomes in Aphasia: A Preliminary Study.",
-      "authors": [
-        "Kuptsova SV",
-        "LaCroix AN"
-      ],
-      "journal": "Journal of speech, language, and hearing research : JSLHR",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "PURPOSE: Aphasia, a common consequence of stroke, often co-occurs with cognitive impairments, yet clinical assessment is limited by tools that are lengthy, linguistically demanding, and sometimes redundant. This preliminary study examined shared variance across widely used cognitive tests and explored how the resulting principal components related to aphasia severity and sentence comprehension efficiency. We also tested whether single tasks, those with the strongest component loadings, could predict language outcomes as effectively as the full component scores.\n\nMETHOD: Seventeen adults with chronic aphasia and 21 matched controls completed the Test of Everyday Attention, the Cognitive Linguistic Quick Test-Plus, and the Visual and Auditory Duration Attention Network Tests. Principal component analysis (PCA) was used to identify shared variance across cognitive tasks, followed by regression analyses relating components and single-task predictors to language outcomes.\n\nRESULTS: PCA revealed six components, with subtests from the same battery generally clustering together, suggesting redundancy. Regression analyses showed that visuospatial processing speed and auditory orienting attention predicted less severe aphasia and more efficient sentence comprehension, whereas greater visual-sustained attention was linked to more severe aphasia. Single-task loadings predicted sentence comprehension but not aphasia severity.\n\nCONCLUSION: These preliminary findings highlight the potential to streamline cognitive assessments to reduce redundancy, improve diagnostic precision, and better support individualized rehabilitation.\n\nSUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.33915754.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789353",
-      "pmid": "42789353",
-      "doi": "10.2196/98432",
-      "title": "Evidence and Future Directions for Pediatric Health Care Chatbots: Systematic Review.",
-      "authors": [
-        "Yang S",
-        "Jin JH",
-        "You SC",
-        "Kim MJ",
-        "Kim KW"
-      ],
-      "journal": "Journal of medical Internet research",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BACKGROUND: Pediatric health care requires distinct considerations, including caregiver involvement and developmental differences in cognition and communication as children gain autonomy, particularly as pediatric health care chatbots gradually emerge. Because childhood and adolescence are formative periods for health behaviors and self-management practices, pediatric chatbots also warrant evaluation against long-term rather than immediate outcomes.\n\nOBJECTIVE: This study aimed to characterize and synthesize the available evidence on pediatric health care chatbots evaluated for health-related outcomes. Furthermore, by identifying gaps in the existing literature, we sought to propose specific considerations for the design, evaluation, and implementation of pediatric health care chatbots.\n\nMETHODS: PubMed, Embase, Scopus, PsycINFO, the Cochrane Library, and the Web of Science were systematically searched without publication year restrictions. Randomized controlled trials, mixed methods, and observational studies that evaluated health care chatbots for children (aged <19 y) or caregivers and assessed health-related outcomes were included. Nonoriginal papers, end-of-life or palliative care studies, and non-English publications were excluded. Study quality was assessed using the Mixed Methods Appraisal Tool and the Oxford Levels of Evidence 2.\n\nRESULTS: A total of 9 studies were included, with 5 (55.6%) involving pediatric participants only, while 4 (44.4%) involved caregivers. Six (66.7%) studies lacked a comparator, and only 3 (33.3%) chatbots were AI-based. Health and psychosocial outcomes were mixed, often showing null findings in objective clinical metrics despite some subjective improvements. Behavioral and cognitive outcomes generally showed favorable changes but relied heavily on subjective evaluations. Although chatbots demonstrated explicit developmental tailoring, with designs shifting from caregiver-mediated approaches in early childhood to autonomous, privacy-focused platforms for adolescents, definitive conclusions regarding their robust associations with health-related outcomes cannot be drawn. This is primarily due to pervasive methodological limitations, including the lack of active comparator groups, reliance on short-term metrics, and significant study heterogeneity.\n\nCONCLUSIONS: Pediatric health care chatbots are emerging across diverse health care contexts, but the current evidence remains limited and heterogeneous. This review identified developmentally relevant considerations, including caregiver involvement, age-appropriate communication, and developmental differences, that may warrant explicit attention in future chatbot design, evaluation, and implementation.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13614210/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789348",
-      "pmid": "42789348",
-      "doi": "10.2196/91594",
-      "title": "The Role of Carotid Graft Interposition During Elective and Emergent Interventions: Protocol for a Scoping Review.",
-      "authors": [
-        "Pasquetti L",
-        "Zlatanovic P",
-        "Pasqui E",
-        "Kostic O",
-        "Galzerano G",
-        "Koncar I",
-        "Dragas M",
-        "de Donato G"
-      ],
-      "journal": "JMIR research protocols",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BACKGROUND: In a significant proportion of carotid interventions, carotid graft replacement is required to achieve a successful outcome either as a primary method or as a bailout solution. Whether carotid grafting should be performed, the indications for its use, and other technical aspects remain insufficiently addressed in the literature. An exhaustive mapping of the sparse and heterogeneous evidence available in the literature may provide a more comprehensive understanding of this topic.\n\nOBJECTIVE: This scoping review aims to examine and summarize the scientific evidence on the indications, graft types, and outcomes of graft interposition during elective and emergency carotid interventions.\n\nMETHODS: This scoping review will be conducted in accordance with the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines for reporting. Peer-reviewed papers written in English will be identified through searches of the following databases: PubMed (MEDLINE), Embase, Scopus, and Web of Science. The web-based systematic review platform Rayyan will be used for deduplication and study screening. The review will encompass the following clinical scenarios: elective carotid endarterectomy, emergent carotid endarterectomy, carotid artery restenosis, carotid artery trauma, carotid artery aneurysm, carotid artery dissection, carotid patch infection, radiation-induced carotid fibrosis, and carotid body tumors. All study designs (randomized controlled trials, observational studies, and case series) will be considered. Non-English studies, animal studies, cadaveric or anatomical-only reports, and purely technical notes without clinical data will be excluded. Data regarding extracranial-to-intracranial bypass will be excluded. Study selection based on title and abstract screening (first stage), full-text review (second stage), and data extraction (third stage) will be performed by a group of researchers, whereby each paper will be reviewed by at least 2 researchers. Any conflict regarding the inclusion or exclusion of a study and the data extraction will be resolved by discussion between the researchers who evaluated the papers; a third researcher will be involved if consensus is not reached. Data synthesis will be performed with the aim of clearly presenting the indications, graft types, and outcomes of graft interposition during carotid interventions.\n\nRESULTS: The search strategy was finalized in July 2026. Preliminary searches of PubMed (MEDLINE), PROSPERO, and JBI Evidence Synthesis databases identified no published or registered systematic or scoping reviews specifically addressing carotid interposition grafting across elective and emergent carotid interventions. As of September 2026, formal database searches and study selection had not yet begun and were scheduled to start in October 2026. Data extraction and evidence synthesis are expected to be completed by spring 2027, and submission of the final scoping review is planned for summer 2027.\n\nCONCLUSIONS: Our scoping review will seek to provide an overview of the available evidence and identify research gaps regarding the role of graft interposition during elective and emergent carotid interventions.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789344",
-      "pmid": "42789344",
-      "doi": "10.2196/83132",
-      "title": "Predictors of Treatment Adherence in Outpatients With Chronic Obstructive Pulmonary Disease: Cross-Sectional Study.",
-      "authors": [
-        "Nguyen H",
-        "Nguyen T",
-        "Nguyen H",
-        "Luong G",
-        "Vu D",
-        "Tran T"
-      ],
-      "journal": "JMIR nursing",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BACKGROUND: Gaps in knowledge, inhalation skills, and adherence continue to hinder effective chronic obstructive pulmonary disease (COPD) management.\n\nOBJECTIVE: The study was conducted to describe the status of COPD-related knowledge, practical skills for inhalation and breathing exercises, and treatment adherence among patients with COPD and to identify the relationships between these variables.\n\nMETHODS: A cross-sectional study was conducted among 420 outpatients with COPD. Data were collected in 2 rounds, including interviews to assess patients' knowledge and treatment adherence and checklist-based observations of patients' practical skills. Multivariable logistic regression analysis was used to evaluate the associations between knowledge and practical skills and the status of treatment adherence.\n\nRESULTS: A total of 420 outpatients with COPD were included; 331 (78.8%) participants had inadequate COPD-related knowledge, 268 (63.8%) demonstrated adequate practical skills, and 155 (36.9%) achieved overall treatment adherence. In multivariable logistic regression, higher knowledge scores were associated with better treatment adherence (adjusted odds ratio [aOR] 1.20, 95% CI 1.06-1.31; P=.001). Participants who correctly performed inhaler-use techniques were more likely to be adherent than those with incorrect technique (aOR 3.10, 95% CI 2.10-4.70; P=.001). Likewise, adequate breathing-exercise skills were associated with higher adherence (aOR 1.70, 95% CI 1.08-2.71; P=.02).\n\nCONCLUSIONS: Higher COPD-related knowledge and better practical skills in inhaler use and breathing exercises were associated with better treatment adherence among outpatients with COPD. Because of the cross-sectional design, these findings indicate associations rather than causal relationships. These observed associations may help inform future intervention studies evaluating patient education and skill-based training, although their effectiveness should be confirmed in longitudinal or interventional studies.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "respiratory"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13614212/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789337",
-      "pmid": "42789337",
-      "doi": "10.5603/gpl.112135",
-      "title": "Fetal closure of ductus arteriosus in monochorionic diamniotic twins.",
-      "authors": [
-        "Ziebakowski M",
-        "Sylwestrzak O",
-        "Sokolowski L",
-        "Krekora M",
-        "Zych-Krekora K"
-      ],
-      "journal": "Ginekologia polska",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789333",
-      "pmid": "42789333",
-      "doi": "10.1044/2026_AJSLP-25-00384",
-      "title": "Communication Difficulties and Management: The Lived Experience of Individuals With Frontotemporal Lobar Degeneration Spectrum Disorders.",
-      "authors": [
-        "Meade G",
-        "Reinecker B",
-        "Milliard C",
-        "Utianski RL"
-      ],
-      "journal": "American journal of speech-language pathology",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "PURPOSE: Frontotemporal lobar degeneration (FTLD) is the neuropathology that underlies a collection of progressive clinical syndromes typically classified by the initial/primary symptom. For example, individuals with loss of word meaning as a first manifestation are often diagnosed with the semantic variant of primary progressive aphasia. Growing evidence suggests that language and communication can be impacted in all clinical syndromes across the FTLD spectrum, but the functional relevance of these symptoms has yet to be explored.\n\nMETHOD: The Frontotemporal Degeneration (FTD) Insights Survey is the largest community survey of individuals affected by FTLD. It was administered online and included questions related to demographics, symptoms, life participation, quality of life, and experiences with and hopes for treatment. Self-reported diagnoses of respondents included the nonfluent/agrammatic, semantic, and unspecified variants of primary progressive aphasia, semantic dementia, corticobasal syndrome, progressive supranuclear palsy, and behavioral variant FTD. Here, we grouped respondents according to whether they had a language-predominant (n = 43), motor-predominant (n = 43), or behavior-predominant (n = 90) variant of FTLD and used descriptive statistics to explore how they perceive their own communication difficulties and gauge their motivation for management.\n\nRESULTS: Over 65% of respondents in each group identified changes to communication as a symptom; subsequent analyses focused on the responses of this cohort. Across groups, word finding and speaking were two of the most frequently endorsed difficulties. Over 50% of each group identified improved communication as a treatment priority, reflecting the impact that these symptoms have on their day-to-day life. Speech-language therapy is an important approach to manage these changes and minimize their impact. Whereas 76% of the language and motor groups had attended speech-language therapy, this was true for only 16% of the behavior group.\n\nCONCLUSIONS: Individuals across the FTLD spectrum experience changes to communication that impact their social engagement and quality of life. Management needs to be tailored to the needs of each individual, but recommendations are provided based on the insights and group-level preferences reported here. Future research is needed to identify current referral practices and how to increase engagement in skilled communication interventions, especially for individuals with the behavioral variant of FTD.\n\nSUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.33940597.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789325",
-      "pmid": "42789325",
-      "doi": "10.7554/eLife.110588",
-      "title": "Opening the black box toward a modular approach to spike sorting.",
-      "authors": [
-        "Garcia S",
-        "Halcrow C",
-        "Windolf C",
-        "McKenzie ZM",
-        "Adkisson-Floro P",
-        "Mayorquin HR",
-        "Dichter BK",
-        "Buccino AP",
-        "Yger P"
-      ],
-      "journal": "eLife",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "Spike sorting is an algorithmic process that extracts the activity of individual neurons from extracellular electrophysiology recordings. With the ballooning use of high-density probes, such as Neuropixels, this essential processing step is increasingly becoming time-consuming and computationally expensive. Although many software tools have been proposed to address spike sorting, they are usually constructed and benchmarked as monolithic 'black boxes', making it difficult to factor out the effects of individual algorithmic steps on the final outcome, especially when varying datasets and parameters. To address this issue, we developed a modular and common framework to develop, benchmark, and assemble the key computational steps that are used in state-of-the-art spike sorting algorithms. Relying on fast and efficient ground truth generation of biophysically plausible recordings, we show that we are able to individually benchmark and precisely quantify the performance of different steps in a spike sorting pipeline (i.e. peak detection, feature extraction, clustering, and template matching). We then leverage these results to create a modular, component-based spike sorter that can outperform Kilosort4 on dense and large simulated recordings, and produce similar quantitative results on real data. In addition, we find that the major bottleneck of all modern spike sorting pipelines is in the physical motion of probes, regardless of the drift-correction strategy. The component-based spike sorting framework presented here has the potential to foster community engagement in the field by lowering the barrier to contributions and providing a flexible yet powerful framework to construct end-to-end spike sorting solutions.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "electrophysiology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13614784/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789283",
-      "pmid": "42789283",
-      "doi": "10.2196/95921",
-      "title": "Current Status and Associated Factors of Technophobia Toward Digital Health Technologies Among Older Patients With Stroke: Mixed Methods Study.",
-      "authors": [
-        "Yang Y",
-        "Wu Y",
-        "Wu Z",
-        "Wu Y",
-        "Zhang Z",
-        "Li Y"
-      ],
-      "journal": "Journal of medical Internet research",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BACKGROUND: Digital health technologies increasingly support long-term stroke management and rehabilitation, but technophobia may hinder their acceptance and sustained use among older patients with stroke. Evidence in this population remains limited.\n\nOBJECTIVE: This study aimed to examine the level, associated factors, and subjective experiences of technophobia toward digital health technologies among older patients with stroke, and inform targeted interventions.\n\nMETHODS: We used an explanatory sequential mixed methods design. In the quantitative phase, older patients with stroke were recruited by convenience sampling from a tertiary grade A hospital in Shanghai, China, between January 15, 2024, and January 2, 2025. Participants completed a general information questionnaire and the Chinese versions of the Technophobia Scale, the eHealth Literacy Scale, the Perceived Social Support Scale, and the Stroke Self-Efficacy Questionnaire. Univariable, correlation, and multivariable linear regression analyses were performed. Qualitative participants were purposively selected from the quantitative sample using maximum variation sampling informed by quantitative findings. Semistructured interviews conducted between February 6 and April 30, 2025, were analyzed using reflexive thematic analysis. Quantitative and qualitative findings were integrated to elucidate associated factors and their contextual manifestations.\n\nRESULTS: Among 343 quantitative participants, the median technophobia score was 25.0 (IQR 22.0-33.0). Multivariable linear regression showed lower technophobia scores among patients with monthly per capita household income of Renminbi (Chinese yuan; RMB) 5000-6999 (RMB 1=US $0.14 as of January 29, 2026) versus less than RMB 1000 (B=-3.60, 95% CI -6.44 to -0.76; P=.01) and among occasional versus never users of digital health technologies (B=-3.98, 95% CI -6.94 to -1.03; P=.008). Higher eHealth literacy (B=-0.45, 95% CI -0.58 to -0.32; P<.001), perceived social support (B=-0.35, 95% CI -0.42 to -0.29; P<.001), and stroke self-efficacy (B=-0.08, 95% CI -0.13 to -0.02; P=.01) were also associated with lower technophobia scores. Fifteen qualitative participants were interviewed, yielding 4 themes: affordability of digital health technologies, adoption and proficiency in using digital health technologies, influence of social relationship networks, and resources for digital health technology competence. Integrated analysis indicated broad convergence and complementarity between the quantitative and qualitative findings.\n\nCONCLUSIONS: Technophobia varied among older patients with stroke and was associated with monthly per capita household income, frequency of digital health technology use, eHealth literacy, perceived social support, and stroke self-efficacy. These findings suggest that technophobia is not limited to operational difficulties but may reflect the interplay of personal resources, social support, and technology use contexts. Stroke-specific digital health interventions may need to address eHealth literacy, stroke self-efficacy, social support, and user experience to promote acceptance and use among older patients with stroke.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13614213/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789282",
-      "pmid": "42789282",
-      "doi": "10.2196/104766",
-      "title": "Effectiveness of a Structured Robot-Assisted Ankle-Foot Sensorimotor Training Program Versus Manual Training in Chronic Stroke: Protocol for an Assessor-Blinded, Parallel-Group Randomized Controlled Trial.",
-      "authors": [
-        "Kaya P",
-        "Tekeci E",
-        "Hocaoğlu E",
-        "Ünal R",
-        "Ozkocak G"
-      ],
-      "journal": "JMIR research protocols",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BACKGROUND: Stroke is a leading cause of long-term disability worldwide. Persistent lower-extremity motor and somatosensory impairments after stroke commonly limit walking and balance despite rehabilitation. Virtual reality (VR)-integrated robotic rehabilitation may support structured, goal-directed ankle-foot practice; however, evidence for ankle-foot-focused sensorimotor protocols remains limited. In particular, approaches that combine robot-assisted motor training with plantar tactile localization and VR-supported joint position sense training to target plantar sensory and proprioceptive function are scarce.\n\nOBJECTIVE: This study aims to evaluate the effectiveness of a structured, VR-integrated, robot-assisted ankle-foot sensorimotor rehabilitation protocol compared with a content-matched manual training protocol in individuals with chronic stroke and to examine its effects on clinical and sensorimotor outcomes.\n\nMETHODS: This is an assessor-blinded, 2-arm, parallel-group randomized controlled trial. Thirty individuals with chronic stroke will be randomized 1:1 to the robot-assisted training group or the manual training group. All participants will receive conventional rehabilitation. In addition, the robot-assisted training group will receive a structured robot-assisted ankle-foot training program integrated with VR and assist-as-needed control, whereas the manual training group will receive the same structured ankle-foot training protocol delivered manually by a physiotherapist. Interventions will be delivered 3 times per week for 6 weeks, for a total of 18 sessions. Total session duration will be time matched between groups at 50 to 60 minutes per session. The primary outcome will be the change in 10-meter walk test-derived walking speed from baseline to 6 weeks. The secondary outcomes will include 2-minute walk test distance, ankle range of motion, joint position sense, plantar tactile sensation, muscle tone, motor performance, static and dynamic balance, and stroke-specific quality of life.\n\nRESULTS: This study is funded by the Scientific and Technological Research Council of Turkey (TÜBİTAK) under the 1002-A Rapid Support Program (grant 225S390). Recruitment began in March 2026 and is planned to continue until May 2027. As of March 25, 2026, four participants have been enrolled and are currently receiving the assigned intervention. Data analysis will begin once all enrolled participants have completed post-intervention assessments.\n\nCONCLUSIONS: This trial will provide evidence on whether a structured robot-assisted ankle-foot sensorimotor training program offers additional benefit compared with a content-matched manual training protocol in individuals with chronic stroke. The findings may contribute to the development of standardized, individualized, and sensorimotor-oriented rehabilitation protocols for improving walking and balance after stroke.",
-      "publication_types": [
-        "Journal Article",
-        "Clinical Trial Protocol"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13614211/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789279",
-      "pmid": "42789279",
-      "doi": "10.1080/09273948.2026.2736178",
-      "title": "Choroidal Involvement in Nodal Marginal Zone Lymphoma Presenting as Serous Retinal Detachment.",
-      "authors": [
-        "Tangpontirak K",
-        "Peenatakapho N",
-        "Wanitpongpun C",
-        "Laovirojjanakul W"
-      ],
-      "journal": "Ocular immunology and inflammation",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "PURPOSE: To describe the clinical presentation and multimodal imaging findings of choroidal involvement in nodal marginal zone lymphoma (NMZL) presenting as serous retinal detachment and its response to systemic chemotherapy.\n\nMETHODS: Retrospective review of clinical records and multimodal imaging findings, with joint interpretation by a uveitis specialist and the hematology-oncology team.\n\nRESULTS: A 63-year-old woman presented with decreased vision in the left eye and was found to have a shallow serous retinal detachment. Inflammatory choroiditis was initially suspected and systemic corticosteroids therapy was initiated, resulting in transient improvement. Subsequent examination revealed recurrent subretinal fluid with multiple subretinal yellow infiltrates and diffuse choroidal thickening after the steroid effect subsided. Optical coherence tomography demonstrated undulating retinal pigment epithelium. Choroidal lymphoma was considered, prompting thorough systemic investigation. Systemic imaging later identified axillary and intra-abdominal lymphadenopathy and a right breast mass. Histopathology of the breast lesion confirmed NMZL. The patient was treated with rituximab-based systemic chemotherapy with intrathecal chemotherapy, achieving partial systemic response and complete ocular remission.\n\nCONCLUSIONS: Choroidal involvement in NMZL is rare and may present as steroid-responsive but recurrent serous retinal detachment, mimicking inflammatory disease. Systemic evaluation with biopsy of accessible extraocular sites, in conjunction with compatible ocular findings, can establish the diagnosis while avoiding high-risk choroidal biopsy. Early recognition and multidisciplinary collaboration are essential to enable timely diagnosis and systemic treatment.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789278",
-      "pmid": "42789278",
-      "doi": "10.1002/epi.70502",
-      "title": "Interictal epileptiform discharges on scalp electroencephalography: Reproducibility of visual interpretation-A systematic review.",
-      "authors": [
-        "Brogger J",
-        "Aanestad E",
-        "Beniczky S",
-        "Kemppi V",
-        "Kılboz BB"
-      ],
-      "journal": "Epilepsia",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "OBJECTIVE: Interictal epileptiform discharges (IEDs) are a key diagnostic finding in first seizure, early epilepsy, and acute brain dysfunction. Variability in visual electroencephalographic (EEG) analysis contributes to diagnostic uncertainty. We performed a systematic review of the reproducibility of IED detection in clinical EEG.\n\nMETHODS: We updated a systematic review. We searched four databases (Pubmed, Embase, PsycInfo, Cochrane) for studies reporting interrater or intrarater reproducibility of clinical scalp EEG interpretation, covering records until April 2025. Four raters independently screened 4841 citations and 119 full texts in duplicate. Study quality was assessed using Guidelines for Reporting Reliability and Agreement Studies. Studies reporting data on IED detection were analyzed. This study is registered with PROSPERO (Prospective Register of Systematic Reviews; number CRD42018099318).\n\nRESULTS: Thirty-two studies reported reproducibility of IED detection (25 interrater, seven intrarater). No other IED-related EEG feature was examined in more than two studies. Ten studies met criteria for high clinical relevance, defined as relatively unselected patient populations without enrichment for epilepsy or IED occurrence. Reproducibility was highly variable across studies. For whole-EEG assessment, percent agreement was approximately 80% in first seizure; kappa-type statistics were higher in known epilepsy (interrater κ ≈ .8) than in acute brain dysfunction (κ ≈ .5) and first seizure (interrater κ ≈ .4-.6). Short EEG clips showed consistently lower reproducibility than whole-EEG assessments. Among studies reporting both intra- and interrater data with the same metric, intrarater reproducibility was equal to or higher than interrater, indicating intrarater disagreement accounts for a substantial share of interrater disagreement. \"Paroxysmal\" was used inconsistently.\n\nSIGNIFICANCE: IED detection has moderate reproducibility in unselected clinical populations (κ ≈ .4-.6), higher in known epilepsy settings (κ ≈ .8), and moderate to fair in acute brain dysfunction (κ ≈ .3-.5). Intrarater reproducibility is understudied and likely contributes substantially to interrater variability. Some traditional EEG terminologies (\"EEG dialects\") are mutually incompatible. Future studies should use consecutive unselected populations and standard nomenclature, standardize rater experience, and be designed for cross-study comparability.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789276",
-      "pmid": "42789276",
-      "doi": "10.1080/07380577.2026.2735294",
-      "title": "Preparing Occupational Therapists to Support Parenting Occupations: Perspectives from the United States.",
-      "authors": [
-        "Rider J",
-        "Lam C",
-        "Mitchell M",
-        "McGrath M",
-        "Honey A"
-      ],
-      "journal": "Occupational therapy in health care",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "Parenting is a valued occupation, yet occupational therapists report uncertainty in supporting parents in adult practice. This study examined parenting-related practices, confidence, preparation, and barriers among seventy-seven occupational therapists in the United States working primarily with adults. Online survey responses were analyzed using descriptive statistics, Spearman correlations, and Mann-Whitney U tests. Although 96% identified parenting as within occupational therapy's scope and 61% reported providing parenting-related interventions, formal assessment was uncommon; only 6% used standardized parenting assessments, whereas 73% relied on informal approaches. Greater exposure to clients who were parents was associated with more frequently asking about parenting roles and providing interventions. Parenting-specific training was associated with greater confidence and more frequent intervention, while perceived sufficiency of entry-level preparation was associated with greater confidence. Fifty-eight percent reported insufficient entry-level preparation, and common barriers included limited training, institutional support, and resources. Findings highlight the need for greater parenting-focused content in occupational therapy education and continuing professional development, stronger institutional support and clinical resources, and integration of parenting into adult evaluation, intervention, and clinical workflows.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789275",
-      "pmid": "42789275",
-      "doi": "10.1080/10790268.2026.2731727",
-      "title": "Continuous glucose monitoring of postprandial and 24-hour responses in individuals with spinal cord injury.",
-      "authors": [
-        "Jung SW",
-        "Choi TG",
-        "Kim SJ",
-        "Min HJ",
-        "Kim HJ",
-        "Kunutsor SK",
-        "Jae SY"
-      ],
-      "journal": "The journal of spinal cord medicine",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "CONTEXT/OBJECTIVE: Spinal cord injury (SCI) is associated with autonomic and metabolic alterations that may impair glucose regulation. However, postprandial and 24-h glycemic dynamics in this population remain poorly understood. This study compared 5-h controlled postprandial and 24-h continuous glucose monitoring (CGM)-derived glycemic responses, including free-living monitoring, in individuals with and without SCI.\n\nDESIGN: Comparative acute experimental study.\n\nSETTING: University-based laboratory setting.\n\nPARTICIPANTS: Twenty-nine individuals with SCI and 20 individuals without SCI were included in the 5-h analysis. Participants with SCI were wheelchair users at least 1 year post-injury, and all participants had no diagnosis of type 2 diabetes and were not using glucose-lowering medications. The 24-h analysis included 21 individuals with SCI and 16 individuals without SCI who met the 24-h CGM completeness criterion.\n\nINTERVENTIONS: Consumption of a standardized mixed meal followed by 5 h of seated rest, defined as the controlled postprandial period. The subsequent 19 h were monitored under free-living conditions.\n\nOUTCOME MEASURES: CGM-derived area under the curve (AUC), mean glucose, glycemic variability indices, and time to peak glucose.\n\nRESULTS: During the 5-h controlled postprandial period, most CGM-derived outcomes, including AUC, mean glucose, and glycemic variability indices, were comparable between groups. However, the postprandial glucose response over time showed a significant group × time interaction (p < 0.001), and individuals with SCI had a shorter time to peak glucose than individuals without SCI [45 (30-60) vs. 75 (60-138.8) min; p < 0.001]. In the exploratory 24-h analysis, most CGM-derived outcomes were comparable between groups.\n\nCONCLUSION: Individuals with SCI had a shorter CGM-derived time to peak glucose following a standardized mixed meal, despite largely comparable overall 5-h glycemic exposure and variability. Further CGM studies are needed to clarify the physiological relevance of postprandial glucose dynamics under both controlled and free-living conditions.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789259",
-      "pmid": "42789259",
-      "doi": "10.1001/jama.2026.14729",
-      "title": "Both High and Low Testosterone Tied to Higher Atrial Fibrillation Risk.",
-      "authors": [
-        "Anderer S"
-      ],
-      "journal": "JAMA",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "electrophysiology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789256",
-      "pmid": "42789256",
-      "doi": "10.2196/79648",
-      "title": "SMARTCLOTH-Odyssey for Nutrition Education in Type 1 Diabetes: Development and Acceptability Study of a Gamified Web-Based Platform for Diabetes Nurse Educators Using a Human-Centered Design Approach.",
-      "authors": [
-        "Molina-Recio G",
-        "Ariza-Jimenez AB",
-        "Membrillo-Del Pozo A",
-        "Zafrilla-Sanchez S",
-        "Alvarez-Moral J",
-        "Velez-Leon JL",
-        "Gonzalez-Illanes R",
-        "Molina-Luque R"
-      ],
-      "journal": "JMIR diabetes",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "BACKGROUND: The onset of type 1 diabetes mellitus (T1DM) in adolescence represents a challenge for patients, families, and health care professionals. Diabetes nurse educators identify a lack of adolescent-friendly educational resources, especially in nutrition education. Digital technology offers an opportunity to develop innovative tools to address these needs from a user-centered approach.\n\nOBJECTIVE: We aimed to design and evaluate the acceptability of the SMARTCLOTH-Odyssey platform, an interactive web tool designed to support diabetes nurse educators in delivering nutrition education based on carbohydrate counting to adolescents with recent T1DM, evaluated from the perspective of nurse educators.\n\nMETHODS: A mixed study was carried out in three phases: (1) qualitative analysis through two focus groups with nurse educators in the Andalusian Community to identify barriers and needs; (2) development of the digital tool following a human-centered design methodology, incorporating narrative and gamified elements; and (3) quantitative evaluation of acceptability through an ad hoc questionnaire applied to 40 professionals who tested the platform.\n\nRESULTS: Participants highlighted the lack of homogeneous and adapted debut materials, and the need for emotionally sensitive and visually appealing tools. SMARTCLOTH-Odyssey was rated positively in terms of usefulness, clarity, and clinical applicability. A total of 97.5% (39/40) felt it could facilitate nutrition education, and 90% (36/40) said they would use it in their practice. The platform was perceived as intuitive, innovative, and adapted to the characteristics of the adolescent patient.\n\nCONCLUSIONS: SMARTCLOTH-Odyssey constitutes a viable and well-valued proposal by nurse educators. It has the potential to improve nutrition education from the diagnosis of T1DM. Its participatory development reinforces its applicability and sustainability in real clinical contexts.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789252",
-      "pmid": "42789252",
-      "doi": "10.1093/eurjcn/zvag211",
-      "title": "Letter to the editor: urban-rural classification and readmission risk estimates in younger adults with ischaemic stroke: a secondary analysis.",
-      "authors": [
-        "Yu X",
-        "Zhang C"
-      ],
-      "journal": "European journal of cardiovascular nursing",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42789244",
-      "pmid": "42789244",
-      "doi": "10.1007/s12024-026-01362-y",
-      "title": "Right coronary artery ectasia with a focal aneurysm in a decomposed body: Non-contrast postmortem CT and autopsy correlation.",
-      "authors": [
-        "Usui A",
-        "Mimasaka S",
-        "Funayama M",
-        "Kaneta T"
-      ],
-      "journal": "Forensic science, medicine, and pathology",
-      "date": "2026-09-25",
-      "year": 2026,
-      "abstract": "Herein, we present a case involving a markedly decomposed body in which non-contrast postmortem computed tomography (PMCT) demonstrated long-segment right coronary artery ectasia with focal aneurysmal dilatation. A man estimated to be in his 30s was found dead 12 days after he had last been confirmed alive. PMCT showed extensive decomposition-related gas and identified a conspicuously dilated segment along the anatomical course of the right coronary artery. Curved planar reformations showed that the dilated segment measured approximately 106 mm in length. Autopsy confirmed focal aneurysmal dilatation of the right coronary artery and cardiomegaly. Dark red intraluminal material was present in one cross-section, but advanced decomposition and autolysis precluded confirmation of antemortem thrombosis or acute myocardial infarction. This case illustrates the value and limitations of non-contrast PMCT for documenting coronary morphology in markedly decomposed bodies.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology"
       ],
       "has_full_text": false,
       "full_text_url": null,
