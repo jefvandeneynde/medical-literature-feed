@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:05:55.413826+00:00",
+  "generated_at": "2026-10-15T19:54:50.382002+00:00",
   "articles": [
     {
       "id": "pmid:42867073",
@@ -49604,7 +49604,6 @@
       "year": 2026,
       "abstract": "Risk stratification is critical for managing acute heart failure in older adults, yet existing tools often underperform in geriatric populations. Özdemir recently introduced the EHMRG‑BI model, integrating brain natriuretic peptide and endotracheal intubation with the Emergency Heart Failure Mortality Risk Grade score to improve 30‑day mortality prediction. While the model demonstrates improved discrimination in a single‑center derivation cohort, several methodological considerations warrant attention. The inclusion of intubation, a treatment decision rather than a baseline characteristic, may introduce bias and limit its utility as an arrival‑time tool. The absence of key geriatric domains such as frailty, functional status, and cognitive impairment may result in residual confounding. Additionally, modelling BNP as a linear predictor disregards its well‑documented non‑linear association with mortality. This Matters Arising offers a perspective on these challenges and proposes refinements, including external validation, integration of geriatric assessments, and flexible BNP modelling, to strengthen the model's clinical applicability.",
       "publication_types": [
-        "Journal Article",
         "Letter"
       ],
       "topics": [
@@ -50594,10 +50593,11 @@
       "year": 2026,
       "abstract": "BACKGROUND: The outcome of Philadelphia-positive acute lymphoblastic leukemia (Ph-positive ALL) has greatly improved with the use of tyrosine kinase inhibitors and immunotherapy.\n\nMETHODS: In this trial, we randomly assigned adult patients with Ph-positive ALL in a 2:1 ratio to receive ponatinib plus blinatumomab (intervention group) or imatinib plus chemotherapy (control group) as frontline treatment. A crossover to the intervention group was allowed for patients with persistence or reappearance of measurable residual disease in the control group. The primary end point was event-free survival.\n\nRESULTS: A total of 236 patients underwent randomization: 158 to the intervention group and 78 to the control group. The median age of the patients was 55 years (range, 24 to 82). At a median follow-up of 23.7 months, the estimated 24-month event-free survival was 86% in the intervention group and 67% in the control group (P<0.001). Survival with no measurable residual disease was 68% and 42%, respectively. At the end of induction, a complete hematologic response was observed in 94% of the patients in the intervention group and in 79% of those in the control group. After blinatumomab consolidation, a molecular response was observed in 71% and 49% of the patients, respectively. After crossover to the intervention group, 20 of 31 patients (64%) had a molecular response. Overall survival was 90% in the intervention group and 85% in the control group. The cumulative incidence of relapse was 5% and 13%, respectively. As of this report, only 19% of the patients in the intervention group had undergone hematopoietic stem-cell transplantation after having had a first complete hematologic response.\n\nCONCLUSIONS: In this phase 3 trial, a frontline chemotherapy-free targeted and immunotherapeutic approach was superior to the use of imatinib and chemotherapy. (Funded by Associazione Italiana per la Ricerca sul Cancro and others; GIMEMA ALL2820 ClinicalTrials.gov number, NCT04722848.).",
       "publication_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
         "Journal Article",
-        "Randomized Controlled Trial",
         "Multicenter Study",
-        "Comparative Study"
+        "Randomized Controlled Trial"
       ],
       "topics": [
         "clinical-trials"
@@ -75198,6 +75198,40 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42812828",
+      "pmid": "42812828",
+      "doi": "10.1039/d6ra07459f",
+      "title": "The novel [68Ga]Ga-DOTA-C6-anti-integrin peptide in glioblastoma.",
+      "authors": [
+        "Carron J",
+        "Melo GF",
+        "da Silva FFA",
+        "Alves FL",
+        "Santos MEOA",
+        "Rodrigues VPC",
+        "Ali A",
+        "Franchi GC",
+        "de Carvalho JE",
+        "Ruiz ALTG",
+        "Fuscaldi LL",
+        "Malavolta L",
+        "Lima CSP"
+      ],
+      "journal": "RSC advances",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "Glioblastoma (GB) is the most aggressive primary brain tumor. Patient survival remains poor, with current therapies bringing no improvements, and the assessment of therapy response and tumor progression using conventional imaging exams is challenging for clinicians during patient follow-up. Integrins, transmembrane proteins related to cell invasion and motility, are overexpressed in GB. This study evaluates the effects of [68Ga]Ga-DOTA-C6-anti-integrin peptide on GB binding, internalization, survival, migration, and biodistribution, as well as its mechanism of action against the tumor. Binding and internalization assays performed in U87, U118, U251, and Gl261 GB cells at 30 minutes revealed binding rates of 8.0%, 3.9%, 6.0%, and 8.6%, and internalization of 9.4%, 7.0%, 8.1%, and 10.2%, respectively. At 60 minutes, the binding percentages were 7.8%, 3.9%, 4.7%, and 10.7%, while internalization was 9.8%, 6.7%, 6.6%, and 9.6%, respectively. The anti-integrin peptide did not affect proliferation, the cell cycle, or apoptosis, but reduced U251 and Gl261 cell migration compared to the control (63.1% vs. 85.8%, p = 0.03; 34.1% vs. 50.8%, p = 0.04, respectively). In U87 cells, the compound modulated the PI3K/Akt pathway, reducing expression of the ITGAV, AKT1, CCNE1, JUN, MDM2, and SRC genes and increasing CASP9 expression. Biodistribution analysis performed using PET/CT imaging in female Swiss mice showed that the [68Ga]Ga-DOTA-C6-anti-integrin was eliminated by the kidneys and accessed the brain within the first few minutes after drug administration. Our data support the potential of [68Ga]Ga-DOTA-C6-anti-integrin peptide as an imaging probe for GB and provide a basis for its further investigation as a candidate for therapeutic applications.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13622520/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42811620",
       "pmid": "42811620",
       "doi": "10.1002/cmdc.70507",
@@ -75221,6 +75255,34 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13624369/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42798959",
+      "pmid": "42798959",
+      "doi": "10.1039/d6ra07056f",
+      "title": "A colorimetric sensor array based on merging silver nanozymes and gold nanoparticles for chronic kidney disease diagnosis and post-transplant monitoring.",
+      "authors": [
+        "Bordbar MM",
+        "Alborz M",
+        "Sheini A",
+        "Halabian R",
+        "Rostami Z",
+        "Khoshsafar H",
+        "Bagheri H"
+      ],
+      "journal": "RSC advances",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "Herein, a low cost and non-invasive approach is introduced for identifying individuals with chronic kidney disease through the design and fabrication of a colorimetric sensor array. The proposed platform integrates silver nanozymes with gold nanoparticles as sensing elements. The nanozymes, synthesized via both green and conventional chemical routes, catalyze serum metabolites and convert them into species detectable by gold nanoparticles. A total of 120 serum samples were collected from equal numbers of patients with chronic kidney disease and healthy individuals. Upon exposure of the sensor array to serum metabolites, the resulting colorimetric responses were captured using a smartphone equipped with a dedicated sensor array analysis application capable of performing visual exploratory analysis such as principal component analysis-discriminate analysis (PCA-DA). Complete discrimination between patient and healthy samples was achieved with an overall accuracy of 100%. Furthermore, the sensor correctly identified successful kidney transplantation in 87% of patients. The sensor array proved capable of monitoring treatment progression throughout the one-week to one-year post-transplantation follow-up, characterized by response shifts toward either healthy or diseased clusters. Owing to the limitations of conventional follow-up methods, including high cost and poor user friendliness, the proposed strategy offers a promising and practical alternative for chronic kidney disease diagnosis and post-transplant monitoring.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "nephrology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13613643/",
       "source": "PubMed"
     },
     {
@@ -75341,6 +75403,35 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42761867",
+      "pmid": "42761867",
+      "doi": "10.1039/d6qi01745b",
+      "title": "Design of bifunctional pyridinophane ligands as Mn2+ MRI agents for diagnostic imaging of Alzheimer's disease.",
+      "authors": [
+        "El Sayed T",
+        "Patel A",
+        "Xu K",
+        "Salaiza JA",
+        "Azhakath Valappil H",
+        "Majumdar S",
+        "Sutton BP",
+        "Mirica LM"
+      ],
+      "journal": "Inorganic chemistry frontiers",
+      "date": "2026-10-14",
+      "year": 2026,
+      "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder whose prevalence is rising with the aging of the global population. Among the proposed pathological hallmarks, the beta-amyloid (Aβ) peptide aggregates and soluble Aβ oligomers are established biomarkers and remain valuable diagnostic targets. While positron emission tomography (PET) imaging agents dominate AD diagnostic imaging, there are no FDA-approved MRI agents for AD. Herein, we report five bifunctional chelators built on the 2,11-diaza[3.3](2,6)pyridinophane framework, and which were evaluated as chelators for Mn2+-based MRI contrast agents. Based on in vitro studies, including thermodynamic stability and kinetic inertness measurements, T 1 relaxivity and 17O transverse relaxivity measurements to extract hydration numbers and water-exchange parameters, we obtained a clear structure-activity correlation for the corresponding bifunctional chelators: anionic picolinate and acetate arms increase thermodynamic stability and kinetic inertness, while the benzothiazolyl-phenol arm accelerates water exchange. Importantly, a high hydration number alone is insufficient, as a rapid water exchange is also needed for an appreciable contrast. Moreover, we show both the bifunctional chelators and their Mn2+ complexes exhibit appreciable affinity for Aβ aggregates, both in vitro and in 5xFAD mouse brain sections. [Mn(TE-8)], the most kinetically inert complex with favorable relaxivity, log D, and Aβ affinity, was advanced to in vivo MRI studies. Unlike MnCl2, which accumulates non-specifically, [Mn(TE-8)] cleared through renal and hepatobiliary routes and produced measurable brain contrast enhancement. Together, these results establish the diazapyridinophane scaffold as a viable first-generation platform for blood-brain barrier (BBB)-permeable Mn2+ MRI contrast agents.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13587776/",
       "source": "PubMed"
     },
     {
@@ -75798,6 +75889,31 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42876873",
+      "pmid": "42876873",
+      "doi": "10.1177/87551225261489120",
+      "title": "Evaluation of Chromium Picolinate Supplementation and Insulin Requirements in Critically Ill Adults With Type 2 Diabetes Mellitus.",
+      "authors": [
+        "Tomika A",
+        "Finnell C",
+        "Yann R",
+        "Bui PT"
+      ],
+      "journal": "The Journal of pharmacy technology : jPT : official publication of the Association of Pharmacy Technicians",
+      "date": "2026-10-13",
+      "year": 2026,
+      "abstract": "BACKGROUND: Chromium picolinate has been studied as an adjunct to improve glycemic indices in ambulatory type 2 diabetes mellitus, but its role in critically ill patients is unknown.\n\nOBJECTIVE: To evaluate whether chromium picolinate supplementation was associated with reduced insulin requirements without worsening glycemic control in critically ill adults with type 2 diabetes mellitus.\n\nMETHODS: We conducted a single-center retrospective pre-post cohort study of adult intensive care unit patients with type 2 diabetes mellitus or hemoglobin A1c ≥6.5% who received insulin and at least 4 consecutive chromium picolinate doses between July 2022 and January 2023. Patients served as their own controls during 24-hour pre- and post-chromium periods. The primary outcome was change in total daily insulin dose. Secondary outcomes included proportion of measured glucose values within 140 to 180 mg/dL, acute kidney injury, hypoglycemia, and exploratory Sequential Organ Failure Assessment-2 change.\n\nRESULTS: Among 91 screened patients, 45 met the inclusion criteria. Median total daily insulin dose decreased from 76.3 U/d (interquartile range [IQR], 40.1-96.9) before chromium to 40.0 U/d (IQR, 20.5-65.6) after chromium; the Hodges-Lehmann paired difference was -23.0 U/d (95% CI, -33.25 to -14.25; P < .0001). Proportion of measured glucose values within target did not differ significantly. No post-intervention hypoglycemia was observed, and 2 patients met the study-defined acute kidney injury criterion. Interpretation is limited by the retrospective design and absence of a concurrent control group.\n\nCONCLUSIONS: Chromium picolinate supplementation was associated with lower insulin requirements without worsening glycemic control. These hypothesis-generating findings require confirmation in prospective controlled studies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "nephrology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13661817/",
       "source": "PubMed"
     },
     {
@@ -237651,6 +237767,35 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42876938",
+      "pmid": "42876938",
+      "doi": "10.1002/ccr3.73699",
+      "title": "Abdominal Pain as the First Presentation of Severe Heart Failure With Reduced Ejection Fraction and Left Ventricular Thrombus in a Young Asymptomatic Patient: A Diagnostic Interception.",
+      "authors": [
+        "Alarfaj MO",
+        "Alsuwailem BS",
+        "Aljeezan MK",
+        "Alhlibi BS",
+        "Haya MMB",
+        "Alnaaim AA",
+        "AlTaweel MO"
+      ],
+      "journal": "Clinical case reports",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "A young, physically active patient with no cardiac symptoms presented with abdominal pain and was found, through incidental findings of elevated BNP, cardiomegaly, and new ECG changes, to have severe HFrEF with a left ventricular apical thrombus. Early cardiac evaluation changed management and led to complete thrombus resolution.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure",
+        "imaging"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13662519/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42874048",
       "pmid": "42874048",
       "doi": "10.1213/XAA.0000000000002309",
@@ -333014,40 +333159,6 @@
       "source": "PubMed"
     },
     {
-      "id": "pmid:42812828",
-      "pmid": "42812828",
-      "doi": "10.1039/d6ra07459f",
-      "title": "The novel [68Ga]Ga-DOTA-C6-anti-integrin peptide in glioblastoma.",
-      "authors": [
-        "Carron J",
-        "Melo GF",
-        "da Silva FFA",
-        "Alves FL",
-        "Santos MEOA",
-        "Rodrigues VPC",
-        "Ali A",
-        "Franchi GC",
-        "de Carvalho JE",
-        "Ruiz ALTG",
-        "Fuscaldi LL",
-        "Malavolta L",
-        "Lima CSP"
-      ],
-      "journal": "RSC advances",
-      "date": "2026-09-29",
-      "year": 2026,
-      "abstract": "Glioblastoma (GB) is the most aggressive primary brain tumor. Patient survival remains poor, with current therapies bringing no improvements, and the assessment of therapy response and tumor progression using conventional imaging exams is challenging for clinicians during patient follow-up. Integrins, transmembrane proteins related to cell invasion and motility, are overexpressed in GB. This study evaluates the effects of [68Ga]Ga-DOTA-C6-anti-integrin peptide on GB binding, internalization, survival, migration, and biodistribution, as well as its mechanism of action against the tumor. Binding and internalization assays performed in U87, U118, U251, and Gl261 GB cells at 30 minutes revealed binding rates of 8.0%, 3.9%, 6.0%, and 8.6%, and internalization of 9.4%, 7.0%, 8.1%, and 10.2%, respectively. At 60 minutes, the binding percentages were 7.8%, 3.9%, 4.7%, and 10.7%, while internalization was 9.8%, 6.7%, 6.6%, and 9.6%, respectively. The anti-integrin peptide did not affect proliferation, the cell cycle, or apoptosis, but reduced U251 and Gl261 cell migration compared to the control (63.1% vs. 85.8%, p = 0.03; 34.1% vs. 50.8%, p = 0.04, respectively). In U87 cells, the compound modulated the PI3K/Akt pathway, reducing expression of the ITGAV, AKT1, CCNE1, JUN, MDM2, and SRC genes and increasing CASP9 expression. Biodistribution analysis performed using PET/CT imaging in female Swiss mice showed that the [68Ga]Ga-DOTA-C6-anti-integrin was eliminated by the kidneys and accessed the brain within the first few minutes after drug administration. Our data support the potential of [68Ga]Ga-DOTA-C6-anti-integrin peptide as an imaging probe for GB and provide a basis for its further investigation as a candidate for therapeutic applications.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13622520/",
-      "source": "PubMed"
-    },
-    {
       "id": "pmid:42812437",
       "pmid": "42812437",
       "doi": "10.4274/tjtcs.2026.2026-9-32",
@@ -359800,115 +359911,6 @@
       ],
       "topics": [
         "systematic-reviews"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42803829",
-      "pmid": "42803829",
-      "doi": "10.1007/s00784-026-07166-2",
-      "title": "How laser etching affects the clinical performance of a \"no-wait\" universal adhesive: 36-month results.",
-      "authors": [
-        "Aydemir G",
-        "Gorucu J",
-        "Yazici AR"
-      ],
-      "journal": "Clinical oral investigations",
-      "date": "2026-09-28",
-      "year": 2026,
-      "abstract": "OBJECTIVES: To compare the 36-month clinical performance of a no-wait universal adhesive in non-carious cervical lesions (NCCLs) according to etching method and application mode.\n\nMATERIALS AND METHODS: Forty-one participants with at least five NCCLs received 215 restorations, which were randomly assigned to five groups according to five surface-conditioning and adhesive application protocols: Enamel and dentin etching with phosphoric acid (ED-A), selective enamel etching with phosphoric acid (SEE-A), self-etch (SE; control group), enamel and dentin etching with laser (ED-L), selective enamel etching with laser (SEE-L). Restorations were placed by a single operator using Clearfil Universal Bond Quick and Clearfil Majesty ES-2 and were evaluated at baseline, 6, 12, 18, 24, and 36 months using modified USPHS criteria. Survival was analyzed using Kaplan-Meier survival analysis with the log-rank test, and categorical outcomes were analyzed using Generalized Estimating Equations (GEE) (p < 0.05).\n\nRESULTS: The 36-month recall rate was 97.5% (40 participants; 199 restorations). At 36 months, retention loss was greater in the ED-A group than in the SEE-A and SE groups and in the SEE-L group than in the SEE-A and SE groups (p = 0.036 for all comparisons). Marginal discoloration was greater in the SE group than in the ED-A and SEE-A groups (p = 0.022 and p = 0.004, respectively) and in the SEE-L group than in the SEE-A group (p = 0.014). Marginal adaptation was poorer in the SE group than in the ED-A, SEE-A, and ED-L groups (p = 0.001, p = 0.011, and p = 0.013, respectively). Marginal discoloration increased and marginal adaptation deteriorated significantly over time in all groups (p < 0.05).\n\nCONCLUSIONS: Phosphoric acid enamel etching provided the most favorable long-term marginal performance, whereas the SE and selective laser etching protocols showed less favorable marginal behavior.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Comparative Study"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42803828",
-      "pmid": "42803828",
-      "doi": "10.1007/s00431-026-07452-x",
-      "title": "Nine-year ocular developmental outcomes after ranibizumab or laser treatment for zone II retinopathy of prematurity: follow-up of a randomized trial cohort.",
-      "authors": [
-        "Liu Y",
-        "Tang J",
-        "Zhao X",
-        "Chen L",
-        "Yu Z",
-        "Luo X",
-        "Zeng X",
-        "Zheng M",
-        "Ying G",
-        "Zhang G"
-      ],
-      "journal": "European journal of pediatrics",
-      "date": "2026-09-28",
-      "year": 2026,
-      "abstract": "UNLABELLED: The purpose of this study is to describe 9-year ocular developmental outcomes in children previously randomized to intravitreal ranibizumab (IVR) or laser photocoagulation (LP) for zone II treatment-requiring retinopathy of prematurity (ROP). In this follow-up of a single-center randomized trial, infants with stage 2 or 3 ROP with plus disease in zone II were randomized in 2014 to bilateral LP (n = 25) or IVR (n = 25). At school age, 29 children (10 LP, 19 IVR) underwent assessment of best-corrected visual acuity, cycloplegic refraction, ocular biometry, anterior segment parameters, spectral-domain optical coherence tomography, optical coherence tomography angiography, and full-field electroretinography. Eye-level comparisons used generalized estimating equations. Mean spherical equivalent did not differ significantly between LP and IVR groups (- 1.22 vs. - 1.90 D; mean difference 0.68 D, 95% CI - 2.26 to 3.62; p = 0.65), nor did best-corrected visual acuity (0.15 vs. 0.21 logMAR; mean difference - 0.07, 95% CI - 0.27 to 0.13; p = 0.51). Compared with the LP group, the IVR group showed thinner lens thickness (3.52 vs. 3.75 mm, p < 0.001), steeper minimum keratometry (43.8 vs. 42.6 D, p = 0.048), and thinner central internal limiting membrane-retinal pigment epithelium thickness (249.2 vs. 286.9 μm, p = 0.005). Selected electroretinography abnormalities also differed between groups.\n\nCONCLUSION: In this small 9-year follow-up cohort with differential loss to follow-up, visual acuity and refractive outcomes were broadly similar after IVR and LP, while selected ocular structural and electrophysiological differences were observed. These preliminary exploratory findings should be interpreted cautiously and do not provide sufficient evidence to recommend one treatment approach over the other on the basis of long-term ocular outcomes alone.\n\nWHAT IS KNOWN: • Laser photocoagulation and intravitreal anti-vascular endothelial growth factor therapy are established treatments for severe retinopathy of prematurity. • Long-term ocular developmental and functional outcomes after anti-vascular endothelial growth factor treatment remain incompletely defined, particularly beyond early childhood.\n\nWHAT IS NEW: • This follow-up of a randomized trial cohort provides 9-year multimodal ocular outcome data in children treated with ranibizumab or laser for zone II retinopathy of prematurity. • Visual acuity and refractive outcomes were broadly similar between treatment groups, while selected anterior segment, retinal structural, and electroretinography differences were observed and should be interpreted as exploratory.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42803816",
-      "pmid": "42803816",
-      "doi": "10.1177/02841851261466180",
-      "title": "Associations between clot burden measured by refined modified Miller score and cardiac biomarkers in patients with intermediate-high risk pulmonary embolism.",
-      "authors": [
-        "Sonne-Holm E",
-        "Winther-Jensen M",
-        "Bang LE",
-        "Carlsen J",
-        "Jawad S",
-        "Ulriksen PS",
-        "Kjærgaard J"
-      ],
-      "journal": "Acta radiologica (Stockholm, Sweden : 1987)",
-      "date": "2026-09-28",
-      "year": 2026,
-      "abstract": "BackgroundComputed tomography pulmonary angiography (CTPA) is essential for diagnosing pulmonary embolism (PE); however, the clinical and prognostic relevance of clot burden remains uncertain.PurposeTo evaluate the clinical significance and prognostic value of the refined Modified Miller Score (rMMS) in patients with intermediate- to high-risk PE.Material and MethodsIn total, 204 patients with intermediate- to high-risk PE who underwent baseline CTPA were included. Data on demographics, comorbidities, and biomarkers (troponin I/T, lactate, and D-dimer) were collected at admission. Patients were stratified by rMMS quartiles (Q1-Q4). Trends were analyzed using Cochran-Armitage and Jonckheere-Terpstra tests, while associations were assessed using Pearson's correlation and multivariable logistic regression.ResultsBaseline characteristics were comparable across quartiles. Higher rMMS was associated with alcohol use and prior arrhythmia. Increasing rMMS correlated with higher right ventricle:left ventricle ratio, increased heart rate, lower systolic blood pressure, and greater oxygen requirement. Weak correlations were observed between rMMS and lactate and troponin T, whereas no significant associations were found with troponin I or D-dimer. Crucially, rMMS was not associated with in-hospital outcomes or 1-year mortality.ConclusionThe rMMS reflects right ventricular strain in PE but does not appear suitable for prognostic risk stratification or guiding management decisions.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "electrophysiology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42803814",
-      "pmid": "42803814",
-      "doi": "10.1080/15569527.2026.2735924",
-      "title": "Elevated fecal calprotectin levels in psoriasis: association with disease severity.",
-      "authors": [
-        "Demirbağ Gül B",
-        "Şentürk N"
-      ],
-      "journal": "Cutaneous and ocular toxicology",
-      "date": "2026-09-28",
-      "year": 2026,
-      "abstract": "PURPOSE: Psoriasis is a cutaneous and systemic inflammatory disease. Identifying biomarkers that accurately reflect disease activity and inflammatory burden has become an important area of research in psoriasis. Fecal calprotectin (FC), a noninvasive biomarker of neutrophil-driven inflammation, may provide complementary information in psoriasis. We aimed to assess FC levels in patients with psoriasis and to explore their association with disease characteristics.\n\nMATERIALS AND METHODS: Eighty adult psoriasis patients and 80 healthy volunteers were included in this case-control study. None of the participants had active infection, pregnancy, malignancy, or known gastrointestinal disease. Demographic data, gastrointestinal complaints using the Gastrointestinal Symptom Rating Scale, psoriasis severity using the Psoriasis Area and Severity Index (PASI) and Body Surface Area (BSA), and psoriasis characteristics were recorded. FC levels were measured by ELISA. ROC curve analysis and multivariable linear regression were performed.\n\nRESULTS: Median FC levels were significantly higher in psoriasis patients compared to controls (235.0 [11.2-2100.0] µg/g vs. 44.6 [6.7-711.6] µg/g, p < 0.001). ROC analysis demonstrated good discrimination between psoriasis patients and controls (AUC = 0.865), with an optimal cutoff value of 102 µg/g (sensitivity 87.5%, specificity 73.7%). FC levels showed a weak but significant positive correlation with psoriasis severity. Patients with FC levels >250 µg/g had significantly higher PASI and BSA scores than those with lower FC levels. In multivariable analysis, PASI remained independently associated with FC levels.\n\nCONCLUSION: Psoriasis patients demonstrated elevated FC levels. FC levels were associated with psoriasis severity, suggesting that higher FC levels may parallel greater cutaneous disease burden. Baseline FC assessment requires further validation before clinical implementation.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
       ],
       "has_full_text": false,
       "full_text_url": null,
