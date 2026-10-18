@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:33:06.510486+00:00",
+  "generated_at": "2026-10-18T00:05:35.491316+00:00",
   "articles": [
     {
       "id": "pmid:42879336",
@@ -49399,6 +49399,463 @@
       ],
       "topics": [
         "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880933",
+      "pmid": "42880933",
+      "doi": null,
+      "title": "[Systemic sclerosis with anti-human neutrophil cytoplasm antibody associated vasculitis: A case report].",
+      "authors": [
+        "Yang L",
+        "Zou J"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Systemic sclerosis (SSc) is an autoimmune disease involving microvessels and a wide range of connective tissues. Anti-human neutrophil cytoplasm antibody-associated vasculitis (AAV) is a primary, systemic necrotizing small vasculitis. The coexistence of AAV and SSc is rare. We report a case of SSc combined with AAV complicated with alveolar hemorrhage, gastrointestinal hemorrhage, and cerebral hemorrhage. The patient was a 56-year-old woman with a 20-year history of Raynaud phenomenon, skin sclerosis on the fingertip and face. She developed dry cough for 1 year and shortness of breath after activity for 1month. Blood routine test showed moderate anemia, blood biochemistry showed renal function damage, and urine routine test showed positive urine protein and occult blood. Immunological examination showed that anti-topoisomerase Ⅰ (anti-SCL-70) antibody was positive. Lung CT showed interstitial fibrosis in both lower lungs. Systemic sclerosis and chronic renal injury were diagnosed and she was treated with low-dose prednisone and nifedipine. During the treatment, the patient developed rapidly progressive renal insufficiency, immunological indicator showed positive anti-myeloperoxidase antibody (MPO), and renal pathology suggested crescentic glomerulonephritis. The renal damage was considered to be caused by vasculitis, and the diagnosis was modified as systemic sclerosis complicated with AAV, with crescentic nephritis and interstitial lung disease. She was treated with methylprednisolone 500 mg. One day later, the patient developed hemoptysis, alveolar hemorrhage was considered, and treatment was adjusted to methylprednisolone 1 g for 3 days, plasma exchange and cyclophosphamide. Three days later, she had vomiting coffee-colored gastric contents and melena. Gastrointestinal hemorrhage was considered, and methylprednisolone was reduced to 80 mg. Plasma exchange and cyclophosphamide treatment were continued, supplemented by acid suppression. The patient's condition was finally controlled, improved and discharged. One month later, the patient developed cough and sputum, and lung CT showed pulmonary infection. During anti-infection treatment, the patient developed gastrointestinal hemorrhage again, accompanied by cerebral hemorrhage, and finally died. This case shows that the incidence of SSc combined with AAV is dangerous, mainly with kidney involvement, manifested as crescents glomerulonephritis. When combined with alveolar hemorrhage, cerebral hemorrhage, the mortality rate is high. Clinicians should pay attention to it, early diagnosis and active treatment should be taken seriously.",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "English Abstract"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880932",
+      "pmid": "42880932",
+      "doi": null,
+      "title": "[Livedoid vasculopathy: A case report].",
+      "authors": [
+        "Li J",
+        "Ma L",
+        "Yan Z",
+        "Qiao J",
+        "Yang N",
+        "Niu M",
+        "Yang X"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Livedoid vasculopathy (LV) is a painful and thrombotic obliterative vascular disorder characterized by spontaneous thrombus formation within skin capillaries or small veins, ultimately leading to localized hypoxia and the development of skin ulcers. LV is a rare condition predominantly affecting young women, with an incidence rate of approximately 1/100 000. Clinically, it manifests as recurrent reticular green spots and painful ulcers on the distal lower extremities, which subsequently heal, leaving behind white and atrophic scars, termed \"white atrophy\". The skin manifestations of the disease are prominent, often seen in dermatology. Recently, the Department of Rheumatology and Immunology of Honghui Hospital, Xi ' an Jiaotong University, admitted a patient with LV. This young female patient presented with recurrent lower limb skin purpura and ulcers, which had occurred spontaneously during the summer for the past three years. Following a skin biopsy conducted at another hospital, she was diagnosed with LV and subsequently treated with phototherapy, anticoagulation therapy, and topical corticosteroids, yet there was no improvement in her condition. In April of this year, she sought further treatment at our hospital and was admitted for comprehensive care. After completing a thorough battery of relevant examinations, we excluded other potential vascular disorders, abnormal coagulation profiles, and autoimmune diseases, such as cutaneous polyarteritis nodosa (cPAN), leukocyte-cracking vasculitis (LCV), and antiphospholipid syndrome (APS). The patient remained definitively diagnosed with LV. Under our department's care, she received oral glucocorticoids, tacrolimus for immune modulation, and colchicine for anti-inflammatory effects. Subsequently, her symptoms improved, and she was discharged from the hospital. Four months post-discharge, a follow-up examination revealed significant improvement in her symptoms. The therapeutic approaches for LV encompassed general therapy, antiplatelet and anticoagulant therapy, glucocorticoid and immunosuppressant therapy, intravenous human immunoglobulin therapy, and hyperbaric oxygen therapy. Additionally, the use of biologics, including tumor necrosis factor inhibitors and small molecule targeted JAK inhibitors, had been reported in LV cases. Further randomized controlled trials are necessary to validate these treatment options. This report presented a case of LV where favorable outcomes were achieved through a combination of anticoagulant and immunosuppressive therapies. Nevertheless, given that the patient has been afflicted with the disease for three years and we have only conducted a four-month follow-up, which is relatively short, continued long-term follow-up of this patient remains imperative.",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "English Abstract"
+      ],
+      "topics": [
+        "hematology",
+        "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880926",
+      "pmid": "42880926",
+      "doi": null,
+      "title": "[Clinical characteristics and risk factors of patients with rheumatoid arthritis complicated with urinary tract infection].",
+      "authors": [
+        "Amina",
+        "Luo K",
+        "Pang C",
+        "Lu F",
+        "Wang Y"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To explore the clinical characteristics of urinary tract infection (UTI) in patients with rheumatoid arthritis (RA), to evaluate the effects of different treatment regimens on the risk of UTI, and to identify independent risk factors for UTI complicated with RA.\n\nMETHODS: A retrospective cohort study was conducted. RA patients hospitalized in the Department of Rheumatology and Immunology, The First Affiliated Hospital of Baotou Medical College from September 2020 to September 2023 were enrolled. General clinical data, laboratory indicators and medication information of the patients were collected. Patients were divided into two groups according to the presence or absence of UTI for comparative analysis. Patients were grouped based on different treatment regimens received, and the proportions of UTI occurrence were compared among each group. The results of urine culture and drug susceptibility test in the RA patients with UTI were analyzed. Univariate and multivariate Logistic regression analyses were further performed to screen relevant factors for UTI in the RA patients, and the diagnostic value of combined indicators was assessed using receiver operating characteristic (ROC) curve.\n\nRESULTS: A total of 196 RA patients were included, among whom 99 cases were complicated with UTI and 97 cases without UTI. Compared with the non-UTI group, the UTI group had higher proportions of female patients, patients aged ≥65 years, patients with RA disease duration ≥10 years, patients hospitalized for infection within the past two years, and patients with comorbidities (diabetes mellitus, hypertension, etc.). Peripheral blood leukocyte count, percentage of neutrophils, serum procalcitonin, erythrocyte sedimentation rate (ESR) and C-reactive protein level were elevated (P < 0.05), while hemoglobin, percentage of lymphocytes and plasma albumin level were decreased (P < 0.05). The RA patients were divided into four groups according to different treatment regimens: ①glucocorticoids (GCs) monotherapy group; ②conventional synthetic disease-modifying antirheumatic drugs (csDMARDs) monotherapy group; ③csDMARDs combined with GCs group; ④ csDMARDs combined with biological DMARDs (bDMARDs)/ targeted synthetic DMARDs (tsDMARDs) group. The overall difference in UTI proportion among the four groups was statistically significant (P < 0.001). After Bonferroni correction, the UTI proportion in group ① and group ③ was higher than that in group ② and group ④ (adjusted P < 0.05). GSs use was associated with increased UTI risk, and the risk of UTI showed an upward trend with the increase of daily dose. Multivariate Logistic regression analysis demonstrated that RA disease duration ≥10 years, previous hospitalization due to infection within the past two years, comorbid diabetes mellitus, and elevated disease activity score in 28 joints based on ESR (DAS28-ESR) were independent risk factors for UTI in the RA patients. The area under the ROC curve of the diagnostic model constructed with the above combined predictors was 0.82 (95%CI: 0.76-0.88), with a sensitivity of 0.67 and a specificity of 0.94. Gram-negative bacteria were the predominant pathogens in urine culture of the RA patients with UTI, among which Escherichia coli accounted for 67.71%. Among evaluable single-isolate bacterial strains with available drug-susceptibility results, the resistance rates to levofloxacin and trimethoprim-sulfamethoxazole were 65.4% and 52.8%, respectively.\n\nCONCLUSION: Clinical infection surveillance should be strengthened in RA patients. GCs should be rationally used on the premise of effective RA disease control, and bDMARDs/tsDMARDs therapy should be initiated timely according to disease status to reduce GCs exposure and minimize the risk of UTI. Meanwhile, antimicrobial agents should be selected in a standardized manner based on urine culture and drug susceptibility test results.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "infectious",
+        "prevention",
+        "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880925",
+      "pmid": "42880925",
+      "doi": null,
+      "title": "[Risk factors of carotid atherosclerosis in patients with rheumatoid arthritis].",
+      "authors": [
+        "Liu J",
+        "Peng Q",
+        "Liu Y",
+        "Lan T",
+        "Long L"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To analyze the characteristics of lipid profile and the risk factors of carotid atherosclerosis (CAS) in patients with rheumatoid arthritis (RA).\n\nMETHODS: Subjects with 216 RA and 214 healthy controls, both without known cardiovascular disease (CVD), were included. CAS plaques were determined by color Doppler ultrasound. Lipid levels were compared between RA patients and healthy controls, and independent risk factors for CAS plaques in the RA patients were analyzed.\n\nRESULTS: (1) The total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C) and low-density lipoprotein cholesterol (LDL-C) levels were lower (P < 0.001, P=0.001, P < 0.001), TC/HDL-C and LDL-C/HDL-C were higher (P=0.003, P=0.009) in the RA group than in the healthy controls. (2) In RA group, TC and HDL-C were negatively correlated with high-sensitivity C-reactive protein (hs-CRP) (r=-0.237, P=0.002; r=-0.351, P < 0.001), neutrophil-to-lymphocyte ratio (NLR) (r=-0.210, P=0.006; r=-0.182, P=0.018); LDL-C was negatively correlated with NLR (r=-0.200, P=0.009), triglyceride (TG) was negatively correlated with erythrocyte sedimentation rate (r=-0.184, P=0.016), TC/HDL-C was positively correlated with hs-CRP and NLR (r=0.286, P < 0.001; r=0.159, P=0.039), LDL-C/HDL-C was positively correlated with hs-CRP (r=0.161, P=0.040). In patients with RA, HDL-C levels were higher, and TG and TC/HDL-C levels were lower in the group treated regularly with conventional synthetic disease modifying anti-rheumatic drugs (csDMARDs) than without csDMARDs (P=0.035, P=0.003, P=0.006). (3) The prevalence of CAS plaques in RA patients was 37.5%. Age, disease duration, prevalence of hypertension, prevalence of diabetes, LDL-C/HDL-C, homocysteine (Hcy) and hs-CRP levels were higher in the RA with plaque group than in the RA without plaque group (all P < 0.05). (4) Logistic regression showed that age (OR=1.085, 95%CI: 1.045-1.128), disease duration (OR=1.008, 95%CI: 1.003-1.014), diabetes (OR=4.326, 95%CI: 1.606-11.655), and hs-CRP (OR=1.022, 95%CI : 1.006-1.038) were independent risk factors for the presence of CAS plaques in the RA patients.\n\nCONCLUSION: Patients with RA are more likely to exhibit lipid metabolic abnormalities which are mainly manifested as low cholesterol levels (TC, LDL-C, HDL-C) and high lipid ratios (TC/HDL-C, LDL-C/HDL-C). Such disordered lipid profileis are associated with gender, inflammatory and drug therapy. Age, disease duration, inflammatory status, and diabetes are independent risk factors for CAS plaques in RA patients. Effective control of inflammatory status are important goals of RA management and may also be essential to delay the progression of atherosclerosis.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880924",
+      "pmid": "42880924",
+      "doi": null,
+      "title": "[Clinical characterization and prognosis of connective tissue disease-associated hemophago-cytic syndrome in adults].",
+      "authors": [
+        "Yuan X",
+        "Luo Z",
+        "Song Y",
+        "Wang W",
+        "Lin W",
+        "Wu J",
+        "DU R"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To investigate the clinical characteristics and outcomes of macrophage activation syndrome (MAS) associated with connective tissue diseases in adults.\n\nMETHODS: We retrospectively reviewed patients aged ≥16 years with MAS who were hospitalized in the Department of Rheumatology and Immunology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, between 2012 and 2022. The distribution of underlying rheumatic diseases was summarized, and demographic, clinical, and laboratory characteristics were compared across disease groups. The patients were further classified according to in-hospital outcome as those who died during hospitalization or were discharged alive. Univariate and multivariable Logistic regression analyses were performed to identify factors associated with in-hospital mortality. Receiver operating characteristic (ROC) curve analysis was used to evaluate the predictive performance of individual variables and the combined model for in-hospital mortality.\n\nRESULTS: A total of 109 patients with MAS were included. The mean age at MAS onset was (36.39± 13.65) years, and 82 patients (75.2%) were female. Fever and hyperferritinemia were among the most common clinical and laboratory findings. Systemic lupus erythematosus (SLE)-associated MAS and adult-onset Still's disease (AOSD)-associated MAS were the two most common subtypes, accounting for 48.6% (53/109) and 25.7% (28/109) of cases, respectively. Patients with AOSD-associated MAS had a longer duration of fever than those with SLE-associated MAS. Compared with patients with AOSD-associated MAS, those with SLE-associated MAS had significantly lower white blood cell and platelet counts, ferritin levels, percentages of CD4+ T lymphocytes, and C-reactive protein-to-albumin ratio (CAR), but higher triglyceride levels and percentages of B lymphocytes. Thirteen patients (11.9%) died during hospitalization. Multivariable Logistic regression analysis identified total protein, albumin, globulin, and D-dimer as independent factors associated with in-hospital mortality. ROC curve analysis showed that the model combining total protein and D-dimer yielded an area under the curve (AUC) of 0.872 for predicting in-hospital mortality, compared with 0.820 for total protein alone and 0.659 for D-dimer alone.\n\nCONCLUSION: Patients with SLE-associated MAS and AOSD-associated MAS differed in several clinical and laboratory features, suggesting clinical heterogeneity of MAS across different underlying rheumatic diseases. Assessment and management of MAS should therefore take the underlying disease into account. In-hospital mortality remained substantial in this cohort, and the combination of total protein and D-dimer showed potential value for risk stratification of in-hospital mortality.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880923",
+      "pmid": "42880923",
+      "doi": null,
+      "title": "[Clinical characteristics of primary Sjögren syndrome with leukopenia].",
+      "authors": [
+        "Zhu Z",
+        "Cheng F",
+        "Wang Y",
+        "Liu Y",
+        "Ai X",
+        "Zhang K",
+        "Zhao F"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To analyze the clinical characteristics of leukopenia in a large cohort of patients with primary Sjögren syndrome (pSS), to discuss its pathogenic mechanism, and to enhance clinicians ' understanding of the disease, and reduce missed diagnosis and misdiagnosis.\n\nMETHODS: A total of 401 inpatients and outpatients who were initially diagnosed with pSS at the Department of Rheumatology and Immunology, Ninth People' s Hospital, Shanghai Jiaotong University School of Medicine, from November 2019 to March 2023 were selected for this study. The clinical data and laboratory examinations of these patients were analyzed retrospectively.\n\nRESULTS: Of the 401 patients, 107 (26.68%) were complicated with blood leukopenia. The reasons for the first diagnosis were analyzed. The patients with leukopenia had a lower xerostomia and xerophthalmia (39.25% vs. 54.76%, P=0.006), but a higher incidence of fatigue (26.17% vs. 12.59%, P=0.001) and thrombocytopenia (11.21% vs. 2.72%, P=0.001) than those without leukopenia. There were no significant differences in arthralgia, oral ulcer, caries, chest tightness, asthma and anemia between the two groups (P>0.05). The laboratory test indicators were analyzed. The patients with leukopenia had a higher prevalence of anti-SSA/Ro52+ (81.31% vs. 68.35%, P=0.040), anti-SSB+ (47.66% vs. 28.57%, P < 0.001), immunoglobulin G (IgG)+ (68.22% vs. 51.02%, P=0.002), erythrocyte sedimentation rate (ESR) elevation (67.29% vs. 41.32%, P=0.001), and thrombocytopenia (22.43% vs. 13.27%, P=0.026) than those without leukopenia. There were no significant differences in antinuclear antibody (ANA)+, anti-SSA/Ro60+, centromere protein B(CENP-B)+, rheumatoid factor (RF)+, and anemia between the two groups (P>0.05). The positive rate of abnormal salivary gland ultrasound in pSS with leukopenia group was higher than that in normal group (P=0.029). There was no significant difference in salivary flow rate, dry eye test and lip gland biopsy between the two groups (P>0.05). The incidence of pSS combined with leukopenia and autoimmune hepatitis (10.28% vs. 3.40%, P=0.006) was higher than that of the normal group, and the incidence of interstitial pneumonia (16.82% vs. 14.97%, P=0.649), renal tubule acidosis (2.80% vs. 3.06%, P=0.649) and renal tubule acidosis (2.80% vs. 3.06%, P=0.893) were no significant differences between the two groups (P>0.05). Analysis of the effect of antibody on leukopenia showed that the proportion of leukopenia was higher in anti-SSA/Ro52+ group (30.00% vs. 18.02%, P=0.015). The percentages of leukopenia (37.78% vs. 21.05%, P < 0.001), neutropenia (31.85% vs. 16.92%, P < 0.001) and lymphocytopenia (24.44% vs. 21.03%, P=0.001) in anti-SSB+ group were significantly higher than those in anti-SSB- group.\n\nCONCLUSION: In certain patients with pSS, leukopenia manifested as the initial clinical symptom, as opposed to the typically expected dry mouth and eyes. When compared to the group with normal leukocyte levels, the group of pSS patients with leukopenia demonstrated a higher susceptibility to fatigue symptoms and exocrine gland involvement. Additionally, this leukopenia group exhibited a higher rate of antibody positivity, increased disease activity, and a greater likelihood of developing liver disease complicated by autoimmunity. These findings underscore the need for heightened clinical attention.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology",
+        "respiratory",
+        "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880921",
+      "pmid": "42880921",
+      "doi": null,
+      "title": "[Association between different types of first-degree relatives' stroke history and the incidence risk of stroke: A prospective cohort study].",
+      "authors": [
+        "Wang H",
+        "Wu Y",
+        "Wang K",
+        "Yang R",
+        "Yu H",
+        "Zheng L",
+        "Wu J",
+        "Gong H",
+        "Qin X",
+        "Wu T",
+        "Chen D",
+        "Hu Y"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To assess the association between different types of first-degree relatives' stroke history and the incidence risk of stroke, and to explore the familial aggregation and intergenerational transmission of stroke risk.\n\nMETHODS: A prospective cohort study design was adopted, based on the data of the Fangshan Family-based Ischemic Stroke Study in China(FISSIC). The Cox proportional hazards model was used to analyze the association between different types of first-degree relatives' stroke history (paternal stroke history, maternal stroke history, parental history of stroke, and sibling stroke history) and the incidence risk of stroke. The hazard ratio (HR) and its 95% confidence interval (CI) were estimated. Stroke was classified as early-onset and late-onset, and the association between different types of first-degree relatives ' stroke history and the risk of early-onset and late-onset stroke was further analyzed.\n\nRESULTS: A total of 3 631 subjects were included in the study, with 1 650 males (45.4%) and a mean age of (56.7±8.4) years. The median follow-up duration was 6.98 years, during which 1 337 new cases of stroke occurred. The risk of stroke occurrence was higher in those with a first-degree relative history of stroke (HR=1.24, 95%CI: 1.08-1.43, P=0.002). For different types of first-degree relatives ' stroke history, the association between maternal and sibling history of stroke and the incidence risk of stroke was statistically significant (maternal history of stroke: HR=1.15, 95%CI: 1.00-1.32, P=0.049; sibling history of stroke: HR=1.17, 95%CI: 1.03-1.33, P=0.013). No association was observed between a paternal history of stroke or a parental history of stroke and the risk of stroke (both P>0.05). Compared with those without a family history, the HRs for early-onset and late-onset stroke in those with a maternal history of stroke were 1.40 (95%CI: 1.10-1.77, P=0.005) and 1.19 (95%CI: 1.01-1.41, P=0.043), respectively. Compared with those without a family history, the HRs for early-onset and late-onset stroke in those with a sibling history of stroke were 1.28 (95%CI: 1.02-1.61, P=0.034) and 1.17 (95%CI: 1.00-1.37, P=0.045), respectively.\n\nCONCLUSION: Stroke exhibits familial aggregation, and the history of stroke in first-degree relatives is associated with the incidence risk of stroke. In particular, the maternal and sibling stroke history demonstrate a stronger association with the incidence risk of stroke. This finding suggests that during the intergenerational transmission of stroke risk, the genetics and family environment reflected by the maternal and sibling stroke history may play an important role.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880920",
+      "pmid": "42880920",
+      "doi": null,
+      "title": "[Correlation between trimethylamine-N-oxide and cardiovascular metabolic markers].",
+      "authors": [
+        "Zhang H",
+        "Peng H",
+        "Guo H",
+        "Hou T",
+        "Li Y",
+        "Zheng Y",
+        "Tan Y",
+        "Ye X",
+        "Zhang H",
+        "Yu H",
+        "Wang X",
+        "Fan M",
+        "Wu Y",
+        "Qin X",
+        "Li J",
+        "Chen D",
+        "Hu Y",
+        "Wu T",
+        "Wang M"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To explore the correlation between serum trimethylamine-N-oxide (TMAO) levels and cardiovascular metabolic biomarkers, so as to provide a basis for clarifying the impact of TMAO on cardiovascular metabolic disease.\n\nMETHODS: Based on baseline data from the Beijing Fangshan Family Cohort collected from 2013 to 2017, totally 500 participants from 173 families were selected from the survey subjects. Serum TMAO concentrations were measured using enzyme-linked immunosorbent assay kits. The correlation between TMAO and cardiovascular and metabolic disease indicators was analyzed by a linear mixed effects model.\n\nRESULTS: The mean age of the participants was (56.52±12.52) years, with 54.20% being male. Serum TMAO levels showed significant positive correlations with systolic blood pressure (SBP) and pulse pressure (PP). Each 1 μmol/L increase in TMAO was associated with a 0.74 mmHg increase in SBP (95%CI: 0.19-1.30, P=0.009) and a 0.64 mmHg increase in PP (95%CI: 0.21-1.08, P=0.004). Subgroup analysis showed that for each 1 μmol/l increase in TMAO in men, SBP and PP increased by 0.91 mmHg (95%CI: 0.24-1.57, P < 0.05) and 0.85 mmHg (95%CI: 0.37-1.35, P < 0.05), respectively. No significant correlation was found in women. In the population aged ≥60 years, each 1 μmol/L increase in TMAO was associated with a 1.10 mmHg increase in SBP (95%CI: 0.23-1.96, P < 0.05) and a 0.98 mmHg increase in PP (95%CI: 0.23-1.73, P < 0.05). No significant correlation was found in people aged < 60 years.\n\nCONCLUSION: The current study found that high TMAO level was correlated with the increase of SBP and PP, and TMAO might be an influencing factor of blood pressure level. No statistically significant correlation was found between TMAO and blood glucose and lipid indicators.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880919",
+      "pmid": "42880919",
+      "doi": null,
+      "title": "[Prognostic value of angio-based microvascular resistance on left ventricular systolic function in patients with acute ST-segment elevation myocardial infarction].",
+      "authors": [
+        "Liu D",
+        "Zhou J",
+        "Han J"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To investigate the correlation between angio-based microvascular resistance (AMR) and impaired left ventricular systolic function in patients with acute ST-elevation myocardial infarction (STEMI) after primary percutaneous coronary intervention (PCI), and to assess its predictive value for left ventricular systolic function.\n\nMETHODS: A study was conducted, enrolling consecutive STEMI patients who underwent primary PCI at the Department of Cardiology, Peking University Third Hospital from May 2023 to June 2024. Quantitative flow ratio (QFR) and AMR were calculated from coronary angiography images immediately after PCI, and myocardial biomarker or left ventricular ejection fraction (LVEF) assessed by echocardiography at half-year follow-up were collected. The correlation between AMR, QFR, myocardial biomarkers, and LVEF after half a year was analyzed. The STEMI patients were divided into normal or reduced left ventricular systolic function with LVEF 0.5 as the boundary. The accuracy of AMR in diagnosing reduced left ventricular systolic function was analyzed by receiver operating characteristic curve (ROC).\n\nRESULTS: A total of 194 patients were enrolled, with an average age of (63.3±13.6) years, and the average AMR value was (246.99±57.18) mmHg·s/m. Age, peak creatine kinase (CK), troponin T (TnT), N-terminal pro-brain natriuretic peptide (NT-proBNP), and AMR were identified as independent predictive factors for LVEF at half-year follow-up (β=-0.160, t=-2.533, P=0.012; β=-0.271, t=-3.068, P=0.002; β=-0.191, t=-2.157, P=0.032; β=-0.280, t=-4.515, P < 0.001; β=-0.162, t=-2.711, P=0.007). ROC curve analysis showed that AMR had a certain value in predicting reduced left ventricular systolic function [area under curve (95% confidence interval) was 0.631 (0.543-0.718), P=0.006], and the optimal cut-off value for predicting an LVEF < 0.5 was 250.5 mmHg·s/m.\n\nCONCLUSION: AMR is an independent predictor of LVEF at half-year post-procedure and has significant predictive value for reduced left ventricular systolic function, potentially playing an important role in predicting the prognosis of STEMI patients.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary",
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880918",
+      "pmid": "42880918",
+      "doi": null,
+      "title": "[Analysis of prognostic factors in patients with acute coronary syndrome complicated with moderate to severe chronic kidney disease after percutaneous coronary intervention].",
+      "authors": [
+        "Cui J",
+        "Wang F",
+        "Li D",
+        "Sun L",
+        "Chen B",
+        "Han J"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To explore the prognostic factors of patients with acute coronary syndrome (ACS) complicated with moderate to severe chronic kidney disease (CKD) after percutaneous coronary intervention (PCI) and to establish a risk predictive model.\n\nMETHODS: The medical records of 148 ACS patients with moderate to severe CKD who received PCI in the Department of Cardiology, Peking University Third Hospital from September 2021 to January 2023 and completed 12-month follow-up were retrospectively analyzed. According to whether the patients had a major adverse cardiovascular disease (MACE) 12 months after PCI, they were divided into MACE group and non-MACE group. Binary Logistic regression analysis was performed on the general clinical data, clinical test results, echocardiography, coronary angiography and PCI data of the two groups of patients, the prognostic factors were analyzed by backward stepwise regression, and the risk prediction model was established. The receiver operating characteristic (ROC) curve was drawn to test the predictive efficiency of the model.\n\nRESULTS: A total of 148 patients with ACS combined with moderate to severe CKD were included in the study, including 50 patients in the MACE group and 98 patients in the non-MACE group, and the incidence of MACE 12 months after PCI was 33.8%.Binary Logistic analysis of hospitalization data of the two groups showed that white blood cell (OR＝1.145; 95%CI: 1.017-1.290; P＝0.026), age (OR＝1.032; 95%CI: 1.001-1.065; P＝0.046) and left ventricular ejection fraction (LVEF; OR＝0.962; 95%CI: 0.934-0.990; P＝0.009) were independent influencing factors for MACE 12 months after PCI (P < 0.05), CKD stage was not associated with the occurrence of MACE 12 months after PCI. The risk prediction model for MACE was Logit(P) = 0.032× age +0.136× leukocyte－0.039×LVEF. ROC curve analysis showed that this model had good prediction efficiency, and the area under the curve (AUC) predicted by the prediction model was 0.749, 95%CI was 0.666 to 0.832. The sensitivity and specificity were 72% and 68%.\n\nCONCLUSION: The incidence of MACE was higher in ACS patients with moderate to severe CKD 12 months after PCI, and white blood cells, age and LVEF were independent factors influencing the occurrence of MACE in these patients after PCI.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary",
+        "imaging",
+        "nephrology",
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880917",
+      "pmid": "42880917",
+      "doi": null,
+      "title": "[Risk prediction of pneumonia in maintenance hemodialysis patients after severe acute respiratory syndrome coronavirus 2 infection].",
+      "authors": [
+        "Jiang Z",
+        "Pan Y",
+        "Zhu J",
+        "Bi S",
+        "He L",
+        "Shi J",
+        "Tian X",
+        "Xie Q",
+        "Yang W",
+        "Su C",
+        "Wang S",
+        "Wang Y"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To analyze the risk factors for pneumonia after severe acute respiratory syndrome coronavirus 2(SARS-CoV-2) infection in maintenance hemodialysis patients from a single center in China, and to establish a multivariate model to predict the risk of pneumonia.\n\nMETHODS: A retrospective analysis was performed on maintenance hemodialysis patients with positive SARS-CoV-2 antigen or nucleic acid tests treated at Peking University Third Hospital from December 1, 2022 to January 31, 2023. Demographic data, comorbidities, dialysis-related parameters, and laboratory test results were collected. Multivariate Logistic regression and receiver operating characteristic (ROC) curve were adopted to explore risk factors of pneumonia, and a multivariate model was established to predict the risk of pneumonia occurrence.\n\nRESULTS: A total of 209 hemodialysis patients with SARS-CoV-2 infection were enrolled, including 80 patients (38.3%) with pneumonia and 129 patients (61.7%) without pneumonia. Compared with the non-pneumonia group, the pneumonia group presented a significantly higher mean age [(65.8±13.7) years vs. (58.9±12.6) years, P < 0.001] and elevated C-reactive protein levels [4.58(1.62, 9.99) mg/L vs. 2.35(0.95, 6.50) mg/L, P=0.007]. In contrast, the pneumonia group had markedly lower hemoglobin [(109±15) g/L vs. (116±11) g/L, P=0.001], serum phosphorus [(1.60±0.52) mmol/L vs. (1.78±0.53) mmol/L, P=0.022], serum albumin [(35.9±4.1) g/L vs. (38.6±2.5) g/L, P < 0.001], arteriovenous fistula utilization rate (81.3% vs. 96.9%, P < 0.001), and single dialysis session duration [(232±14) min vs. (236±11) min, P=0.046]. Multivariate Logistic analysis revealed that advanced age (OR=1.030, 95%CI: 1.002-1.059, P=0.036), lower hemoglobin (OR=0.968, 95%CI: 0.942-0.995, P=0.019), lower albumin (OR=0.834, 95%CI: 0.738-0.943, P=0.004) were independent risk factors for pneumonia. Patients over 65 years old, with hemoglobin < 115 g/L or serum albumin < 36.8 g/L had elevated risk of pneumonia. A combined predictive factor Q composed of these three indicators was developed for risk prediction of pneumonia. We drew the ROC curve with the predictive factor Q [area under the curve (AUC) =0.756, 95%CI: 0.687-0.825, P < 0.001]. Taking the cut-off value of 0.575, the sensitivity and specificity of predictive factor Q for predicting pneumonia were 44.0% and 94.5%, respectively.\n\nCONCLUSION: Advanced age, anemia and hypoalbuminemia are risk factors for pneumonia in maintenance hemodialysis patients following SARS-CoV-2 infection. A predictive marker Q value less than 0.575 indicates low risk of pneumonia, which can be applied for rapid risk stratification among hemodialysis patients with SARS-CoV-2 infection.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880916",
+      "pmid": "42880916",
+      "doi": null,
+      "title": "[Correlation between acute kidney injury diagnosed by serum creatinine and urine output criteria and short-term prognosis in critically ill patients following non-cardiac surgery].",
+      "authors": [
+        "Xie F",
+        "Xie M",
+        "Zhou W",
+        "Li N",
+        "Li S"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To analyze the correlation between acute kidney injury (AKI) diagnosed by elevated serum creatinine (Scr) versus only meeting the urine output (UO) reduction criteria and short-term adverse outcomes in critically ill patients following non-cardiac surgery, and to evaluate the association between even mild elevations in Scr and clinical outcomes furthermore.\n\nMETHODS: This study was a secondary analysis of data from a prospective cohort study. A total of 1020 non-cardiac surgery adults admitted to the intensive care unit (ICU) of Peking University First Hospital from May 20, 2019 to March 7, 2022 were included. According to Kidney Disease: Improving Global Outcomes (KDIGO) guideline, AKI patients were classified into two groups: the AKI-Scr group (those meeting the Scr elevation criteria) and the AKI-UO group (those fulfilling only the UO reduction criteria). The primary outcome was in-hospital mortality in patients with AKI, and the secondary outcomes were major renal adverse events, post-operative renal replacement therapy (RRT), postoperative complications, postoperative mechanical ventilation time, ICU stay, postoperative hospital stay, total hospital stay, and total medical costs. Multivariate Logistic regression analysis was used to identify risk factors of hospitalized death in critically ill patients with AKI following non-cardiac surgery.\n\nRESULTS: A total of 1020 non-cardiac surgical patients admitted to the ICU were enrolled, among whom 429 were diagnosed with AKI. There were 91 cases in the AKI-Scr group and 338 cases in the AKI-UO group. The primary study endpoint: no statistically significant difference in in-hospital mortality was observed between the AKI-Scr and AKI-UO groups (5.5% vs. 2.1%, P>0.05). The secondary study endpoints: compared with the AKI-UO group, the patients in the AKI-Scr group had a higher incidence of major renal adverse events (9.8% vs. 4.4%), postoperative RRT (4.4% vs. 0.3%) and postoperative complications (50.5% vs. 24.0%, all P < 0.05), a significantly longer duration of postoperative mechanical ventilation (12.0 d vs. 7.5 d), ICU stay (2 d vs. 1 d), postoperative hospital stay (14 d vs. 9 d) and total hospital stay (21 d vs.17 d, all P < 0.05), and a significantly higher total medical expenditure (112000 yuan vs. 89000 yuan, P<0.001). Multivariate Logistic regression analysis showed that postoperative RRT (OR=33.164, 95%CI: 1.305-842.794, P=0.034) and sepsis during hospitalization (OR=23.096, 95%CI: 4.242-125.175, P < 0.001) were independent risk factors for hospitalized death in the critically ill patients with postoperative AKI. Compared with the ΔScr≤24% patients (Scr increased by less than 24% from baseline within 7 d), even in the patients with only a minor elevation in Scr (ΔScr increase of 25%-49% from baseline but < 26.5μmol/L), the incidence of postoperative complications was significantly higher (48.6% vs. 19.2%, P < 0.001), along with prolonged ICU stay [1(1, 3) d vs. 1(1, 2) d], postoperative hospital stay (13 d vs. 9 d), and total hospital stay (23 d vs. 16 d, all P < 0.05). Compared with the non-AKI group, the incidence of in-hospital mortality (2.1% vs. 0.3%, P < 0.05) and postoperative complications (24.0% vs. 18.3%, P < 0.05) was higher in the AKI-UO group, and the ICU stay [1(1, 3) d vs. 1(1, 2) d, P < 0.001] was longer.\n\nCONCLUSION: In critically ill patients with AKI following non-cardiac surgery, the short-term prognosis of patients with AKI whose diagnosis was mainly based on increased Scr was worse than patients who only met the diagnostic criteria of oliguria. Even a mild elevation in serum creatinine was associated with adverse patient outcomes.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42880913",
+      "pmid": "42880913",
+      "doi": null,
+      "title": "[Short-term clinical outcomes of complete dentures fabricated by conventional and CAD/CAM milling techniques: A self-controlled study with randomized wearing sequence].",
+      "authors": [
+        "Cao H",
+        "Qin K",
+        "Zhang X",
+        "Chen H",
+        "Sun Y",
+        "Bao X",
+        "Zhou Y"
+      ],
+      "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To preliminarily compare the short-term clinical outcomes of conventional and computer-aided design/computer-aided manufacturing (CAD/CAM) monolithic milled complete dentures and to provide clinical evidence for selecting a digital complete-denture fabrication technique.\n\nMETHODS: Seven edentulous patients were enrolled in a self-controlled study with a randomized wearing sequence. Each participant received one conventionally fabricated complete denture and one CAD/CAM monolithic milled complete denture. The fabrication technique was not actively disclosed before subjective assessment. A 2-week washout period, during which the participants wore their previous dentures, separated the two wearing periods. Subjective visual analogue scale (VAS) scores for overall satisfaction, mandibular denture retention, masticatory function, mucosal comfort, speech, and esthetics, together with pressure-point count, objective mandibular retention force, and objective masticatory efficiency, were assessed at insertion, 1 week, and 1 month. Within-patient comparisons between the two techniques were performed at each time point. Overall satisfaction, pressure-point count, objective retention force, and objective masticatory efficiency were additionally analyzed using a 2×3 fully within-subject repeated-measures analysis of variance (ANOVA), followed by Bonferroni-adjusted post hoc comparisons.\n\nRESULTS: Significant between-process differences in satisfaction, aesthetics, retention VAS, mastication VAS, and pressure point counts were found over three time points (all P < 0.05), favoring CAD/CAM milling. No significant between-group difference in phonation. CAD/CAM milling yielded higher mandibular retention force at insertion, 1 week, and 1 month (P < 0.001, P=0.004, and P < 0.001, respectively). Objective masticatory efficiency was 38.53%±3.75% versus 42.73%±3.67% at insertion (P=0.057), 45.09% ±3.89% versus 52.93%±2.60% at 1 week (P=0.001), and 52.22%±3.88% versus 56.69%±3.28% at 1 month (P=0.031) for the conventional and CAD/CAM groups, respectively. Repeated-measures ANOVA revealed significant technique and time effects for all four variables. A significant technique×time interaction was identified only for pressure-point count [F(2, 12)=5.550, P=0.020]; the interaction for objective mandibular retention force was not significant after Greenhouse-Geisser correction [F(1.090, 6.540)=2.547, P=0.162].\n\nCONCLUSION: In this small, short-term, within-patient study with a randomized wearing sequence, CAD/CAM monolithic milled complete dentures showed advantages in several patient-reported outcomes, objective mandibular retention force, and objective masticatory efficiency at 1 week and 1 month. These advantages did not extend to all outcomes or time points, and the between-technique difference in pressure-point count narrowed over time.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "English Abstract",
+        "Comparative Study"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42607958",
+      "pmid": "42607958",
+      "doi": "10.1016/j.bbr.2026.116428",
+      "title": "Maternal exposure to Helicobacter pylori impairs spatial and recognition memory in rat offspring: Ameliorative effect of monoamine oxidase inhibition.",
+      "authors": [
+        "Parsa V",
+        "Besharat MA",
+        "Ahmadi-Soleimani SM",
+        "Azizi O",
+        "Beheshti F"
+      ],
+      "journal": "Behavioural brain research",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "During recent years, researchers have extensively investigated various health issues associated with prenatal challenges and the subsequent outcomes emerging in the next generation. In this respect, prenatal exposure to infections is correlated with the development of cognitive deficits in offspring. There is evidence indicating that disturbance of maternal microbiota adversely affects the gut-brain axis, which in turn could compromise fetal development and cause persistent physiological defects. Previous studies have reported that Helicobacter pylori infection is correlated with cognitive decline; however, this issue has not been investigated in offspring. Therefore, we applied behavioral methods to reveal how maternal H. pylori infection could affect memory function using the Morris water maze and novel object recognition in male offspring. Then, the cellular mechanisms associated with H. pylori-induced effects were probed using specific biochemical measurements in hippocampal tissues. Results indicated that spatial and recognition memory is impaired in offspring born from mothers with a history of H. pylori infection, and this appears to be correlated with a disturbance of the balance among oxidative, inflammatory, serotonergic, and cholinergic profiles within the hippocampi. In addition, the mentioned H. pylori-related effects were found to be biochemically restored and behaviorally ameliorated by pharmacological inhibition of the monoamine oxidase enzyme, proposing a potential for amelioration of cognitive outcomes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42603633",
+      "pmid": "42603633",
+      "doi": "10.1016/j.bbr.2026.116437",
+      "title": "p53 deficiency increases vulnerability to chronic stress-induced anxiety- and depression-like behaviors: Role of calcium dysregulation and BDNF signaling.",
+      "authors": [
+        "Choi HS",
+        "Jeon SH",
+        "Liu H",
+        "Kim M",
+        "Yu JS",
+        "Yoo SS",
+        "Son DJ",
+        "Han SB",
+        "Yeo IJ",
+        "Lim SC",
+        "Hong JT"
+      ],
+      "journal": "Behavioural brain research",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "The tumor suppressor protein p53 is a known modulator of neurodegenerative disease (ND) processes. Although p53 expression is increased in the brains of patients with Alzheimer's disease, Parkinson's disease, and ischemic stroke, its role in mood disorders such as anxiety and depression remains unclear. To investigate the role of p53 in behavioral responses to chronic stress, we examined behavioral and molecular alterations in p53 knockout (p53-/-) mice and wild type mice. In p53-/- mice, increased vulnerability to chronic unpredictable mild stress (CUMS)-induced anxiety- and depression-like behaviors was observed following CUMS exposure. In parallel with these behavioral changes, BDNF expression was reduced, whereas glutamate levels were elevated in the prefrontal cortex of p53-/- mice. Increased calcium-associated staining and NMDAR2B expression were observed together with increased neuronal injury- and cell death-related markers. In primary cortical neurons derived from p53-/- mice, corticosterone treatment resulted in greater increases in glutamate levels, NMDAR2B expression compared to wild-type controls. Cell death markers (cleaved caspase-3, p-p38, p-JNK) were upregulated, while neuroprotective signals (BDNF, p-Akt, p-ERK, p-CREB) were suppressed in p53-/- mice, and corticosterone-treated primary neuronal cells from p53-/- mice. These findings indicate that p53 deficiency is associated with enhanced vulnerability to CUMS-induced anxiety- and depression-like behaviors and is accompanied by alterations in calcium handling, glutamate homeostasis, neuronal injury-related markers, and BDNF-associated neuroprotective signaling.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -359302,437 +359759,6 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42140415",
-      "pmid": "42140415",
-      "doi": "10.1016/j.hrthm.2026.05.011",
-      "title": "Long-term performance of conduction system pacing in patients with congenital heart disease.",
-      "authors": [
-        "Cano Ó",
-        "Rosés F",
-        "Molina-Lerma M",
-        "de Groot NMS",
-        "Vijayaraman P",
-        "Zemrak F",
-        "Beltrán S",
-        "BenDavid E",
-        "Rivas-Gándara N",
-        "Misier NR",
-        "Moore JP"
-      ],
-      "journal": "Heart rhythm",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Conduction system pacing (CSP) is safe and feasible in congenital heart disease (CHD), but long-term follow-up data remain scarce.\n\nOBJECTIVE: This study aimed to evaluate the long-term performance of CSP in patients with CHD.\n\nMETHODS: This retrospective, multicenter, international study included patients with CHD undergoing CSP-His bundle pacing or left bundle branch area pacing (LBBAP)-with ≥12-month follow-up. The primary endpoint was survival free from CSP lead-related complications (loss of conduction system capture, pacing threshold ≥2.5 V or a ≥2.0 V increase, or lead reintervention). Secondary endpoints included implant success, electrical and echocardiographic outcomes, and clinical status.\n\nRESULTS: 144 patients were included (88% moderate/complex CHD; 26% systemic right ventricle; 24% with cardiac resynchronization therapy indication), with 29 His bundle pacing and 115 LBBAP. Acute implant success was 95.1%. Over a median follow-up of 32.2 months (interquartile range 18.2-47.1), survival free from CSP lead-related complications was 0.89, with 88% of CSP lead-related events occurring beyond 12 months of follow-up. Device-related complications occurred in 11.8%, and reinterventions in 5.1%. Microdislodgement (14.6%), threshold increase (6.9%), and loss of conduction system capture (5.6%) were less frequent with LBBAP. Left ventricular ejection fraction improved in patients with systemic left ventricle, whereas patients with a systemic right ventricle preserved fractional area change. Among patients with cardiac resynchronization therapy indications, systemic ventricular function improved from 34% ± 10% to 41% ± 13% (P < .001).\n\nCONCLUSION: CSP is feasible across a broad spectrum of CHD and is associated with preservation or improvement of systemic ventricular function. Late lead-related complications are not negligible, underscoring the need for long-term follow-up.",
-      "publication_types": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42135263",
-      "pmid": "42135263",
-      "doi": "10.1002/ajmg.a.70202",
-      "title": "De Novo 2.2 Mb 19q13.42-q13.43 Microdeletion Encompassing U2AF2: Support for a Haploinsufficiency Model.",
-      "authors": [
-        "Toledo A",
-        "Araji S",
-        "Bi W",
-        "Lalani SR"
-      ],
-      "journal": "American journal of medical genetics. Part A",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "U2 small nuclear RNA auxiliary factor 2 (U2AF2) is an essential pre-mRNA splicing factor involved in the early stages of pre-mRNA splicing. To date, multiple individuals have been reported with predominantly heterozygous missense variants presenting intellectual disability, speech and motor delays, seizures, hypotonia, and thin or hypoplastic corpus callosum. Here, we describe a patient with a de novo 2.2 Mb interstitial deletion involving chromosome 19q13.42-q13.43, encompassing U2AF2, presenting with intellectual disability, epilepsy, corpus callosum hypoplasia, dysmorphic features, and congenital heart disease. The patient's clinical features overlap substantially with those reported in individuals harboring heterozygous U2AF2 variants, supporting haploinsufficiency as a plausible disease mechanism. To our knowledge, this represents the first postnatal report of complete U2AF2 gene deletion. In addition, this is the first detailed phenotypic characterization of a distal 19q chromosomal interstitial deletion, further delineating the clinical spectrum associated with this genomic region.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42134713",
-      "pmid": "42134713",
-      "doi": "10.1016/j.healun.2026.05.005",
-      "title": "Optimized cellular perfusate increases lung viability ex vivo and extends the duration of ex vivo lung perfusion.",
-      "authors": [
-        "Arnold CJ",
-        "Nakata K",
-        "Hassan A",
-        "Alderete I",
-        "Aykun N",
-        "Abraham N",
-        "Carney J",
-        "Xiang Y",
-        "Kamaleswaran R",
-        "Jiang H",
-        "Hughes BA",
-        "Barbas AS",
-        "Hartwig MG"
-      ],
-      "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Ex vivo lung perfusion (EVLP) has emerged as a strategy to assess and extend preservation of donor lungs prior to transplantation. However, due to progressive deterioration of the graft, current protocols limit EVLP duration to 10-12 h. We developed an optimized cellular perfusate, DEVOL solution, designed to support multi-day EVLP and evaluated its performance against standard TransMedics OCS perfusate.\n\nMETHODS: Porcine lungs were procured, flushed with OCS solution, and perfused using either STANDARD (n=5) or DEVOL (n=5) perfusate supplemented with washed red blood cells. Physiological parameters, perfusate biomarkers, histology, and transcriptomics were assessed throughout extended perfusion. A lung tissue culture system was employed to investigate procurement flush perfusate reperfusion-related cytokine release.\n\nRESULTS: DEVOL-perfused lungs exhibited increased median perfusion survival time compared with STANDARD (36 vs. 12 h). Improved viability was associated with reduced edema and lower endothelial injury markers (PECAM-1, syndecan-1). DEVOL lungs demonstrated transient early rises in pulmonary vascular resistance and IL-10, as well as sustained elevations in IL-17, without evidence of increased tissue injury. Mathematical simulation and cell culture experiments suggest this phenomenon is due in part to rapid calcium influx into DEVOL-perfused lungs following calcium-free OCS flush during procurement.\n\nCONCLUSION: DEVOL perfusate markedly prolongs lung viability during EVLP compared to standard, commercially available perfusate by maintaining oncotic and osmotic balance. Ongoing studies will dissect the contribution of individual DEVOL components to extended perfusion and integrate additional EVLP parameters to elucidate mechanisms underlying late graft failure observed in this study.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13247989/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42112803",
-      "pmid": "42112803",
-      "doi": "10.1097/MEJ.0000000000001352",
-      "title": "Associations between physician work practices and productivity in emergency departments: a systematic review.",
-      "authors": [
-        "Kopaczek-Styczen M",
-        "Berglund E",
-        "Nordberg M",
-        "Liu J",
-        "Yang LJ",
-        "Ängeby K"
-      ],
-      "journal": "European journal of emergency medicine : official journal of the European Society for Emergency Medicine",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND AND IMPORTANCE: Emergency department operation depends on system-level efficiency and individual physician productivity. Although organizational interventions are well described, evidence on modifiable, clinician-level work practices remain limited.\n\nOBJECTIVE: To identify and synthesize evidence on individual work practices associated with higher levels of physician productivity in emergency departments, and to assess their potential transferability through training.\n\nDESIGN: Systematic review conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-analysis guidelines and registered in PROSPERO.\n\nSETTINGS AND PARTICIPANTS: Primary studies involving physicians working in adult or pediatric emergency departments.\n\nINTERVENTION OR EXPOSURE: Budget-neutral, modifiable work practices attributable to individual physicians' behavior.\n\nOUTCOME MEASURES AND ANALYSIS: Studies were required to report a quantifiable productivity outcome per unit time (eg, patients per hour or relative value units per hour). Heterogeneity in methods and outcomes precluded meta-analysis. Findings were synthesized narratively and supplemented by an inductive process applied to extracted study findings to categorize and integrate heterogenous evidence.\n\nMAIN RESULTS: Ten studies met the inclusion criteria: three direct observational studies, six retrospective observational studies, and one interventional study, all conducted in the United States. Two domains of productive work practices clearly emerged in the literature: controlled multitasking (nonlinear association with productivity) and team communication (consistent positive association with productivity). The only interventional study reported no measurable improvement in productivity following a lecture on evidence-based work practices.\n\nCONCLUSION: Controlled multitasking and team communication practices show the strongest associations with productivity across studies. However, evidence remains limited, underscoring the need for further investigation.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42112755",
-      "pmid": "42112755",
-      "doi": "10.1002/ajmg.a.70200",
-      "title": "Electrocardiographic and Skin Manifestations of Turner Syndrome: Association With Cardiovascular Disease.",
-      "authors": [
-        "Elsaim S",
-        "Vernier B",
-        "Truong VTT",
-        "Patel RT",
-        "Brown M",
-        "Portillo MC",
-        "Rogge M",
-        "Rodriguez-Buritica D",
-        "Prakash SK"
-      ],
-      "journal": "American journal of medical genetics. Part A",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Congenital heart disease (CHD) and dermatologic conditions such as lymphedema and acquired melanocytic nevi (AMN) are common in Turner Syndrome (TS). We hypothesized that abnormalities of cranial neural crest cell derivatives drive the skin and heart manifestations of TS. We conducted joint cardiac and skin examinations of volunteers at a 2023 national TS conference. Electrocardiographic abnormalities were classified according to the Minnesota Codes. Aortic diameters and cardiac anatomy were assessed using a standardized echocardiographic protocol. The primary outcome was the association between ECG abnormalities and thoracic aortic aneurysms (TAA) or CHD. The secondary outcome was the association between AMN counts and CHD, TAA, or the corrected QT interval (QTc). Among 118 participants (median age 33 years; CHD 39%; TAA ~25%), 35% had major ECG abnormalities, most commonly T-wave inversions and ST depressions; QTc prolongation occurred in 7%. Major ECG abnormalities were associated with larger aortic diameter and were more frequent in CHD, with a trend toward increased TAA (OR 2.8). Notably, 17% without known CHD had ECG abnormalities, and > 25% of these had previously unrecognized TAA. Only 45,X karyotype independently predicted ECG abnormalities. AMN burden was markedly elevated and increased stepwise with combined CHD + TAA (adjusted OR per level 13.1) but was not associated with QTc. ECG abnormalities and AMN burden track with cardiovascular disease severity in TS and may identify individuals with unrecognized aortopathy. These preliminary findings support integrated multimodal screening for CHD in TS, pending validation in larger cohorts.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42107513",
-      "pmid": "42107513",
-      "doi": "10.1016/j.cpcardiol.2026.103360",
-      "title": "Endothelial cell metabolic reprogramming and pulmonary hypertension: Research progress and therapeutic potential.",
-      "authors": [
-        "Zhu R",
-        "Liu X",
-        "Shen Y",
-        "Zhu S",
-        "Shao L"
-      ],
-      "journal": "Current problems in cardiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Pulmonary hypertension (PH) is a progressive and life-threatening cardiovascular disorder characterized by elevated pulmonary arterial pressure and pulmonary vasculature remodeling. Accumulating evidence highlights that metabolic reprogramming in pulmonary arterial endothelial cells (PAECs) as a fundamental driver of PH initiation and progression. This metabolic shift involves a transition to a hyper-glycolytic state, disordered fatty acid oxidation, and increased glutaminolysis, which contributes significantly to the pathogenesis of PH. Oxidative stress and mitochondrial dysfunction triggered by metabolic alterations in PAECs, establishing a self-reinforcing cycle of damage that disrupts vascular homeostasis. Furthermore, metabolic reprogramming drives PAECs heterogeneity, leading to the emergence of pathogenic subpopulations, including pro-inflammatory ECs, senescent ECs, and mesenchymal-like ECs via endothelial-to-mesenchymal transition (EndoMT). In addition to intrinsic changes, metabolically dysregulated ECs initiate aberrant intercellular crosstalk with smooth muscle cells, immune cells, and fibroblasts through the secretion of cytokines, lactate, and extracellular vesicles, ultimately accelerating vascular structural remodeling. In this review, we discussed the feasibility of targeting the metabolic drivers, such as inhibiting glycolysis, restoring mitochondrial function, or modulating amino acid metabolism in ECs, which have shown potential in preclinical and early clinical studies to alleviated PH. This offers new perspectives for the development of novel therapeutic strategies for PH.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42104973",
-      "pmid": "42104973",
-      "doi": "10.1016/j.jtcvs.2026.03.610",
-      "title": "Reply: Pulmonary venous remodeling takes center stage in model of group 2 pulmonary hypertension.",
-      "authors": [
-        "Shentu J",
-        "Shi G",
-        "Chen H"
-      ],
-      "journal": "The Journal of thoracic and cardiovascular surgery",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42099019",
-      "pmid": "42099019",
-      "doi": "10.1002/art.70190",
-      "title": "Challenges to Research Integrity in Rheumatology: The Threat of Paper Mills, Fraud, and Click Data Science.",
-      "authors": [
-        "Merriman TR",
-        "Pascart T",
-        "Danila MI"
-      ],
-      "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "rheumatology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42097536",
-      "pmid": "42097536",
-      "doi": "10.1016/j.jtcvs.2026.04.039",
-      "title": "Simulations predict improved valve performance without direct leaflet intervention after neonatal truncus arteriosus repair.",
-      "authors": [
-        "Bornemann KM",
-        "Choi PS",
-        "Huber J",
-        "Reed AK",
-        "Sharir A",
-        "Maskatia SA",
-        "Marsden AL",
-        "Ma MR",
-        "Kaiser AD"
-      ],
-      "journal": "The Journal of thoracic and cardiovascular surgery",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVES: Truncus arteriosus (TA) is a rare and severe congenital heart disease. Quadricuspid valve morphology occurs in 25% of patients with TA and is associated with regurgitation and increased risk of reoperation. It remains unclear how sudden hemodynamic changes after TA repair alter valve performance. This study simulated pre- and postoperative conditions investigating valve performance without leaflet intervention. We hypothesized that valve performance can be predicted in silico, matching in vivo imaging and identifying mechanisms by which postoperative hemodynamics will reduce valve regurgitation.\n\nMETHODS: Pre- and postoperative computed tomography images of a neonate with a quadricuspid valve were segmented. Free edge length and geometric height from the patient's echocardiogram were used for valve modeling. Fluid-structure interaction simulations of the coupled dynamics of the valve and blood were performed. Boundary conditions were tuned to match patient-specific clinical values, including the pulmonary-to-systemic flow ratio.\n\nRESULTS: The preoperative simulation confirmed mild valve regurgitation observed in vivo. The combination of geometrically complex vessels and heterogeneous in- and outflow of the valve resulted in asymmetric valve opening and closing. Poor central leaflet coaptation led to a central regurgitant jet directed toward the septum. Altered postoperative hemodynamic conditions improved coaptation and eliminated regurgitation in silico, matching observed in vivo valve performance.\n\nCONCLUSIONS: This modeling approach reproduced in vivo valve performance and identified mechanisms improving postoperative coaptation. TA repair led to elimination of regurgitation via enhanced central coaptation through favorable fluid-valve interaction. Thus, altered postoperative hemodynamics after TA repair may improve valve performance without leaflet intervention.",
-      "publication_types": [
-        "Journal Article",
-        "Video-Audio Media",
-        "Research Support, N.I.H., Extramural"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13225876/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42092505",
-      "pmid": "42092505",
-      "doi": "10.1016/j.jtcvs.2026.04.012",
-      "title": "Reoperation after previous aortic valve repair in children: Redo repair versus Ross procedure.",
-      "authors": [
-        "Mazine A",
-        "Zhu MZL",
-        "Cruz EP",
-        "Konstantinov SI",
-        "Perrier S",
-        "Brizard CP",
-        "Konstantinov IE",
-        "Buratto E"
-      ],
-      "journal": "The Journal of thoracic and cardiovascular surgery",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVE: The study objective was to compare the long-term outcomes of redo aortic valve repair versus the Ross procedure in children requiring reintervention after prior aortic valve repair.\n\nMETHODS: We performed a retrospective, single-center cohort study of patients aged less than 18 years who underwent primary aortic valve repair between 1980 and 2024. Patients were included if their first aortic valve reoperation was redo repair or a Ross procedure. Outcomes of interest were survival free from heart transplantation, freedom from semilunar valve reoperation, and freedom from recurrent 2+ or greater aortic stenosis or aortic regurgitation. Time-to-event outcomes were analyzed using Kaplan-Meier methods and Cox proportional hazards regression.\n\nRESULTS: Among 512 patients undergoing primary repair, 138 required reintervention, including 72 redo repairs and 66 Ross procedures. Median age at reoperation was similar between groups (8.0 vs 7.7 years; P = .38). Survival free from transplantation at 20 years was 88% in both groups (P = .97). Freedom from semilunar valve reoperation at 15 years was worse after redo repair than after the Ross procedure (36% vs 73%; P < .001). In a sensitivity analysis excluding patients with suboptimal immediate repair results, 15-year freedom from reoperation improved to 53% but remained inferior to the Ross group (P = .002). At 10 years, freedom from recurrent 2+ or greater aortic stenosis or aortic regurgitation was 18% after redo repair versus 86% after the Ross procedure (P < .001).\n\nCONCLUSIONS: In children requiring reintervention after prior aortic valve repair, the Ross procedure provides superior long-term valve durability and freedom from reoperation compared with redo native valve repair.",
-      "publication_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "topics": [
-        "valvular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42085489",
-      "pmid": "42085489",
-      "doi": "10.1093/ajrcmb/aanaf026",
-      "title": "Withdrawn as duplicate: Pulmonary Blood Volumes on CT Predict Residual Pulmonary Hypertension Post-Pulmonary Endarterectomy.",
-      "authors": [
-        "Ghani H",
-        "Thillai M",
-        "Jenkins D",
-        "Bussell E",
-        "Ruggiero A",
-        "Walsh S",
-        "Screaton N",
-        "Bunclark K",
-        "Cannon J",
-        "Sheares K",
-        "Taboada D",
-        "Graves M",
-        "Toshner M",
-        "Ng C",
-        "Pepke-Zaba J"
-      ],
-      "journal": "American journal of respiratory cell and molecular biology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Pulmonary blood volumes (PBV), currently not assessed by computed tomography pulmonary angiography (CTPA), could provide additional information to routine investigations performed for chronic thromboembolic pulmonary hypertension (CTEPH). We investigated CTPA-based PBV in evaluating hemodynamic outcome from pulmonary endarterectomy (PEA) surgery. A deep learning-based CTPA vascular segmentation model, differentiating arteries and veins, was applied for automated PBV measurements in CTEPH patients who underwent PEA at U.K.'s national CTEPH service. Pulmonary arteries were compartmentalised into \"central\" (main pulmonary and proximal lobar) and \"intrapulmonary\". Mean pulmonary arterial pressure >30 mmHg post-PEA defined \"clinically relevant\" residual PH. Logistic regression models applying CTPA-based PBV to identify residual PH were trained and tested on the discovery and validation cohorts respectively. Paired pre- and postoperative CTPA, in the discovery (n = 71) and validation (n = 102) cohorts showed that central pulmonary artery volume and total artery to vein volume ratio (A-VR) decreased and pulmonary vein volume increased with hemodynamic improvement post-PEA. Preoperative central pulmonary artery volume and A-VR helped identify patients at risk for clinically relevant residual PH post-PEA (AUROC 0.88 and 0.82 in the discovery and validation cohorts). Postoperative central pulmonary artery volume, A-VR and pulmonary vein volume helped to non-invasively identify patients without clinically relevant residual PH (AUROC 0.91 and 0.88 in the discovery and validation cohorts). Automated quantification of CTPA-based PBV at diagnosis can help stratify risk for residual PH in patients managed with PEA. Utilizing CTPA-derived PBV post-PEA to identify patients without residual PH can potentially reduce the need for routine postoperative right heart catheterization.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42081185",
-      "pmid": "42081185",
-      "doi": "10.1007/s12094-026-04367-9",
-      "title": "The intersection of colorectal cancer and cardiovascular disease: shared mechanisms and clinical implications.",
-      "authors": [
-        "Wu S",
-        "Yu L",
-        "Liu M",
-        "Dong B"
-      ],
-      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Colorectal cancer (CRC) and cardiovascular disease (CVD) are major contributors to the global disease burden, with CRC as the third most common malignancy and second leading cause of cancer-related death, and CVD as the top killer among non-communicable diseases. The growing ageing population has driven a continuous rise in CRC-CVD comorbidity. Treatment-related cardiovascular toxicity, shared pathophysiological links, and the prognostic impact of comorbidity have made this interdisciplinary field a critical focus in cardio-oncology. This review addresses core scientific questions at the CRC-CVD intersection, including their shared risk factors and pathological mechanisms (metabolic syndrome, chronic inflammation, oxidative stress, gut microbiota dysbiosis, etc.), epidemiological and molecular associations between CRC and major CVD subtypes, as well as cardiovascular toxicity mechanisms, monitoring, and intervention strategies for CRC therapies (chemotherapy, targeted therapy, immunotherapy). Beneficial lifestyle modifications and cross-effective medications, together with multidisciplinary team (MDT) collaboration, hold great value for comorbidity management. Current studies have confirmed their epidemiological and partial mechanistic links, but key gaps remain: unclear core molecular regulatory networks, insufficient gut microbiota-cardiovascular-tumor axis research, lack of personalized risk prediction models, limited long-term cardiovascular data for novel anticancer drugs, and absent standardized precision prevention protocols. Future multi-omics studies, large-scale clinical trials, and real-world data research will help clarify shared targets, build risk models, and formulate interdisciplinary management guidelines to improve outcomes of CRC-CVD comorbidity patients.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "cardio-oncology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42069071",
-      "pmid": "42069071",
-      "doi": "10.1016/j.healun.2026.04.026",
-      "title": "Therapeutic decisions in chronic thromboembolic pulmonary hypertension pre- and post-intervention should be informed by multimodal risk stratification.",
-      "authors": [
-        "Appenzeller P",
-        "Ghani H",
-        "Pepke-Zaba J"
-      ],
-      "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42045800",
-      "pmid": "42045800",
-      "doi": "10.1002/acr.80073",
-      "title": "Physician-Scientist Pipeline for Pediatric Rheumatology: The Current Landscape and Future Perspectives.",
-      "authors": [
-        "Ogbu EA",
-        "Hiraki LT",
-        "Becker ML"
-      ],
-      "journal": "Arthritis care & research",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Over the past 50 years, the science of pediatric rheumatology has grown exponentially due to an expansion in the understanding of complex rheumatic conditions and a surge in novel targeted therapeutics. Physician-scientists in the field of pediatric rheumatology have played major roles in these advancements that have improved the care of children, adolescents, and young adults with chronic and often life-threatening systemic inflammatory diseases. Despite the critical role of the physician-scientist in discovering and translating scientific advancements from the bench to the bedside and vice versa, which have catapulted the field of pediatric rheumatology, this role remains an endangered species, with a declining pipeline due to a variety of factors. In this article, we review the current landscape of the physician-scientist pipeline for pediatric rheumatology on the fiftieth anniversary of the formalization of the specialty in North America. We review challenges to maintaining a thriving physician-scientist pipeline and discuss future perspectives.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "rheumatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13613261/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42043643",
-      "pmid": "42043643",
-      "doi": "10.1007/s11748-026-02299-3",
-      "title": "Prognostic utility of serum albumin in underweight patients who underwent isolated surgical aortic valve replacement.",
-      "authors": [
-        "Ohmori T",
-        "Maeda K",
-        "Pak K",
-        "Ohtani A",
-        "Yanagino Y",
-        "Handa K",
-        "Taguchi T",
-        "Inoue K",
-        "Kawamura A",
-        "Miyagawa S"
-      ],
-      "journal": "General thoracic and cardiovascular surgery",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVE: The clinical impact of underweight on outcomes in patients undergoing surgical aortic valve replacement (SAVR) remains unclear. This study aimed to investigate the prognostic significance of underweight status in patients undergoing SAVR and to identify key determinants of adverse outcomes within this population.\n\nMETHODS: 805 patients underwent SAVR between January 2016 and December 2021 at eight Japanese centers. After excluding 31 patients with missing laboratory data, a total of 774 patients were included. Patients were categorized into underweight group (Body mass index [BMI] < 18.5 kg/m², 79 patients), normal-weight group (BMI 18.5-25 kg/m², 464 patients), and overweight group (BMI　≥25 kg/m², 231 patients). The primary endpoint was all-cause mortality.\n\nRESULTS: The median age was 76 years (interquartile range [IQR]: 71-79), and the median BMI was 23.3 kg/m² (IQR: 20.9-25.8). Underweight patients had the highest 5-year mortality, followed by normal-weight and overweight patients (23.5%, 11.9%, and 7.4%; p = 0.001). In multivariable analysis, BMI was an independent predictor of mortality (1.0 kg/m² increase, adjusted hazard ratio: 0.92; 95% confidence interval: 0.86 to 0.99; p = 0.020). Among underweight patients, serum albumin was independently associated with all-cause mortality (p = 0.002). Underweight patients were stratified by median albumin into low (< 4.0 g/dL, n = 43) and normal (≥ 4.0 g/dL, n = 36) groups, and 5-year mortality was higher in the low albumin group (34.1% vs. 12.6%, p = 0.015).\n\nCONCLUSIONS: Low BMI was associated with higher mortality after SAVR, and serum albumin provided additional risk stratification within underweight group.",
-      "publication_types": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "topics": [
-        "valvular"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633306/",
       "source": "PubMed"
     }
   ]
