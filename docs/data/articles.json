@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:03:02.578884+00:00",
+  "generated_at": "2026-10-18T18:40:28.815712+00:00",
   "articles": [
     {
       "id": "pmid:42879336",
@@ -9778,6 +9778,108 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893306",
+      "pmid": "42893306",
+      "doi": "10.1212/NE9.0000000000200378",
+      "title": "Erratum: Education Research: Educational Informatics: Characterizing Child Neurology Resident Clinical Experiences Using Electronic Health Record Data.",
+      "authors": [
+        "Gottlieb-Smith R",
+        "Adams J",
+        "Bernson-Leung ME",
+        "Stamm B",
+        "Mai MV",
+        "Thompson Stone R",
+        "Troy ET",
+        "Xixis K",
+        "Majmudar-Sheth B",
+        "Dang LT",
+        "Dziorny AC"
+      ],
+      "journal": "Neurology. Education",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "[This corrects the article DOI: 10.1212/NE9.0000000000200334.].",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676279/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893265",
+      "pmid": "42893265",
+      "doi": "10.1016/j.acepjo.2026.100525",
+      "title": "Automated Calculation of the Pediatric Emergency Care Applied Research Network (PECARN) Intra-Abdominal Injury Rule from Unstructured Emergency Department Notes Using a Large Language Model.",
+      "authors": [
+        "Devisetti L",
+        "Chen B",
+        "Addo N",
+        "Narang K",
+        "Alvarez C",
+        "Kornak J",
+        "Singh C",
+        "Kornblith AE"
+      ],
+      "journal": "Journal of the American College of Emergency Physicians open",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: The Pediatric Emergency Care Applied Research Network (PECARN) intra-abdominal injury clinical prediction rule identifies children at very low risk for clinically significant intra-abdominal injury after blunt abdominal trauma. However, retrospective evaluation of the rule's use in practice requires resource-intensive chart review. We investigated whether large language models (LLMs) can automatically calculate PECARN intra-abdominal injury risk scores from real-world unstructured emergency department (ED) notes.\n\nMETHODS: We conducted a retrospective secondary analysis of children after blunt abdominal trauma presenting to 2 urban pediatric EDs. The LLM, OpenAI o1, was compared with clinician-derived standards for PECARN risk scores and predictor variable extraction from unstructured physician ED notes. Performance was assessed using standard diagnostic test characteristics.\n\nRESULTS: Among 196 children with complete ED notes, the LLM calculated binary PECARN risk scores with 95.4% accuracy (95% confidence interval [CI] 92.5 to 98.3), 94.4% sensitivity (95% CI 90.6 to 98.2), 98.2% specificity (95% CI 94.6 to 100), and an F1 score of 0.97 (95% CI 0.90 to 0.98). Agreement by weighted Cohen's kappa between multicategorical LLM-derived risk scores and clinician-derived risk scores was high, 0.96 (95% CI 0.92 to 1.00). Predictor variable extraction demonstrated strong performance across all PECARN variables, with accuracy greater than 94%.\n\nCONCLUSION: The LLM had comparable performance to clinicians in calculating binary and multicategorical PECARN intra-abdominal injury risk scores and extracting predictor variables from unstructured ED notes. LLMs may enable automated calculation of clinical prediction rules from clinical documentation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676203/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893117",
+      "pmid": "42893117",
+      "doi": "10.1212/NE9.0000000000200374",
+      "title": "Education Research: Career, Research, and Mentorship Outcomes of an International Neuroimmunology Education Exchange Program.",
+      "authors": [
+        "Marin CE",
+        "Leles Vieira de Souza B",
+        "Moreira Ferreira VF",
+        "Mahler JV",
+        "Braga N",
+        "Pitombeira MS",
+        "Talim N",
+        "Mendes MF",
+        "Marques VD",
+        "Damasceno A",
+        "Gomes Neto AP",
+        "Ferreira MLB",
+        "D Almeida JAC",
+        "Tenembaum SN",
+        "Montalban X",
+        "Ontaneda D",
+        "Callegaro D",
+        "Becker J",
+        "Lana-Peixoto MA",
+        "Matiello M"
+      ],
+      "journal": "Neurology. Education",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "BACKGROUND AND OBJECTIVES: Subspecialty exchange programs in neuroimmunology are scarce and have not been formally evaluated. We assessed participant-reported outcomes of the Neuroimmunology Exchange Scholarship Program (PROBEN), a 1-month immersive placement sponsored by the Brazilian Committee for Treatment and Research in Multiple Sclerosis, covering career trajectory, research engagement, and mentorship.\n\nMETHODS: Cross-sectional online survey of all 39 Brazilian neurology residents, fellows, and early-career neurologists who completed a PROBEN placement during the 3 most recent cycles (2023-2025) at 13 host centers (9 in Brazil, 4 abroad); 30 responded (77%). Outcomes were compared by career stage at placement (early career, residents or general neurologists, vs later stage, neuroimmunology fellows or neuroimmunologists) and by location (national vs international), using the Kruskal-Wallis, chi-square (Yates correction), and Fisher exact tests. Analyses were exploratory and unadjusted for multiple comparisons.\n\nRESULTS: The mean age was 30 years (range 26-38); 18 respondents (60%) were early career and 18 (60%) trained at national centers. Satisfaction was high (17 of 30 [57%] excellent), all 30 would recommend the program, and 18 of 29 (62%, 95% CI 44-77) reported that it influenced their decision to continue in neuroimmunology, with no difference by location (p = 0.94). Perceived clinical (p = 0.71) and scientific (p = 0.46) knowledge gains were similar across settings. International placement was associated with more post-program conference presentations (9 of 12 vs 2 of 18; odds ratio 24.0, 95% CI 3.4-171.6; p = 0.001) and maintained mentor contact (11 of 12 vs 9 of 18; odds ratio 11.0, 95% CI 1.2-104.0; p = 0.02). Research activity (p = 0.009; epsilon-squared 0.23) and mentor engagement (p = 0.03; epsilon-squared 0.16) were higher among later-stage participants. Overall, 11 of 30 (37%) reported research output and 1 of 30 (3%) a completed or published manuscript.\n\nDISCUSSION: Participants in this 1-month neuroimmunology exchange reported sustained subspecialty interest, ongoing mentorship, and academic engagement. Later career stage and international placement were associated with greater academic engagement in this cohort. Because participants were competitively selected and largely self-selected into placement location, these associations should not be read as causal effects of the program.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676275/",
       "source": "PubMed"
     },
     {
@@ -39313,6 +39415,32 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42893333",
+      "pmid": "42893333",
+      "doi": "10.1002/mco2.71084",
+      "title": "Safety, Pharmacokinetics, and Efficacy Study of Porcine and Rabbit Antithymocyte Globulin in the Treatment of Patients With Severe Aplastic Anemia: A Multicenter, Prospective, Randomized, Open-Label Clinical Trial.",
+      "authors": [
+        "Zhang Y",
+        "Zhang Y",
+        "Gong Y",
+        "Sun Y",
+        "He G"
+      ],
+      "journal": "MedComm",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Severe aplastic anemia (SAA) is a T lymphocyte-mediated bone marrow failure disorder. Only porcine ATG (p-ATG) and rabbit ATG (r-ATG) are available in mainland China, with the optimal first-line regimen undetermined. This study compared their pharmacokinetics, efficacy, and safety. Ninety-three SAA patients ineligible for transplantation or lacking a suitable donor (p-ATG, n = 55; r-ATG, n = 38) who were receiving immunosuppressive therapy were prospectively enrolled between 2020 and 2024. The primary endpoint was dynamic changes in lymphocyte subsets. Both ATGs peaked on treatment Day 5; r-ATG cleared significantly faster, with comparable peak active concentrations. The p-ATG group showed a stable early neutrophil increase, whereas the r-ATG group had an initial decline, with comparable recovery at 1 month. The r-ATG group exhibited prolonger lymphopenia, lower CD3+/CD4+ T cells, reduced Treg cells, and higher CD19+ B-cell proportions. IL-10 was significantly elevated on day 2 after ATG administration. At 6 months, the CRR was 18.87% with p-ATG and 18.92% with r-ATG; ORR was 69.81% with p-ATG and 56.76% with r-ATG. Two-year ORR and overall survival were similar, with no significant differences in infection or serum sickness. P-ATG and r-ATG have distinct pharmacokinetic and immunomodulatory but comparable efficacy and safety profiles, supporting interchangeable use in clinical practice.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676421/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42890793",
       "pmid": "42890793",
       "doi": "10.1007/s13205-026-05087-1",
@@ -49821,6 +49949,260 @@
       ],
       "topics": [
         "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893428",
+      "pmid": "42893428",
+      "doi": "10.1177/01455613261497899",
+      "title": "Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.",
+      "authors": [
+        "Mehta US",
+        "Pion T",
+        "Parham K",
+        "Tadinada A"
+      ],
+      "journal": "Ear, nose, & throat journal",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Objective: This retrospective cohort study evaluated the proportion of maxillary sinuses with radiographic findings consistent with an odontogenic contribution among patients with imaging-confirmed acute or chronic maxillary sinusitis presenting to a single academic ENT clinic over one year. Sixty-five CT scans (84 sinuses) underwent multidisciplinary review for prespecified radiographic features. By highlighting imaging findings indicative of dental origin this study aims to improve recognition of possible odontogenic disease and appropriate multidisciplinary evaluation. Methods: Sixty-five patients were evaluated. Inclusion criteria required a visit diagnosis of chronic maxillary sinusitis (ICD10 J32.0) or acute maxillary sinusitis (ICD10 J01.00, J01.01), and a sinus CT within the preceding year. Each scan underwent multidisciplinary review by an oral and maxillofacial radiologist, an otolaryngologist, an otolaryngology resident, and a medical student. Scans were evaluated for maxillary sinus floor mucosal thickening and radiographic features suggestive of an odontogenic contribution, including periapical pathology, oroantral communication, large dental restorations, and widened periodontal ligament (PDL) space. Dental referral recommendations were based on multidisciplinary consensus from CT findings alone. Data were summarized using descriptive statistics. Results: Radiographic findings consistent with an odontogenic contribution were identified in 50/84 (59.52%) affected maxillary sinuses from 40 patients. Among these 50 sinuses, 17 (34%) showed widened PDL space, 15 (30%) showed oroantral communication, 28 (56%) showed periapical pathology, and 9 (18%) showed large dental restorations. There was consensus among the multidisciplinary team that in retrospect, among the 40 patients with OS, 38 required dental referrals. Conclusion: Radiographic findings consistent with an odontogenic contribution indicated a higher single-center cohort prevalence than expected based on population-level prevalence reports. The findings support deliberate review of the maxillary dentition on sinus CT, with this study outlining the key imaging features for odontogenic sinusitis.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893408",
+      "pmid": "42893408",
+      "doi": "10.1002/advs.77242",
+      "title": "A Micropeptide Component of the OGDH Complex Modulates ATP Production in the TCA Cycle.",
+      "authors": [
+        "Yin X",
+        "Qi W",
+        "Lin L",
+        "Zheng H",
+        "Zhao G",
+        "Chen Q",
+        "Shao G",
+        "Wu Y",
+        "Hu J",
+        "Xu H"
+      ],
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Since its elucidation, the tricarboxylic acid (TCA) cycle has been regarded as a fully defined enzymatic pathway. Here, we report the discovery of a previously unrecognized micropeptide component of this central metabolic system. Through analyzing ribosome profiling data from the mouse sORFs.org database, we discovered APPM (ATP production-promoting micropeptide), a 29-amino acid peptide encoded by a non-canonical small open reading frame within the mouse Ctsb gene. APPM localizes to the mitochondrial matrix and inner membrane, where it directly binds to the E1 subunit (OGDH) of the α-ketoglutarate dehydrogenase complex (OGDHc). This interaction modulates OGDHc enzymatic activity, thereby regulating NADH and ATP production. We identified tyrosine-13 as the critical residue mediating the APPM-OGDH interaction and functional activation. Exogenous APPM administration increased ATP levels in vivo and, in a mouse model of heart failure, restored cardiac function, outperforming the reference drug trimetazidine. Collectively, our findings identify APPM as the first micropeptide regulator of the OGDH complex, expanding the known repertoire of the TCA cycle and presenting a potential therapeutic strategy for diseases characterized by bioenergetic insufficiency.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893397",
+      "pmid": "42893397",
+      "doi": "10.1177/15385744261500878",
+      "title": "Outcomes After Major Amputation in Octogenarians.",
+      "authors": [
+        "Bui K",
+        "Patel A",
+        "Alonso A",
+        "Zhou WN",
+        "Huang J",
+        "Farber E",
+        "Maaneb de Macedo K",
+        "Farber A",
+        "Siracuse JJ",
+        "Kalish J"
+      ],
+      "journal": "Vascular and endovascular surgery",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "BackgroundMajor lower extremity amputations, defined as above-ankle amputations, are morbid and significantly life-changing. Older patients may be more susceptible to poor outcomes. Our goal was to assess the short- and long-term outcomes of major amputations in octogenarians.MethodsA retrospective single-center chart review was performed on all octogenarian patients who underwent a major amputation at a safety-net hospital between 2014-2023. Demographics, operative characteristics, postoperative outcomes, and 30-day and 1-year outcomes were collected and analyzed. Multivariable binary logistic regression evaluated factors associated with 1-year mortality. Fisher's exact test evaluated univariate categorical comparisons because of small cell frequencies.Results56 octogenarian patients underwent a major amputation: 96.4% underwent an amputation for chronic limb-threatening ischemia while 3.6% of patients had acute limb ischemia. Above-knee and below-knee amputations accounted for 73.2 and 26.8% of procedures, respectively; 10.6% were guillotine amputations. Intensive care unit (ICU) admission was required in 26.3% of cases, and total mean hospital length of stay (LOS) was 13.7 days. Postoperatively, 55.4% were discharged to a skilled nursing facility, 17.9% patients to an acute rehab facility, and 12.5% to home with assistance. Thirty-day emergency department use rate was 14.3%, and hospital readmission rate was 12.5%. Most patients (83.9%) were non-ambulatory at 1-year. In-hospital mortality was 8.9%, 30-day mortality was 14.3%, and 1-year mortality was 35.7%. Univariate analyses demonstrated no statistically significant differences among evaluated variables. Multivariable analysis of 1-year mortality was also not statistically significant.ConclusionMajor amputations in octogenarians are highly morbid with high ICU utilization and prolonged LOS with frequent discharge to acute care facilities. About one-third of patients are not alive at 1-year. These findings suggest the need to identify opportunities for improvement in this high-risk patient population undergoing amputations, such as early revascularization, aggressive rehabilitation in concert with geriatrician collaboration, medical optimization, and improved goals-of-care discussions.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893394",
+      "pmid": "42893394",
+      "doi": "10.1177/08404704261492943",
+      "title": "Cardiology Support Utilization Patterns and Associated Barriers Across Northwestern Ontario.",
+      "authors": [
+        "Al-Atawneh J",
+        "Stevenson PH",
+        "Toskovich K"
+      ],
+      "journal": "Healthcare management forum",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "The Thunder Bay Regional Health Sciences Centre On-Call Cardiology Support Service serves a geographically vast region across Northwestern Ontario where cardiovascular disease is a major burden. The objective is to analyze service utilization patterns including locations, indications, interventions, and barriers. In this 6-month prospective study, cardiologists collected data via survey on calls from rural and remote providers. Descriptive statistics and Fisher's exact test were used. The Canadian Institute for Health Information's Rural Health Systems Model was used for interpretation. Two hundred and six responses across 19 locations identified: common consultations-chest pain, dyspnea, and atrial fibrillation; frequent interventions-medical recommendations, education, and transfer decisions; key barriers-limited personnel knowledge and infrastructure. Significant associations were identified. This study characterized cardiology support service utilization across Northwestern Ontario, identifying key barriers and opportunities to strengthen rural health systems planning and cardiovascular care. These findings can inform targeted initiatives and support future evaluations.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "electrophysiology",
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893391",
+      "pmid": "42893391",
+      "doi": "10.1177/09564624261495346",
+      "title": "HIV-1 diagnosis during pre-exposure prophylaxis: A case report.",
+      "authors": [
+        "Cruces L",
+        "Baquero L",
+        "Barletta JAE",
+        "Turk G",
+        "Laufer N"
+      ],
+      "journal": "International journal of STD & AIDS",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "We report a case of HIV diagnosis in a 36-year-old man who has sex with men receiving daily oral PrEP (emtricitabine/tenofovir) in Argentina, where viral load or HIV PCR testing is not routinely available before or during prophylaxis. In 2022, PrEP was initiated after a diagnosis of primary syphilis, with a non-reactive fourth-generation HIV test performed 13 days earlier (outside the recommended window), so very early infection already present at initiation cannot be excluded. Self-reported adherence was >95%. Serology was negative at day 23 and became reactive at day 73, with an indeterminate Western blot (gp120 only), undetectable plasma HIV-RNA and preserved lymphocyte counts; dolutegravir was added to complete antiretroviral treatment. Standard diagnostic algorithms were initially inconclusive, and confirmation required approaches beyond routine practice: HIV-1 RNA was detected only after ultracentrifugation of 14 mL of plasma (55 copies), and low-level proviral HIV-1 DNA was identified after analysis of an extensive number of cells; Nef- and p24-specific T-cell responses were also detected. No resistance-associated mutations were found on proviral DNA (integrase region). The Western blot eventually became positive at day 382, while a rapid immunochromatographic assay remained negative at 34 months. Atypical presentations of this kind have been reported under oral TDF/FTC PrEP and were subsequently characterized as long-acting early viral inhibition (LEVI) syndrome, predominantly in the context of long-acting cabotegravir. The present case illustrates the extent of non-routine investigation required to confirm HIV acquisition, and the challenges this poses in settings where oral PrEP is the only available option and HIV-1 RNA PCR cannot be routinely deployed. PrEP should be initiated promptly following a negative HIV test performed on the same day, or as close as possible to PrEP initiation, particularly when recent exposure is possible. HIV testing should be repeated sequentially after initiation, and discordant results should prompt continued serological and molecular evaluation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893388",
+      "pmid": "42893388",
+      "doi": "10.1177/02683555261499772",
+      "title": "Clinical characteristics, risk factors, and prognosis of incidental and symptomatic hospital-acquired pulmonary embolism: A retrospective cohort study.",
+      "authors": [
+        "Jiang P",
+        "Fan J",
+        "Guan W",
+        "Cui Y",
+        "Zhang Z",
+        "He J",
+        "Mei F"
+      ],
+      "journal": "Phlebology",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "ObjectivesTo compare the clinical characteristics, risk factors, and prognosis of incidental pulmonary embolism (IPE) and symptomatic pulmonary embolism (SPE), and to inform risk-stratified management.MethodsThis retrospective study analyzed 287 patients with hospital-acquired pulmonary embolism (HA-PE). Demographic, clinical, imaging, and laboratory data were collected. Survival outcomes were assessed using Cox regression and Kaplan-Meier analyses.ResultsAmong 287 patients, 87 had IPE and 200 had SPE. IPE was more frequently classified as low-risk PE (63.22% vs. 31.50%, p < 0.001) and more often involved pulmonary artery branches (73.56% vs. 58.00%, p = 0.01), whereas SPE was more commonly intermediate- or high-risk. The 1-month survival rate was higher in the IPE group than in the SPE group (95.4% vs. 75.5%, hazard ratio [HR]: 5.95, 95% confidence interval [CI]: 2.51 - 16.5, p < 0.001), but this difference was not significant after 1 month. In IPE, cancer and bleeding were associated with increased mortality, whereas anticoagulation and lower PE risk categories were associated with reduced mortality. In SPE, cancer and immobilization were associated with increased mortality, whereas anticoagulation, thrombectomy, and lower PE risk categories were associated with reduced mortality.ConclusionsIPE is generally associated with lower-risk, more peripheral PE, but anticoagulation should be individualized. SPE requires prompt risk stratification and timely anticoagulation, with reperfusion or thrombectomy considered for selected high-risk or deteriorating patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893384",
+      "pmid": "42893384",
+      "doi": "10.1177/10998004261496520",
+      "title": "Remote Ischemic Conditioning and Cerebral Oxygen Saturation: The Cerebral Oxygenation-Conditioning Response (Co-CoRe) Framework.",
+      "authors": [
+        "Couse T",
+        "Bruno A",
+        "Marin T"
+      ],
+      "journal": "Biological research for nursing",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Remote ischemic conditioning (RIC) is a promising noninvasive intervention that may enhance endogenous cerebroprotective mechanisms following ischemic stroke. Although clinical studies suggest potential benefits, the physiological mechanisms underlying RIC remain incompletely understood, particularly whether RIC-associated hemodynamic changes are accompanied by changes in cerebral tissue oxygenation. No conceptual framework currently integrates these relationships to guide future research. The purpose of this paper is to present the Cerebral Oxygenation-Conditioning Response (CO-CoRe) Framework, a mechanistic conceptual framework describing the hypothesized relationships among RIC, compensatory cerebral blood flow, cerebroprotection, and cerebral regional oxygen saturation (CrSO₂) following ischemic stroke. The CO-CoRe Framework integrates evidence-supported relationships among RIC, compensatory cerebral blood flow, and cerebroprotection with a hypothesized relationship between RIC and CrSO2, providing a mechanistic foundation for examining cerebral tissue oxygenation following ischemic stroke. By synthesizing current evidence on ischemic conditioning, cerebrovascular physiology, and cerebral tissue oxygenation, the CO-CoRe Framework generates testable hypotheses and provides a foundation for future research evaluating CrSO₂, measured using near-infrared spectroscopy, as a physiological response to RIC. Ultimately, the framework may advance understanding of RIC-associated cerebroprotection and inform physiologic monitoring strategies in ischemic stroke.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893359",
+      "pmid": "42893359",
+      "doi": "10.1080/14796678.2026.2739742",
+      "title": "Patterns of cardiovascular disease subtypes and associated factors among young adults in Peshawar, Pakistan: a multicenter hospital-based cross-sectional study.",
+      "authors": [
+        "Arif N",
+        "Khan I",
+        "Khan TA",
+        "Afaq S",
+        "Ahmad B",
+        "Ahmad G",
+        "Ijaz M",
+        "Haq ZU"
+      ],
+      "journal": "Future cardiology",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "BACKGROUND: Cardiovascular diseases (CVDs) are a major cause of morbidity and mortality. Evidence on CVD subtypes in young Pakistani adults is limited. This study characterized CVD subtypes and associated factors among young adults in Peshawar Khyber Pakhtunkhwa, Pakistan.\n\nMETHODS: A multicentre, cross-sectional study was conducted at four hospitals among patients aged 18-45 years. Data were extracted from three-year hospital records. Associations were assessed using chi-square/Fisher's exact tests and logistic regression.\n\nRESULTS: 8,650 CVD cases, 2,090 (24.2%) were young adults, predominantly male (64.6%), with a median age of 40 years (IQR: 36-44). ACS was the most common subtype (61.0%), followed by cardiomyopathy (39.0%). Overweight/obesity (77.0%), hypertension (56.5%), smoking (39.7%), dyslipidaemia (21.8%), and diabetes (14.4%) were the most prevalent factors. Compared with ACS, cardiomyopathy was independently associated with high heart rate, hypertension, dyslipidaemia, diabetes, and family history. Smoking was associated with lower odds of cardiomyopathy than ACS (aOR: 0.50, 95% CI: 0.41-0.61, p < 0.001).\n\nCONCLUSIONS: Young adults accounted for 24.2% of CVD cases, with ACS and cardiomyopathy the most common subtypes, highlighting the need for targeted strategies. The cross-sectional design, findings indicate subtype differences rather than causal effects, while supporting smoking cessation and early hypertension detection in young adults.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary",
+        "endocrine",
+        "heart-failure",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893355",
+      "pmid": "42893355",
+      "doi": "10.1080/20415990.2026.2742653",
+      "title": "Alkalizer-based gastroretentive floating tablets of amoxicillin for localized gastric delivery.",
+      "authors": [
+        "K R",
+        "C SC",
+        "K R",
+        "Nath C G",
+        "K Shaji A",
+        "K H",
+        "Mukundan M",
+        "K R S",
+        "Raj A",
+        "Sreedharan Nair R",
+        "Alex AT"
+      ],
+      "journal": "Therapeutic delivery",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Helicobacter pylori infection is a leading cause of peptic ulcer disease, yet amoxicillin trihydrate (AMX) efficacy is limited by its acid-catalyzed degradation and rapid gastric emptying. This study aimed to develop alkalizer-based gastroretentive floating tablets to enhance localized gastric-delivery and improve AMX stability under gastric conditions.\n\nMATERIALS AND METHODS: Floating tablets were prepared by direct compression using HPMC K100M, sodium-bicarbonate and microcrystalline-cellulose. A 23 factorial-design (RStudio-v4.3.3) was used to optimize microenvironmental pH, floating lag time (FLT) and drug release. Optimized tablets were characterized for micromeritic properties, XRD, SEM, in vitro buoyancy, swelling, drug release, in vitro anti-H. pylori activity and in vivo gastric retention in Sprague-Dawley rats.\n\nRESULTS: The optimized formulation achieved a microenvironmental pH of 7.20 ± 0.26, FLT of 15.84 ± 0.50 s, and total floating time of approximately 12 h. Cumulative AMX release reached 98.49 ± 1.69% over 12 h with non-Fickian kinetics, and XRD/SEM analysis indicated reduced crystallinity and increased amorphous character of AMX within the hydrated matrix. The formulation showed significant in vitro anti-H. pylori activity and prolonged in vivo gastric retention.\n\nCONCLUSION: Alkalizer-based gastroretentive floating AMX tablets combined microenvironmental pH modulation with sustained gastric-retention, supporting their potential as a localized strategy for improved H. pylori eradication.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -280264,6 +280646,110 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42893290",
+      "pmid": "42893290",
+      "doi": "10.1093/omcr/omag195",
+      "title": "Successful management of high-risk proliferative diabetic retinopathy during pregnancy with intravitreal faricimab.",
+      "authors": [
+        "Scallon S",
+        "Rauser M",
+        "Cheng AMS",
+        "Chalam KV"
+      ],
+      "journal": "Oxford medical case reports",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Management of proliferative diabetic retinopathy during pregnancy requires balancing maternal vision preservation against uncertain fetal risks associated with intravitreal anti-vascular endothelial growth factor therapy. We report a 27-year-old woman with a chronic type 1 diabetes mellitus who presented at 28 weeks and 1 day of gestation with high-risk proliferative diabetic retinopathy and dense vitreous hemorrhage in the left eye, precluding panretinal photocoagulation. After multidisciplinary counseling regarding limited pregnancy safety data and treatment alternatives, a single intravitreal faricimab injection was administered at 29 weeks and 6 days of gestation. One month later, left eye visual acuity improved from counting fingers to 20/25 with substantial clearance of the vitreous hemorrhage. Cesarean delivery was performed 37 days after injection at 36 weeks and 1 day of gestation for nonreassuring fetal heart tracings. No treatment-attributable adverse event was identified. To our knowledge, this represents the first reported use of intravitreal faricimab during pregnancy.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676271/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893228",
+      "pmid": "42893228",
+      "doi": "10.1002/hem3.70510",
+      "title": "\"A long bristling road full of adventure, full of discovery\" gene therapy approaches in transfusion-dependent thalassemia: The EHA-EBMT consensus paper.",
+      "authors": [
+        "De Franceschi L",
+        "Angelucci E"
+      ],
+      "journal": "HemaSphere",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676162/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893162",
+      "pmid": "42893162",
+      "doi": "10.1029/2025GH001623",
+      "title": "Age-Period-Cohort Analysis of the Global Death Burden of Main Diseases Attributable to High Temperature in the Past 30 Years: Based on the Global Burden of Disease Study 2021.",
+      "authors": [
+        "Wang Z",
+        "Liu Y",
+        "Deng L",
+        "Li K",
+        "Ren J",
+        "Shi X",
+        "Wang Q",
+        "Liu J"
+      ],
+      "journal": "GeoHealth",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "High temperatures pose a serious threat to human health. Quantifying the main disease death burden attributable to high temperatures can provide scientific evidence for policy development. Using Global Burden of Disease 2021 data, we identified the death burden attributable to high temperatures across all causes and determined the three leading causes. For each, we used age-standardized mortality rates attributable to high temperature (HA-ASMR) and estimated temporal trends via age-period-cohort modeling at global, regional, and national levels (1990-2021). Ischemic heart disease, stroke, and lower respiratory infections were the top three causes of deaths attributable to high temperature in 2021. Low-middle Socio-demographic Index (SDI) regions had the highest HA-ASMR for ischemic heart disease (3.49, 95%UI: 0.96-6.57) and stroke (2.55, 95%UI: 0.77-5.01), whereas lower respiratory infections showed the highest HA-ASMR in low SDI regions (2.52, 95%UI: 0.85-4.35). Age-period-cohort analysis generated net drift values for HA-ASMR in high SDI regions, with values of 0.99% (95%CI: 0.60%-1.39%) for ischemic heart disease, 1.19% (95%CI: 0.99%-1.40%) for stroke, and 2.36% (95%CI: 2.01%-2.70%) for lower respiratory infections. Longitudinal age curves showed elevated mortality risks attributable to high temperature in populations over 60 years. Global period and cohort rate ratios for high-temperature-attributable ischemic heart disease mortality increased over time. Global ischemic heart disease and stroke deaths attributable to high temperature continued rising with sharply elevated risks in older adults, while lower respiratory infection deaths attributable to high temperature among youth in high-income countries are increasing. Therefore, adaptation strategies must be specific to disease and age, varying by regional characteristics.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious",
+        "neurology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676029/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893078",
+      "pmid": "42893078",
+      "doi": "10.1002/ccr3.73701",
+      "title": "Diffuse Leptomeningeal Glioneuronal Tumor With Initial Diagnosis of Pilocytic Astrocytoma With Anaplasia: A Case Study.",
+      "authors": [
+        "Zhou A",
+        "Carmicheal J",
+        "Chen J",
+        "Zhang C"
+      ],
+      "journal": "Clinical case reports",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Diffuse leptomeningeal glioneuronal tumor is a rare central nervous system tumor with imaging findings including leptomeningeal enhancement and nodular/cystic lesions. This case highlights how patients can have differing imaging features, requiring whole-genome DNA methylation profiling for diagnosis, and demonstrates successful treatment after initial descriptive diagnosis of pilocytic astrocytoma with anaplasia.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13675905/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42891253",
       "pmid": "42891253",
       "doi": "10.1002/pul2.70412",
@@ -358670,483 +359156,6 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13541793/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42462639",
-      "pmid": "42462639",
-      "doi": "10.1016/j.pec.2026.109774",
-      "title": "Attitudes toward clinical genetic testing and data sharing among adolescents and young adults with congenital heart disease.",
-      "authors": [
-        "Madanay F",
-        "Gutierrez AM",
-        "Nayan R",
-        "Nguyen TT",
-        "Boyce K",
-        "Pinto NM",
-        "Fagerlin A",
-        "Lindsay IM",
-        "Delaney RK"
-      ],
-      "journal": "Patient education and counseling",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVE: Describe the attitudes and preferences of adolescents and young adults (AYAs) with congenital heart disease (CHD) toward clinical genetic testing and sharing their genetic data for research.\n\nMETHODS: We conducted interviews (n = 20) with AYA patients ages 15-21 years, diagnosed with CHD, who provided age-appropriate assent with parental permission or consent. Interviews were analyzed using analytic memos and applied thematic analysis.\n\nRESULTS: We found three overarching themes. First, AYAs viewed genetic testing as a tool for understanding and preparing for life with CHD. AYAs thought genetic testing might help them identify the etiology of their CHD and plan for long-term health-related needs. Second, AYAs described balancing concerns about CHD heritability with desires for parenthood. They perceived that genetic testing would clarify CHD transmission and inform their reproductive decisions. Third, AYAs expressed willingness to share genetic data with appropriate consent and privacy protections. AYAs were altruistically motivated to share their data to advance science and help others with CHD, though they desired active inclusion in decision-making given their concerns about data confidentiality and misuse.\n\nCONCLUSION: AYAs had positive attitudes toward genetic testing and data sharing and preferred to assume active, autonomous decision-making roles in research participation. Our results highlight opportunities to address the genetic educational needs of AYAs with CHD regarding current and future implications of genetic testing, particularly around family planning.\n\nPRACTICE IMPLICATIONS: Pediatric-to-adult care transition programs for AYAs with CHD should include genetic counseling and education tailored to their motivations and concerns, including potential family impact and data governance.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42462399",
-      "pmid": "42462399",
-      "doi": "10.1016/j.semarthrit.2026.153043",
-      "title": "Interstitial lung disease in mixed connective tissue disease: Insights from an electronic health record-based retrospective cohort study.",
-      "authors": [
-        "Haussmann AJ",
-        "Chin AT",
-        "Wilhalme H",
-        "Volkmann ER"
-      ],
-      "journal": "Seminars in arthritis and rheumatism",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVE: Pulmonary complications, including interstitial lung disease (ILD), are common and contribute to morbidity and mortality in mixed connective tissue disease (MCTD). However, risk factors for ILD in MCTD are poorly understood, which can hinder early detection of this fatal complication. The purpose of this study was to identify predictors of ILD presence in MCTD using structured electronic health record (EHR) data.\n\nMETHODS: We performed a retrospective EHR-based investigation of adults with MCTD evaluated at a large urban academic medical center between 2014 and 2026. Patients were identified using an adapted Kasukawa classification algorithm. Univariable and multivariable logistic regression were used to assess associations between clinical features and ILD. Cox proportional hazards models with time-dependent ILD status were used to examine mortality. A prespecified sensitivity analysis was performed using a more restrictive cohort definition.\n\nRESULTS: Among 120 patients, 61 (50.8%) had ILD. In multivariable logistic regression, pulmonary hypertension (PH) was independently associated with ILD (OR 5.10, 95% CI 1.91-13.63, p = 0.001). Age 55-74 years was independently associated with ILD (OR 7.61, 95% CI 1.74-33.33, p = 0.007). Gastroesophageal reflux disease (GERD) was associated with higher odds of ILD, although the association did not reach statistical significance after adjustment (OR 3.16, 95% CI 0.92-10.79, p = 0.067). In the survival analysis (n = 120, 11 deaths), the time-dependent hazard ratio for ILD was 2.57 (95% CI 0.74-8.94, p = 0.137); the age-adjusted HR was 2.60 (95% CI 0.75-9.03, p = 0.134).\n\nCONCLUSION: ILD affected roughly half of patients with MCTD in this EHR-based cohort. PH and older age were independently associated with ILD, suggesting that patients with these features may warrant heightened pulmonary surveillance. Survival analyses were hypothesis-generating, with ILD associated with numerically higher mortality that did not reach statistical significance. Structured EHR methods can delineate real-world disease patterns in rare systemic autoimmune disease like MCTD. Standardized classification and routine pulmonary screening may enable earlier recognition and targeted intervention.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42462145",
-      "pmid": "42462145",
-      "doi": "10.1097/JU.0000000000005219",
-      "title": "Advanced Prostate Cancer: AUA/SUO Guideline Amendment (2026) Part II: Evaluation and Management of Metastatic Castration-Resistant Prostate Cancer.",
-      "authors": [
-        "Scarpato KR",
-        "Cookson MS",
-        "Dreicer R",
-        "Sayan M",
-        "Yu A",
-        "Kirkby E",
-        "Pak LJ",
-        "D'Anci KE"
-      ],
-      "journal": "The Journal of urology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE: Following completion of the 2025 Update Literature Review (ULR), the American Urological Association (AUA) incorporated new evidence generated since the 2023 publication of this Guideline via the AUA Amendment process. The summary presented herein represents Part II of the two-part series dedicated to addressing updated recommendations to provide a clinical framework for the evaluation and management of metastatic castration-resistant prostate cancer (mCRPC).\n\nMATERIALS AND METHODS: The AUA/SUO Advanced Prostate Cancer Guideline was reviewed via the AUA ULR process, which identified 38 studies for full-text review that were published between March 16, 2022, and August 26, 2025. Relevant studies were incorporated into the Guideline evidence base, and Guideline statements were updated as appropriate.\n\nRESULTS: The Panel developed evidence- and consensus-based statements based on an updated review to provide guidance on evaluation and management of advanced prostate cancer. These updates are detailed herein.\n\nCONCLUSIONS: Part II of this Amendment provides new guidance on treatment of mCRPC and discusses future directions for the evaluation and management of advanced prostate cancer overall. Additional guidance regarding non-metastatic castration-resistant prostate cancer (nmCRPC) was deemed current following review. This Guideline will require further review as the diagnostic and treatment options in this space continue to evolve.",
-      "publication_types": [
-        "Journal Article",
-        "Practice Guideline"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42462144",
-      "pmid": "42462144",
-      "doi": "10.1097/JU.0000000000005220",
-      "title": "Advanced Prostate Cancer: AUA/SUO Guideline Amendment (2026) Part I: Evaluation and Treatment of Biochemically Recurrent (Following Exhaustion of Local Therapy) and Metastatic Hormone-Sensitive Prostate Cancer.",
-      "authors": [
-        "Scarpato KR",
-        "Cookson MS",
-        "Dreicer R",
-        "Sayan M",
-        "Yu A",
-        "D'Anci KE",
-        "Pak LJ",
-        "Kirkby E"
-      ],
-      "journal": "The Journal of urology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE: Following completion of the 2025 Update Literature Review (ULR), the American Urological Association (AUA) incorporated new evidence generated since the 2023 publication of this Guideline via the AUA Amendment process. The summary presented herein represents Part I of the two-part series dedicated to addressing updated recommendations to provide a clinical framework for the evaluation and management of biochemically recurrent (BCR) and metastatic hormone-sensitive prostate cancer (mHSPC).\n\nMATERIALS AND METHODS: The AUA/SUO Advanced Prostate Cancer Guideline was reviewed via the AUA ULR process, which identified 38 studies for full-text review that were published between March 16, 2022 and August 26, 2025. Relevant studies were incorporated into the Guideline evidence base, and Guideline statements were updated as appropriate.\n\nRESULTS: The Panel developed evidence- and consensus-based statements based on an updated review to provide guidance on evaluation and management of advanced prostate cancer. These updates are detailed herein.\n\nCONCLUSIONS: Part I of this Amendment provides updated guidance on imaging, germline and somatic testing, and evaluation and treatment of BCR following exhaustion of local therapy and mHSPC. This Guideline will require further review as the diagnostic and treatment options in this space continue to evolve.",
-      "publication_types": [
-        "Journal Article",
-        "Practice Guideline"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42461618",
-      "pmid": "42461618",
-      "doi": "10.1097/DCR.0000000000004373",
-      "title": "Three-Year Follow-up of the Randomized Trial Comparing Open Versus Laparoscopic Surgery for Primary Tumor Resection in Patients With Noncurable Stage IV Colon Cancer (JCOG1107).",
-      "authors": [
-        "Shiomi A",
-        "Akagi T",
-        "Kajikawa R",
-        "Katayama H",
-        "Mizusawa J",
-        "Hasegawa T",
-        "Ito M",
-        "Watanabe J",
-        "Yamaguchi T",
-        "Okajima M",
-        "Ikeda S",
-        "Tsukamoto S",
-        "Takashima A",
-        "Kanemitsu Y",
-        "Inomata M"
-      ],
-      "journal": "Diseases of the colon and rectum",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: JCOG1107 (University Hospital Medical Information Network Clinical Trials Registry, No. UMIN000009715) was a noninferiority phase III trial comparing laparoscopic and open surgery for symptomatic, noncurable stage IV colon cancer. The primary analysis confirmed the noninferiority of laparoscopic surgery in terms of progression-free survival.\n\nOBJECTIVE: This study aimed to compare long-term outcomes of laparoscopic and open surgery for stage IV colon cancer.\n\nDESIGN: Multicenter, open-label, randomized controlled phase III trial.\n\nSETTING: Forty-two Japanese institutions.\n\nPATIENTS: Participants were considered eligible if they had pathologically confirmed adenocarcinoma or adenosquamous carcinoma with a primary tumor between the cecum and rectosigmoid, presented with stenosis and/or bleeding, and 1 to 3 noncurable factors. The required sample size was 194 to ensure 70% power, a 1-sided alpha of 5%, and a noninferiority HR margin of 1.38.\n\nINTERVENTIONS: Patients were randomly assigned to receive either open or laparoscopic primary tumor resection, followed by modified oxaliplatin, 5-FU, and folinic acid plus bevacizumab or capecitabine plus oxaliplatin with bevacizumab.\n\nMAIN OUTCOME MEASURES: The primary end point was progression-free survival.\n\nRESULTS: A total of 195 patients were randomly assigned, including 95 open and 100 laparoscopic surgeries. Postoperative chemotherapy was given to 82 and 86 patients, respectively. The median follow-up period for all randomly assigned patients was 24.4 months. Grade 3 or higher late complications occurred in 1 open (1.1%) and 2 laparoscopic (2.0%) patients. Three-year progression-free survival rates were 5.3% (95% CI, 2.0-11.0) for open surgery and 3.0% (0.8-7.8) for laparoscopic surgery (HR 1.028; 95% CI, 0.772-1.370; p value for noninferiority = 0.02). The 3-year overall survival rates were 31.5% (22.5-41.0) and 28.5% (20.0-37.6; HR 1.048; 95% CI, 0.780-1.410), respectively.\n\nLIMITATIONS: Chemotherapy was administered without knowledge of microsatellite instability or RAS / BRAF mutation status.\n\nCONCLUSIONS: Laparoscopic surgery is noninferior to open surgery for noncurable stage IV colon cancer in terms of progression-free survival and should be considered an acceptable surgical option. See Video Abstract .\n\nSEGUIMIENTO A TRES AOS DEL ENSAYO ALEATORIZADO QUE COMPARA LA CIRUGA ABIERTA CON LA LAPAROSCPICA PARA LA RESECCIN DEL TUMOR PRIMARIO EN PACIENTES CON CNCER DE COLON EN ESTADIO IV NO CURABLE JCOG: ANTECEDENTES:JCOG1107 (UMIN-CTR, número UMIN000009715) fue un ensayo de fase III de no inferioridad que comparó la cirugía laparoscópica y la cirugía abierta para el cáncer de colon en estadio IV sintomático e incurable. El análisis primario confirmó la no inferioridad de la cirugía laparoscópica en términos de supervivencia libre de progresión.OBJETIVO:Comparar los resultados a largo plazo de la cirugía laparoscópica y la cirugía abierta para el cáncer de colon en estadio IV.DISEÑO:Ensayo multicéntrico, abierto, aleatorizado y controlado de fase III.ÁMBITO:Cuarenta y dos instituciones japonesas.PACIENTES:Se consideraron elegibles los participantes con adenocarcinoma o carcinoma adenoescamoso confirmado histológicamente, con un tumor primario entre el ciego y el rectosigmoides, que presentaran estenosis y/o sangrado, y de uno a tres factores de no curación. El tamaño de muestra requerido fue de 194 para garantizar una potencia del 70 %, un alfa unilateral del 5 % y un margen de riesgo relativo de no inferioridad de 1,38.INTERVENCIONES:Los pacientes fueron aleatorizados para recibir resección tumoral primaria abierta o laparoscópica, seguida de FOLFOX6 modificado más bevacizumab o capecitabina más oxaliplatino con bevacizumab.PRINCIPALES MEDIDAS DE RESULTADO:El criterio de valoración principal fue la supervivencia libre de progresión.RESULTADOS:Se aleatorizaron un total de 195 pacientes, incluyendo 95 cirugías abiertas y 100 laparoscópicas. Se administró quimioterapia postoperatoria a 82 y 86 pacientes, respectivamente. El período de seguimiento medio para todos los pacientes aleatorizados fue de 24,4 meses. Se produjeron complicaciones tardías de grado ≥3 en un paciente del grupo de cirugía abierta (1,1 %) y en dos del grupo de cirugía laparoscópica (2,0 %). La supervivencia libre de progresión a los tres años fue del 5,3 % (intervalo de confianza del 95 %: 2,0-11,0) para la cirugía abierta y del 3,0 % (0,8-7,8) para la cirugía laparoscópica (cociente de riesgos: 1,028; intervalo de confianza del 95 %: 0,772-1,370; p de no inferioridad = 0,02). La supervivencia global a los tres años fue del 31,5 % (22,5-41,0) y del 28,5 % (20,0-37,6) (cociente de riesgos: 1,048; intervalo de confianza del 95 %: 0,780-1,410), respectivamente.LIMITACIONES:La quimioterapia se administró sin conocer la inestabilidad de microsatélites ni el estado de mutación de RAS/BRAF.CONCLUSIÓN:La cirugía laparoscópica no es inferior a la cirugía abierta para el cáncer de colon en estadio IV no curable y debe considerarse una opción quirúrgica aceptable. (AI-generated translation ).",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study",
-        "Clinical Trial, Phase III",
-        "Comparative Study",
-        "Equivalence Trial",
-        "Video-Audio Media"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42457098",
-      "pmid": "42457098",
-      "doi": "10.1016/j.micpath.2026.108703",
-      "title": "Unraveling Mycobacterium abscessus: Pathogenesis and host immune dynamics.",
-      "authors": [
-        "Ju D",
-        "Li P",
-        "Su D",
-        "Chen H",
-        "Chen P",
-        "Tan Y",
-        "Su N",
-        "Zhu J",
-        "Hu J"
-      ],
-      "journal": "Microbial pathogenesis",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "The worldwide trend shows a continuous increase in pulmonary infections caused by nontuberculous mycobacteria (NTM), with Mycobacterium abscessus (M. abscessus) emerging as a major concern as the most common rapidly growing opportunistic pathogen. It poses a substantial risk, causing severe respiratory, skin, and mucosal infections, especially among patients suffering from chronic pulmonary disease and cystic fibrosis (CF). The diverse virulence factors and complex resistance mechanisms of M. abscessus create formidable challenges in clinical management. As pivotal effectors in innate immunity, macrophages are essential in initiating immune responses against M. abscessus and constitute a central component of the host immune network. A thorough insight into how M. abscessus interacts with the host's immune defense is crucial for deepening our understanding of this infection. This review summarizes the pathogenic mechanisms and host immune responses to M. abscessus, with the goal of providing insights into the escalating challenges posed by this increasingly virulent and resistant pathogen.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "respiratory"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42457097",
-      "pmid": "42457097",
-      "doi": "10.1016/j.micpath.2026.108709",
-      "title": "Intracellular harboring of Helicobacter pylori within Candida species in human gastric biopsies: Evidence suggestive of a potential Trojan horse mechanism.",
-      "authors": [
-        "Birol D",
-        "Abaci Gunyar Ö",
-        "Ildan A",
-        "Sarikaya OF",
-        "Boyacioglu H",
-        "Unal NG"
-      ],
-      "journal": "Microbial pathogenesis",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Helicobacter pylori (H. pylori) is a globally prevalent pathogen associated with gastritis, peptic ulcer and gastric adenocarcinoma. Despite available eradication therapies, treatment failures remain common, suggesting alternative survival mechanisms. Recent studies have proposed that H. pylori may persist within yeasts, particularly Candida species, through endofungal associations.\n\nMETHODS: In this prospective cross-sectional study, gastric biopsy specimens from 233 patients undergoing upper gastrointestinal endoscopy at Gastroenterology Department of Ege University Hospital between July 2021 and October 2022 were analyzed. Candida spp. were isolated and examined for intracellular bacteria and intracellular H. pylori. Molecular assays, including H. pylori-specific primers and virulence gene analysis, were performed directly from total Candida DNA without prior bacterial culture. Species-level identification of Candida isolates was confirmed by PCR and sequencing.\n\nRESULTS: Candida species were isolated from gastric biopsy samples of 94 (40.3%) of the total 233 patients, yielding 159 Candida isolates overall. Endofungal H. pylori was detected in 48 of these 159 isolates (30.2%), corresponding to 38 of the 94 Candida-positive patients (40.4%), as some patients yielded positive isolates from both the antrum and corpus. Region-specific analysis revealed that endofungal H. pylori-positive Candida isolates were present in 10.3% of patients from the antrum and 9.0% from the corpus. Molecular analysis further confirmed the presence of H. pylori virulence genes within yeast isolates.\n\nCONCLUSIONS: Our findings suggest that Candida species may serve as an intracellular reservoir for H. pylori, potentially contributing to persistence, and may play a role in treatment failure and recurrence.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42456947",
-      "pmid": "42456947",
-      "doi": "10.1016/j.taap.2026.117962",
-      "title": "Hepatoprotective potential of cardionogen-1, a Wnt/β-catenin signaling inhibitor against alcohol-induced chronic liver injury in C57BL/6J mice.",
-      "authors": [
-        "Shree Harini K",
-        "Ezhilarasan D",
-        "Karthick M"
-      ],
-      "journal": "Toxicology and applied pharmacology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Alcoholic liver disease (ALD) develops following chronic alcohol consumption and is characterized by steatosis, inflammation, fibrosis, and cirrhosis. Increasing evidence suggests that dysregulated Wnt/β-catenin signaling contributes to the progression of ALD. Therefore, the present study investigated the hepatoprotective effect of cardionogen-1 (CDNG-1), a Wnt/β-catenin signaling modulator, against alcohol-induced chronic liver injury in C57BL/6J mice. Mice were administered ethanol for 14 weeks to induce chronic liver injury, followed by treatment with CDNG-1 (50 and 100 μM/100 g, i.p.) or silymarin (100 mg/kg, p.o.) for 4 weeks. Chronic ethanol exposure elevated liver marker enzymes in serum, increased oxidative stress, altered lipid metabolism-associated gene expression, and promoted inflammatory and fibrotic responses in liver tissue. CDNG-1 treatment significantly reduced serum transaminases, improved antioxidant status, and favorably regulated the expression of genes associated with alcohol metabolism, lipid dysregulation, inflammation, fibrosis, and Wnt/β-catenin signaling. Histopathological analysis also demonstrated reduced alcohol-induced hepatocellular ballooning and inflammatory infiltration following CDNG-1 treatment. The findings of the present study suggest that CDNG-1 attenuates alcohol-induced chronic liver injury and may represent a potential therapeutic candidate for ALD.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42456918",
-      "pmid": "42456918",
-      "doi": "10.1016/j.abb.2026.110943",
-      "title": "METTL3/FOSL1-associated inflammatory and autophagy-related responses involve m6A-related regulation in sepsis-induced acute kidney injury.",
-      "authors": [
-        "Shao F",
-        "Pan J",
-        "Yan Q",
-        "Zhang J",
-        "Guan Z"
-      ],
-      "journal": "Archives of biochemistry and biophysics",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Sepsis-induced acute kidney injury (S-AKI) is marked by tubular damage, inflammation, and dysregulated autophagy. N6-methyladenosine (m6A) RNA modification has emerged as an important regulator of mRNA stability and cellular stress responses; however, its involvement and related regulatory mechanisms in S-AKI remain incompletely understood.\n\nMETHODS: Human HK-2 proximal tubular epithelial cells were stimulated with LPS to establish an in vitro S-AKI model, while CLP-induced septic C57BL/6 J mice were used as an in vivo model. Global m6A levels, METTL3, and FOSL1 expression were assessed by ELISA, qRT-PCR, and Western blot. Functional roles of METTL3 and FOSL1 were evaluated using siRNA-mediated knockdown, plasmid-driven overexpression, and pharmacological inhibitors. MeRIP-qPCR and RIP-qPCR were performed to evaluate m6A-related enrichment and the association between METTL3 and FOSL1 mRNA. Inflammatory cytokines, autophagy-related markers, NF-κB and mTOR signaling alterations, renal function, and histopathological changes were assessed.\n\nRESULTS: LPS stimulation increased global m6A levels and upregulated METTL3 and FOSL1 expression in HK-2 cells, accompanied by enhanced inflammatory responses and autophagy-related alterations. FOSL1 knockdown attenuated LPS-induced inflammation and autophagy-related changes, whereas METTL3 overexpression increased FOSL1 expression and exacerbated these effects. Further analyses indicated that METTL3 was associated with FOSL1 mRNA stability in an m6A-related manner. Alterations in FOSL1 expression were associated with changes in NF-κB and mTOR-related signaling responses under S-AKI conditions. In CLP-induced S-AKI mice, METTL3 knockdown reduced FOSL1 expression, alleviated inflammatory responses and autophagy-related alterations, and improved renal function and histopathological injury.\n\nCONCLUSION: Our findings suggest that METTL3/FOSL1-associated regulatory responses may participate in S-AKI through m6A-related regulation, contributing to inflammatory and autophagy-related alterations. These findings provide further insight into the involvement of m6A-related regulation in the pathogenesis of S-AKI.",
-      "publication_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42456611",
-      "pmid": "42456611",
-      "doi": "10.1016/j.aap.2026.108670",
-      "title": "Instantaneous traffic near-miss identification based on vehicle speeds and proximity at signalized intersections.",
-      "authors": [
-        "Shrestha S",
-        "Tiwari S",
-        "Slade Wang P",
-        "Taylor Li P"
-      ],
-      "journal": "Accident; analysis and prevention",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Traffic near misses refer to situations in which conflicting vehicles or vulnerable road users (VRUs) are about to crash but take evasive actions to avoid collision. Frequent near misses are strongly associated with crash potential, making them useful proactive safety indicators. Existing trajectory-based near-miss identification methods commonly require continuous tracking and post-processing of road-user trajectories, which can be computationally intensive for real-time applications. This paper presents a proximity-and-speed-based method for instantaneous near-miss identification at signalized intersections. The proposed framework scopes conflict zones by translating TTC/PET-based safety logic into spatial detection zones using vehicle speed, perception-reaction time, deceleration assumptions, and intersection geometry. A near miss is identified when conflicting fast vehicles occupy the scoped conflict zone during the relevant signal phase, allowing isolated event detection rather than continuous pairwise trajectory processing. The framework was tested at a LiDAR-equipped signalized intersection in Salt Lake City, Utah, USA. In a four-hour field evaluation, the algorithm identified 38 instantaneous near-miss events between permissive northbound left-turn vehicles and opposing southbound through vehicles using a 2.0-s post-encroachment time (PET) threshold. All LiDAR-reported events were validated through live monitoring and video review, and manually reviewed PET values were highly correlated with LiDAR-reported PET values. These findings demonstrate that the proposed conflict-zone-based framework can generate movement-specific and phase-specific near-miss events in real time while reducing the need for continuous trajectory processing of all vehicles.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42456243",
-      "pmid": "42456243",
-      "doi": "10.1016/j.clinimag.2026.110899",
-      "title": "Association of indexed pericardial fat volume with coronary plaque burden and plaque composition in patients with non-obstructive coronary artery disease.",
-      "authors": [
-        "Alicioglu B",
-        "Arslan B",
-        "Kokturk F"
-      ],
-      "journal": "Clinical imaging",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Coronary plaque characteristics, rather than luminal stenosis, are important determinants of cardiovascular risk. The role of pericardial fat in non-stenotic coronary artery disease (CAD) remains unclear. This study investigated the association between pericardial fat volume (PFV) and coronary plaque burden in patients with non-stenotic CAD.\n\nMETHODS: This retrospective study included patients with CAD-RADS 0-2 who underwent coronary CT angiography. Patients with >50% stenosis, prior coronary intervention, or chronic systemic disease were excluded. Plaque burden and composition were quantified using dedicated software. PFV was measured by semi-automatic segmentation and indexed to body surface area (IFV). Associations between IFV, coronary plaque burden, and cardiovascular risk factors were evaluated using correlation analysis and multivariable regression models, including logistic regression for high plaque burden and linear regression for continuous plaque volume measures.\n\nRESULTS: A total of 197 patients (47.7% male) were included. IFV was positively correlated with total plaque burden (p < 0.001), with modest associations for non-calcified plaques. Patients with high IFV had greater total and subtype plaque volumes, older age, higher fasting blood glucose levels, and more frequent hypertension (p < 0.05). Age, male sex, serum FBG, and IFV were independent predictors of increased coronary atheroma burden in multivariable logistic regression analysis (all p ≤ 0.005). However, IFV was not independently associated with continuous plaque volumes in multivariable linear regression models, while age remained independently associated with non-calcified plaque burden (β = 0.439, p = 0.017).\n\nCONCLUSION: IFV showed modest associations with coronary atherosclerotic plaque burden and non-calcified plaques, but is not an independent determinant of plaque volume.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "coronary"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42456242",
-      "pmid": "42456242",
-      "doi": "10.1016/j.clinimag.2026.110901",
-      "title": "Bibliometric analysis of the top 100 cited articles on contrast media complications: Influence of agent class and structure.",
-      "authors": [
-        "Ayyildiz H",
-        "Ersoy B",
-        "Erturk SM"
-      ],
-      "journal": "Clinical imaging",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Contrast media complications have shaped radiologic practice through successive safety concerns over iodinated and gadolinium-based agents. This study aimed to characterize the intellectual structure and dominant clinical themes of the 100 most-cited articles on contrast media complications, specifically evaluating agent class and gadolinium chelate structure (linear vs. macrocyclic).\n\nMETHODS: The Web of Science Core Collection was searched in January 2026. The 100 most-cited publications primarily focused on contrast-related complications were analyzed. Extracted variables included citation metrics, study design, complication category, contrast agent class, and gadolinium chelate structure. Citation density was calculated, and associations were assessed using chi-square and non-parametric tests.\n\nRESULTS: Published between 1989 and 2021, the 100 citation classics had a median of 310.5 total citations and a median citation density of 16.9. Renal complications, notably contrast-induced acute kidney injury, predominated (49%), followed by nephrogenic systemic fibrosis and gadolinium deposition. Studies on iodinated agents were most frequent overall, while gadolinium-focused classics primarily addressed fibrosis and tissue retention. A significant temporal shift was observed (p = 0.004), with post-2010 literature increasingly focused on gadolinium deposition. Eighty-one percent of articles appeared in Q1 journals. Industry involvement was more common in gadolinium-related studies (p < 0.001).\n\nCONCLUSION: Highly cited contrast media research reflects successive safety crises, evolving from renal injury to fibrosis and gadolinium retention. While severe adverse events dominate this influential literature, other clinically relevant complications remain comparatively underrepresented, underscoring the need for broader, proactive safety research.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42456118",
-      "pmid": "42456118",
-      "doi": "10.1097/GCO.0000000000001129",
-      "title": "Evaluation of vaginitis and its treatment.",
-      "authors": [
-        "McKinney SA",
-        "Gross EA"
-      ],
-      "journal": "Current opinion in obstetrics & gynecology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE OF REVIEW: Vaginitis is one of the most common reasons a patient will present for care in both the ambulatory and urgent care settings. The objective of this review is to summarize traditional methods of evaluation and treatment for the most commonly seen vaginitis and vaginosis, but also to present updated literature and future management directions for this common and sometimes resilient medical problem.\n\nRECENT FINDINGS: A randomized controlled trial of partners in monogamous heterosexual relationships and the recurrence rate of bacterial vaginosis when male partners were simultaneously treated. Systematic review investigating the effectiveness of intravaginal vitamin C in treating and preventing recurrent bacterial vaginosis. Randomized controlled trial evaluating oteseconazole and its benefit against recurrent vulvovaginal candidiasis. A meta-analysis to evaluate breast cancer recurrence and mortality among breast cancer survivors using vaginal estrogen for genitourinary syndrome of menopause.\n\nSUMMARY: Vaginitis is an incredibly common problem among women of all ages globally. Traditional therapies, including oral and topical antibiotics and antifungals, are effective in many patients, but recurrence is common, necessitating prolonged suppressive therapy. Newer therapies include partner treatment, but also the use of newer medications with different mechanisms of action and consideration of adjunctive therapies such as vaginal pH-modulating topicals and adjunctive live biotherapeutic products.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42448806",
-      "pmid": "42448806",
-      "doi": "10.1007/s00393-026-01840-2",
-      "title": "[Recommendations of the German Society for Rheumatology committee for complementary treatment and nutrition on phytotherapy : Supplement on the use of selected phytotherapeutic agents and herbal preparations in rheumatology: extension to include 13 medicinal plants].",
-      "authors": [
-        "Keyßer G",
-        "Sander O",
-        "Frohne I",
-        "Pfeil A",
-        "Michalsen A",
-        "Schultz O",
-        "Reuß-Borst M",
-        "Seifert O",
-        "DGRh-Kommission für Komplementäre Heilverfahren und Ernährung"
-      ],
-      "journal": "Zeitschrift fur Rheumatologie",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Medicinal plants and their preparations are of great interest to many patients with rheumatic diseases. In 2023 the German Society for Rheumatology and Clinical Immunology (DGRh) Committee for Complementary Medicine and Nutrition (KHE) began reviewing the scientific literature on selected phytotherapeutic agents and herbal preparations and examining their potential applications in rheumatology. Following the publication of the initial results in 2025, the evaluation of 13 additional phytotherapeutic agents took place later that same year.\n\nMETHODS: In an online meeting of the KHE Committee on 7 January 2025, a further list of phytotherapeutic agents frequently used in rheumatology (mostly as self-medication) was compiled. Committee members then conducted literature searches on these herbal preparations and summarized the results according to a predefined matrix. Research was conducted on comfrey, arnica, turmeric, ginger, cat's claw (Uncaria tomentosa), garlic, cabbage leaves, milk thistle, Pycnogenol (extract from the bark of maritime pine), horsetail, devil's claw (Harpagophytum), frankincense (Boswellia) and Wilford's tripter fruit (Tripterygium wilfordii). The results were reviewed using a circulation procedure, a consensus was agreed upon in an online meeting of the KHE committee and finally confirmed by the German Society for Rheumatology and Clinical Immunology (DGRh).\n\nRESULTS: For all plant substances investigated, there are reports of anti-inflammatory or immunological effects in vitro and/or in animal models; however, the evidence for a clinically relevant benefit is very limited. None of the investigated preparations can be recommended for use in inflammatory joint diseases. If arnica, comfrey, turmeric, ginger, garlic, cabbage leaves, Pycnogenol, devil's claw or frankincense are taken at the patient's own initiative for degenerative joint diseases, rheumatologists do not need to advise against them, provided a sensible treatment plan is otherwise being followed. Ginger, garlic and turmeric in their natural form can be recommended as foods within the framework of a health-conscious diet.\n\nCONCLUSION: The scientific analysis of a second series of herbal preparations has also shown that the confirmed value of phytotherapy for the field is limited; however, for the rheumatological practice a differentiated consideration is needed for the herbal preparations presented here.",
-      "publication_types": [
-        "Consensus Statement",
-        "English Abstract",
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "rheumatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13649835/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42448569",
-      "pmid": "42448569",
-      "doi": "10.26508/lsa.202503568",
-      "title": "The onset of hypertension in metabolic syndrome is independent of renal sympathetic innervation.",
-      "authors": [
-        "Flores-Sandoval O",
-        "Cárdenas-Romero S",
-        "Báez-Ruiz A",
-        "Salgado-Delgado RC",
-        "Saderi N"
-      ],
-      "journal": "Life science alliance",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Increased sympathetic tone and hypertension are hallmarks of metabolic syndrome and contribute to chronic kidney disease. Although renal sympathetic denervation transiently lowers blood pressure, its role in the development of metabolic and renal alterations remains unclear. Here, we evaluated the contribution of renal sympathetic input to the onset and progression of high-fat diet-induced alterations. Male Wistar rats underwent bilateral renal denervation before metabolic challenge and were fed a standard or high-fat diet for 8 or 12 wk. High-fat feeding induced hypertension, proteinuria, increased angiotensin II, and reduced creatinine clearance, urinary flow, and potassium excretion, independently of denervation. Renal norepinephrine content confirmed effective denervation and was not affected by diet. Denervation attenuated ketonuria in high-fat diet-fed rats. The phosphorylation of AKT, PI3K, and ERK1/2 in the kidney was modulated by interactions among diet, renal sympathetic input, and time. These findings indicate that renal sympathetic nerves contribute to early stages of metabolic dysregulation, whereas prolonged hypercaloric exposure overrides autonomic control and promotes cardiovascular and renal complications.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13370070/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42448156",
-      "pmid": "42448156",
-      "doi": "10.1016/j.jpainsymman.2026.07.006",
-      "title": "Applying Spiritual AIM With Pediatric Cancer Patients and Families: A Composite Case Report.",
-      "authors": [
-        "Sheldon W",
-        "Berning J",
-        "Springer M",
-        "Kestenbaum A"
-      ],
-      "journal": "Journal of pain and symptom management",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "This composite case report advances the field of spiritual care assessment by applying the evidence-based Spiritual Assessment and Intervention Model in the pediatric hematology/oncology setting. Spiritual assessment is the standard of care for pediatric cancer patients, yet research in this area is limited. The case of five-year-old \"Manuel\" and his father \"Luis\" is described through dialogue with a chaplain. Family Systems Theory and the work of Rebecca Nye on children's spirituality augment Spiritual AIM and strengthen the provision of spiritual care in the pediatric setting.",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "topics": [
-        "hematology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42447947",
-      "pmid": "42447947",
-      "doi": "10.1016/j.abb.2026.110941",
-      "title": "Sodium lactate attenuates LPS-induced acute kidney injury by suppressing CHOP dependent endoplasmic reticulum stress.",
-      "authors": [
-        "Ma X",
-        "Zhang H",
-        "Wang Y",
-        "Sun H",
-        "Liang J",
-        "Wang Y",
-        "Yang W"
-      ],
-      "journal": "Archives of biochemistry and biophysics",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Dysregulated lactate metabolism and endoplasmic reticulum (ER) stress contribute to sepsis-associated acute kidney injury (AKI). We tested whether sodium lactate mitigates LPS-induced AKI in association with reduced CHOP signaling.\n\nMETHODS: LPS-induced AKI was established in mice and modeled in HK-2 cells. NALA was administered in vivo and in vitro. Renal injury was assessed by histology and renal function (serum creatinine, blood urea nitrogen). Inflammatory and apoptotic signaling (IL-6, IL-1β, TNF-α; Bcl-2, Bax, cleaved caspase-3) and ER-stress markers (CHOP) were quantified by western blotting and RT-qPCR. The glycolytic enzymes LDHA and PKM2 were measured to explore effects on lactate-related metabolism. Group comparisons used standard parametric/non-parametric tests and one-way ANOVA with multiple comparisons.\n\nRESULTS: In mice, NALA attenuated tubular injury and lowered serum creatinine and urea nitrogen compared with LPS alone. Renal expression of IL-6, IL-1β and TNF-α decreased with NALA, accompanied by increased Bcl-2 and reduced Bax and cleaved caspase-3. NALA downregulated CHOP in renal tissue. In HK-2 cells, NALA similarly blunted LPS-induced inflammatory cytokines and apoptosis-related changes and reduced CHOP expression. Across models, NALA decreased LDHA and PKM2 expression, indicating modulation of glycolysis-linked lactate metabolism.\n\nCONCLUSIONS: NALA mitigates LPS-induced AKI in vivo and in vitro, associated with suppression of CHOP expression, ER stress, dampening of inflammatory and apoptotic signaling, with concomitant effects on LDHA/PKM2. These findings support further evaluation of sodium lactate as a metabolism-informed intervention for sepsis-related AKI, including dose-response, time-course, and upstream UPR-branch analyses in extended preclinical studies.",
-      "publication_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
       "source": "PubMed"
     }
   ]
