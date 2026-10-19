@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:40:28.815712+00:00",
+  "generated_at": "2026-10-19T00:13:54.371316+00:00",
   "articles": [
     {
       "id": "pmid:42879336",
@@ -49955,6 +49955,702 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42893597",
+      "pmid": "42893597",
+      "doi": "10.1097/COC.0000000000001390",
+      "title": "Sex Differences in Postoperative Outcomes for Men and Women With Colon Cancer in the US Military Health System.",
+      "authors": [
+        "Eaglehouse YL",
+        "Gage MM",
+        "Darmon S",
+        "Krell RW",
+        "Vicente DA",
+        "Shriver CD",
+        "Zhu K"
+      ],
+      "journal": "American journal of clinical oncology",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "OBJECTIVES: Biological, behavioral, and health care access differences between men and women may contribute to differences in colon cancer diagnosis and treatment. We compared postoperative outcomes between men and women with colon cancer in the universal access Military Health System (MHS) to better understand sex-based differences in surgery.\n\nMETHODS: We identified patients with stage I to III colon adenocarcinoma receiving surgery in the Military Cancer Epidemiology (MilCanEpi) database between 2001 and 2014. Thirty-day postoperative outcomes included general cardiovascular and respiratory complications; infections (surgical site [SSI], urinary tract [UTI], and systemic); gastrointestinal (GI) complications (hemorrhage, bowel obstruction, ileus, intra-abdominal abscess, and anastomotic leakage); and hospital readmissions. Modified Poisson regression estimated adjusted rate ratios (ARRs) and 95% CIs in association with biological sex for the outcomes.\n\nRESULTS: The study included 1073 male (mean age=59.5±13.5 y) and 794 female (mean age=59.6±13.5 y) patients. In the 30-day postoperative period, general complication rates were not different by sex (ARR=1.03, 95% CI: 0.76-1.40 for women vs. men). Female sex was associated with higher rates of UTI (ARR=2.44, 95% CI: 1.63-3.65) and lower rates of GI complications (ARR=0.79, 95% CI: 0.69-0.90) relative to men. There were no sex differences in 30-day hospital readmissions (ARR=0.90, 95% CI: 0.76-1.08 for women vs. men).\n\nCONCLUSIONS: In the MHS, female sex was associated with higher rates of UTI and lower rates of GI complications relative to men undergoing colon cancer surgery. Factors other than health care access, such as biological differences in pelvic anatomy, physiology, or immune responses, may contribute to observed differences.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893596",
+      "pmid": "42893596",
+      "doi": "10.1097/NRL.0000000000000695",
+      "title": "Geographic Accessibility to Acute Stroke Care in Egypt: A Population-Level GIS Analysis With Hub-and-Spoke Network Optimization.",
+      "authors": [
+        "Mansour OY",
+        "Hassan T",
+        "Eldeen HZ",
+        "Mahmoud A",
+        "Ossama A",
+        "Mohamed ES",
+        "Nasr N",
+        "Hassan F",
+        "Hassawy A",
+        "Sobh K",
+        "Elmenshawi I",
+        "Badran M",
+        "El-Malky I",
+        "Gewaifel G",
+        "Salah H"
+      ],
+      "journal": "The neurologist",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "OBJECTIVES: Egypt faces a disproportionate acute stroke burden, but geographic accessibility to intravenous thrombolysis (IVT) and mechanical thrombectomy (MT) has not been systematically quantified using modality-specific treatment windows. The objective of the current work is to measure population-level geographic accessibility to IVT and MT across Egypt's 27 governorates, characterize access inequality determinants, and model the clinical impact and cost-effectiveness of targeted hub-and-spoke network expansion.\n\nMETHODS: We verified 29 IVT-capable hospitals and 13 MT-ready centers through a 3-phase protocol. Onset-to-treatment time was computed for 120 settlements representing 89.3% of the national population (108.3 million). MT eligibility was based on noncontrast CT for ASPECTS scoring and CT angiography for large-vessel occlusion confirmation. Treatment windows were classified as optimal (<180 min), within-window (IVT 180 to 270 min; MT 180 to 360 min), or denied (IVT >270 min; MT >360 min). A maximum-coverage location problem model identified the optimal deployment for 3 new MT hubs and 4 IVT spokes. Cost-utility analysis expressed outcomes in quality-adjusted life years over 10 years using Egypt's GDP per capita of $3800.\n\nRESULTS: IVT optimal access was 71.8% nationally (77.0 million), while MT optimal access was only 56.2% (60.9 million), with 20.4% denied MT under the 6-hour threshold. Nine of 13 MT-ready centers (69.2%) concentrated in Cairo/Giza (19.2% of the population). Hub-and-spoke deployment improved MT optimal access from 56.2% to 75.8% nationally. Probabilistic sensitivity analysis demonstrated 73.2% and 91.4% probabilities of cost-effectiveness at 3× and 4× GDP thresholds, respectively.\n\nCONCLUSIONS: Egypt's MT access crisis reflects infrastructure maldistribution rather than patient ineligibility. A hub-and-spoke model using NCCT+CTA-based MT selection within the 6-hour window is clinically sound, operationally feasible, and probabilistically cost-effective.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42888831",
+      "pmid": "42888831",
+      "doi": "10.1515/jom-2025-0174",
+      "title": "Public perception of osteopathic manipulative medicine as an effective treatment for musculoskeletal disorders.",
+      "authors": [
+        "Patel KD",
+        "Persaud NA",
+        "Rama S"
+      ],
+      "journal": "Journal of osteopathic medicine",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "CONTEXT: Musculoskeletal disorders (MSDs) are among the most prevalent causes of disability globally, contributing significantly to diminished quality of life and rising healthcare costs. While pharmacological treatments and physical therapy remain standard, alternative modalities such as osteopathic manipulative medicine (OMM) have emerged as promising nonpharmacologic options. However, public awareness of OMM remains limited, and misconceptions persist, particularly regarding its distinction from chiropractic care. This study aimed to assess public perception of OMM and its effectiveness in treating MSDs, with the goal of informing strategies to enhance understanding and utilization of osteopathic principles.\n\nOBJECTIVES: The objectives of this study were to evaluate the public's perception, awareness, and experiences with OMM in the treatment of MSDs, and to identify knowledge gaps that can be addressed through educational outreach. This study also examined how demographic and socioeconomic factors influence awareness and utilization of OMM. Insights gained will guide the development of targeted educational materials to enhance public understanding, to promote the distinctiveness of osteopathic medicine, and to clarify the role of OMM in MSD care.\n\nMETHODS: A nationwide, web-based cross-sectional survey was conducted targeting US adults aged 18 years and older. Demographic data collected included age, location, race, ethnicity, income, marital and employment status, and number of children. The survey, administered through Random Device Engagement (RDE) methodology, was distributed within mobile apps to a randomized sample of users who opted in through nonmonetary incentives. Questions assessed knowledge of OMM, previous experiences with osteopathic care, perceived effectiveness in managing MSDs, and interest in nonpharmacological treatments. Quantitative analysis included frequency distributions and descriptive statistics to characterize awareness, perceptions, and utilization of OMM.\n\nRESULTS: A total of 174 valid responses were analyzed after the exclusion of incomplete entries. Respondents represented a demographically diverse population across the United States. The most frequently cited uses of OMM were for back pain (n=70, 40.2 %), neck pain (n=58, 33.3 %), arthritis (n=38, 21.8 %), and chronic pain (n=33, 19.0 %). Regarding effectiveness, 68 respondents (39.1 %) rated OMM as \"Very Effective,\" and 30 (17.2 %) rated it as \"Extremely Effective.\" The key benefits included pain relief, improved mobility, reduced medication use, and noninvasiveness. Awareness of osteopathic distinctiveness remained low, with many respondents conflating OMM with chiropractic care.\n\nCONCLUSIONS: Findings highlight a favorable perception of OMM among those familiar with its use in MSD management, yet widespread knowledge gaps persist among the general public. The data support the need for targeted educational efforts that promote OMM as a safe, effective, evidence-based alternative to pharmacologic interventions. This work strengthens the case for broader integration of osteopathic principles in mainstream care and underscores the importance of outreach in reinforcing osteopathic distinctiveness. Future steps will involve the development of educational materials to address misconceptions and improve access to OMM services.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42812011",
+      "pmid": "42812011",
+      "doi": "10.1519/JSC.0000000000005581",
+      "title": "The Effects of Training Monotony on Sway Velocity in Elite Division I Women's Basketball Players Across 2 Seasons.",
+      "authors": [
+        "Hudy A",
+        "Shah J",
+        "Kraemer WJ",
+        "Burland JP",
+        "Glaviano NR",
+        "Morgan K",
+        "Wilson J",
+        "Huggins RA",
+        "Casa DJ"
+      ],
+      "journal": "Journal of strength and conditioning research",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "Hudy, A, Shah, J, Kraemer, WJ, Burland, JP, Glaviano, NR, Morgan, K, Wilson, J, Huggins, RA, and Casa, DJ. The effects of training monotony on sway velocity in elite Division I women's basketball players across two seasons. J Strength Cond Res XX(X): 000-000, 2026- This study examined the relationship between training monotony and sway velocity (SV), an indicator of neuromuscular control, in elite NCAA Division I women's basketball players across 2 competitive seasons. Ten high-impact athletes (21 ± 2 years) were monitored with triaxial accelerometers to quantify external load using PlayerLoad, and monotony was calculated as the weekly mean load divided by its standard deviation. SV was assessed using single-leg balance tests on a force plate at regular intervals throughout the season. Data were analyzed across seasonal phases and time periods using descriptive statistics, Wilcoxon rank-sum tests, and linear mixed-effects models accounting for repeated measures ( p ≤ 0.05). Monotony increased significantly during the early preseason period before stabilizing across the competitive season, while SV remained relatively stable over time. A significant reduction in SV was observed in Year 2 compared with Year 1; however, no significant association was found between monotony and SV. These findings suggest that although training monotony follows expected temporal patterns, SV may represent a relatively stable neuromuscular characteristic under typical training conditions and may be less sensitive to weekly workload fluctuations. For strength and conditioning practitioners, monitoring monotony may help identify periods of increased training stress, while SV may serve as an individual baseline metric to detect meaningful deviations in neuromuscular function.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42695178",
+      "pmid": "42695178",
+      "doi": "10.1002/anie.9696366",
+      "title": "Rational Design of a Synthetic Galliphore for the Diagnostic Nuclear Imaging and Treatment of Bacterial Infections.",
+      "authors": [
+        "Tran PN",
+        "Marlin A",
+        "Amason EK",
+        "Huynh M",
+        "Carlisle H",
+        "Boros E"
+      ],
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "We introduce a solid-phase synthesis platform for the rapid, modular, and scalable synthesis of the synthetic metallophore KO-NH2, which is readily recognized by bacterial siderophore transporters, but has optimized affinity for Ga3+ over Fe3+. Four synthetic protochelin (PC) analogues, KK-COOH, KO-NH2, KO-COOH, and OK-COOH were constructed. Growth recovery, radioactive uptake, and covalent photocrosslinker studies in Escherichia coli identified CirA and Fiu as the dominant outer membrane transport proteins capable of binding KO-NH2-linked, bifunctional constructs. Computational studies further supported that the structural framework of PC can be effectively mimicked by KO or OK peptides. Thermodynamic stability studies revealed an atypical inversion of thermodynamic stability trends, with logKGaL of 39.9 and a logKFeL of 36, demonstrating improved stability with Ga3+. Studies in naïve mice with 68Ga-labeled derivatives identify the lead [68Ga][Ga(KO-NH2)]3-, which remained intact in vivo and demonstrated selective, enhanced uptake in an E. coli soft tissue model of infection (1.28 % ID/g, with a 3:1 ratio of infected to inflamed/normal muscle tissue). Linkage of KO-NH2 to the antibiotic ampicillin produces an efficacious antibiotic, which supersedes the potency of the parent antibiotic ampicillin 4-fold (MIC98 = 1.9 µM) effectively treats a soft tissue infection of ampicillin-resistant E. coli.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676416/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42683679",
+      "pmid": "42683679",
+      "doi": "10.1002/anie.3622603",
+      "title": "Self-Amplifying AIE Probe for HClO-Activatable Imaging and Antioxidative/Anti-Inflammatory Therapy of Thoracic Aortic Dissection.",
+      "authors": [
+        "Xu Y",
+        "Luo Y",
+        "Shen J",
+        "Deng Z",
+        "Gao A",
+        "Yang S",
+        "Lam JWY",
+        "Kwok RTK",
+        "Xu C",
+        "Meng L",
+        "Duan W",
+        "Dang D",
+        "Tang BZ"
+      ],
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "Thoracic aortic dissection (TAD) is a highly lethal cardiovascular disease, yet its accurate diagnosis and effective treatment remain challenging due to poor imaging contrast and insufficient specificity. Leveraging the overexpressed reactive oxygen species (ROS) in TAD, we reported a hypochlorous acid (HClO)-activatable molecular probe DT-PZ. It enables two-stage self-amplifying fluorescence imaging (chemical activation and then physical aggregation) and light-independent therapy on a single chemical entity. The probe initially exhibits quenched fluorescence via photoinduced electron transfer (PET). Two pathways can turn on the fluorescence via chemical activation: (1) oxidation by HClO blocks PET and turns on the emission; (2) photo-triggered radicals generation of HClO (via chloride ions or myeloperoxidase) to activate neighboring probes, creating self-amplifying fluorescence. Upon accumulation at the lesion site, the physical aggregation caused by the aggregation-induced emission effect further amplifies the fluorescence signals. This two-stage fluorescence amplification mechanism enables TAD visualization within 2 min in vivo. For therapy, the phenothiazine scavenges excess ROS during non-illuminated periods, down-regulates the NF-κB/P65 signal pathway, and up-regulates eNOS and P-Akt expressions, protecting endothelial homeostasis and then improving murine survival from 50% to 90%. Collectively, DT-PZ synergizes self-amplifying fluorescence imaging with light-independent antioxidation/anti-inflammatory therapy, holding great promise for managing deep-seated cardiovascular diseases.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42677972",
+      "pmid": "42677972",
+      "doi": "10.1002/anie.5509036",
+      "title": "Leveraging Protein Dynamics for Selective Inhibition of Threonyl-tRNA Synthetase by Obafluorin Analogs.",
+      "authors": [
+        "Wang Z",
+        "Zhang Z",
+        "Xia M",
+        "Fang M",
+        "Xu H",
+        "Qiao H",
+        "Ding W",
+        "Huang J",
+        "Li G",
+        "Luo K",
+        "Liu W",
+        "Wang J",
+        "Yu B",
+        "Fang P"
+      ],
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "The widespread emergence of antibiotic resistance necessitates the development of novel agents with unique mechanisms of action. Obafluorin (OB), a natural β-lactone antibiotic, is a covalent inhibitor of threonyl-tRNA synthetase (ThrRS), but the high conservation of the active site between prokaryote and eukaryote ThrRSs results in minimal selectivity, hindering the therapeutic potential of OB. Here, we report a structure dynamics-based design strategy that transforms OB into a selective antibacterial agent. OB inhibits human and bacterial ThrRSs with nearly equal potency due to identical binding modes. The nitrophenyl moiety of OB is proposed as a 'kinetic sensor' that discriminates between sensitive and resistant ThrRS paralogs. Guided by this insight, we designed a series of OB analogs through rational modification of this moiety. Among them, OB-D4 bearing a para-methoxyphenyl group in place of the nitrophenyl group, exhibited a 241-fold selectivity for bacterial over human ThrRS, along with a markedly improved safety profile with minimal cytotoxicity. In a murine skin infection model, OB-D4 effectively eradicated pathogens, resolving inflammation, and promoting wound healing. Together, this work establishes a 'kinetic sensor' strategy for achieving species selectivity, turning a fundamental challenge in drug discovery-high active-site conservation-into an exploitable opportunity based on dynamic differences.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42677904",
+      "pmid": "42677904",
+      "doi": "10.1002/anie.4575346",
+      "title": "Co-Assembled Mirror-Image DNA Nanostructure for Effective Alleviation of Acute Kidney Injury.",
+      "authors": [
+        "Xie Y",
+        "Yu S",
+        "Jiao Y",
+        "Li N",
+        "Ding B"
+      ],
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "The high demand for acute kidney injury (AKI) therapy calls for the development of new therapeutics for renal management. Oxidative stress, coupled with excessive inflammation, is the main pathological mechanism for AKI. Specifically, complement component 5a (C5a) exacerbates the vicious cycle between oxidative stress and inflammatory responses. Herein, we developed a cascade-functioning mirror-image DNA nanostructure, L-DNA tetrahedron (LDT), for sequentially blocking the extracellular complement C5a to alleviate inflammation and eliminating intracellular reactive oxygen species (ROS) to inhibit oxidative stress. A C5a-neutralizing mirror-image aptamer (LA) was incorporated into LDT via a ROS-sensitive linker (thioketal, i.e., TK bond), which enabled the release of LA in the inflammatory microenvironment to block C5a. LA-conjugated LDT (LDT-LA) exhibited preferential renal uptake and enhanced renal retention compared with its counterpart made of D-nucleic acids and provided effective treatment in ischemia-reperfusion (I/R)-, cisplatin-, and glycerol-induced AKI mouse models. Meanwhile, LDT-LA exhibits excellent biocompatibility, making it a promising candidate for AKI therapy. The biostable, cascade-functioning LDT-LA could act as a multifunctional platform for the treatment of other diseases by conjugating with appropriate functional groups.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42599816",
+      "pmid": "42599816",
+      "doi": "10.1002/anie.202600004",
+      "title": "CRISPR RNA Engineering Enables Single Nucleotide Polymorphism Discrimination in Nucleic Acid Detection.",
+      "authors": [
+        "Sun T",
+        "Yuan A",
+        "Xie W",
+        "Jiang G",
+        "Peng H"
+      ],
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-based diagnostic systems have emerged as powerful platforms for sensitive nucleic acid detection, yet their clinical reliability is frequently constrained by off-target activation and insufficient discrimination of closely related sequences. This review synthesizes current advances aimed at enhancing the specificity of CRISPR diagnostics, with particular emphasis on the pivotal role of CRISPR RNA (crRNA) engineering. We detail how structural determinants of crRNA, including spacer length optimization, intentional mismatch design, secondary-structure modulation, chemical modification, strand-displacement gating, and synergistic design frameworks, govern CRISPR-mediated target recognition and define the energetic and kinetic thresholds for accurate cleavage. Key engineering strategies encompassing computational prediction and modeling, high-throughput screening, and hybrid guide architectures are systematically examined for their capacity to elevate single-nucleotide discrimination, stabilize reaction performance, and enable robust multiplexed detection for pathogen profiling and mutation identification. Despite rapid progress, outstanding challenges persist, including interference from complex clinical matrices, lack of unified evaluation standards, and scalability barriers that hinder clinical translation. Addressing these limitations through integrated crRNA design, system-level optimization, and standardized benchmarking will be essential for realizing the promise of CRISPR diagnostics. Ultimately, these advances are poised to support ultrasensitive, highly specific, and portable point-of-care testing, thereby accelerating precision medicine and strengthening infectious disease surveillance and management.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893558",
+      "pmid": "42893558",
+      "doi": "10.1002/wjs.70610",
+      "title": "Safe Surgery Starts With Safe Anesthesia: Positioning Pediatric Anesthesia as a Core Health-System Function Within Global Children's Surgical Systems.",
+      "authors": [
+        "Gathuya ZN",
+        "Mutio EM",
+        "Mboya E",
+        "Nabukenya MT",
+        "Mumphansha H"
+      ],
+      "journal": "World journal of surgery",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "BACKGROUND: Children's surgery is increasingly recognized as a global health priority, yet pediatric anesthesia remains comparatively under-recognized despite being essential for safe surgical and perioperative care.\n\nTHE PROBLEM: Children require specialized expertise, age-appropriate equipment, reliable monitoring, oxygen, medicines, recovery, and critical care. In many low- and middle-income countries, deficiencies across these domains limit access and contribute to preventable perioperative morbidity and mortality.\n\nTHE CENTRAL CLAIM: We posit that children's surgical systems cannot be strengthened without parallel investment in pediatric anesthesia systems. Pediatric anesthesia should therefore be recognized as a cross-cutting core health-system function rather than a supporting clinical specialty.\n\nEVIDENCE SYNTHESIS: This perspective integrates the WHO Health Systems Building Blocks, the Lancet Commission on Global Surgery, National Surgical, Obstetric and Anesthesia Plans, the GICS Optimal Resources for Children's Surgery framework, and Donabedian's Structure-Process-Outcome model into an Integrated Pediatric Anesthesia Systems Framework (IPASF).\n\nRECOMMENDATIONS: Governments, professional societies, academic institutions, global surgery organizations, and development partners should integrate pediatric anesthesia into surgical-system planning, workforce development, financing, service delivery, quality improvement, and research.\n\nCONCLUSION: Safe and equitable children's surgery requires deliberate investment in the systems that enable safe anesthesia. The IPASF provides a practical framework for policy, implementation, education, research, and evaluation across the perioperative continuum.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893548",
+      "pmid": "42893548",
+      "doi": "10.1111/dmcn.70578",
+      "title": "Motor difficulties, motor-related health care, and associating factors in children born extremely preterm.",
+      "authors": [
+        "Nosko D",
+        "Padilla N",
+        "Svensson K",
+        "Ådén U",
+        "Örtqvist M"
+      ],
+      "journal": "Developmental medicine and child neurology",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "AIM: To evaluate the prevalence of non-cerebral-palsy (CP) motor difficulties in children born extremely preterm (EPT) in Sweden, and the proportion of children receiving motor-related health care (MRHC) and related factors.\n\nMETHOD: An observational, retrospective, cross-sectional registry study was performed on 856 children (435 males) born EPT at 5 years 6 months available from the Swedish Neonatal Quality Register (SNQ). Children with CP or severe neurodevelopmental disorders were excluded (n = 137). In total, 856 children had complete data. Motor function was assessed using the Movement Assessment Battery for Children, Second Edition (≤ 5th centile defined as clinically significant difficulty). The SNQ provided data on health care visits, behavioural issues, and neonatal risk factors. MRHC was defined as one or more physiotherapy visits in the past year.\n\nRESULTS: Clinically significant motor difficulties were present in 218 of 856 (25.5%, 95% confidence interval [CI] = 22.5-28.4) children born EPT; only 30 of 177 (16.9%, 95% CI = 11.4-22.5) of them received MRHC. Receiving MRHC was associated with hyperactivity/inattention difficulties (odds ratio [OR] = 4.43; 95% CI = 1.52-12.88), bronchopulmonary dysplasia (OR = 4.38; 95% CI = 1.49-12.93), and access to additional health care services (OR = 16.07; 95% CI = 2.09-123.40).\n\nINTERPRETATION: Clinically significant motor difficulties in children born EPT are underestimated and insufficiently managed. Factors associated with receiving MRHC suggest that care is reactive and driven more by comorbidities than motor needs. These findings reveal a critical care gap and underscore the need for standardized international guidelines for extended follow-up and management of non-CP motor difficulties.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893515",
+      "pmid": "42893515",
+      "doi": "10.1002/med.70117",
+      "title": "Targeting the Gut Microbiota-Metabolism Axis: Novel Pharmacological Mechanisms and Translational Application Strategies for Oral Antidiabetic Drugs.",
+      "authors": [
+        "Yang R",
+        "Zhang S",
+        "Fu Z",
+        "Yang Y",
+        "Wang Q",
+        "Zhou Y",
+        "Li J",
+        "Yang R",
+        "Ning S",
+        "Shi Y",
+        "Liu J"
+      ],
+      "journal": "Medicinal research reviews",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Type 2 diabetes mellitus (T2DM) is a highly prevalent chronic metabolic disease worldwide, and the clinical prevention and control situation is severe. Although the various antidiabetic drugs currently in clinical use can lower blood glucose levels through different mechanisms, there are significant differences in efficacy among individuals. Existing evidence suggests that differences in gut microbiota (GM) composition and metabolic function may be one of the key factors contributing to the heterogeneity in drug efficacy. Based on this, this review describes the physiological and pathological mechanisms of the GM-metabolism axis and systematically reviews the modulatory effects of different classes of antidiabetic drugs on this axis and their underlying mechanisms. Available studies suggest that metformin, α-glucosidase inhibitors, dipeptidyl peptidase-4 inhibitors (DPP-4i), sodium-glucose cotransporter-2 inhibitors (SGLT2i), thiazolidinediones (TZDs), and oral glucagon-like peptide-1 receptor agonists (GLP-1RAs) may differentially affect GM composition and/or microbial metabolites, including short-chain fatty acids (SCFAs), branched-chain amino acids (BCAAs), and bile acids. These alterations may be associated with glucose homeostasis and insulin resistance through pathways involving GPR41/43, HDACs, AMPK, mTORC1/S6K1, FXR-FGF15/19, and TGR5-GLP-1 signaling. By integrating clinical and mechanistic evidence, this review highlights the potential contribution of the GM-metabolism axis to the glucose-lowering effects of antidiabetic drugs. However, the quantity and confidence of evidence vary substantially across drug classes, and causal and clinical relevance requires further validation. These findings provide a basis for future research on personalized interventions for T2DM characterized by SCFA-producing bacterial deficiency, BCAA overload, or dysregulated bile acid metabolism.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893506",
+      "pmid": "42893506",
+      "doi": "10.1002/med.70116",
+      "title": "From Structural Modification to Diverse Pharmacological Activities: Recent Advances and Future Perspectives of Bile Acids.",
+      "authors": [
+        "Zhu H",
+        "Chen H",
+        "Gong Q",
+        "Chen ZS",
+        "Zhang C",
+        "Xu J",
+        "Wang T"
+      ],
+      "journal": "Medicinal research reviews",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Bile acids (BAs) are amphiphilic steroid acids that exert a broad range of physiological effects-including the regulation of metabolism, immune responses, and inflammatory processes-through activation of specific receptors such as the farnesoid X receptor (FXR) and the G protein-coupled bile acid receptor 1 (TGR5). The gut microbiota plays a critical role in BA metabolism, and alterations in the BA pool have been closely linked to various metabolic disorders, including nonalcoholic fatty liver disease and type 2 diabetes. Consequently, targeting BA signaling pathways offers a novel mechanistic perspective for the prevention and treatment of these metabolic and inflammatory diseases. With growing insight into the biological functions of BAs, the development of BA-based therapeutics and their structural derivatives is emerging as a promising strategy for the management of metabolic diseases.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "endocrine",
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893497",
+      "pmid": "42893497",
+      "doi": "10.1556/650.2026.33708",
+      "title": "[Thoracic trauma in Hungary today: heritage, current challenges and future directions].",
+      "authors": [
+        "Sütöri D",
+        "Zsoldos P",
+        "Pardavi N",
+        "Molnár FT"
+      ],
+      "journal": "Orvosi hetilap",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Thoracic trauma is an important contributor to morbidity and mortality among severely injured patients. While the management of immediately life-threatening intrathoracic injuries is relatively well defined, the treatment of severe blunt chest wall injuries, particularly multiple rib fractures and flail chest, remains variable across institutions. This review aims to summarize the current situation of thoracic trauma care in Hungary, with special emphasis on chest wall injuries and the role of surgical stabilization of rib fractures (SSRF). SSRF should no longer be regarded as an isolated technical procedure, but as part of the complex, multidisciplinary management of patients with rib fractures. Therapeutic decision-making should be based not only on the number of fractured ribs, but also on fracture pattern, chest wall instability, pain, respiratory mechanics, pulmonary parenchymal injury, the patient's physiological reserve, overall injury severity and timing of surgery. The development of thoracic trauma care in Hungary requires a shared indication language, protocol-based imaging, early reassessment, multimodal analgesia, physiotherapy, transparent regional referral pathways and auditable outcome measurement. The existing Hungarian expertise in trauma surgery, thoracic surgery, emergency medicine and intensive care provides a realistic basis for establishing a structured, nationally applicable model of thoracic trauma care. Orv Hetil. 2026; 167(42): 1686-1692.",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893496",
+      "pmid": "42893496",
+      "doi": "10.1556/650.2026.33656",
+      "title": "[Integrated use of ketamine in emergency care].",
+      "authors": [
+        "Solténszky M",
+        "Bogár B",
+        "Priskin G",
+        "Galgóczi J",
+        "Bikki D",
+        "Pető D",
+        "Pandur AA"
+      ],
+      "journal": "Orvosi hetilap",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Ketamine has emerged as a key drug in emergency medicine in recent years due to its rapid onset of action, hemodynamic stability properties and wide applicability. However, Hungarian regulation still limits its use mainly to anesthetic indications. The aim of this study was to review the literature on the emergency use of ketamine, with particular reference to its role in prehospital and intrahospital analgesia, sedation and rapid sequence intubation (RSI) protocols. A structured literature search was performed in PubMed, Scopus and Cochrane Library databases, including relevant human studies from 2010 to 2024, and supplemented by selected pre-2010 landmark studies that are pivotal in the historical and clinical context of ketamine use in emergency care. The retrieved publications were thematically categorized, and narrative synthesis was applied. Based on 82 studies reviewed, ketamine was found to be effective and safe in acute analgesia, procedural sedation, agitation management and RSI. Side effects are predominantly mild and well managed. Previous contraindications in patients with head injury are increasingly questioned in the current international literature. The place of ketamine in emergency care is evidence-based. Its use fits well into modern multidisciplinary emergency protocols. It is recommended to update national recommendations in line with international practices. Orv Hetil. 2026; 167(42): 1679-1685.",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893484",
+      "pmid": "42893484",
+      "doi": "10.1177/02676591261497852",
+      "title": "Antithrombin III use in pediatric and neonatal ECMO: A systematic review and meta-analysis.",
+      "authors": [
+        "Moss R",
+        "Ravi N",
+        "Willson G",
+        "Sivasubramanian R",
+        "Maddali V",
+        "Tripathi S",
+        "Kaushik S"
+      ],
+      "journal": "Perfusion",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "BackgroundAntithrombin (AT) supplementation has been increasingly incorporated into pediatric extracorporeal membrane oxygenation (ECMO) anticoagulation protocols to address heparin resistance and optimize anticoagulation. However, considerable variability exists in monitoring practices, replacement strategies, and reported clinical outcomes. We performed a systematic review and meta-analysis to evaluate contemporary evidence regarding AT supplementation in pediatric ECMO.MethodsA systematic search of PubMed, Embase, Scopus, and Web of Science identified studies evaluating AT monitoring or supplementation during neonatal or pediatric ECMO through September 2025. Two reviewers independently screened studies and extracted data on monitoring strategies, replacement protocols, anticoagulation parameters, thrombosis, bleeding, and mortality. Comparative studies reporting extractable dichotomous outcomes were included in random-effects meta-analyses.ResultsTwenty-five studies met inclusion criteria, consisting predominantly of retrospective single-center cohorts. Marked heterogeneity was observed in indications for supplementation, replacement thresholds (50-100%), therapeutic targets (60-120%), formulations, dosing strategies, and anticoagulation monitoring. AT supplementation consistently increased AT activity, improved anti-factor Xa measurements, and in several studies, reduced unfractionated heparin requirement. However, higher anti-Xa levels and increased AT activity did not consistently translate into improved clinical outcomes. Meta-analysis demonstrated no significant association between AT supplementation and thrombosis (OR 1.10, 95% 0.54-2.24), bleeding (OR 1.15, 95% CI 0.85-1.54), or mortality (OR 1.24, 95% CI 0.63-2.43). Pharmacokinetic investigations suggested standard dosing frequently underestimates replacement requirements in pediatric ECMO.ConclusionCurrent evidence supports the role of AT supplementation in improving laboratory markers of anticoagulation, but does not demonstrate consistent reductions in bleeding, thrombosis, or mortality. Wide variation in monitoring, dosing, and outcome definitions limits comparisons across studies. Future multicenter investigations should prioritize standardized definitions, age-specific therapeutic targets, and prospective evaluation of replacement strategies to better define the role of AT supplementation in pediatric ECMO.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "hematology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893482",
+      "pmid": "42893482",
+      "doi": "10.1002/advs.78372",
+      "title": "Hepatocyte CBX2 Safeguards Hepatic Lipid Homeostasis by Elevating Ca2+-CaMKK2-AMPK Signaling to Counter MASLD.",
+      "authors": [
+        "Wei X",
+        "Lin L",
+        "Wang X",
+        "Du H",
+        "Zhang M",
+        "Tang K",
+        "Gao H",
+        "Xie X",
+        "Gao J",
+        "Wang X",
+        "Wang Z",
+        "Huang S",
+        "Zhang L",
+        "Gu F",
+        "Wei GH",
+        "Qi Y",
+        "Chen W",
+        "Chang Y",
+        "Zhang H"
+      ],
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects approximately one-third of adults and lacks effective pharmacological therapies. Here, we identify Chromobox 2 (CBX2), a Polycomb-associated chromatin regulator, as a previously unrecognized regulator of hepatic lipid homeostasis. CBX2 expression is markedly reduced in hepatocytes from patients with MASLD, multiple mouse models (db/db, ob/ob, HFD, and HFHC), and steatotic hepatocytes in vitro. Hepatocyte-specific CBX2 overexpression ameliorates hepatic steatosis, improves glucose metabolism, and suppresses inflammation, whereas CBX2 deficiency exacerbates these metabolic disturbances. Mechanistically, CBX2 enhances H3K4me3 enrichment at the Orai1 promoter, promoting Orai1 transcription and increasing intracellular Ca2+ levels. Elevated Ca2+ activates the CaMKK2-AMPK signaling pathway, leading to ACC phosphorylation, inhibition of de novo lipogenesis (FAS, ACC, and SCD-1), enhancement of fatty acid oxidation (PPARα and CPT-1a), and suppression of NF-κB/JNK-mediated inflammation. Genetic and pharmacological interventions further establish the necessity of this Ca2+-CaMKK2-AMPK axis for CBX2-mediated metabolic protection. Collectively, our findings reveal a CBX2-driven metabolic regulatory circuit and highlight CBX2 and its downstream signaling pathway as potential therapeutic targets for MASLD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893480",
+      "pmid": "42893480",
+      "doi": "10.1113/JP292377",
+      "title": "Optogenetic cardioversion: To depolarize or to hyperpolarize?",
+      "authors": [
+        "Entcheva E",
+        "Kay MW"
+      ],
+      "journal": "The Journal of physiology",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "electrophysiology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893476",
+      "pmid": "42893476",
+      "doi": "10.1080/1059924X.2026.2747377",
+      "title": "Evaluation of Agricultural Heat-Related Illness Prevention Training in Colorado.",
+      "authors": [
+        "Martinez Palenque YP",
+        "Pennington W",
+        "Skiendzielewski KM",
+        "Brazile WJ",
+        "Stallones L",
+        "Valley M"
+      ],
+      "journal": "Journal of agromedicine",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "OBJECTIVE: Agricultural workers have high rates of heat-related illnesses (HRI). State-level regulations regarding HRI prevention in agriculture have been evolving and include requirements for heat-related prevention training of workers. There has been limited evaluation of the effectiveness of HRI prevention training. This study aimed to evaluate a train-the-trainer HRI prevention program.\n\nMETHODS: In 2024 and 2025, there were 13 train-the-trainer HRI prevention sessions held in English and Spanish in Colorado. The trainers then trained agricultural workers in their workplaces. Using the Kirkpatrick evaluation framework and a series of surveys and focus groups, changes in participant reaction levels, learning, behavior, and workplace outcomes were assessed. Descriptive statistics and paired t-test were used to analyze survey responses. Thematic analysis was used to analyze focus group data.\n\nRESULTS: Across 13 sessions, 143 trainers completed the train-the-trainer program, who then trained 1,270 agricultural workers. The trainers expressed high levels of satisfaction with the training and had significant improvement in their knowledge of HRI symptoms and prevention strategies. Training led to increased confidence among trainers in their ability to train workers. Trainers and agricultural workers reported adopting practices to prevent HRI.\n\nCONCLUSION: This study provides evidence that a bilingual, regulatory-aligned train-the-trainer program can be an effective approach to build HRI prevention capacity among agricultural employers. The Colorado-based train-the-trainer HRI prevention program increased trainer knowledge and confidence and in turn improved agricultural worker workplace heat-related prevention practices. These changes may protect worker health while also improving their well-being and productivity in the long term.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893472",
+      "pmid": "42893472",
+      "doi": "10.1007/s10792-026-04290-6",
+      "title": "Full-spectrum LED screen-bar lighting as an adjunct to artificial tears in visual display terminal-related dry eye: a randomized study.",
+      "authors": [
+        "Zhang N",
+        "Qiu C",
+        "Huang W",
+        "Gu F",
+        "Qian X",
+        "Lin X",
+        "Wang J",
+        "Jin L",
+        "Liang L"
+      ],
+      "journal": "International ophthalmology",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "PURPOSE: To evaluate the short-term clinical effect of adding a full-spectrum screen-bar lamp as an environmental adjunct to artificial tear therapy in participants with newly diagnosed visual display terminal (VDT)-related dry eye.\n\nMETHODS: In this prospective, randomised, single-center study, 66 participants with newly diagnosed VDT-related dry eye and limited corneal staining were assigned to a full-spectrum screen-bar lamp plus artificial tears (intervention group, n = 34) or artificial tears alone with no study lamp (control group, n = 32). Primary endpoints were changes in Ocular Surface Disease Index (OSDI) and non-invasive tear breakup time (NIBUT) from baseline to one month.\n\nRESULTS: The modified intention-to-treat population included 65 participants. OSDI improved significantly in both groups at 1 month (both P < 0.001), with greater symptom reduction in the intervention group (adjusted between-group difference, - 7.33; P = 0.042). NIBUT increased in both groups (P < = 0.017), without a significant between-group difference (adjusted difference, 0.26; P = 0.726). No significant between-group differences were observed in changes in tear meniscus height, conjunctival hyperemia, lipid layer thickness of the tear film or partial blinking rate. No study-related adverse events were reported.\n\nCONCLUSIONS: Adding a full-spectrum lamp to artificial tears was associated with a greater short-term improvement in subjective dry eye symptoms in VDT-related dry eye, without corresponding between-group differences in objective ocular surface parameters. Further studies are required to confirm these findings. Trial registration number ChiCTR2400084309, 2024/05/14.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893468",
+      "pmid": "42893468",
+      "doi": "10.1007/s00415-026-14159-4",
+      "title": "Magnetic resonance imaging vs computed tomography for baseline imaging evaluation in acute basilar artery occlusion.",
+      "authors": [
+        "Gao F",
+        "Nguyen TN",
+        "Wang A",
+        "Li R",
+        "Xu P",
+        "Chen Y",
+        "Nogueira RG",
+        "Fang S",
+        "Hu W"
+      ],
+      "journal": "Journal of neurology",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "BACKGROUND: The optimal imaging modality, magnetic resonance imaging (MRI) or computed tomography (CT), for identifying good treatment candidates among patients with acute basilar-artery occlusion (BAO) remains unclear.\n\nMETHODS: This was a post hoc analysis of the ATTENTION trial. Patients were categorized into MRI or CT groups according to the baseline imaging modality. The primary outcome was mRS 0-3 at 90 days. The secondary outcomes included mRS score shift on an ordinal scale, early neurological deterioration, time from stroke onset to arterial puncture, and time from onset to randomization. The safety outcome was mortality within 90 days. Clinical outcomes and workflow times were compared between the two groups.\n\nRESULTS: Among 340 patients (CT: n = 277; MRI: n = 63), baseline imaging was not significantly associated with 90-day mRS 0-3 in the overall cohort (OR 0.99, 95% CI 0.50-1.95; P = 0.976). It remained highly consistent across both the endovascular treatment and best medical management subgroups. Baseline MRI assessment was not associated with significant workflow delays compared with CT, including time from stroke onset to randomization (mean difference [MD] 5.23 min; P = 0.843) and time to puncture (MD 13.16 min; P = 0.701). Furthermore, the association between imaging modality and outcomes was consistent across different time windows.\n\nDISCUSSION: In patients with acute BAO, we did not observe evidence supporting the preferential use of MRI over CT as the primary imaging strategy for patient selection. Conventional imaging appears sufficient as a first-line tool for selecting patients in clinical practice.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "topics": [
+        "clinical-trials",
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893460",
+      "pmid": "42893460",
+      "doi": "10.1007/s00408-026-00955-2",
+      "title": "Indirect Echocardiographic Signs of Increased Right-sided Afterload in Progressive Pulmonary Fibrosis: Insights from a Multicentre Italian Study.",
+      "authors": [
+        "Cefalo J",
+        "Baccelli A",
+        "Varone F",
+        "Luppi F",
+        "Cameli P",
+        "Cerri S",
+        "Gerli A",
+        "Nastasi M",
+        "Iovene B",
+        "Martini A",
+        "Franco G",
+        "Zanini U",
+        "Pianigiani T",
+        "Patsoura A",
+        "Richeldi L",
+        "Bargagli E",
+        "Sotgiu G",
+        "Mondoni M"
+      ],
+      "journal": "Lung",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "PURPOSE: Pulmonary vascular involvement is a determinant of worse outcomes in fibrotic lung diseases. Its prevalence and prognostic relevance in patients with progressive pulmonary fibrosis (PPF) is unknown. The aim of this study was to assess the prevalence of indirect echocardiographic abnormalities in progressive pulmonary fibrosis before antifibrotic therapy, characterize a baseline high-risk cardiopulmonary functional profile, and assess 12-month clinical trajectories.\n\nMETHODS: Observational, retrospective, multicentre study.\n\nRESULTS: 158 patients (median (IQR) age of 71 (65.2-77.0) years) with PPF were enrolled. Thirty (19.0%) had ≥ 1 echocardiographic indirect sign of increased right-sided afterload, 15 (9.5%) ≥ 2, 9 (5.7%) ≥ 3 and 1 (0.6%) all four. A shortened right ventricular outflow tract acceleration time (< 105 ms) was the most frequent alteration (12.7%), followed by right atrial dilation (10.8%). In univariable analysis, ≥1 sign was associated with male sex, a lower DLCO% predicted, a higher FVC%/DLCO% ratio and a shorter 6MWD; in the multivariable model only, male sex remained independently associated (aOR 3.45, 95% CI 0.99-12.07; p = 0.052). Twelve-month FVC trajectories did not differ by baseline echocardiographic status; nonetheless, ≥1 sign was associated with shorter time to acute exacerbation (log-rank p = 0.007) and all-cause hospitalisation (p = 0.001).\n\nCONCLUSIONS: Echocardiographic signs suggestive of increased right-sided afterload are present in a substantial proportion of PPF patients at the time of antifibrotic initiation. They identified patients at higher risk of acute exacerbation and hospitalisation, regardless of FVC decline. This higher-risk subgroup warrants specific pulmonary vascular evaluation and tighter clinical follow-up.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study"
+      ],
+      "topics": [
+        "imaging",
+        "prevention",
+        "pulmonary-vascular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42893457",
+      "pmid": "42893457",
+      "doi": "10.1007/s00455-026-11017-3",
+      "title": "Minimal Clinically Important Difference of the Modified Barium Swallow Impairment Profile (MBSImP) Pharyngeal Total Score in Post-Stroke Dysphagia.",
+      "authors": [
+        "Zeng H",
+        "Wang C",
+        "Zhang C",
+        "Liang S",
+        "Zeng Z",
+        "Yan S",
+        "Luo S",
+        "Zhao W",
+        "Yang Y",
+        "Zeng X"
+      ],
+      "journal": "Dysphagia",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "The Modified Barium Swallow Impairment Profile (MBSImP) is widely used to quantify swallowing physiology during videofluoroscopic swallowing assessment, but the minimal clinically important difference (MCID) for its pharyngeal total score in post-stroke dysphagia remains unclear. This study estimated the MCID for improvement in the MBSImP pharyngeal total score during inpatient rehabilitation. This prospective multicenter observational study included stroke survivors with dysphagia admitted for inpatient rehabilitation 2 weeks to 3 months after stroke onset. Baseline and 10-day follow-up assessments included the MBSImP pharyngeal total score, Functional Oral Intake Scale (FOIS), Penetration-Aspiration Scale (PAS), and Patient Global Impression of Change (PGIC). The FOIS was used as the primary anchor, while the PAS and PGIC were secondary anchors. Anchor-based estimates were calculated using average change, change difference, linear regression, and receiver operating characteristic analyses. Distribution-based estimates and minimal detectable change were used as complementary context for interpreting the anchor-based estimates. Sensitivity analyses were performed using stricter or collapsed anchor definitions, including collapsed FOIS categories, ≥ 2-level FOIS improvement, collapsed PAS categories, and a stricter PGIC threshold. An exploratory interaction analysis additionally examined whether the MBSImP change associated with exactly 1-level versus exactly 2-level FOIS improvement varied according to baseline FOIS level. A total of 161 participants were included. The MBSImP pharyngeal total score decreased from a median of [9.00 (7.00, 11.00)] to [4.00 (2.00, 6.00)]. The mean improvement, used for anchor-based MCID estimation, was 4.27 points. Changes in the MBSImP pharyngeal total score were significantly correlated with the FOIS, PAS, and PGIC (r > 0.3). The pooled average-change and change-difference estimates under the prespecified anchor definitions were 2.977 and 2.004 points, respectively. Under stricter or category-based anchor definitions, average-change estimates increased to 4.633-5.141 points, whereas change-difference estimates remained comparatively stable at 1.731-2.554 points. ROC-derived cutoffs were 2-3 points under the prespecified definitions and 5 points under the stricter definitions. In the exploratory FOIS analysis, there was no evidence that the contrast between exactly 1-level and exactly 2-level improvement varied by baseline FOIS level (P for interaction = 0.776); findings were similar when restricted to baseline FOIS levels 2-5 (P = 0.503). Clinically important change in the MBSImP pharyngeal total score depended on the anchor definition and intended interpretation. Under the prespecified anchor definitions, average-change estimates were approximately 3 points, whereas stricter functional or swallowing-safety improvement definitions showed estimates close to 5 points. In contrast, change-difference estimates were comparatively stable at approximately 2 points across anchor definitions.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42893428",
       "pmid": "42893428",
       "doi": "10.1177/01455613261497899",
@@ -50344,6 +51040,29 @@
       "topics": [
         "endocrine",
         "neurology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42886511",
+      "pmid": "42886511",
+      "doi": "10.1080/14737167.2026.2751401",
+      "title": "Cost-utility of expanded hypertension screening and treatment among adults covered by Peru's Seguro Integral de Salud: a Markov model using national data.",
+      "authors": [
+        "Vera-Ponce VJ",
+        "Ballena-Caicedo J"
+      ],
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "BACKGROUND: We assessed the cost-utility of expanding hypertension screening, diagnosis, and treatment among adults covered by Peru's Seguro Integral de Salud (SIS).\n\nRESEARCH DESIGN AND METHODS: Analyses assembled in May 2026 used a 10-year cohort Markov model parameterized with the 2024 Peruvian Demographic and Family Health Survey (ENDES), SIS administrative data for 2022-2024, and published parameters. Universal and risk-targeted scenarios were compared with population-specific usual care, using S/ 25,007 per quality-adjusted life-year (QALY).\n\nRESULTS: The baseline sample included 6,098 adults aged 40-74 years; hypertension prevalence was 28.9%. Universal 80-80-80 expansion averted 60.7 cardiovascular events and 6.1 cardiovascular deaths and gained 51.3 QALYs per 100,000 eligible adults. Incremental cost was S/ 7,784,979, with an incremental cost-effectiveness ratio (ICER) of S/ 151,686/QALY. The scenario targeting 10-year cardiovascular risk ≥10% had an ICER of S/ 60,171/QALY in its eligible subgroup.\n\nCONCLUSIONS: All scenarios exceeded the threshold. Lower targeted-scenario ICERs concern different eligible populations. Estimates depend on modeled effects, the 10-year horizon, and exclusion of event-related savings.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
         "prevention"
       ],
       "has_full_text": false,
@@ -66309,29 +67028,6 @@
       ],
       "topics": [
         "electrophysiology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42886511",
-      "pmid": "42886511",
-      "doi": "10.1080/14737167.2026.2751401",
-      "title": "Cost-utility of expanded hypertension screening and treatment among adults covered by Peru's Seguro integral de salud: a markov Model using national data.",
-      "authors": [
-        "Vera-Ponce VJ",
-        "Ballena-Caicedo J"
-      ],
-      "journal": "Expert review of pharmacoeconomics & outcomes research",
-      "date": "2026-10-16",
-      "year": 2026,
-      "abstract": "BACKGROUND: We assessed the cost-utility of expanding hypertension screening, diagnosis, and treatment among adults covered by Peru's Seguro Integral de Salud (SIS).\n\nRESEARCH DESIGN AND METHODS: Analyses assembled in May 2026 used a 10-year cohort Markov model parameterized with the 2024 Peruvian Demographic and Family Health Survey (ENDES), SIS administrative data for 2022-2024, and published parameters. Universal and risk-targeted scenarios were compared with population-specific usual care, using S/ 25,007 per quality-adjusted life-year (QALY).\n\nRESULTS: The baseline sample included 6,098 adults aged 40-74 years; hypertension prevalence was 28.9%. Universal 80-80-80 expansion averted 60.7 cardiovascular events and 6.1 cardiovascular deaths and gained 51.3 QALYs per 100,000 eligible adults. Incremental cost was S/ 7,784,979, with an incremental cost-effectiveness ratio (ICER) of S/ 151,686/QALY. The scenario targeting 10-year cardiovascular risk ≥ 10% had an ICER of S/ 60,171/QALY in its eligible subgroup.\n\nCONCLUSIONS: All scenarios exceeded the threshold. Lower targeted-scenario ICERs concern different eligible populations. Estimates depend on modeled effects, the 10-year horizon, and exclusion of event-related savings.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "prevention"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -358441,721 +359137,6 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42472601",
-      "pmid": "42472601",
-      "doi": "10.1016/j.cpcardiol.2026.103402",
-      "title": "Clinical manifestations, diagnosis, and therapeutic advances in May-Thurner Syndrome: A comprehensive literature review.",
-      "authors": [
-        "Ezekwueme F",
-        "Ezenna C",
-        "Ndakotsu A",
-        "Hassan AE",
-        "Blankson GA",
-        "Agwuegbo C",
-        "Iloh C",
-        "Nnadi E",
-        "Manueli TB"
-      ],
-      "journal": "Current problems in cardiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "May-Thurner Syndrome (MTS), or iliac vein compression syndrome, is an underdiagnosed vascular condition where the left common iliac vein is compressed, typically by the right common iliac artery. This impairs venous outflow from the left lower extremity, leading to manifestations ranging from chronic venous insufficiency to acute deep vein thrombosis (DVT). Historically noted by Virchow and detailed by May, Thurner, and Cockett, its true prevalence is uncertain due to nonspecific symptoms. This review examines MTS pathophysiology, clinical presentations, diagnostics, and management. MTS primarily affects young to middle-aged women, with risk factors including pregnancy and hormonal therapy. Clinical features vary from asymptomatic findings to iliofemoral DVT, chronic venous insufficiency, and pelvic congestion syndrome. Diagnosis combines Doppler ultrasound, CT venography, MR venography, and intravascular ultrasound (IVUS), the latter often used with conventional venography for detailed assessment. Management is tailored to severity, with conservative options like anticoagulation for milder cases. For symptomatic or thrombotic MTS, endovascular interventions such as catheter-directed thrombolysis, angioplasty, and stenting are primary treatments, offering good patency and symptom relief; surgical options are reserved for refractory situations. Timely diagnosis and intervention are key to improving outcomes and preventing complications like post-thrombotic syndrome.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "hematology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42472232",
-      "pmid": "42472232",
-      "doi": "10.1016/j.bbih.2026.101299",
-      "title": "Multimodal approach to identify neuropsychophysiological subgroups in myalgic encephalomyelitis/chronic fatigue syndrome and their relevance for rehabilitation: protocol for a mechanistic cross-sectional and longitudinal study.",
-      "authors": [
-        "Dooms Y",
-        "Qiu L",
-        "Coppieters I",
-        "Vergaelen E",
-        "Claes S",
-        "Dupont P",
-        "Hehl M",
-        "Cuypers K",
-        "Engler H",
-        "Dombrowski K",
-        "Verbeke K",
-        "Van den Bergh O",
-        "Raes J",
-        "Van Oudenhove L",
-        "Van Den Houte M",
-        "Bogaerts K"
-      ],
-      "journal": "Brain, behavior, & immunity - health",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Myalgic Encephalomyelitis (ME)/Chronic Fatigue Syndrome (CFS) is a debilitating condition characterized by severe fatigue and post-exertional malaise (PEM). Reported neuropsychophysiological abnormalities suggest ME/CFS is multifactorial, but current knowledge remains fragmented. This study protocol outlines a multimodal investigation designed to (1) compare neuropsychophysiological mechanisms between ME/CFS patients and healthy participants, (2) test an integrative model of ME/CFS, (3) identify neuropsychophysiological subgroups within the patient population, and (4) identify predictors of symptom response during rehabilitation.\n\nMETHODS AND ANALYSIS: This study will enroll 115 ME/CFS patients and 55 healthy participants. Groups will be comparable in age, sex, and education level, with a larger patient sample enabling subgroup and longitudinal analyses. A cross-sectional assessment at baseline will be carried out in both groups. Patients will then be evaluated longitudinally throughout a standardized cognitive-behavioral therapy rehabilitation program delivered as routine care. Baseline measures include systemic inflammation and general health biomarkers, measures of autonomic and central nervous system function, neuroinflammation (magnetic resonance spectroscopy, [18F]DPA714 PET in a subsample), serum short-chain fatty acid levels, gut microbiota composition and function, and neuroendocrine and self-reported responses to psychosocial stress. Fatigue severity (physical and cognitive) and PEM will be assessed through validated questionnaires, ecological momentary assessment, and laboratory tasks. These will be re-evaluated during therapy, and all non-neuroimaging measures will be repeated after the rehabilitation program. Statistical analyses will comprise multivariate analysis of variance, general linear models, classification algorithms, structural equation models, least absolute shrinkage selection operator principal component regression (LASSO-PCR), cluster analysis and latent class growth analysis (LCGA).",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380062/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42471939",
-      "pmid": "42471939",
-      "doi": "10.1016/j.radcr.2026.06.091",
-      "title": "Malignant middle cerebral artery infarction revealing atrial fibrillation: A Multimodal imaging case of M1 occlusion treated with decompressive craniectomy.",
-      "authors": [
-        "Erregui H",
-        "Moujahid M",
-        "Madouim H",
-        "Houba A",
-        "Doghmi N"
-      ],
-      "journal": "Radiology case reports",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Malignant middle cerebral artery (MCA) infarction represents a severe form of ischemic stroke characterized by extensive cerebral ischemia, rapid development of cerebral edema, and a high risk of fatal brain herniation. Atrial fibrillation is a major cause of cardioembolic stroke and is frequently associated with large vessel occlusion and poor outcomes. We report the case of a 70-year-old woman with poorly controlled hypertension who presented with acute left-sided hemiplegia and altered consciousness with a delay of approximately 48 hours from symptom onset. Electrocardiography revealed previously undiagnosed atrial fibrillation with rapid ventricular response. Initial non-contrast brain computed tomography demonstrated early ischemic changes involving the right MCA territory with signs of mass effect. Multimodal magnetic resonance imaging confirmed a large cortico-subcortical infarction involving more than 50% of the right MCA territory, with marked diffusion restriction and no diffusion-FLAIR mismatch, indicating a completed infarction. MR angiography demonstrated occlusion of the M1 segment of the right MCA. Imaging also revealed significant cerebral edema with a midline shift of 12 mm and early signs of subfalcine herniation. Despite intensive care management and urgent decompressive hemicraniectomy, the patient showed no neurological improvement and had a fatal outcome. This case highlights the crucial role of multimodal imaging in the diagnosis and prognostic assessment of malignant MCA infarction. Large vessel occlusion, extensive infarct volume, and significant mass effect are key imaging features associated with poor outcome. Early detection and appropriate anticoagulation of atrial fibrillation remain essential to prevent severe cardioembolic stroke.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "electrophysiology",
-        "hematology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380150/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42471938",
-      "pmid": "42471938",
-      "doi": "10.1016/j.radcr.2026.06.105",
-      "title": "Giant popliteal venous aneurysm presenting with pulmonary embolism: multimodal imaging findings and clinical course.",
-      "authors": [
-        "Furukawa A",
-        "Yamasaki M",
-        "Nakane E",
-        "Miyaji T",
-        "Yamamoto S",
-        "Hosogi S"
-      ],
-      "journal": "Radiology case reports",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Popliteal venous aneurysm is a rare vascular abnormality that is an important cause of pulmonary embolism. This case report focuses on a 71-year-old woman who presented with exertional dyspnea and transient loss of consciousness. Transthoracic echocardiography revealed marked right atrial and ventricular enlargement with interventricular septal flattening, suggesting right heart overload. Contrast-enhanced computed tomography revealed bilateral pulmonary emboli and a markedly dilated left popliteal vein with an intraluminal thrombus consistent with a giant popliteal venous aneurysm. Duplex ultrasonography of the lower extremities further demonstrated thrombus formation, with markedly reduced and stagnant blood flow. Anticoagulation therapy resolved the pulmonary emboli and improved the right ventricular overload; however, the thrombus persisted within the aneurysm. Subsequently, surgical repair was performed to prevent recurrence. This case highlights the importance of multimodal imaging for diagnosis, risk assessment, and management of venous aneurysm-associated pulmonary embolism.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology",
-        "imaging"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380155/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42471934",
-      "pmid": "42471934",
-      "doi": "10.1016/j.radcr.2026.06.044",
-      "title": "Successful Endovascular Treatment of Traumatic Renal Artery Thrombosis and Dissection Associated with Liver Injury: A Case Report.",
-      "authors": [
-        "Hung ND",
-        "Cuong ND",
-        "Tuan HD",
-        "Hong PT",
-        "Dung LT",
-        "Vu LT",
-        "Long NT",
-        "Van Kham V",
-        "Huyen DT",
-        "Loc TQ"
-      ],
-      "journal": "Radiology case reports",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Combined liver trauma and renal artery thrombosis are severe and rare injuries that may lead to hemorrhagic shock and extensive renal infarction if timely intervention is not performed. We report the case of a 15-year-old male with Grade IV liver trauma (AAST 2018 classification) associated with complete thrombosis of the right renal artery. The patient underwent emergency hepatic arterial embolization for hemostasis, followed by renal artery thrombectomy and balloon angioplasty, resulting in reperfusion of most of the renal parenchyma. During follow-up, a pseudoaneurysm and dissection of the right renal artery were detected and successfully treated with covered stent placement, completely excluding the lesion and restoring arterial flow. The patient recovered well and was discharged. This case highlights the crucial role of multiphasic computed tomography (CT) in identifying combined hepatorenal injuries and confirms the effectiveness of endovascular intervention in controlling hemorrhage, restoring renal arterial patency, and managing complications, thereby maximizing organ function preservation in young patients.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380156/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42471102",
-      "pmid": "42471102",
-      "doi": "10.1016/j.cpcardiol.2026.103403",
-      "title": "Predictive performance of the STS-PROM score for acute kidney injury following transfemoral transcatheter aortic valve implantation.",
-      "authors": [
-        "Iroulart JM",
-        "Garmendia CM",
-        "Corna G",
-        "Denicolai M",
-        "Miceli AL",
-        "Scarponi CM",
-        "Piñel S",
-        "Seropian IM",
-        "Pizarro R",
-        "Agatiello CR"
-      ],
-      "journal": "Current problems in cardiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: The Society of Thoracic Surgeons Predicted Risk of Mortality (STS-PROM) score is widely used to estimate procedural risk in patients with severe aortic stenosis (AS) undergoing transcatheter aortic valve implantation (TAVI). However, its ability to predict acute kidney injury (AKI) after TAVI has not been well established.\n\nOBJECTIVES: To evaluate the predictive performance of the STS-PROM score for post-procedural AKI in patients with symptomatic severe AS undergoing transfemoral TAVI.\n\nMETHODS: We conducted a retrospective observational cohort study including consecutive patients with symptomatic severe AS treated with transfemoral TAVI. The primary outcome was AKI after the procedure. The discriminative performance of the STS-PROM score was assessed using receiver operating characteristic (ROC) curve analysis and the area under the curve (AUC). The optimal cutoff value was determined using the Youden index.\n\nRESULTS: 82 patients were included (mean age, 82.5±6.6 years; 56.8% women). The median STS-PROM score was 4.18 (interquartile range [IQR], 3.22-6.15). AKI occurred in 9 patients (11.0%). The STS-PROM score demonstrated acceptable discriminative performance for predicting AKI (AUC, 0.732; 95% confidence interval [CI], 0.566-0.898; P=0.034). The optimal cutoff value was 5.75, providing 72% sensitivity and 80% specificity. Of the 9 patients who developed AKI, 8 (88.9%) had an STS-PROM score ≥5.75, whereas only 1 (11.1%) had a score <5.75 (P=0.025).\n\nCONCLUSIONS: In patients with symptomatic severe AS undergoing transfemoral TAVI, the STS-PROM score showed acceptable performance for predicting post-procedural AKI. An STS-PROM score ≥5.75 identified patients at increased risk of AKI and may provide additional value for preprocedural risk stratification.",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "topics": [
-        "nephrology",
-        "valvular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42471098",
-      "pmid": "42471098",
-      "doi": "10.1016/j.cpcardiol.2026.103405",
-      "title": "Heatwaves and cardiovascular mortality: Pathophysiological pathways, environmental co-determinants, and the role of autonomic monitoring.",
-      "authors": [
-        "Moscucci F",
-        "Sciomer S",
-        "Piccirillo G",
-        "Desideri G"
-      ],
-      "journal": "Current problems in cardiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Heatwaves are the deadliest extreme weather events, and their frequency and intensity are rising under anthropogenic climate change. In summer 2025 alone, an estimated 24,400 heat-related deaths occurred across 854 European cities, ∼68% attributable to human-induced warming. The cardiovascular system is disproportionately affected, yet the interplay between thermal stress, environmental pollutants, and individual autonomic vulnerability remains incompletely characterised.\n\nOBJECTIVES: To synthesise evidence on: (1) the epidemiological burden of heatwave-related cardiovascular mortality in Europe; (2) mechanistic pathways linking extreme heat and co-pollutants (PM2.5, ozone) to cardiac dysfunction; (3) autonomic dysregulation, via heart rate variability (HRV), as a marker of individual vulnerability; and (4) emerging wearable-based strategies for scalable risk monitoring.\n\nMETHODS: Narrative review of primary literature and epidemiological reports from PubMed, Web of Science, and grey-literature repositories (WHO, EEA, Copernicus C3S), January 2000-June 2026.\n\nRESULTS: European heat-related excess deaths rose from ∼70,000 in 2003 to 61,672 in 2022, and an estimated 24,400 in just 10 weeks of 2025, despite two decades of heat-health action plans. Extreme heat acts synergistically with PM2.5 and ozone (interaction index SI 1.51 for cardiovascular mortality), potentiating sympathetic hyperactivation, myocardial ischaemia, arrhythmia, and thromboembolic risk. Reduced HRV (SDNN, RMSSD) amplifies risk in the elderly and in patients with heart failure, prior myocardial infarction, or ischaemic heart disease. Consumer-grade wearables now enable continuous, population-scale HRV surveillance.\n\nCONCLUSIONS: Heatwaves are cardiovascular emergencies requiring integrated epidemiological surveillance, mechanistic understanding, and precision monitoring. Population-wide wearable-based HRV monitoring, combined with personalised heat-health early warning systems, is a clinically actionable strategy to reduce excess cardiovascular mortality in a warming world.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "electrophysiology",
-        "heart-failure"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42471097",
-      "pmid": "42471097",
-      "doi": "10.1016/j.cpcardiol.2026.103401",
-      "title": "Dapagliflozin in acute myocardial infarction with type 2 diabetes: a randomized clinical trial.",
-      "authors": [
-        "Macías-Cervantes HE",
-        "Guardado-Mendoza R",
-        "González LJ",
-        "Bautista-López GR",
-        "Hernández-Tizapa K",
-        "Carrillo-Torres MÁ",
-        "Fernández-Yáñez G",
-        "Hinojosa-Gutiérrez LR",
-        "Bernal-Ruiz EA",
-        "Cárdenas-Muñoz ME",
-        "Nava-Cabrera JI",
-        "Caporal-Trejo LC",
-        "Emigdio-Loeza A",
-        "Hernández-González MA",
-        "Macías-Cervantes MH"
-      ],
-      "journal": "Current problems in cardiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION AND OBJECTIVES: Dapagliflozin does not impact heart failure events in patients with myocardial infarction who do not have type 2 diabetes. However, its effects on patients with diabetes remain unexamined. Therefore, the main goal of this study was to assess the effect of dapagliflozin added to post-acute myocardial infarction (AMI) therapy on the occurrence of major adverse cardiovascular events (MACE), including heart failure (HF), cardiovascular death, stroke, and new acute myocardial infarction in patients with type 2 diabetes. Secondary endpoints included changes in left ventricular ejection fraction (LVEF).\n\nMETHODS: In a double-blind controlled clinical trial with an 18-month follow-up, we randomly assigned 181 patients with AMI to receive 10 mg of dapagliflozin or placebo once daily, along with standardized management. Risk analysis was conducted using both intention-to-treat and per-protocol analyses.\n\nRESULTS: At the 18-month follow-up, the total number of heart failure events was higher in the placebo group (26 events; 29.5%) than in the dapagliflozin group (5 events; 5.3%) (HR 0.18; 95% CI, 0.40-0.85; p < 0.001). Final LVEF increased by 1.56% in the dapagliflozin group compared to placebo (p = 0.03).\n\nCONCLUSIONS: Early initiation of dapagliflozin as part of the standard treatment for patients with acute myocardial infarction and type 2 diabetes decreases the risk of heart failure events at 18 months, improves LVEF, and remains safe even when combined with current optimal medical therapy. (ClinicalTrials.gov NCT04717986).",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "coronary",
-        "heart-failure"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42471062",
-      "pmid": "42471062",
-      "doi": "10.1016/j.pharmthera.2026.109083",
-      "title": "Prognostic factors for mortality in ST-elevation myocardial infarction in individuals with diabetes: A systematic review with implications for risk stratification and therapeutic considerations.",
-      "authors": [
-        "Ipek R",
-        "Schaefer E",
-        "Neuenschwander M",
-        "Polzin A",
-        "Marjani K",
-        "Grandoch M",
-        "Wagner R",
-        "Herder C",
-        "Roden M",
-        "Kelm M",
-        "Jung C",
-        "Schlesinger S",
-        "Cramer M"
-      ],
-      "journal": "Pharmacology & therapeutics",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Standard modifiable cardiovascular risk factors (SMuRFs) and non-SMuRFs are commonly used for risk stratification and therapeutic guidance after ST-elevation myocardial infarction (STEMI) in the general population. Their prognostic relevance with a potential implication for pharmacological and therapeutic management in individuals with established diabetes remains uncertain. This systematic review with meta-analysis aimed to identify prognostic factors associated with mortality in individuals with diabetes and STEMI qualifying for potential therapeutic targets. Studies evaluating prognostic factors for mortality in individuals with diabetes after STEMI were included up to May 3, 2025. Data extraction was performed independently by two reviewers. Certainty of evidence (CoE) was evaluated (GRADE). Thirty-seven studies were included, of which 25 had a high risk of bias. Mortality after STEMI in individuals with diabetes was consistently associated with non-SMuRFs (age, female sex, chronic kidney disease), acute cardiac dysfunction (Killip class III-IV, heart failure, cardiogenic shock), and atherosclerosis extent (anterior infarction, prior myocardial infarction, peripheral vascular disease). Diabetes-specific risk factors, including glycemic control parameters and insulin treatment, were also associated with increased risk of mortality (low to very low CoE). Once diabetes is established, no increased risk of mortality was observed for traditional SMuRFs, such as hypertension, smoking status, dyslipidemia, and obesity. These findings highlight the need for therapeutic strategies beyond conventional risk factor modification, with emphasis on acute hemodynamic management, tailored pharmacotherapy, and optimized glycemic control in this high-risk population. REGISTRATION PROSPERo: CRD42022378193.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "topics": [
-        "heart-failure",
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42470933",
-      "pmid": "42470933",
-      "doi": "10.1016/j.clinimag.2026.110900",
-      "title": "Clinical integration of an inferior vena cava filter alert system using an artificial intelligence application.",
-      "authors": [
-        "Hardy J",
-        "Ahmed O",
-        "Malinow I",
-        "Parsa S",
-        "Lim M",
-        "Herskovits E",
-        "Kim H",
-        "Fang A"
-      ],
-      "journal": "Clinical imaging",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVE: Timely follow-up and removal of inferior vena cava (IVC) filters is important for preventing filter-related complications. This study evaluated the performance and clinical impact of integrating the Filter Alert System (FAS), a natural language processing tool for identifying patients with an inferior vena cava (IVC) filter.\n\nMETHODS: The FAS was developed using the NLP feature of an artificial intelligence (AI) software application, which scans computed tomography (CT) radiology reports. The software is linked to an online notification system, which then identifies reports that contain keywords. An initial test study was conducted to validate the FAS over a 2-month period, and a prospective study was conducted wherein the FAS was clinically integrated over a 9-month period. The percentage of patients eligible for filter retrieval who were scheduled for clinic, IVC filter retrieval rates, and complication rates were compared 9 months before (pre-FAS) and after integration of the FAS (post-FAS) using a Fisher's test.\n\nRESULTS: The FAS accuracy was 99.7%; it achieved high sensitivity (85.7%), specificity (99.9%), and positive predictive value (94.7%). After clinical integration, significantly more eligible patients were scheduled for clinic evaluation (58.0% vs 21.6%, respectively) and subsequent filter retrieval (44.0% vs 21.6%, respectively) in the post-FAS versus pre-FAS group with similar rates of IVC filter-related complications. Among patients with known filter placement dates, the mean (range) filter dwell time was similar between the pre-FAS and post-FAS groups (38.9 [2.3-190.7] months vs 65.6 [3.6-239.8] months).\n\nCONCLUSIONS: FAS can be clinically integrated for promoting active surveillance of IVC filter patients.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42470932",
-      "pmid": "42470932",
-      "doi": "10.1016/j.breast.2026.104865",
-      "title": "Latin American consensus on the medical oncologic management of early-stage HR+/HER2- breast cancer: Addressing regional disparities in Spanish-speaking countries.",
-      "authors": [
-        "Landaverde DU",
-        "Petracci F",
-        "Grano de Oro A",
-        "Bravo Garzón MA",
-        "Estévez M",
-        "Arce-Salinas C",
-        "González I",
-        "Veliz I",
-        "Amador JL",
-        "Castillo O",
-        "Enciso V",
-        "Codas L",
-        "Valencia F",
-        "Gálvez M",
-        "Valentín-Bejarano J",
-        "Sánchez S",
-        "Lemes-Pistón V",
-        "Hannois D",
-        "Khanna P",
-        "Miranda JP",
-        "Guillen G",
-        "Sánchez-Bayona R",
-        "Gavilá-Gregori J",
-        "Vidal-Losada M"
-      ],
-      "journal": "Breast (Edinburgh, Scotland)",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE: Substantial disparities persist in managing early-stage hormone receptor-positive, HER2-negative (HR+/HER2-) breast cancer across Spanish-speaking Latin America, including limited access to genomic testing, systemic therapies, and fertility preservation. The Latin American Breast Cancer Association (LABCA) convened an expert panel to produce the first consensus tailored to Spanish-speaking countries.\n\nMETHODS: A literature review (Embase, PubMed, Scopus, ClinicalKey, LILACS; 2014-2025), informed by ESMO/ASCO/NCCN/SEOM guidelines and registered in PROSPERO (CRD42024565706), supported statement development. A steering committee of three experts of Spanish nationality supervised the process. Twenty-one specialists from 11 countries participated in a modified Delphi process; 31 items were voted in Round 1 and 25 statements were retained within scope. Consensus was pre-defined as ≥80% agreement (or median 7-9), with a mean/outlier rule reported alongside.\n\nRESULTS: Applying the ≥80% rule, 22 of 25 statements (88%) reached full consensus; three (1.3, 2.4, 3.3; 75-76%) were near-consensus and retained with caveats. Recommendations integrated clinicopathologic and molecular factors to guide risk stratification; genomic assays were reserved for selected scenarios and discouraged in very low-risk tumors or ≥4 positive lymph nodes. Consensus also covered ovarian suppression plus endocrine therapy, fertility preservation, sexual-health and genetic evaluation, and adjuvant CDK4/6 and PARP inhibitors when accessible. Marked heterogeneity in access was documented by country and sector.\n\nCONCLUSION: This consensus provides the first region-specific, evidence-based, resource-adapted recommendations for early-stage HR+/HER2- breast cancer in Spanish-speaking Latin America, aiming to reduce disparities and strengthen equitable oncology care.",
-      "publication_types": [
-        "Journal Article",
-        "Consensus Statement",
-        "Review"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13400430/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42470857",
-      "pmid": "42470857",
-      "doi": "10.1016/j.intimp.2026.117153",
-      "title": "Sinomenine attenuates post-infarction ventricular remodeling and cardiac dysfunction by suppressing α7nAChR-dependent M1 macrophage polarization and pyroptosis.",
-      "authors": [
-        "Yang JR",
-        "Cheng CJ",
-        "Tan FQ",
-        "Yu JG"
-      ],
-      "journal": "International immunopharmacology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE: To determine whether sinomenine protects against post-infarction ventricular remodeling and cardiac dysfunction by suppressing M1 macrophage polarization and pyroptosis via α7 nicotinic acetylcholine receptor (α7nAChR).\n\nMETHODS: A mouse myocardial ischemia-reperfusion (MIRI) model, hypoxia/reoxygenation (H/R)-exposed RAW264.7 macrophages, and primary macrophages were used. At 24 h post-MIRI and post-H/R, pro-inflammatory cytokines (TNF-α, IL-6), M1 markers (CD86, iNOS), M2 markers (CD206, Arg-1), α7nAChR expression, and pyroptotic proteins (NLRP3, cleaved caspase-1, GSDMD-N, mature IL-1β, mature IL-18) were measured. Pyroptotic mRNAs (Nlrp3, Casp1, Gsdmd, Il1b, Il18) were quantified by qRT-PCR. At 28 days post-MIRI, cardiac function (left ventricular ejection fraction, LVEF; left ventricular fractional shortening, LVFS), left ventricular weight, and heart weight were assessed. The selective antagonist methyllycaconitine and specific siRNA were employed to verify α7nAChR involvement.\n\nRESULTS: In MIRI mice, sinomenine reduced serum and myocardial TNF-α and IL-6, upregulated myocardial α7nAChR, and suppressed CD68+CD86+ and CD68+GSDMD-N+ cardiac macrophages. At 28 days, it improved LVEF and LVFS and reduced left ventricular weight and heart weight. In H/R-exposed RAW264.7 cells, sinomenine decreased TNF-α and IL-6 release, suppressed M1 markers and pyroptotic proteins, restored cell viability, and increased M2 markers and α7nAChR expression. Consistently, sinomenine downregulated pyroptotic mRNAs. These effects were confirmed in primary macrophages. All effects were abolished by α7nAChR inhibition.\n\nCONCLUSION: These results suggest that sinomenine alleviates post-infarction ventricular remodeling and cardiac dysfunction by inhibiting M1 polarization and pyroptosis in an α7nAChR-dependent manner. Thus, targeting macrophage α7nAChR may offer a novel immunomodulatory strategy for post-infarction heart failure, with sinomenine as a potential therapeutic candidate.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "heart-failure"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42470406",
-      "pmid": "42470406",
-      "doi": "10.1016/j.jcmg.2026.06.002",
-      "title": "Indexed Stroke Volume Improvement in Low-Flow Aortic Stenosis After TAVI: A COMPARE-TAVI 1 Substudy.",
-      "authors": [
-        "Dyreborg MA",
-        "Terkelsen CJ",
-        "Nissen H",
-        "Poulsen SH",
-        "Hejlesen K",
-        "Haujir A",
-        "Carter-Storch R",
-        "Dybro A",
-        "Freeman P",
-        "Uttenthal F",
-        "Christiansen U",
-        "Christiansen EH",
-        "Thim T",
-        "Dahl JS"
-      ],
-      "journal": "JACC. Cardiovascular imaging",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "valvular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42469452",
-      "pmid": "42469452",
-      "doi": "10.1007/s00395-026-01198-1",
-      "title": "Historical account of reperfusion therapy and the development of cardioprotection beyond reperfusion.",
-      "authors": [
-        "Heusch G",
-        "Kleinbongard P",
-        "Gersh BJ"
-      ],
-      "journal": "Basic research in cardiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "The only way to salvage myocardium from infarction is timely reperfusion of the occluded coronary artery. Timely reperfusion reduces infarct size and mortality. The history of reperfusion therapy from the first clinical use of intravenous streptokinase in patients with acute myocardial infarction by Sherry et al. in the late 1950s, over seminal experimental dog studies by Ross Jr. et al., demonstrating infarct size reduction by timely reperfusion in the early 1970s, to a more systematic use of initially streptokinase and a later tissue plasminogen activator in clinical trials (GISSI, TIMI), the addition of platelet inhibition (ISIS) and ultimately mechanical recanalization by percutaneous coronary intervention with stenting, is reviewed in detail. Cardioprotection beyond timely reperfusion was first demonstrated in the seminal experimental dog studies of ischemic conditioning by Murry, Reimer, and Jennings in the 1980s and initiated a tsunami of experimental studies in various experimental models to identify the underlying signal transduction, but has not yet been established in clinical practice. Clinical trials on various forms of ischemic conditioning, potentially cardioprotective drugs and transcutaneous vagal nerve stimulation, are still underway.",
-      "publication_types": [
-        "Journal Article",
-        "Review",
-        "Historical Article"
-      ],
-      "topics": [
-        "coronary"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13593805/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42468973",
-      "pmid": "42468973",
-      "doi": "10.1111/bph.70584",
-      "title": "The role of macrophage migration inhibitory factor (MIF) in the pathogenesis and progression of cardiovascular disease.",
-      "authors": [
-        "Mahabhashyam S",
-        "Harris J",
-        "Bernhagen J",
-        "Vinh A",
-        "Mirabito Colafella KM"
-      ],
-      "journal": "British journal of pharmacology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Cardiovascular disease (CVD) remains the leading global cause of death, driven by complex mechanisms, in which chronic inflammation plays a central role. Inflammatory pathways contribute to all stages of CVD, from endothelial dysfunction and plaque formation to erosion, rupture and myocardial injury. Among the mediators implicated, macrophage migration inhibitory factor (MIF) has emerged as a pivotal player. MIF is a unique cytokine with chemokine-like activity that promotes leukocyte recruitment, amplifies inflammatory cascades and modulates vascular function. Elevated circulating and tissue MIF levels correlate with disease severity, plaque instability and adverse outcomes in coronary artery disease and acute coronary syndrome, positioning MIF as both a biomarker and a therapeutic target. Preclinical studies demonstrate that MIF blockade, via small-molecule inhibitors, engineered peptides or monoclonal antibodies, attenuates vascular inflammation and stabilizes plaques. However, clinical development for cardiovascular indications remains limited, with current trials focused on oncology and neuroinflammation. This review synthesizes current knowledge on MIF and its homologue D-dopachrome tautomerase (D-DT) in CVD, explores diagnostic and therapeutic potential and highlights emerging concepts such as sex differences. Understanding this axis could inform the development of novel immunocardiovascular therapies and personalized treatment strategies.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "coronary"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42468603",
-      "pmid": "42468603",
-      "doi": "10.1016/j.ajpe.2026.102052",
-      "title": "Development and Validation of National Learning Milestones for Postgraduate Pharmacist Training: A Consensus Study.",
-      "authors": [
-        "Chang YH",
-        "Lin CF",
-        "Chiang SC",
-        "Chang YL",
-        "Yang CW"
-      ],
-      "journal": "American journal of pharmaceutical education",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVE: Nationally calibrated learning milestone frameworks have not been reported for pharmacists. Therefore, we aimed to develop and validate a national pharmacist learning milestone framework for Taiwan's 2-year postgraduate year training program using a structured, consensus-driven methodology.\n\nMETHODS: This national consensus study comprised 23 certified pharmacist educators from representative teaching hospitals. These educators participated in 8 structured focus group discussions between October and December 2024. Each session involved standardized facilitation procedures, an ≥80% agreement threshold, and anonymous real-time voting. The resulting milestone framework was validated by 115 clinical preceptors through a structured survey that assessed content relevance and clarity using 4-point Likert scales. For each milestone, respondents independently assigned an appropriate performance level (Levels 1-5). Quantitative analyzes included descriptive statistics and Content Validity Index calculations supplemented by qualitative feedback for iterative refinement.\n\nRESULTS: The finalized framework comprised 15 subcompetencies and 143 milestones across 5 proficiency levels, with Level 4 (proficient) designated as the expected outcome at completion of postgraduate year training. The consensus process resulted in 55 revisions, 4 performance-level adjustments, 24 deletions, and 11 additions. The findings from the validation revealed strong content relevance (Content Validity Index 0.70-1.00) and high concordance in performance-level assignment (≥75% agreement).\n\nCONCLUSION: To the best of our knowledge, this study is the first to establish and validate a national pharmacist learning milestone framework in Taiwan. The rigorous consensus and validation processes ensured contextual relevance, strengthened educator engagement, and offered a scalable model for implementing competency-based pharmacy education.",
-      "publication_types": [
-        "Journal Article",
-        "Validation Study"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42468307",
-      "pmid": "42468307",
-      "doi": "10.1016/j.clinimag.2026.110898",
-      "title": "Your map to the heart - Cardiac CT applications in modern electrophysiology.",
-      "authors": [
-        "Tan S",
-        "Mondesert B",
-        "Haramati LB"
-      ],
-      "journal": "Clinical imaging",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Cardiac computed tomography (CT) has become indispensable in contemporary electrophysiology, providing rapid, non-invasive, high-resolution imaging of the heart with dramatically reduced radiation exposure compared to previous techniques. This review synthesizes the current and expanding roles of cardiac CT across a broad spectrum of electrophysiology procedures, focusing on the management of cardiac implantable electronic devices (CIEDs)-including transvenous lead extraction, leadless pacemakers, and extravascular implantable cardioverter-defibrillators-as well as atrial fibrillation therapies such as pulmonary vein isolation and left atrial appendage closure. Optimized CT protocols are essential for delineating key cardiac structures, thereby enhancing procedural planning, improving efficiency, and reducing complications. This imaging data offers essential information for procedural planning, risk stratification, and clinical decision-making to improve patient outcomes. In CIED interventions, CT serves as the gold standard for diagnosing lead-related complications, mapping fibrosis and adhesions for complex extractions, and ensuring accurate device placement. For atrial fibrillation ablation, CT is critical for excluding intracardiac thrombus, precisely mapping pulmonary vein and left atrial anatomy, and identifying procedural complications such as pulmonary vein stenosis, pericardial effusion, and atrio-esophageal fistula. In left atrial appendage closure, CT facilitates device sizing, procedural planning, and reliable detection of device-related thrombus or peri-device leaks during follow-up. As electrophysiology procedures and device technologies continue to advance, cardiac CT is poised to remain a cornerstone of procedural safety, innovation, and personalized patient care.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "electrophysiology",
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42468306",
-      "pmid": "42468306",
-      "doi": "10.1016/j.clinimag.2026.110903",
-      "title": "Liver steatosis and cognitive performance in aging: A pilot cross-sectional study.",
-      "authors": [
-        "Khalafi M",
-        "Hojjati SH",
-        "Wang XH",
-        "Tanzi EB",
-        "Liao V",
-        "Kumar S",
-        "Parikh NS",
-        "Chiang GC"
-      ],
-      "journal": "Clinical imaging",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE: Metabolic dysfunction-associated steatotic liver disease (MASLD) has been linked to dementia. We investigated whether liver steatosis or fibrosis is associated with early cognitive changes, while exploring related mechanisms like body mass index (BMI) and cerebral β-amyloid deposition.\n\nMETHODS: In this cross-sectional study, we enrolled 26 cognitively unimpaired individuals, who underwent amyloid PET and comprehensive clinical, neurological, and neuropsychological evaluations, including the Telephone Interview for Cognitive Status (TICS). Liver steatosis and fibrosis were quantified noninvasively using vibration-controlled transient elastography (FibroScan®; Echosens, Paris, France) with an M-probe, with the controlled attenuation parameter (CAP) used to quantify liver steatosis. Multivariate regression models were used to assess relationships between liver and cognitive measures, adjusting for age.\n\nRESULTS: In our cohort (mean age 72.2 ± 8.4 years), greater liver steatosis was associated with lower TICS scores, using both the CAP score (β = -0.03, p = 0.021) and steatosis grade (β = -1.39, p = 0.023). Higher liver stiffness was also negatively associated with TICS scores (β = -1.39, p = 0.042). BMI was significantly associated with greater cerebral amyloid burden (β = 9.03, p = 0.01), higher steatosis grade (β = 0.30, p = 0.03), and higher CAP scores (β = 9.47, p = 0.003).\n\nCONCLUSION: Liver steatosis associates with lower cognitive scores in older adults. BMI associates with both steatosis and amyloid burden, which may reflect co-occurring metabolic pathways. These findings provide evidence for targeting metabolic health to preserve cognition and mitigate Alzheimer's pathology.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology",
-        "imaging"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13456489/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42468164",
-      "pmid": "42468164",
-      "doi": "10.1016/j.intimp.2026.117126",
-      "title": "Cysteine and glycine-rich protein 2 exhibits inhibitory effects on airway remodeling in asthma by interfering with the hippo-LATS1-YAP/TAZ signaling cascade.",
-      "authors": [
-        "Wang H",
-        "Mao H",
-        "Li C"
-      ],
-      "journal": "International immunopharmacology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Airway remodeling is a key feature of asthma. Our previous results have demonstrated that cysteine and glycine-rich protein 2 (Csrp2) can suppress the phenotypic transition of airway smooth muscle cells in vitro, a fundamental event in airway remodeling in asthma. However, whether Csrp2 interferes with airway remodeling in asthma in vivo remains unknown. This work explored the exact role of Csrp2 in the regulation of airway remodeling through the use of a murine model of ovalbumin (OVA)-induced asthma and Csrp2 knockout (KO) mice. Compared with normal mice, asthmatic mice presented lower levels of Csrp2 in lung samples. Compared with wild-type (WT) mice, Csrp2 KO mice developed more severe asthma symptoms, such as exacerbated airway hyperresponsiveness, increased inflammatory cell infiltration, and a thickened airway smooth muscle layer, in response to OVA. The mass of airway smooth muscle and airway fibrosis were also markedly greater in Csrp2 KO mice than in WT mice upon exposure to OVA. Notably, the aforementioned symptoms observed in Csrp2 KO mice were alleviated upon the reintroduction of Csrp2. Compared with those in normal mice, the phosphorylation of YAP and TAZ in OVA-induced asthmatic mice was reduced, and their nuclear levels were increased. The phosphorylation of LATS1 was also decreased in asthmatic mice. These changes in LATS1, YAP and TAZ expression were reinforced in Csrp2 KO mice upon OVA exposure. Furthermore, the upregulation of Csrp2 restrained the activation of YAP/TAZ in both Csrp2 KO and WT mice upon OVA exposure. Inhibiting YAP/TAZ reversed the exacerbated airway remodeling induced by OVA in Csrp2 KO mice. Overall, these results highlight the critical role of Csrp2 in asthma progression. Loss of Csrp2 exacerbates, whereas upregulation of Csrp2 retards, airway remodeling in asthma by interfering with the Hippo-LATS1-YAP/TAZ signaling cascade. These findings suggest that Csrp2 may represent a potential target for therapeutic intervention in asthma.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "respiratory"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42468163",
-      "pmid": "42468163",
-      "doi": "10.1016/j.intimp.2026.117116",
-      "title": "Diabetic cardiomyopathy: Target immune cell from mechanism to treatment.",
-      "authors": [
-        "Lv J",
-        "Bao X",
-        "Jiao X",
-        "Jiang Y",
-        "Lin M",
-        "Zhang W",
-        "Wang M"
-      ],
-      "journal": "International immunopharmacology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Diabetic cardiomyopathy (DCM) is a specific cardiac complication of diabetes that occurs independently of hypertension and coronary artery disease. Beyond metabolic disturbance, chronic hyperglycemia triggers immune dysfunction, contributing to myocardial inflammation, remodeling, and contractile impairment. This review highlights the critical roles of multiple immune cell populations-including monocytes, macrophages, mast cells, neutrophils, and T lymphocytes-in the pathogenesis of DCM, and frames DCM as an immunometabolic disorder driven in part by trained immunity. Hyperglycemia enhances glycolysis in macrophages and neutrophils, leading to the accumulation of acetyl-CoA that serves as a substrate for histone acetyltransferases. The resulting hyperacetylation of histone H3 locks immune cells into a pro-inflammatory state even after glucose levels normalize and amplifies inflammasome activation via the NLRP3 pathway, thereby coupling metabolic reprogramming to epigenetic reprogramming and sustaining chronic inflammation. In parallel, hyperglycemia-induced metabolic changes promote reactive oxygen species (ROS) production and upregulate S100A8/A9 expression. The S100A8/A9 heterodimer engages the receptor for advanced glycation end products (RAGE) on myeloid progenitors, driving the expansion of monocytes/macrophages and pro-inflammatory neutrophils and further fueling adverse cardiac remodeling. We also summarize emerging immunomodulatory therapies, including anti-cytokine strategies, inhibitors of inflammatory signaling pathways, mesenchymal stromal cell (MSC)-based interventions, other cellular treatments, and nanotechnology-enabled delivery platforms, which have shown promising anti-inflammatory and cardioprotective effects in preclinical models and early clinical studies. Targeting trained immunity and immunometabolic pathways may offer novel opportunities to halt or even reverse DCM progression.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "coronary",
-        "heart-failure"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42468161",
-      "pmid": "42468161",
-      "doi": "10.1016/j.ejrad.2026.113057",
-      "title": "Automated volumetric iRECIST-inspired CT assessment of treatment response to dual immune checkpoint inhibition in metastatic renal cell carcinoma: A feasibility study.",
-      "authors": [
-        "Kraaijveld RCJ",
-        "Ma B",
-        "Suelmann BBM",
-        "Wessels FJ",
-        "Ragusi MAA",
-        "de Keizer B",
-        "Gilhuijs KGA"
-      ],
-      "journal": "European journal of radiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "OBJECTIVES: Evaluate the feasibility and interobserver variability of automated volumetric immune Response Evaluation Criteria in Solid Tumours (iRECIST)-inspired scoring of treatment response in metastatic renal cell carcinoma (mRCC).\n\nMATERIALS AND METHODS: Pretreatment and follow-up CECT or PET/CT scans at 12-week intervals were retrospectively collected from 75 mRCC patients receiving ipilimumab/nivolumab at a single centre (2019-2024). Whole-body lesion segmentation and longitudinal tracking were used to derive volumetric iRECIST-inspired scores. Three radiologists independently assigned iRECIST scores, then re-evaluated 15 test patients using the automated output. Performance was assessed using Dice score, false positives, tracking accuracy, F1, and new lesion detection accuracy (NLDA). Interobserver agreement was compared before and after AI assistance using multi-level κ statistics (p < 0.05).\n\nRESULTS: Seventy-five patients (65.6 ± 9.8 years, 74.7 % male) were included. Dice scores post-revision were 0.74 (IQR: 0.71-0.78) and 0.60 (IQR: 0.56-0.64) at baseline and follow-up, with 2.4 (IQR: 2.1-2.7) and 0.6 (IQR: 0.5-0.8) false positives per scan, respectively. Tracking accuracy was 0.98 (IQR: 0.98-1.00), F1 score 0.90 (IQR: 0.80-1.00), and NLDA 0.85 (IQR: 0.80-1.00). Agreement with the consensus yielded κ = 0.60 (95 % CI: 0.50-0.68) and κ = 0.44 (95 % CI: 0.31-0.54) at first and second follow-up. AI assistance significantly improved interobserver agreement from κ = 0.34 (95 % CI 0.11-0.56) to κ = 0.67 (95 % CI 0.40-0.89; p = 0.04).\n\nCONCLUSION: Automated volumetric iRECIST-inspired scoring in mRCC patients is feasible and improves interobserver agreement, supporting an interpretable iRECIST-based response assessment.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42467104",
-      "pmid": "42467104",
-      "doi": "10.1007/s00347-026-02493-x",
-      "title": "[International multidisciplinary consensus statement on perioperative fasting in adults].",
-      "authors": [
-        "Rüggeberg A",
-        "Kranke P",
-        "Schindler E"
-      ],
-      "journal": "Die Ophthalmologie",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: The aim of this consensus statement was to develop evidence-based recommendations on perioperative fasting, taking the growing global awareness of the negative effects of prolonged fasting before surgery into account, particularly with respect to clear liquids.\n\nMETHODS: A systematic literature search was conducted, including assessments of the risk of bias and the overall level of evidence using GRADE methodology to develop 13 preliminary recommendations on perioperative fasting. This was followed by a 3-stage Delphi process involving an international, multidisciplinary panel of 68 experts and nonexperts. Experts on perioperative fasting were selected via a focused literature search, while nonexperts were selected via relevant organizations. The panel comprised anesthetists, surgeons, nurses, cardiologists, gastroenterologists, other physicians, patient representatives and members of international organizations related to the topic, including patient safety organizations and enhanced recovery after surgery (ERAS) societies.\n\nRESULTS: The panel of 68 stakeholders subsequently agreed on 8 recommendations. These recommendations are intended for all healthcare professionals as guidance for perioperative fasting in adults undergoing sedation or anesthesia. The consensus statement supports current preoperative fasting practices for solid food and non-clear liquids, reflecting the lack of meaningful new evidence. Patients should fast for 6h with respect to non-clear liquids, including milk, milk products, meal replacement drinks and enteral feeding formulas. They should fast for at least 6h with respect to solid food; for large fatty meals fasting for 8h or longer may be necessary; however, with respect to clear liquids it reflects a fundamental shift towards more liberal liquid regimens. It is recommended that institutional protocols should be implemented to reduce liquid fasting times. These protocols can either encourage patients to drink clear liquids until 2 h before the start of anesthesia or sedation or permit the intake of clear liquids less than 2 h before the start of anesthesia or sedation within institutional protocols. Clear liquids include water, tea or coffee with sugar or honey (including a small amount of milk, up to one fifth of the total volume), clear juices, lemonade and clear carbohydrate drinks. The consensus statement further recommends that oral intake should be resumed as soon as clinically feasible and that preprocedural gastric ultrasound performed by a trained provider can be used to guide clinical decisions when additional information is required.\n\nDISCUSSION: These consensus-based recommendations are not an official guideline issued by any national or international professional society. Nevertheless, they are currently regarded as the most comprehensive and up-to-date review of the available evidence, based on robust methodology. The broad international consensus suggests that the recommendations published in Die Anaesthesiologie provide a reliable basis to improve the quality of patient care by minimizing periprocedural fasting times, within safe margins. To achieve this, preoperative liberal clear liquid regimens can be implemented with institutional protocols.",
-      "publication_types": [
-        "Journal Article",
-        "Consensus Statement",
-        "English Abstract",
-        "Practice Guideline",
-        "Review"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42467085",
-      "pmid": "42467085",
-      "doi": "10.1007/s00125-026-06800-8",
-      "title": "Tissue origins of the plasma proteomic response to glucose ingestion in humans.",
-      "authors": [
-        "Uluvar B",
-        "Williamson A",
-        "Kolnes KJ",
-        "Jeppesen PB",
-        "Kolnes AJ",
-        "Koprulu M",
-        "Zoodsma M",
-        "Beuchel C",
-        "Bambal Y",
-        "Reines M",
-        "Yasmeen S",
-        "Maj C",
-        "Schumacher J",
-        "O'Rahilly S",
-        "van Heel DA",
-        "Bartfeld S",
-        "Carrasco-Zanini J",
-        "Jensen J",
-        "Pietzner M",
-        "Langenberg C"
-      ],
-      "journal": "Diabetologia",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "AIMS/HYPOTHESIS: Circulating proteins act as important hormonal signals of nutrient intake. We aimed to systematically characterise the time-resolved proteomic response to glucose ingestion in humans, and to assess its robustness following prolonged complete caloric restriction.\n\nMETHODS: We conducted oral glucose tolerance tests (OGTTs) in 11 healthy volunteers before and after 7 days of complete caloric restriction and measured the response of >2900 targets through high-resolution plasma protein profiling.\n\nRESULTS: We identified a signature of 44 proteins that changed significantly following glucose ingestion, which was reproducible after 7 days without food, and was strongly (20-fold) enriched for 'stomach-specific' proteins. We report that annexin A10 (ANXA10) shows the most significant post-glucose change observed, similar to the trajectories of secreted hormones. We present observational human evidence from multiple sources suggesting that ANXA10 is secreted upon sensing an increase in gastric pH, with the stomach as the major contributing tissue. Despite a profound metabolic shift after 7 days of complete caloric restriction, characterised by delayed insulin secretion and postprandial hyperglycaemia, only four proteins showed robust evidence for a differential trajectory during both OGTTs. This included plasma levels of tryptophanyl-tRNA synthetase 1 (WARS), for which we found a genetic association with glucose homeostasis and coronary artery disease.\n\nCONCLUSIONS/INTERPRETATION: Our exploratory study identifies the proteomic response to glucose ingestion and demonstrates its reproducibility despite major shifts in glucose homeostasis. We characterise the gastrointestinal origin of these changes, and hypothesise a hitherto under-recognised role for sensing of changes in gastric pH on the plasma proteome.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "coronary"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13541793/",
       "source": "PubMed"
     }
   ]
