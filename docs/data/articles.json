@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:09:03.924696+00:00",
+  "generated_at": "2026-10-20T20:01:45.768568+00:00",
   "articles": [
     {
       "id": "pmid:42894311",
@@ -9986,6 +9986,92 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898695",
+      "pmid": "42898695",
+      "doi": "10.1016/j.metop.2026.100508",
+      "title": "Hepatic biomarker trajectories and mortality in septic adults with type 2 diabetes and recorded dipeptidyl peptidase-4 inhibitor exposure versus metformin-based therapy: A propensity-score-matched cohort study.",
+      "authors": [
+        "Alevizopoulos AG",
+        "Anastasiou GG",
+        "Nomikos P",
+        "Kritikos I"
+      ],
+      "journal": "Metabolism open",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "AIMS: To determine whether recorded dipeptidyl peptidase-4 (DPP-4) inhibitor exposure, compared with metformin, is associated with worse hepatic biomarker trajectories or mortality in adults with type 2 diabetes and sepsis.\n\nMETHODS: In three critical care databases (MIMIC-IV, eICU-CRD, NWICU), adults with type 2 diabetes and sepsis with a DPP-4 inhibitor record were matched 1:3 within each database to metformin comparators on age, sex, body mass index, 24-h SOFA and day-1 estimated glomerular filtration rate. The day 1-7 total bilirubin trajectory was analysed by linear mixed-effects regression under nine specifications including log transformation, flexible day terms, doubly robust adjustment and inverse-probability-of-observation weighting.\n\nRESULTS: Matching yielded 105 DPP-4 inhibitor and 297 metformin patients; a pre-admission exposure record was present in 60.0%. The between-group difference in bilirubin slope was +0.048 mg/dL/day (95% CI -0.029 to 0.126; p = 0.221), with p between 0.109 and 0.436 across specifications. No other hepatic outcome survived multiplicity correction. Alkaline phosphatase rose more steeply on the primary specification (+6.97 U/L/day; q = 0.005) but was fragile: 12 of 28 sensitivity analyses retained p < 0.05. In-hospital mortality was 21.0% versus 13.5% (risk ratio 1.56, 95% CI 0.97-2.49), attenuating to 1.23 (0.67-2.29) with documented pre-admission exposure.\n\nCONCLUSIONS: There was no statistically detectable difference in bilirubin trajectory between recorded DPP-4 inhibitor and metformin exposure, although differences below the cohort's detectable-effect threshold cannot be excluded. An ALP signal was fragile and hypothesis-generating. Mortality findings are exploratory and non-causal. These associations with recorded exposure cannot inform inpatient management.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678097/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898461",
+      "pmid": "42898461",
+      "doi": "10.1016/j.ero.2026.100255",
+      "title": "Sex-specific outcomes in methotrexate therapy among patients with psoriatic arthritis and psoriasis.",
+      "authors": [
+        "Barenbrug L",
+        "Koc GH",
+        "Otero ME",
+        "Leijten EFA",
+        "van Leuven SI",
+        "van der Horst-Bruinsma IE",
+        "van den Reek JMPA",
+        "de Jong EMGJ",
+        "Kok MR",
+        "Vis M",
+        "Mulder MLM"
+      ],
+      "journal": "EULAR rheumatology open",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "OBJECTIVES: The purpose of this paper is to identify sex-specific patterns in methotrexate (MTX) therapy among patients with psoriatic arthritis (PsA) and psoriasis (PsO).\n\nMETHODS: Data from adult patients treated with MTX monotherapy included in the Dutch southwest Early Psoriatic Arthritis Registry (rheumatology) or Continuous Assessment of Psoriasis Treatment Use REgistry with Methotrexate (dermatology) registries were obtained to create 2 cohorts of patients with PsA or PsO, respectively. Drug survival was assessed using Kaplan-Meier and Cox regression analyses. Disease activity, dosing, adverse events, and subsequent treatments were evaluated.\n\nRESULTS: A total of 525 (50.1% female) patients were included in the PsA cohort and 217 (41.1% female) patients in the PsO cohort. In the PsA cohort, female sex was associated with shorter drug survival (adjusted hazard ratio [HR] = 2.5; 95% CI, 1.6-4.1; P < .001), whereas in the PsO cohort, female sex was associated with longer drug survival (HR = 0.6; 95% CI, 0.4-0.9; P = .008). Disease activity at MTX discontinuation was higher in females than males in the PsA cohort (Psoriatic Arthritis Disease Activity Score: 3.9 [1.0] vs 3.1 [1.5], P = 0.037), whereas in the PsO cohort, disease activity was higher in males than females (Psoriasis Area and Severity Index: 4.8 [6.4] vs 3.5 [3.7], P = .032). MTX dosing was comparable between sexes, though average doses were higher in the PsA than in the PsO cohort (18.2 [7.5] vs 15.0 [3.3] mg/wk, P < .001).\n\nCONCLUSIONS: Drug survival and treatment response of MTX vary between PsA and PsO, with females in the PsA cohort while males in the PsO cohort having worse outcomes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "rheumatology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678078/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898152",
+      "pmid": "42898152",
+      "doi": "10.1210/jcemcr/luag328",
+      "title": "Late-onset hypothalamic-pituitary dysfunction in a childhood cancer survivor treated with cranial irradiation.",
+      "authors": [
+        "Takamura Y",
+        "Inoue R",
+        "Takeuchi K",
+        "Kosokabe F",
+        "Ishizawa K",
+        "Inoue D"
+      ],
+      "journal": "JCEM case reports",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "Hypothalamic-pituitary dysfunction is a well-recognized late complication in childhood cancer survivors (CCSs) treated with cranial irradiation. We report a 42-year-old male with a history of acute lymphoblastic leukemia diagnosed at 5 years of age and treated with chemotherapy and 26 Gray whole-brain irradiation. He presented with right upper extremity paresis due to bilateral chronic subdural hematomas. Following burr-hole drainage for the left chronic subdural hematoma, he developed anorexia, fatigue, and hyponatremia and was referred to the endocrinology department. Endocrine evaluation demonstrated hypothalamic adrenal insufficiency, severe adult growth hormone deficiency, mild gonadal dysfunction, and mixed hypothyroidism. Magnetic resonance imaging revealed a suprasellar arachnoid cyst with compression of the pituitary gland. To our knowledge, this represents one of the longest reported intervals between childhood cancer treatment and the diagnosis of hypothalamic-pituitary dysfunction, which became clinically apparent 37 years after treatment following a prolonged asymptomatic period. This case suggests that hypothalamic-pituitary dysfunction may remain clinically silent and gradually progress for decades before becoming unmasked by the physiological stress, highlighting the need for prolonged, potentially lifelong, endocrine surveillance in CCS.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13677440/",
       "source": "PubMed"
     },
     {
@@ -40352,9 +40438,8 @@
       "abstract": "BACKGROUND: Subarachnoid hemorrhage (SAH) is a life-threatening condition often leading to complications such as cerebral vasospasm, which causes delayed cerebral ischemia and increases mortality. In intensive care, early identification of vasospasm risk factors by nurses is essential for timely intervention and improved outcomes.\n\nOBJECTIVES: We sought to review and synthesize evidence on risk factors associated with cerebral vasospasm after SAH and inform early risk assessment and nursing care strategies in intensive care.\n\nMETHODS: We conducted a systematic review and meta-analysis of observational studies. A comprehensive search was conducted on August 30 to 31, 2024, across 8 databases. Quality was assessed using the Joanna Briggs Institute checklist and the Risk of Bias (RoB 2.0) tool.\n\nRESULTS: Thirty-eight studies were included in the systematic review, of which 27 were included in the meta-analysis, involving 19 033 patients. Clinical severity measures were most strongly associated with cerebral vasospasm, including Modified Fisher grade (odds ratio (OR) = 2.88; 95% confidence interval (CI), 2.04-4.07), Fisher grade (OR = 2.27; 95% CI, 1.91-2.69), and hemodynamic status (OR = 2.56; 95% CI, 1.17-5.59). Aneurysm-related factors and comorbid conditions were associated with increased risk of cerebral vasospasm, whereas clinical biomarkers and inflammatory markers showed relatively smaller effect sizes.\n\nCONCLUSIONS: Clinical severity scales and hemodynamic status are the strongest predictors of cerebral vasospasm following SAH. These findings support early risk stratification and the implementation of structured monitoring strategies to improve patient outcomes.PROSPERO trial registration number:CRD42024605605 (https://www.crd.york.ac.uk/PROSPERO/view/CRD42024605605).",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
         "Meta-Analysis",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "critical-care",
@@ -40728,9 +40813,8 @@
       "abstract": "Alexithymia has been proposed as a ransdiagnostic vulnerability for behavioral addictions, but its role in problematic Internet-related behaviors (PIB) has not been quantified across phenotypes and populations. We conducted a preregistered systematic review and meta-analysis following Preferred Reporting Items for Systematic reviews and Meta-Analyses. Major databases were searched in October 2025 for studies reporting quantitative associations between alexithymia and PIB (problematic Internet, smartphone, social media, gaming use, or cyberbullying). Risk of bias was appraised with Joanna Briggs Institute tools. Random-effects models pooled correlations and standardized regression coefficients; three-level and robust-variance models accounted for multiple effects per study and examined moderators and adjustment for internalizing symptoms. Eighty-three studies met inclusion criteria; 78 independent samples (N = 42,478; 369 effect sizes total, comprising 302 zero-order correlations and 67 standardized regression coefficients) contributed to the meta-analysis. The pooled correlation between alexithymia and PIB was r = 0.36 (95% confidence interval 0.34-0.38; I2 = 77.6%). Associations were stronger for addictive-use PIB (r = 0.37) than for cyberbullying (r = 0.29), broadly comparable across world regions, and tended to be larger in adults than adolescents. In multivariable models, coefficients attenuated from about β = 0.37 to β = 0.18 after controlling for depression, anxiety, and other internalizing symptoms, but remained statistically significant. Sensitivity and publication-bias analyses indicated that the association was robust. Alexithymia shows a moderate association with PIB across age groups, partly via shared variance with internalizing psychopathology but also through unique pathways. Longitudinal and mechanistic studies should test whether targeting emotional awareness can help prevent or reduce PIB.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
         "Meta-Analysis",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -50414,6 +50498,34 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42898559",
+      "pmid": "42898559",
+      "doi": "10.4274/tjh.galenos.2026.10336",
+      "title": "Paroxysmal Nocturnal Hemoglobinuria with a Common Variable Immunodeficiency Phenotype: Noncirrhotic Portal Hypertension Without Demonstrable Splanchnic Thrombosis.",
+      "authors": [
+        "Kural RF",
+        "Kavlak G",
+        "Abdullayeva N",
+        "Gümüşburun R",
+        "Ardeniz Ö",
+        "Soyer N"
+      ],
+      "journal": "Turkish journal of haematology : official journal of Turkish Society of Haematology",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42897997",
       "pmid": "42897997",
       "doi": "10.12809/hkmj2513773",
@@ -53705,6 +53817,64 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42898834",
+      "pmid": "42898834",
+      "doi": "10.1039/d6md00532b",
+      "title": "Pan-cancer analysis reveals DNAJC9 as an immune-related biomarker and a positive regulator of the PI3K/AKT signaling pathway.",
+      "authors": [
+        "Li Z",
+        "Wu Y",
+        "Li J",
+        "Chen M",
+        "Liang H",
+        "He L",
+        "Han L",
+        "Cao J"
+      ],
+      "journal": "RSC medicinal chemistry",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "Background: Heat shock proteins (HSPs) modulate apoptosis, proliferation, and differentiation, positioning them as potential therapeutic targets in cancer. As a member of the J-domain-containing HSP40 family, DnaJ homolog, subfamily C, member 9 (DNAJC9) has not yet been systematically investigated in a pan-cancer context. Method: Multiple public repositories were employed to perform a comprehensive pan-cancer investigation of DNAJC9. We also utilized single-cell datasets to explore how DNAJC9 expression varies across distinct cellular clusters. These efforts covered several key dimensions, including diagnostic and prognostic value, immune landscape, genomic alterations, methylation differences, and pathway enrichment. To determine its biological effects, DNAJC9 was silenced in lung cancer cell lines, and subsequent experiments assessed cellular phenotypes. The downstream PI3K/AKT signaling cascade was examined via western blotting. Results: Across multiple tumor types, DNAJC9 was markedly upregulated, especially in advanced-stage cases, and higher expression levels predicted worse prognosis. DNAJC9 expression also correlated significantly with immune infiltration, tumor mutation burden (TMB), and microsatellite instability (MSI). Tumor tissues showed substantially lower DNAJC9 methylation than normal tissues. Single-cell analysis detected DNAJC9 expression in multiple immune cell subsets. Knockdown of DNAJC9 in A549 and H1299 lung cancer cells impaired proliferation, migration, and invasion. Functional enrichment analysis then pointed to the PI3K/AKT signaling pathway. Western blotting further confirmed that silencing DNAJC9 reversed the activated PI3K/AKT cascade in these cells, as shown by decreased p-PI3K/PI3K and p-AKT/AKT ratios. Conclusions: Pan-cancer analyses suggest that DNAJC9 may serve as a diagnostic and prognostic biomarker across cancers. Importantly, its role as an upstream PI3K/AKT activator and its functional validation in lung cancer support DNAJC9 as a potential target for anti-cancer drug discovery in this malignancy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13679143/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898738",
+      "pmid": "42898738",
+      "doi": "10.1039/d6ra07136h",
+      "title": "NIR-triggered gelatin-based hydrogel for ion-mechanical synergistic antibacterial therapy and infected wound closure.",
+      "authors": [
+        "Hu X",
+        "Zhang L",
+        "Hao R",
+        "Wang Z",
+        "Zhang Q",
+        "Gao Z",
+        "Yang W",
+        "Ma Y"
+      ],
+      "journal": "RSC advances",
+      "date": "2026-10-19",
+      "year": 2026,
+      "abstract": "Bacterial infection and impaired wound closure remain the leading causes of refractory cutaneous wound healing disorders, inflicting substantial global morbidity and mortality while exacerbating the crisis of antibacterial resistance. Infected cutaneous wounds present a persistent clinical difficulty, given that bacterial infection and inadequate wound closure exacerbate one another. Here, we constructed a hydrogel platform that integrates antibacterial activity and active wound closure through ion-mechanical coupling. The system combines thermoresponsive, catechol-functionalized network with core-shell nanoparticles consisting of a metal-organic framework shell (MOF) encapsulating a liquid metal core (LM). Under near-infrared (NIR) irradiation, the liquid metal generates heat that triggers network contraction to mechanically close the wound. Simultaneously, sustained release of Zn2+ and Ga3+ from the nanoparticles provides continuous, antibiotic free antibacterial activity. In a mouse MRSA infected wound model, this hydrogel achieves complete closure within 14 days with improved tissue regeneration. By integrating ion mediated antibacterial action, photothermal bacterial inactivation, and active mechanical contraction in a single platform, this design addresses the intertwined challenges of infection and impaired closure without the compromises of conventional approaches.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678685/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42898011",
       "pmid": "42898011",
       "doi": "10.1093/oncolo/oyag413",
@@ -54675,7 +54845,8 @@
       "publication_types": [
         "Journal Article",
         "Randomized Controlled Trial",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "clinical-trials"
@@ -60911,8 +61082,8 @@
         "neurology",
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681222/",
       "source": "PubMed"
     },
     {
@@ -66168,6 +66339,58 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898653",
+      "pmid": "42898653",
+      "doi": "10.1177/17571774261493091",
+      "title": "Protection motivation theory and infection-prevention behavior in nursing students across 26 Thai institutions: A cross-sectional study.",
+      "authors": [
+        "von Bormann SM",
+        "Wiwattanacheewin K",
+        "Sitanon T"
+      ],
+      "journal": "Journal of infection prevention",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "BACKGROUND: While nursing students often possess strong theoretical knowledge of infection control, a gap exists between their understanding and actual preventive practices. This study explored the relationship between knowledge, preventive behaviors, and Protection Motivation Theory (PMT) components among nursing students, using COVID-19 as a representative model.\n\nMETHODS: A national cross-sectional study was conducted among 463 nursing students from 26 educational institutions in Thailand. Data were collected via validated online questionnaires and analyzed using descriptive statistics, Spearman correlation coefficients, and binary logistic regression.\n\nRESULTS: Most participants were female (95.9%) with moderate-to-good knowledge (92.5%) and moderate protection motivation (81.6%). Despite this, 53.1% exhibited poor infection prevention behaviors. First-year students without clinical experience demonstrated significantly poorer behaviors compared to those with clinical exposure (χ 2 = 4.690, df = 1, p = .030). Knowledge did not significantly correlate with behavior (r = 0.026, p = .582). Protection motivation showed a weak correlation (r = 0.181, p = .001). Logistic regression identified perceived fear as the only significant predictor of preventive behavior (OR = 1.049, 95% CI [1.010, 1.089], p = .013).\n\nDISCUSSION: Perceived fear, rather than knowledge, primarily drives preventive adherence. Nursing education should transition beyond knowledge-based curricula to focus on enhancing self-efficacy and positive motivation to mitigate fear and improve compliance with infection control protocols.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13677992/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898432",
+      "pmid": "42898432",
+      "doi": "10.1177/19418744261496706",
+      "title": "The Bloomy Rind Sign: A Key MRI Marker in Leptomeningeal Carcinomatosis From Lung Adenocarcinoma.",
+      "authors": [
+        "Piccatto K",
+        "Basappa E",
+        "Mafraji M",
+        "Al-Ali H",
+        "Ansari S",
+        "Vattoth S",
+        "Kontzialis M"
+      ],
+      "journal": "The Neurohospitalist",
+      "date": "2026-10-18",
+      "year": 2026,
+      "abstract": "A 48 year-old female with a history of metastatic lung adenocarcinoma to the brain presented with acute onset dizziness for 12 hours. The neurological exam was notable for subtle sustained nystagmus on right and upward gaze. A code stroke was called and CT brain revealed no acute intracranial abnormality. MRI brain demonstrated new subtle restriction diffusion and FLAIR hyperintensity along the anterior surface of the brainstem and the middle cerebellar peduncles without evidence of enhancement, concerning for leptomeningeal disease. The remainder of the supratentorial metastases were stable. Lumbar puncture was performed and CSF analysis confirmed metastatic adenocarcinoma.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13677989/",
       "source": "PubMed"
     },
     {
@@ -93352,6 +93575,45 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42634856",
+      "pmid": "42634856",
+      "doi": "10.3238/arztebl.m2026.0148",
+      "title": "Same-Day Discharge Versus Overnight Stay After Catheter Ablation: An Observational Matched-Cohort Study on Safety and Feasibility.",
+      "authors": [
+        "Popescu SS",
+        "Behn F",
+        "Eitel C",
+        "Wenzel JP",
+        "Hatahet S",
+        "Mamaev R",
+        "Popescu BI",
+        "Traub A",
+        "de Waha S",
+        "Vogler J",
+        "Heeger CH",
+        "Küchler M",
+        "Kuck KH",
+        "Tilz RR"
+      ],
+      "journal": "Deutsches Arzteblatt international",
+      "date": "2026-10-16",
+      "year": 2026,
+      "abstract": "BACKGROUND: Catheter ablation is an established therapy for arrhythmias. As the incidence of atrial fibrillation (AF) rises, the associated burden on the health-care system is expected to increase. Same-day discharge (SDD) may help optimize resource utilization and increase patient comfort and satisfaction.\n\nMETHODS: Consecutive patients undergoing SDD electrophysiology procedures were prospectively enrolled in the study and compared in a non-randomized manner with consecutive overnight stay (ONS) patients who were matched to them according to procedure type. SDD patients were evaluated on the day after the procedure. SDD Patients who were not discharged on the day of the procedure were excluded. Baseline, periprocedural, and 30-day outcomes were documented and compared.\n\nRESULTS: 100 patients underwent SDD electrophysiology procedures from September 2022 to March 2025. The SDD patients were younger and had a lower prevalence of coronary artery disease and chronic kidney disease than their counterparts in the ONS cohort. The most common procedure was AF ablation. Procedural complications arose in 2% (95% confidence interval: [0.6; 7.0]) vs. 6% [2.8; 12.5] in SDD and ONS patients, respectively, p =0.279. Complications up to the day of discharge, or up to the evaluation on post-procedure day 1 in the SDD group were reported in 10% [5.5; 17.4] and 17% [10.9, 25.6] of patients, respectively, p = 0.214. Complications were identified on post-procedure day 1 in 8 SDD patients, none of whom needed to be readmitted to the hospital. The numbers of emergency room consultations, unplanned outpatient visits, and rehospitalizations were similar in the two groups. In a subsequent analysis from January to May 2026, 85.8% of patients scheduled for SDD ablation were successfully discharged on the day of the procedure.\n\nCONCLUSION: In this prospective study, SDD after electrophysiology procedures was found to be a safe alternative to ONS in selected patients. None of the patients who were discharged on the same day as the procedure needed to be rehospitalized on the day after.",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Comparative Study"
+      ],
+      "topics": [
+        "coronary",
+        "electrophysiology",
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42617643",
       "pmid": "42617643",
       "doi": "10.1088/1741-2552/ae9bee",
@@ -95879,7 +96141,8 @@
       "abstract": "BACKGROUND: Lifestyle interventions provide a promising approach to address higher body weight as a risk factor for dementia.\n\nOBJECTIVE: The AgeWell.de-trial was primarily designed to preserve cognitive function and reduce dementia risk. In this post-hoc analysis, we investigated body weight following the multidomain intervention among older adults with overweight or obesity, as well as the role of motivation and confidence regarding weight loss.\n\nMETHODS: Analyses used data from the cluster-randomized AgeWell.de-trial, testing a multidomain intervention (dietary counselling, enhancement of physical, social and cognitive activity, medication review, intervention for cardiovascular risk factors, depressive symptoms/grief, if applicable) over 24 months in adults aged 60 to 77 years at risk for dementia. Associations between intervention allocation and body weight at follow-up were analyzed using linear regression, controlling for covariates, based on multiply imputed data.\n\nRESULTS: The sample included n = 678 participants with a BMI ≥ 25 kg/m², mean age (SD): 68.9 (4.8), 52.1% female. Group allocation was not associated with body weight at 24-month follow-up (b (unstandardized regression coefficient) = -0.30, 95% CI: -0.51; 1.11). Older age (b = -0.14, 95% CI: -0.25; -0.03) and a high level of education (b = -1.28, 95% CI: -2.55; 0.00) were linked to lower body weight at follow-up, while higher baseline body weight predicted higher body weight at follow-up (b = 0.95, 95% CI: 0.91; 0.98). Levels of motivation and confidence regarding weight loss remained high but stable in both groups, regardless of group allocation.\n\nCONCLUSIONS: In this post-hoc analysis, group allocation was not associated with lower body weight at follow-up. Despite high levels of motivation and confidence regarding weight loss and favorable changes in diet and physical activity in the intervention group, these changes did not translate into measurable weight loss.\n\nTRIAL REGISTRATION: AgeWell.de was prospectively registered in the German Clinical Trials Register on December 7th, 2017 (DRKS trial identifier DRKS00013555).",
       "publication_types": [
         "Journal Article",
-        "Randomized Controlled Trial"
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "clinical-trials"
@@ -299119,6 +299382,163 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42898843",
+      "pmid": "42898843",
+      "doi": "10.7759/cureus.118142",
+      "title": "Pembrolizumab-Associated Adrenal Insufficiency Presenting as Adrenal Crisis: A Case Report.",
+      "authors": [
+        "Samet L",
+        "Ali Z",
+        "Haider H"
+      ],
+      "journal": "Cureus",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Immunotherapy regimens containing the programmed cell death protein 1 (PD-1) inhibitor pembrolizumab are widely utilised in the management of non-small cell lung cancer (NSCLC). However, the administration of pembrolizumab is associated with unique immune-related adverse events. Adrenal insufficiency is a rare, potentially life-threatening endocrinopathy that can manifest even after the cessation of planned treatment. A male in his 50s with metastatic pulmonary adenocarcinoma developed an acute adrenal crisis 12 days after completing a 24-month course of pembrolizumab immunotherapy. Routine outpatient blood tests first identified critical hypocortisolaemia (morning serum cortisol <50 nmol/L), prompting the patient to attend hospital. The patient subsequently developed severe hypotension (58/45 mmHg) and reported malaise, anorexia, and vomiting after oral intake. Septic shock was considered but felt to be less likely given the absence of infective symptoms. The patient was successfully resuscitated in the emergency department with administration of fluids and high-dose intravenous hydrocortisone. Following clinical stabilisation, under the supervision of the endocrinology team, he was transitioned to a long-term oral maintenance regimen consisting of hydrocortisone and fludrocortisone. This case illustrates that pembrolizumab-associated adrenal insufficiency can present as an abrupt, life-threatening crisis in the immediate post-treatment phase. Frontline clinicians must remain vigilant for late-onset endocrinopathies, regardless of the treatment completion date. Proactive patient education and long-term biochemical surveillance are imperative to ensuring early clinical intervention and avoiding catastrophic management delays and poor clinical outcomes.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678324/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898806",
+      "pmid": "42898806",
+      "doi": "10.1002/pul2.70426",
+      "title": "4D-Flow MRI-Derived Wall Shear Stress as a Non-Invasive Biomarker for the Detection and Hemodynamic Characterization of Pulmonary Hypertension.",
+      "authors": [
+        "Statton B",
+        "Armour C",
+        "Leong K",
+        "Sedlacik J",
+        "Berry A",
+        "Jin N",
+        "Giese D",
+        "Guidice FL",
+        "Howard L",
+        "Gopalan D"
+      ],
+      "journal": "Pulmonary circulation",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Invasive right heart catheterization (RHC) remains the reference standard for diagnosing pulmonary hypertension (PH), but there is a pressing need for non-invasive techniques to assess pulmonary hemodynamics. This study evaluates 4D-flow MRI-derived wall shear stress (WSS) for PH detection using the updated 2022 hemodynamic criteria, and the prediction of right ventriculo-pulmonary arterial (RV-PA) uncoupling to assess disease severity. 3D WSS was measured in the main (MPA), right (RPA), and left (LPA) pulmonary arteries in a retrospective validation cohort (41 PH patients, 23 non-PH) and then assessed in a prospective test cohort (23 PH patients, 17 healthy controls). For methodological validation, a patient-specific computational fluid dynamics (CFD) was performed in a subset of 16 patients from the validation cohort. RV-PA uncoupling was assessed on the cine MRI, using RV global longitudinal strain (GLS) < -15.3% and RVSV/RVESV < 1. Both 3D peak and time-averaged WSS were significantly reduced in PH patients compared with healthy controls. Global WSS metrics demonstrated the strongest correlations with invasive hemodynamic parameters, including mPAP (r = -0.75, p < 0.001) and PVR (r = -0.76, p < 0.001). ROC curve analysis identified a peak WSS cutoff of < 0.30 Pa (AUC 0.98) for PH detection, a threshold achieving 90% sensitivity and 100% specificity in the test cohort. Furthermore, a peak WSS threshold of < 0.18 Pa demonstrated excellent discriminative ability for RV-PA uncoupling. These findings support the potential integration of WSS analysis into routine CMR protocols as a non-invasive complement to RHC, showing promise for both diagnosis and a longitudinal biomarker for monitoring PH.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging",
+        "prevention",
+        "pulmonary-vascular"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678861/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898762",
+      "pmid": "42898762",
+      "doi": "10.1002/hsr2.73290",
+      "title": "Knowledge, Perception, and Intention to Promote Malaria Vaccination Among Students in Southwestern Nigeria: A Cross-Sectional Study.",
+      "authors": [
+        "Odubia JS",
+        "Edward M"
+      ],
+      "journal": "Health science reports",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Malaria remains a major public health burden in Nigeria, and the introduction of malaria vaccines offers a promising strategy for reducing morbidity and mortality. This study assessed knowledge, perception, and intention to promote malaria vaccination among health technology students in Southwestern Nigeria.\n\nMETHODS: A cross-sectional study was conducted from November to December 2025 among 300 students using a structured questionnaire. Data were analyzed using descriptive statistics, reliability analysis, Spearman's correlation with approximate 95% confidence intervals, and HC3 robust multiple linear regression. Chi-square analyses of socio-demographic factors and intention were not interpreted because sparse cells violated test assumptions.\n\nRESULTS: Most respondents demonstrated moderate (50.3%) to good (40.7%) knowledge of the malaria vaccine. A positive overall perception score-reflecting both supportive attitudes toward vaccination and awareness of implementation-related concerns-was observed in 63.7% of participants, while 81.3% showed high intention to educate and recommend vaccination. Median scores were 14.0/20.0 for knowledge, 34.0/40.0 for perception, and 39.0/40.0 for intention. Perception was strongly associated with intention (rho = 0.553, 95% CI 0.469-0.627, p < 0.001), whereas knowledge was not significantly associated with intention (rho = -0.095, p = 0.101). In robust regression, perception remained independently and strongly associated with intention (B = 0.455, 95% CI 0.371-0.539, p < 0.001).\n\nCONCLUSION: While knowledge of malaria vaccination was moderate to good among health technology students, perception was more strongly related to intention to promote vaccination. Addressing misconceptions while strengthening accurate and context-sensitive vaccine communication is essential for improving future vaccine promotion.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678115/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898735",
+      "pmid": "42898735",
+      "doi": "10.1002/hsr2.73137",
+      "title": "Sun Safety Knowledge, Attitudes, and Practices Among Farmers in Ede-Oballa, Nigeria.",
+      "authors": [
+        "Chinonso UC",
+        "Edward M"
+      ],
+      "journal": "Health science reports",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Excessive exposure to ultraviolet (UV) radiation of the sun poses significant health risks to outdoor workers. Farmers are particularly vulnerable, yet their knowledge and practices regarding sun protection are underreported in low-resource settings.\n\nAIM: To assess the knowledge, attitudes, and practices of sun safety among farmers in Ede-Oballa, Nsukka LGA, Enugu State, Nigeria.\n\nMATERIALS AND METHODS: An analytical cross-sectional study was conducted among 155 farmers recruited using a convenience sampling method. Data were collected using a pretested, semi-structured, self-administered questionnaire and analyzed using SPSS version 25. Descriptive statistics were used to summarize responses. Associations between sociodemographic characteristics and sun safety practices were tested using χ 2 tests, with significance set at p < 0.05.\n\nRESULTS: Most farmers demonstrated good knowledge of sun protection (89.7%) and held positive attitudes (83.9%) towards sun safety practices. However, actual practice was below average (47.7%), and they showed low willingness to participate in sun safety workshops, possibly due to prior exposure to training/education on sun safety amongst the majority of the farmers (72.9%). Peer influence and perceived inconvenience were key factors affecting behavior. Farmers with tertiary education showed significantly higher sun safety practice levels (p < 0.05), while no significant relationship was found between knowledge and sun safety practices among the respondents, suggesting that knowledge alone may not translate into behavioral change.\n\nCONCLUSION: Despite high knowledge and positive attitudes, sun safety practices among farmers remain inadequate, hindered by social and practical barriers. Educational interventions should be context-specific, peer-led, and embedded into routine farming activities to enhance adoption of protective behaviors.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678114/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898555",
+      "pmid": "42898555",
+      "doi": "10.1002/gch2.70140",
+      "title": "Global Warming and Type 2 Diabetes: Sex and Gender as Drivers in a Multidimensional Feedback Loop.",
+      "authors": [
+        "D'Archivio M",
+        "Zanchi G",
+        "Tammaro A",
+        "Masella R",
+        "Cataldo C"
+      ],
+      "journal": "Global challenges (Hoboken, NJ)",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "Climate change is increasingly recognized as a determinant of metabolic health. Emerging evidence indicates that rising temperatures impair glucose homeostasis-specifically through reduced brown adipose tissue activity and increased insulin resistance-thereby exacerbating type 2 diabetes mellitus (T2DM) risk. Concurrently, food systems drive substantial greenhouse gas emissions (GHGE), with gender-differentiated dietary patterns uniquely influencing both environmental impact and health outcomes. In this perspective, we move beyond well-established separate links to propose an original integrated and systemic conceptual framework. This framework connects gender-related drivers in dietary behaviors, GHGE, global warming, brown adipose tissue dysfunction, and T2DM risk into an integrated multidimensional feedback model, providing a novel basis to generate hypotheses for future mechanistic, epidemiological, and intervention studies, supporting gender-sensitive prevention strategies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678276/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42898521",
+      "pmid": "42898521",
+      "doi": "10.1002/hsr2.73330",
+      "title": "Patient Satisfaction With a One-Stop Service Center in a Tertiary Hospital: A Cross-Sectional Study.",
+      "authors": [
+        "Xue G",
+        "Xia C",
+        "Li WL",
+        "Rong DX",
+        "Qun PW"
+      ],
+      "journal": "Health science reports",
+      "date": "2026-10-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To investigate the current status of outpatient satisfaction and its key influencing factors under the \"One-Stop\" service model, providing an empirical basis for optimizing outpatient service processes and enhancing operational efficiency.\n\nMETHODS: A cross-sectional survey was conducted from March to April 2025, selecting 1016 outpatients (or their family members) from 15 departments in our hospital. The Patient Satisfaction Questionnaire (PSQ) was used for investigation, covering basic patient information, appointment experience, quality of doctor-patient communication, and overall satisfaction. One-stop service convenience (11 items) and communication quality (4 items) were extracted as composite scores. Data were analyzed using SPSS version 27.0, employing descriptive statistics, Pearson's correlation, and hierarchical linear regression to identify independent predictors of satisfaction.\n\nRESULTS: The overall satisfaction level among outpatients was relatively high, at 89.17% (906/1016). Pearson's correlation analysis revealed that both one-stop convenience (r = 0.992, p < 0.001) and communication quality (r = 0.934, p < 0.001) were strongly associated with overall satisfaction. Hierarchical regression further identified both as significant independent predictors: one-stop convenience (β = 0.767, p < 0.01) and communication quality (β = 0.254, p < 0.01), together explaining 99.9% of the variance in satisfaction (R 2 = 0.999). In contrast, demographic variables (age, gender) and binary waiting time (on-time vs. delayed) were not significant in the multivariable model (all p > 0.05). Among the respondents, 94.69% (962/1016) expressed high recognition of the environmental convenience, and within this group, the excellent satisfaction rate reached 96.67%.\n\nCONCLUSION: The \"One-Stop\" service model can effectively enhance outpatient satisfaction. Service process efficiency (one-stop convenience) is the dominant driver of satisfaction, while the quality of doctor-patient communication serves as a distinct and complementary contributor. Environmental convenience remains a foundational element. These three factors should be key focuses in the continuous improvement of healthcare quality.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678110/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42896016",
       "pmid": "42896016",
       "doi": "10.2106/JBJS.RVW.26.00099",
@@ -358209,448 +358629,6 @@
       ],
       "topics": [
         "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42685386",
-      "pmid": "42685386",
-      "doi": "10.1016/j.drugalcdep.2026.113320",
-      "title": "Yoga MAT: A factorial randomized study using the Multiphase Optimization Strategy to develop a multicomponent yoga intervention for people with chronic pain taking medications for opioid use disorder.",
-      "authors": [
-        "Uebelacker L",
-        "Saper RB",
-        "Roseen EJ",
-        "Taylor LE",
-        "Abrantes AM",
-        "Anderson B",
-        "Sprecht-Walsch S",
-        "Lorin L",
-        "Ikai D",
-        "Desaulniers J",
-        "Braun TD",
-        "Baldwin M",
-        "D'Afflitti J",
-        "Hurstak E",
-        "Bales R",
-        "Min J",
-        "O'Keeffe B",
-        "Guastaferro K",
-        "Strayhorn J",
-        "Stein MD"
-      ],
-      "journal": "Drug and alcohol dependence",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: People taking medications for opioid use disorder (MOUD) commonly experience chronic pain. Yoga interventions show promise for decreasing pain-related disability in other populations. More time spent in yoga practice may improve pain-related outcomes.\n\nMETHODS: The Multiphase Optimization Strategy (MOST) provided the framework for developing an optimized yoga intervention package. In a 2x2x2x2 factorial experiment, we evaluated four candidate intervention components which, when added to a weekly yoga class, might increase yoga engagement. The primary outcome was minutes per week of yoga practice (classes and other yoga practice) over the 12-week intervention period. We sought to determine which combination of intervention components was associated with the most yoga practice for people with chronic pain taking buprenorphine or methadone as MOUD.\n\nRESULTS: We enrolled 192 adults. There was a significant main effect for Component \"B\" (having two private sessions with a yoga teachers; IRR = 1.10, 90%CI 1.02; 1.18), and a synergistic interaction between Components \"B\" and \"D\" (D was financial incentives for attending class; IRR = 1.11, 90%CI 1.02; 1.19). This combination of these two components (without other potential components) was associated with the second highest model-predicted mean minutes of yoga per week (157.1min; 90% CI = 120.1-194.0) which was only 4min less than the combination including all four components.\n\nCONCLUSIONS: We identified a combination of intervention components as the optimized intervention. A next step will be to test the effect of this optimized intervention on pain and substance use outcomes in a randomized controlled clinical trial.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42684798",
-      "pmid": "42684798",
-      "doi": "10.1152/japplphysiol.00361.2026",
-      "title": "Elevations in blood lactate by exogenous infusion blunts exercise-stimulated whole body lipolysis in healthy individuals: a randomized controlled trial.",
-      "authors": [
-        "Mora-Rodriguez R",
-        "Mora-Gonzalez D",
-        "Moreno-Cabañas A",
-        "Morales-Palomo F",
-        "Gonzalez-García L",
-        "Martin-Gomez L",
-        "Ortega-Alcalde C",
-        "Mora-Gonzalez M",
-        "Pallares JG"
-      ],
-      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "The purpose of this study is to determine in humans whether lactate inhibits exercise-stimulated lipolysis, fat oxidation, and plasma glucose turnover. Eight healthy active individuals (3 women) completed four trials in a semirandomized order. In two trials, subjects exercised for 60 min at 65 ± 11% (mean ± SD) of maximal aerobic power ([Formula: see text]) while receiving isovolumetric infusions of either sodium lactate [moderate intensity (MOD) + LACT trial] or saline (MOD trial). In another trial, exercise intensity was increased to 82 ± 11% of [Formula: see text] [intense exercise (INT) trial] to match lactate concentrations to those in the MOD + LACT trial. A trial without exercise was included. Stable isotopes of glycerol and glucose were infused to assess whole body lipolysis (Ra glycerol) and glucose turnover rates (Ra glucose). Fat and carbohydrate oxidation were measured using indirect calorimetry. Basal metabolic rate and plasma concentrations of lactate, glucose, insulin, free fatty acids, and glycerol were similar across trials. Plasma lactate was clamped at 4.31 ± 1.68 mM during the MOD + LACT trial, which tripled MOD concentrations (1.42 ± 0.93 mM; P = 0.001) and matched INT concentrations (4.39 ± 1.25 mM; P = 0.819). MOD + LACT blunted the exercise-induced elevation in Ra glycerol of MOD (average during exercise, 7.9 ± 2.0 vs. 10.5 ± 2.2 µmol·kg-1·min-1; P = 0.014). However, fat oxidation rates were similar in MOD + LACT and MOD (7.70 ± 2.02 vs. 7.38 ± 1.47 µmol·kg-1·min-1; P = 0.612) but reduced during INT (5.30 ± 2.93 µmol·kg-1·min-1; P = 0.045). Ra glucose, plasma glucose, and insulin were elevated during INT but not affected by lactate infusion. Raising circulating lactate concentrations to levels observed during high-intensity exercise blunts exercise-stimulated whole body lipolysis. However, in these metabolically healthy individuals, that reduction was not sufficient to compromise fat oxidation during moderate-intensity exercise.NEW & NOTEWORTHY We examined the effect of high blood lactate levels on exercise-induced lipolysis. Lactate may contribute to the reduction in fat oxidation observed with increasing exercise intensity. It could also be responsible for the reduced exercise lipolysis observed in individuals with metabolic diseases. We found that raising blood lactate during exercise reduces exercise lipolysis by 25%. Thus, lactate blunts exercise-induced stimulation of lipolysis in humans, likely contributing to impaired fat metabolism in metabolically diseased individuals.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42684603",
-      "pmid": "42684603",
-      "doi": "10.1007/s40368-026-01230-x",
-      "title": "Prolonged and night-time bottle-feeding in relation to early childhood caries: a systematic review.",
-      "authors": [
-        "Alevra M",
-        "Lygidakis NA",
-        "Lygidakis NN"
-      ],
-      "journal": "European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE: Early childhood caries (ECC) remains a major public health problem worldwide. Infant feeding practices, particularly bottle-feeding duration and nocturnal bottle use, have been implicated as potential risk factors; however, evidence regarding duration-specific effects remains inconsistent. The aim was to systematically evaluate whether prolonged bottle-feeding and nocturnal bottle use are associated with increased prevalence of ECC.\n\nMETHODS: This systematic review followed PRISMA guidelines and was registered in PROSPERO (CRD420251186608). MEDLINE, Cochrane Central, ScienceDirect and Scopus were searched up to May 2026. Observational studies involving children ≤ 71 months that reported ECC outcomes (dmft/dmfs/dft/deft) in relation to bottle-feeding duration and/or night-time bottle use were included. Risk of bias was assessed using ROBINS-E, and certainty of evidence was evaluated using GRADE.\n\nRESULTS: Twelve studies (two prospective cohorts and ten cross-sectional; 6,955 children) were included. Bottle-feeding limited to the first year of life was not associated with increased caries severity. Continuation beyond 12 months was associated with a gradual increase in ECC, whilst bottle-feeding beyond 24 months showed a consistent and clinically relevant increase in caries severity. Nocturnal bottle-feeding further amplified risk, particularly beyond 24 months, with evidence of dose-response relationships. Overall certainty of evidence was low to very low, limited primarily by observational study design, heterogeneity in exposure definitions and residual confounding.\n\nCONCLUSIONS: Evidence suggests a duration-dependent association between prolonged bottle-feeding and ECC severity, particularly beyond 24 months and during night-time. These findings support current recommendations for timely cessation of bottle use and avoidance of night-time bottle-feeding to reduce ECC burden.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42684404",
-      "pmid": "42684404",
-      "doi": "10.1681/ASN.0000001230",
-      "title": "Executive Summary of the ASN Kidney Health Guidance on the Cardiovascular‑Kidney‑Metabolic Syndrome.",
-      "authors": [
-        "Navaneethan SD",
-        "Rifkin B",
-        "Mottl AK",
-        "on behalf of the ASN Kidney Health Workgroup on the Cardiovascular-Kidney-Metabolic Syndrome"
-      ],
-      "journal": "Journal of the American Society of Nephrology : JASN",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "KEY POINTS: The cardiovascular‑kidney‑metabolic framework encourages routine assessment of cardiovascular risk, metabolic health, and kidney function. Cardiovascular risk equations should be used in patients with CKD to direct preventive therapies and promote coordination of care to optimize outcomes. Comprehensive therapy building upon foundational CKD management is essential to minimize treatment gaps and improve cardiovascular‑kidney‑metabolic outcomes.\n\nUNLABELLED: The recent release of the inaugural AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic (CKM) Syndrome calls for health care professionals across disciplines to broaden their practice to include the full spectrum of these interconnected disease states. This ASN Kidney Health Guidance aims to unite the nephrology community in this effort, highlighting the central role kidney disease plays in CKM syndrome and providing CKD-specific considerations. CKD is often complicated by comorbid cardiovascular and metabolic diseases, and regular evaluation of patients should include screening and management across disease states. The Predicting Risk of Cardiovascular Disease EVENTs (PREVENT) equation should be integrated along with kidney outcome predictors for routine patient counseling and risk assessment. Lifestyle modifications, including regular physical activity, avoidance of tobacco products, and adoption of a healthy diet and sleep patterns, underpin CKM management. Both renin-angiotensin system inhibitors and sodium-glucose cotransporter 2 inhibitors are foundational therapies in CKD for the prevention of cardiovascular and kidney end points, and glucagon-like peptide-1-based therapies and nonsteroidal mineralocorticoid receptor antagonists may be added according to an individual patient's cardiovascular and metabolic risk profile. CKM therapies may be initiated simultaneously or in rapid sequence according to shared decision making, but therapeutic inertia must be avoided. Cardiovascular disease mitigation should also include lipid management for primary and secondary prevention. Evidence supporting the benefits of CKM treatments in people with glomerulonephritis, those with kidney transplant, those on dialysis with kidney failure treated with maintenance dialysis, pediatric populations, older adults, and those with frailty is limited. However, screening and diagnosis of CKM syndrome are critical, and these cardiokidney protective therapies may be used with shared decision making. Diabetes and obesity are extremely common in people living with kidney disease; both are major contributors to CKD progression. CKD poses a major risk of cardiovascular morbidity and mortality. Hence, nephrology team members should play a vital role in the diagnosis, treatment, and implementation of a holistic and multidisciplinary approach for the well-being of patients with kidney diseases.\n\nPODCAST: This article contains a podcast at https://dts.podtrac.com/redirect.mp3//www.asn-online.org/media/podcast/JASN/2026_09_02_KTS_September2026.mp3.",
-      "publication_types": [
-        "Journal Article",
-        "Practice Guideline"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13641457/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42684397",
-      "pmid": "42684397",
-      "doi": "10.1681/ASN.0000001231",
-      "title": "ASN Kidney Health Guidance on the Cardiovascular-Kidney-Metabolic Syndrome.",
-      "authors": [
-        "Bansal N",
-        "Bjornstad P",
-        "Bress AP",
-        "Chang TI",
-        "Cheng X",
-        "Estrella MM",
-        "Go AS",
-        "Mottl AK",
-        "Navaneethan SD",
-        "Neuen BL",
-        "Rifkin BS",
-        "Zuber K",
-        "Chang AR",
-        "on behalf of the ASN Kidney Health Guidance Workgroup on the Cardiovascular-Kidney-Metabolic Syndrome"
-      ],
-      "journal": "Journal of the American Society of Nephrology : JASN",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "KEY POINTS: The cardiovascular-kidney-metabolic (CKM) syndrome framework has important implications in the care of people with kidney diseases. Cardiovascular screening is important in people with kidney diseases, but the approach may differ in this high-risk population. Multiple pharmacotherapies for CKM syndrome offer significant cardiovascular and kidney benefits.\n\nUNLABELLED: Cardiovascular-kidney-metabolic (CKM) syndrome highlights the interconnected nature of cardiovascular disease, CKD, and metabolic dysfunction and underscores the need for integrated approaches to prevention and treatment. Patients with kidney diseases are at markedly elevated risk for atherosclerotic cardiovascular events, heart failure, kidney failure, and premature mortality across the spectrum of kidney disease severity. Recent advances in therapeutics, including sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 (GLP-1)-based therapies, and nonsteroidal mineralocorticoid receptor antagonists, alongside established renin-angiotensin system inhibitors and lipid-lowering therapies, have transformed the management of CKM by demonstrating both cardiovascular and kidney benefits. However, important gaps remain in applying the CKM framework to patients with kidney diseases, particularly among individuals with advanced CKD, kidney failure treated with dialysis, kidney transplant recipients, younger and older individuals, and those with nonmetabolic kidney diseases including glomerular disorders. This American Society of Nephrology Kidney Health Guidance provides practical guidance for nephrology clinicians on screening, risk stratification, and pharmacologic management across the CKM spectrum. The guidance emphasizes the importance of longitudinal assessment of estimated glomerular filtration rate and albuminuria as foundational markers of cardiovascular and kidney risk, including the role of cardiac biomarkers and imaging. Integration of cardiovascular and kidney risk prediction models, including the American Heart Association Predicting Risk of Cardiovascular Disease EVENTs (PREVENT) equations and the Kidney Failure Risk Equation (KFRE), may support early identification of high-risk patients and guide treatment intensification. The guidance also reviews evidence supporting sequential and combination approaches to CKM therapies, strategies for managing adverse effects, and special considerations for CKD subpopulations where data are more limited. Adoption of a CKM framework in nephrology practice promotes coordinated, multidisciplinary care and provides an opportunity to shift from organ-specific management toward a more holistic approach aimed at reducing cardiovascular events, slowing kidney disease progression, and improving patient-centered outcomes across the continuum of kidney disease.\n\nPODCAST: This article contains a podcast at https://dts.podtrac.com/redirect.mp3//www.asn-online.org/media/podcast/JASN/2026_09_02_KTS_September2026.mp3.",
-      "publication_types": [
-        "Journal Article",
-        "Practice Guideline"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13641481/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42684142",
-      "pmid": "42684142",
-      "doi": "10.1111/jjns.70073",
-      "title": "Educational Effects of Electronic Documents and Videos on Parents' Responses to Acute Illness in Young Children: A Randomized Controlled Trial.",
-      "authors": [
-        "Sato Y",
-        "Sumiyoshi T",
-        "Akazawa K"
-      ],
-      "journal": "Japan journal of nursing science : JJNS",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "AIM: This study compared changes associated with electronic document-based and video-based education for parents responding to acute illness in young children, focusing on self-reported knowledge, anxiety, and satisfaction.\n\nMETHODS: A randomized controlled trial with pre- and post-intervention measurements was conducted among 140 adults in Japan who self-reported raising a child under 3 years of age and having experienced their child's acute illness. Participants were assigned to an electronic document group or a video group (n = 70 each). Self-reported knowledge was assessed using a researcher-developed questionnaire, and anxiety was measured using the State-Trait Anxiety Inventory. Pre-post changes and between-group differences in change scores were examined.\n\nRESULTS: Total self-reported knowledge scores increased significantly in both groups (p < 0.01), with no significant between-group difference. The video group showed significant improvements in items related to symptoms requiring attention at home and information sources, whereas the electronic document group improved in items related to symptoms requiring medical consultation and emergency calls. State and trait anxiety did not change significantly in either group. Satisfaction was high in both groups.\n\nCONCLUSIONS: Both educational formats may support parents' learning about responses to acute illness in young children, although appropriate formats may differ according to the educational content. Information provision alone may have limited effects on anxiety; therefore, future parent education should incorporate interactive and reassurance-focused approaches.\n\nTRIAL REGISTRATION: UMIN-CTR: UMIN000056457.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13537024/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42684087",
-      "pmid": "42684087",
-      "doi": "10.1152/ajpcell.00283.2026",
-      "title": "Hypertensive stretch regulates endothelial cell inflammation and apoptosis through ceramide metabolism.",
-      "authors": [
-        "Pietromicca-Victor JG",
-        "Chitkara S",
-        "Muñoz E",
-        "Manzar ZA",
-        "Bharathi Rajan AP",
-        "Bieberich E",
-        "Atilla-Gokcumen GE",
-        "Alevriadou BR"
-      ],
-      "journal": "American journal of physiology. Cell physiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Hypertension and cardiovascular disease are associated with elevated plasma levels of ceramides (Cer), a type of membrane sphingolipids (SPLs). Increased cellular Cer levels are known to cause vascular endothelial cell (EC) dysfunction. However, Cer metabolism changes due to EC exposure to high-magnitude \"hypertensive\" cyclic stretch (HCS) and their role in EC dysfunction are poorly defined. Cultured human ECs exposed to HCS (15% elongation at 1 Hz, 24 h) exhibited increased oxidative stress, upregulation of genes for cytokines and leukocyte adhesion molecules, increased inflammatory response to a low concentration of tumor necrosis factor-α, and increased apoptosis compared with ECs exposed to \"normotensive\" CS (NCS; 5% elongation at 1 Hz, 24 h). Lipidomics analysis of EC pellets at 4 or 24 h of CS detected no difference in Cer levels and significantly higher sphingomyelin (SM) levels at 24 h of HCS compared with NCS. Cer immunostaining showed significantly higher Cer levels at both the perinuclear and peripheral subcellular regions in HCS compared with the corresponding regions in NCS. HCS significantly increased the concentrations of certain long-chain Cer in the extracellular media compared with NCS. Pharmacological inhibition of key enzymes in Cer biosynthesis, that is, de novo synthesis and SM hydrolysis pathways, significantly inhibited HCS-induced EC inflammation and apoptosis, suggesting that Cer generated from SM, via the sphingomyelinase family of enzymes, and accumulated at specific subcellular compartments may be responsible for the HCS-induced EC dysfunction. In summary, Cer act as mechanotransducers that connect hypertensive stretch to EC inflammation and apoptosis and promote CVD.NEW & NOTEWORTHY Human vascular endothelial cell (EC) exposure to high-magnitude (\"hypertensive\") cyclic stretch (HCS), via alterations in sphingolipid (SPL), specifically ceramide (Cer), metabolism, enhanced their sensitivity to proinflammatory stimuli and compromised their viability, compared with physiologic-magnitude (\"normotensive\") cyclic stretch (NCS). Pharmacological inhibitors of the de novo synthesis and sphingomyelin (SM) hydrolysis pathways protected ECs from the harmful effects of HCS, suggesting that these Cer-generating pathways may be appropriate targets for preventing vascular endothelial injury in early hypertension.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "prevention"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13619160/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42683571",
-      "pmid": "42683571",
-      "doi": "10.1097/EJA.0000000000002447",
-      "title": "Reply to: preoperative assessment of adults undergoing elective noncardiac surgery: updated guidelines from the European Society of Anaesthesiology and Intensive Care.",
-      "authors": [
-        "Lamperti M"
-      ],
-      "journal": "European journal of anaesthesiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42683231",
-      "pmid": "42683231",
-      "doi": "10.1002/aet2.70236",
-      "title": "Faculty Development for High-Acuity Procedures: A Train-the-Trainer Simulation-Based Innovation for Transvenous Pacemaker Placement.",
-      "authors": [
-        "Baez J",
-        "McDonough E",
-        "Sucharew H",
-        "Santen SA",
-        "Leenellett E"
-      ],
-      "journal": "AEM education and training",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Emergency medicine faculty are expected to perform and supervise high-acuity, low-occurrence (HALO) procedures despite limited clinical opportunities, placing them at risk for procedural skill decay. Transvenous pacemaker (TVP) placement is a life-saving but infrequently performed intervention. While simulation is widely used for trainees, sustainable faculty development models for procedural maintenance remain limited.\n\nMETHODS: We developed a train-the-trainer, peer-led, simulation-based faculty development program focused on TVP placement within a single academic emergency department. Volunteer faculty trainers received focused preparation in TVP placement, simulator use, and facilitation strategies, and subsequently led small-group refresher sessions using a low-cost, reusable TVP simulator. The intervention was embedded within existing departmental educational venues and incentivized through continuing medical education credit and value-based compensation alignment. Over 1 year, 12 sessions (30-60 min each) were conducted, capped at four learners per session and facilitated by 10 faculty trainers. Faculty completed pre- and post-session surveys assessing prior experience and self-reported comfort with TVP placement. Paired pre- and post-intervention comfort scores were compared.\n\nRESULTS: Fifty-four of 56 eligible faculty participated and completed paired surveys. Baseline exposure to TVP placement was limited, with 37% reporting no prior simulation experience and 24% reporting no prior live placement. Faculty reporting comfort or high comfort with independently placing a TVP increased from 14.8% pre-intervention to 83.3% post-intervention. Mean comfort scores improved from 2.1 ± 0.6 to 3.2 ± 0.6 on a 4-point Likert scale (p < 0.001). The sessions were rated as highly useful (mean 4.9 ± 0.3 on a 5-point Likert scale), and all participants would recommend the training to colleagues.\n\nCONCLUSION: A train-the-trainer, peer-led simulation model significantly improved faculty comfort with transvenous pacemaker placement while minimizing reliance on centralized simulation resources. Embedding brief, small-group sessions within existing educational structures offers a feasible and scalable approach for maintaining faculty competency in HALO procedures.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531364/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42683080",
-      "pmid": "42683080",
-      "doi": "10.1002/joa3.70437",
-      "title": "Expert Consensus Statement: Committee on Implantable Devices and Committee on Social Issues, Japanese Heart Rhythm Society (JHRS) Statement on Remote Monitoring of Cardiac Implantable Electronic Devices.",
-      "authors": [
-        "Watanabe E",
-        "Nishii N",
-        "Maeda A",
-        "Sakai Y",
-        "Fujiu K",
-        "Suzuki M",
-        "Kato R",
-        "Abe H",
-        "Noda T",
-        "Tada H",
-        "Takagi M"
-      ],
-      "journal": "Journal of arrhythmia",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Remote monitoring (RM) has been established as a standard tool for the management of patients with cardiac implantable electronic devices (CIEDs), offering advantages such as early event detection, fewer routine outpatient visits, and reduced mortality. As RM becomes more common, its appropriate implementation and the need for safe, efficient management have become increasingly important. This statement of the Japanese Heart Rhythm Society (JHRS) provides comprehensive guidance for medical professionals and device manufacturers involved in RM. Specifically, it outlines recommendations on personnel placement, workflow optimization, patient and caregiver education, alert notification settings, physiological parameter monitoring, and insurance claims. It also addresses the responsibilities of device manufacturers, the use of third-party resources, and strategies for reducing workload based on alert notifications. Recommendation classes and evidence levels were determined by the consensus of the writing team, and the proposed recommendations were reviewed and peer-reviewed by the JHRS' Committee on Implantable Devices.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13532575/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42682990",
-      "pmid": "42682990",
-      "doi": "10.1093/jacamr/dlag186",
-      "title": "Characterization of isolates from two phase 3 uncomplicated urinary tract infection trials (EAGLE-2 and EAGLE-3) that show an apparent ≥4-fold increase in gepotidacin MIC between baseline and post-baseline visits.",
-      "authors": [
-        "Weikel CA",
-        "Breton J",
-        "Butler D",
-        "West J",
-        "Sheets A",
-        "Kimbrough JH",
-        "Castanheira M",
-        "Mendes RE",
-        "Scangarella-Oman NE"
-      ],
-      "journal": "JAC-antimicrobial resistance",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND AND OBJECTIVES: Effective therapies for the treatment of uncomplicated urinary tract infections (uUTIs) are increasingly limited due to rising multidrug resistance, necessitating the development of novel antimicrobials. Gepotidacin is a first-in-class triazaacenaphthylene antibiotic that inhibits bacterial DNA gyrase and topoisomerase IV through a distinct binding site, a unique mechanism of action, and with well-balanced inhibition for most pathogens. Gepotidacin was recently approved by the FDA and MHRA for the treatment of uUTIs and by the FDA for uncomplicated urogenital gonorrhoea. This study investigated the development of resistance to gepotidacin among isolates from two Phase 3 uUTI clinical trials (EAGLE-2 [NCT04020341]/EAGLE-3 [NCT04187144]).\n\nMETHODS: Post-baseline isolates exhibiting a reproducible ≥4-fold increase in minimum inhibitory concentration (MIC) and non-distinct multi-locus sequence typing/pulsed-field gel electrophoresis results underwent single nucleotide polymorphism/insertion-deletion analysis.\n\nRESULTS: Across both studies, initial MIC testing showed 58/1045 (5.6%) patients with pathogen(s) demonstrating an apparent ≥4-fold increase in post-baseline gepotidacin MIC. Analyses identified only one patient with multiple Escherichia coli isolate pairs displaying potential development of resistance to gepotidacin. While the post-baseline isolates did not meet the putative direct descendancy criteria, we have conservatively considered this a case of possible development of resistance due to the rarity of the gepotidacin target-specific mutation (ParC D79G) in the on-therapy and test-of-cure E. coli isolates.\n\nCONCLUSIONS: Collectively, results from the Phase 3 trials indicate a low incidence of resistance development to gepotidacin, with only one potential case among gepotidacin-treated patients (1/1045; 0.096%). Further research is warranted to elucidate the mechanisms underlying elevated post-baseline gepotidacin MICs.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13531378/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42682907",
-      "pmid": "42682907",
-      "doi": "10.1002/joa3.70408",
-      "title": "Nationwide Lifespan Trends in Cardiac Implantable Electronic Device Strategies in Japan: Age-Dependent Changes in Transvenous and Epicardial Systems.",
-      "authors": [
-        "Miyazaki A",
-        "Izumi G",
-        "Fujita S",
-        "Suzuki T",
-        "Suzuki H",
-        "Yoshimoto J",
-        "Toyohara K",
-        "Hayabuchi Y",
-        "Takagi M"
-      ],
-      "journal": "Journal of arrhythmia",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Nationwide epidemiological studies of cardiac implantable electronic devices (CIEDs) encompassing multiple device types and strategies remain limited in Japan, particularly regarding epicardial lead use and pediatric populations.\n\nMETHODS: We performed the first nationwide analysis of CIED implantation trends using the National Database of Health Insurance Claims, including transvenous (TV)/epicardial (Epi) systems for pacemakers, implantable cardioverter-defibrillators (ICDs), cardiac resynchronization therapy (CRT), and CRT-defibrillators (CRTDs), as well as leadless pacemakers, subcutaneous ICDs (S-ICDs), and epicardial lead use. Epicardial lead and pediatric characteristics were supplemented using industry data.\n\nRESULTS: In fiscal year 2023, implantation rates per 100 000 population were 29.69 for TV-pacemakers, 7.06 for leadless pacemakers, 2.42 for TV-ICDs, 0.889 for S-ICDs, 1.20 for TV-CRT, and 1.69 for TV-CRTDs. Rates for epicardial systems were lower, at 0.173 for Epi-pacemakers, 0-0.007 for Epi-ICDs, 0.024 for Epi-CRT, and 0.027 for Epi-CRTDs, while epicardial lead use was 0.545. S-ICD use increased across age groups, whereas TV-ICD implantation declined (all p < 0.001). Implantation of TV and leadless pacemakers, TV-CRT, and TV-CRTDs increased over time (all p < 0.001). Epicardial lead use showed a bimodal age distribution, peaking in pediatric and elderly populations, and declined in older adults while remaining stable in children and adults aged 20-49 years (p < 0.001). Pediatric CIED volumes were low, with several ICD, CRT, and CRTD procedures annually.\n\nCONCLUSIONS: CIED strategies in Japan demonstrate age-dependent variation. Epicardial systems remain indispensable in pediatric and congenital heart disease care, whereas alternative technologies are increasingly adopted in older adult populations, reflecting evolving lifespan-related device strategies.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530377/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42682859",
-      "pmid": "42682859",
-      "doi": "10.3892/br.2026.2184",
-      "title": "Macrophage migration inhibitory factor as an indicator of chronic inflammation and metabolic risk in women.",
-      "authors": [
-        "Venosa-Duarte F",
-        "Larrauri-Rodríguez KA",
-        "Zecua-Bello N",
-        "Herrera-Picazo J",
-        "Fernández-Niño-Ladrón-De-Guevara LM",
-        "Serrano-Campos FA",
-        "Pazarán-Zanella SO",
-        "Maycotte P"
-      ],
-      "journal": "Biomedical reports",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Macrophage migration inhibitory factor (MIF) is a pro-inflammatory cytokine with multiple functions in the immune system and other tissues. Physiologically, MIF has been implicated in the regulation of the immune response, in pathogen clearance, in cell regeneration, in the regulation of insulin secretion, and in the regulation of cardio- and neuro-protective effects. Pathologically, high MIF levels have been associated with inflammatory and autoimmune diseases, diabetes mellitus, obesity and cancer. The present study assessed serum MIF levels in women by ELISA. Subsequently, the possible relationship between MIF serum levels and risk factors associated with the development of breast and other types of cancer was evaluated. MIF serum levels in the studied population ranged between 80.7 and 4,790.5 pg/ml. Notably, high MIF serum levels were related to obesity (median 1,604.0 pg/ml; P=0.0197 vs. overweight and P=0.0002 vs. normal body mass index), a high waist-to-hip ratio (WHR; median 1,542.0 pg/ml; P=0.0126 vs. moderate WHR) and hypertension (median 1,582.0 pg/ml; P=0.0234). Also, a weak correlation was observed between MIF levels and aging (P=0.0239, r=0.1558). Furthermore, MIF levels were decreased in women with Breast Imaging Reporting and Data System (BI-RADS) classification 2 (P=0.0189) and 3 (P=0.0023) when compared with the levels in women with BI-RADS classification 1, and no other association was identified with the other cancer risk factors evaluated. In conclusion, the present results indicated that, although increased levels of MIF were not associated with increased breast cancer risk as evaluated by BI-RADS classification or other cancer risk factors, elevated MIF levels were related to states of chronic inflammation such as obesity, a high WHR and aging, indicating that an increase in the serum concentration of MIF may be related to metabolic disease.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "prevention"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530920/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42681747",
-      "pmid": "42681747",
-      "doi": "10.1002/bmc.70568",
-      "title": "Phytochemical Profiling and Pharmacological Evaluation of Dichloromethane Extract From Aerial Parts of Ferula ferulaeoides for Antithrombotic, Anti-Inflammatory, and Analgesic Activities.",
-      "authors": [
-        "Liu L",
-        "Dong Q",
-        "Zheng Q",
-        "Shi J",
-        "Liu S",
-        "Wang Z",
-        "Wang M",
-        "Si J",
-        "Ye J",
-        "Li W",
-        "Wang J",
-        "Sun G"
-      ],
-      "journal": "Biomedical chromatography : BMC",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "This study aims to elucidate the chemical composition of the dichloromethane extract from the aerial parts of Ferula ferulaeoides (DEAFF) and to explore its biological activities. The composition of DEAFF was analyzed by UHPLC-Q-Orbitrap-MS/MS. Then, the carrageenan-induced tail thrombosis model, xylene-induced ear swelling model, and acetic acid-induced writhing model were established to evaluate the relevant activities of DEAFF. Network pharmacology research and molecular docking were conducted to elucidate the pathways and key targets underlying the multiple activities of DEAFF. A total of 30 chemical constituents were tentatively identified in DEAFF based on UHPLC-Q-Orbitrap-MS/MS analysis. Pharmacodynamic results showed that DEAFF significantly reduced the proportion of thrombus in the tail of mice, effectively alleviated ear swelling, improved the degree of ear tissue lesions, and significantly reduced the number of writhing movements in mice, indicating that it has multiple pharmacological effects such as antithrombosis, anti-inflammation, and analgesia. Network pharmacology studies have shown that multiple pathways such as the PI3K-Akt signaling pathway and the MAPK signaling pathway play a crucial role in the pharmacological effects of DEAFF. In this study, the chemical components of DEAFF were preliminarily identified, and its effects on thrombosis prevention, anti-inflammation, and analgesia were systematically investigated.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13534751/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42680654",
-      "pmid": "42680654",
-      "doi": "10.1016/j.acra.2026.06.002",
-      "title": "Extracellular Volume Fraction Imaging for Hepatic Fibrosis: CT and MRI Implementation and Evidence.",
-      "authors": [
-        "Qi J",
-        "Chi Y",
-        "Xu W",
-        "Wang J"
-      ],
-      "journal": "Academic radiology",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Accurate diagnosis and staging of liver fibrosis are essential for prognostic stratification and treatment planning in chronic liver disease. However, conventional approaches for diagnosing and monitoring fibrosis, such as biopsy, elastography and serum-based scores, are limited by invasiveness, sampling variability, or performance in early-stage disease. Extracellular volume fraction (ECV) has emerged as a promising non-invasive quantitative imaging biomarker for assessing extracellular space expansion associated with hepatic fibrotic remodeling. In this review, we summarize current preclinical and clinical data on computed tomography (CT-) and magnetic resonance imaging (MRI)-derived ECV in liver fibrosis and related chronic liver diseases, with a focus on calculation methods, biologic interpretation, and correlations with histopathology and selected clinical outcomes. We also discuss major sources of heterogeneity, key interpretive limitations, and the evidence gaps that must be addressed before hepatic ECV can be more broadly integrated as a complementary component of multiparametric liver imaging.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "gastro-hepatology"
       ],
       "has_full_text": false,
       "full_text_url": null,
