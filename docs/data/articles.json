@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:43:08.101405+00:00",
+  "generated_at": "2026-10-22T09:27:38.662137+00:00",
   "articles": [
     {
       "id": "pmid:42900467",
@@ -25,8 +25,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686189/",
       "source": "PubMed"
     },
     {
@@ -58,8 +58,8 @@
       "topics": [
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686181/",
       "source": "PubMed"
     },
     {
@@ -2714,8 +2714,8 @@
       "topics": [
         "endocrine"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686202/",
       "source": "PubMed"
     },
     {
@@ -2742,8 +2742,8 @@
         "prevention",
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686193/",
       "source": "PubMed"
     },
     {
@@ -8934,8 +8934,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686210/",
       "source": "PubMed"
     },
     {
@@ -8966,8 +8966,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686207/",
       "source": "PubMed"
     },
     {
@@ -8997,8 +8997,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686187/",
       "source": "PubMed"
     },
     {
@@ -10121,8 +10121,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686220/",
       "source": "PubMed"
     },
     {
@@ -10148,8 +10148,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686194/",
       "source": "PubMed"
     },
     {
@@ -10176,8 +10176,8 @@
       "topics": [
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686211/",
       "source": "PubMed"
     },
     {
@@ -10396,8 +10396,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686192/",
       "source": "PubMed"
     },
     {
@@ -11134,8 +11134,8 @@
       "topics": [
         "hematology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685555/",
       "source": "PubMed"
     },
     {
@@ -51562,8 +51562,8 @@
       "topics": [
         "endocrine"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685298/",
       "source": "PubMed"
     },
     {
@@ -51750,8 +51750,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683254/",
       "source": "PubMed"
     },
     {
@@ -51785,8 +51785,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683383/",
       "source": "PubMed"
     },
     {
@@ -52741,8 +52741,8 @@
       "topics": [
         "hematology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685334/",
       "source": "PubMed"
     },
     {
@@ -52806,8 +52806,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685392/",
       "source": "PubMed"
     },
     {
@@ -52862,8 +52862,8 @@
         "critical-care",
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685155/",
       "source": "PubMed"
     },
     {
@@ -52886,8 +52886,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685212/",
       "source": "PubMed"
     },
     {
@@ -53115,8 +53115,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683298/",
       "source": "PubMed"
     },
     {
@@ -53143,8 +53143,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683562/",
       "source": "PubMed"
     },
     {
@@ -53378,8 +53378,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683376/",
       "source": "PubMed"
     },
     {
@@ -53409,8 +53409,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683368/",
       "source": "PubMed"
     },
     {
@@ -53448,15 +53448,16 @@
       "journal": "BMJ paediatrics open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "BACKGROUND: Central line-associated bloodstream infections (CLABSIs) remain a major morbidity in preterm neonates despite infection prevention bundles. While a closed multilumen infusion system (CMLIS) previously demonstrated CLABSI reduction, validation across different clinical settings remains limited.\n\nOBJECTIVE: To evaluate whether CMLIS implementation in a different neonatal intensive care unit (NICU) confirms reduced CLABSI incidence density and optimises antimicrobial stewardship.\n\nMETHODS: This retrospective study in a French tertiary NICU included preterm neonates (23+0 to 31+6 weeks’ gestation) admitted between January 2024 and October 2025. Using multivariable Poisson regression and propensity score matching (PSM), we compared infants managed with standard manifolds versus the CMLIS. The primary outcome was CLABSI incidence density per 1000 catheter-days (defined as a central catheter-associated positive blood culture with infection signs, treated with appropriate antibiotics for ≥5 days). Secondary outcomes included antibiotic days of therapy, mortality, late-onset sepsis, prematurity-related complications and NICU length of stay.\n\nRESULTS: Among the 170 neonates included, CMLIS implementation was associated with a significant reduction in the primary outcome (adjusted incidence rate ratio (aIRR): 0.50; p=0.025). This protective effect was confirmed in the PSM cohort (IRR: 0.55; p=0.03). Regarding antimicrobial stewardship, total antibiotic consumption decreased by 41% (aIRR: 0.59; p=0.002) and vancomycin usage decreased by 39% (aIRR: 0.61; p=0.006). No significant differences were observed in other clinical outcomes or exploratory mortality.\n\nCONCLUSIONS: CMLIS implementation was associated with lower CLABSI incidence density and reduced antibiotic exposure. These findings suggest CMLIS offers valuable incremental benefits when baseline hygiene bundles are optimised, though further prospective validation is warranted.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
-        "critical-care"
+        "critical-care",
+        "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684196/",
       "source": "PubMed"
     },
     {
@@ -53844,6 +53845,36 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42901734",
+      "pmid": "42901734",
+      "doi": "10.1136/openhrt-2026-004443",
+      "title": "Subcutaneous versus transvenous implantable cardioverter-defibrillator therapy: an updated systematic review and meta-analysis.",
+      "authors": [
+        "Muhammad F",
+        "Jamileh E",
+        "Farooq O",
+        "Abusheikha M",
+        "Hosseini K",
+        "Abdin A",
+        "Ng GA",
+        "Antoun I"
+      ],
+      "journal": "Open heart",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "BACKGROUND: The subcutaneous implantable cardioverter-defibrillator (S-ICD) avoids intravascular leads but does not provide chronic bradycardia pacing or antitachycardia pacing. We performed an updated systematic review and meta-analysis comparing S-ICD with transvenous ICD therapy, prioritising contemporary randomised evidence and clinically relevant device trade-offs.\n\nMETHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 (PROSPERO: CRD420261328562), PubMed/MEDLINE, Embase and CENTRAL were searched from inception and rerun on 14 September 2026. Randomised evidence was prioritised, with non-randomised evidence analysed separately as supportive. Published time-to-event HRs were retained where available; sparse binary outcomes were analysed without blanket continuity correction, and incompatible endpoints or follow-up horizons were reported separately.\n\nRESULTS: 23 reports representing 15 study/cohort families were included. In the published Prospective Randomized Comparison of Subcutaneous and Transvenous Implantable Cardioverter Defibrillator Therapy (PRAETORIAN)–Avoid Transvenous Leads in Appropriate Subjects (ATLAS) individual-participant-data analysis Transvenous Leads in Appropriate Subjects (ATLAS) individual-participant-data analysis, S-ICD was associated with a higher hazard of first inappropriate shock (HR 1.61, 95% CI 1.06 to 2.45). Trial-level analysis also showed a higher hazard of first appropriate shock (HR 1.54, 95% CI 1.14 to 2.09), although this finding was sensitive to the uncertainty method. Conversely, randomised evidence showed fewer lead-related complications with S-ICD in PRAETORIAN (HR 0.24, 95% CI 0.10 to 0.54) and fewer major lead-related perioperative complications in ATLAS (risk difference −4.4 percentage points, 95% CI −6.9 to −1.9). The two-trial all-cause mortality estimate was imprecise (HR 1.22, 95% CI 0.89 to 1.66). Infection, pneumothorax and tamponade outcomes were sparse and definition-dependent. PRAETORIAN-Extended Long-Term Follow-Up (XL) provided supportive extended follow-up but was not treated as an independent trial.\n\nCONCLUSIONS: Randomised evidence suggests fewer lead-related and invasive device complications with S-ICD but a higher hazard of first inappropriate shock. First-appropriate-shock inference was method-sensitive, while mortality and rare-event comparisons remained uncertain. Device selection should therefore consider pacing and antitachycardia-pacing requirements, future procedures, infection severity and patient preferences without inferring equivalence from non-significant results.\n\nPROSPERO REGISTRATION NUMBER: CRD420261328562.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684192/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42901732",
       "pmid": "42901732",
       "doi": "10.1136/openhrt-2026-004319",
@@ -53862,15 +53893,16 @@
       "journal": "Open heart",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "BACKGROUND: Discharge N-terminal pro-B-type natriuretic peptide (NT-proBNP) is a recognised prognostic marker after transcatheter aortic valve replacement (TAVR), but its value after surgical aortic valve replacement (SAVR) remains uncertain, possibly reflecting differences in perioperative physiology.\n\nAIMS: To compare the prognostic utility of discharge NT-proBNP after TAVR versus SAVR in patients with severe aortic stenosis and preserved ejection fraction, and to examine the association between NT-proBNP reduction and Left Ventricular Mass Index (LVMI) regression.\n\nMETHODS: This propensity-matched cohort study included 556 patients (TAVR, n=278; SAVR, n=278) with left ventricular ejection fraction ≥50% treated at a single centre (2019–2023). The primary endpoint was a 2-year composite of all-cause death or heart failure rehospitalisation.\n\nRESULTS: After matching, baseline characteristics were well balanced. Discharge NT-proBNP >1000 pg/mL predicted lower event-free survival after TAVR (77.3% vs 91.4%; adjusted HR 3.21, 95% CI 1.96 to 5.26, p<0.001) but not after SAVR (83.8% vs 86.7%; adjusted HR 1.18, p=0.50; p for interaction=0.008). Longer aortic cross-clamp time progressively abolished NT-proBNP prognostic value in SAVR. NT-proBNP reduction correlated with LVMI regression regardless of procedure (β=2.2 per 10% ΔNT-proBNP%, p<0.001). A 6-month NT-proBNP ≤1000 pg/mL identified favourable outcomes irrespective of procedure (adjusted HR 0.51, p=0.002).\n\nCONCLUSIONS: Discharge NT-proBNP predicts outcomes after TAVR but not SAVR, likely due to cardiopulmonary bypass-induced inflammation. NT-proBNP reduction correlates with LVMI regression irrespective of procedure. Risk stratification may be optimised by discharge measurement after TAVR and 6-month reassessment after SAVR.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
-        "heart-failure"
+        "heart-failure",
+        "valvular"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684174/",
       "source": "PubMed"
     },
     {
@@ -53906,15 +53938,52 @@
       "journal": "Open heart",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "BACKGROUND: Double outlet right ventricle (DORV) encompasses a range of congenital heart defects. Although survival to adulthood has improved, late risks, particularly life-threatening arrhythmias and sudden cardiac death (SCD) persist.\n\nOBJECTIVES: We evaluated long-term outcomes in an adult DORV cohort, including SCD risk and device therapy.\n\nMETHODS: This multicentre, retrospective cohort study enrolled adults with DORV under follow-up at two UK tertiary centres from 2000 to 2023. Patients were classified by anatomical subtype and surgical strategy. The primary composite outcome was all-cause mortality, heart or heart–lung transplantation, aborted SCD or appropriate implantable cardioverter-defibrillator (ICD) shock.\n\nRESULTS: Among 254 patients (median age 20 (IQR 17.6 to 29.2) years; 52.8% male), 61.4% had biventricular repair. Complex (n=90, 35.4%) and Fallot-type (n=79, 31.1%) DORV predominated. Over a median 12.4 (7.4 to 17.3) years, 47 (18.5%) patients died: heart failure (40.4%) and SCD (25.5%) were leading causes. Aborted SCD occurred in 4 (1.6%) cases, 4 (1.6%) underwent heart transplantation and 10 (4.0%) received appropriate ICD shocks. One in eight patients experienced ventricular tachycardia and one in three developed supraventricular tachycardia. In exploratory multivariable analysis restricted to patients with biventricular repair, older age, pulmonary hypertension and baseline QRS >180 ms were associated with the composite outcome.\n\nCONCLUSIONS: Amongst adult survivors of DORV, late mortality due to heart failure and SCD was considerable, whereas transplantation was uncommon. In the biventricular-repair subgroup, older age, baseline QRS >180 ms and pulmonary hypertension were associated with adverse outcome in exploratory analysis; these findings require validation.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
-        "heart-failure"
+        "critical-care",
+        "electrophysiology",
+        "heart-failure",
+        "prevention",
+        "pulmonary-vascular"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684166/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901730",
+      "pmid": "42901730",
+      "doi": "10.1136/openhrt-2026-004551",
+      "title": "Heterogeneity in the diagnostic management of MINOCA: a UK clinician survey.",
+      "authors": [
+        "Sykes R",
+        "Berry C",
+        "Brown S",
+        "Dall'Armellina E",
+        "Dawson D",
+        "Fisher S",
+        "Jones DA",
+        "Kunadian V",
+        "Mills NL",
+        "Mohiddin S",
+        "Ryan JA",
+        "Chapman AR"
+      ],
+      "journal": "Open heart",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "BACKGROUND: Myocardial injury with non-obstructive coronary arteries (MINOCA) accounts for around one in ten hospitalisations with acute myocardial infarction. Despite guideline recommendations, diagnostic and management approaches vary. We aimed to characterise current UK practice for the investigation and treatment of patients with MINOCA.\n\nMETHODS: We conducted a cross-sectional online survey of UK clinicians involved in MINOCA care between March and December 2025. To provide clinical context, two clinical vignettes with probable non-ischaemic (Case A) and ischaemic (Case B) aetiologies were used to assess investigation preferences, with agreement documented using a Likert scale from 0 to 5 and reported as the proportion agreeing or strongly agreeing (score 4 or 5). General management questions and free-text responses underwent thematic analysis by two independent reviewers.\n\nRESULTS: Of 146 respondents, 140 provided demographic data. Most were cardiology consultants (76/140, 54.3%) from tertiary centres (74/140, 52.9%). Echocardiography received high endorsement across both vignettes (Case A: 93/99 (93.9%) vs Case B: 86/88 (97.7%) agreeing or strongly agreeing). Cardiac magnetic resonance (CMR) imaging preferences differed between vignettes: 83/101 (82.2%) agreed or strongly agreed with CMR for the younger patient with viral prodrome versus 38/86 (44.2%) for the older patient with atheroma (p<0.001). Hyperaemic (adenosine) coronary microvascular function testing was endorsed by 14/100 (14.0%) and 18/88 (20.5%), respectively, and no respondent endorsed acetylcholine provocation testing in either vignette. Thematic analysis identified four themes: context-dependence of decisions, uncertainty regarding diagnostic utility, psychological burden on patients and concerns about MINOCA terminology.\n\nCONCLUSIONS: UK clinicians demonstrate considerable variation in the investigation of patients with MINOCA, with clinical presentation strongly influencing recommendations for CMR imaging. Although the vignettes differed in several clinical features, the extent of variation in investigation preferences highlights the absence of a standardised diagnostic approach. These findings support the need for evidence-based care pathways incorporating refined case definitions and more precise terminology.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684185/",
       "source": "PubMed"
     },
     {
@@ -53985,6 +54054,36 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42901597",
+      "pmid": "42901597",
+      "doi": "10.1136/bmjopen-2026-122207",
+      "title": "Adverse oral effects of GLP-1 and GIP receptor agonists: a scoping review protocol.",
+      "authors": [
+        "Escudero Samaniego DG",
+        "Falconí Tarapués MA",
+        "Cañarte Vergara BT",
+        "Coelho MS",
+        "De Magalhães Gonzaga MF",
+        "Stefani CM",
+        "Gonçalves TMS",
+        "De Luca Canto G",
+        "Pauletto P"
+      ],
+      "journal": "BMJ open",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and dual incretin receptor agonists such as glucagon-like peptide-1 (GLP-1)/glucose-dependent insulinotropic polypeptide (GIP) are increasingly being prescribed for type 2 diabetes and obesity due to their efficacy in glycaemic control, weight loss and cardiovascular risk reduction. Emerging pharmacovigilance data suggest potential oral adverse effects, including xerostomia, dysgeusia, oral hypoesthesia and throat discomfort. Therefore, alterations in salivary function may compromise oral homeostasis and increase susceptibility to dental caries, periodontal inflammation and mucosal irritation. Additionally, metabolic and inflammatory changes mediated by GLP-1 and GIP may indirectly affect oral tissues. However, current evidence remains limited and inconsistently reported. Further research is needed to investigate the prevalence, underlying mechanisms and clinical significance of oral manifestations associated with GLP-1RA and GLP-1/GIP dual receptor agonist medications, as well as to explore the need for individualised management strategies and more frequent monitoring for patients receiving these therapies.\n\nMETHODS AND ANALYSIS: This protocol describes the methodology for a future scoping review to be conducted in accordance with the JBI reporting guidelines. Studies addressing incretin-based medications and their implications for oral health will be eligible for inclusion in the review, with no restrictions on language or publication date. The following databases will be searched: Cochrane, LILACS, PubMed/MEDLINE, Scopus and Web of Science. Additional literature will be identified through Google Scholar and ProQuest Dissertations & Theses Global. The snowballing technique and consultation with experts in the field will be used to identify additional relevant studies. The findings will be presented through a narrative synthesis, supported by tables, graphs and maps. When data are available, exploratory comparisons will be performed according to therapeutic indication (type 2 diabetes or obesity) and pharmacological class (GLP-1RAs and GLP-1/GIP dual receptor agonists), with particular attention to tirzepatide and other incretin-based agents, to explore potential differences in reported oral manifestations. In particular, studies involving different GLP-1RA and GLP-1/GIP dual receptor agonists agents (eg, semaglutide, liraglutide and tirzepatide) may be compared to explore potential differences in reported oral manifestations. These comparisons will be conducted descriptively, considering variations in dosage, treatment duration and pharmacological class when such information is reported.\n\nREGISTRATION DETAILS: This protocol has been registered prospectively on the Open Science Framework (DOI:10.17605/OSF.IO/NWTCS).\n\nETHICS AND DISSEMINATION: This scoping review protocol does not require ethics approval, as it only describes the methodological aspects of a future scoping review and uses secondary data from previously published studies. The findings of the review will be disseminated through publication in a peer-reviewed journal and presentations at scientific conferences. As this study is a protocol for a scoping review and does not involve human participants or identifiable data, ethics committee approval was not required.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684195/",
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42901584",
       "pmid": "42901584",
       "doi": "10.1136/bmjopen-2026-124989",
@@ -53998,15 +54097,47 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Public municipal healthcare plays a critical role in delivering equitable, need-based services to the inhabitants. The term is used here for publicly financed services holding territory-based responsibility for the health of a defined resident population at municipal or comparable sub-national level. However, demographic shifts, multimorbidity and resource constraints have reinforced a need for systemic reconfiguration. Within the context of these organisational changes, the scoping review will address the current knowledge gap in understanding the roles, experiences and systemic impact of case managers and other caseworkers as key frontline professionals. The scoping review will consider primary research, publications by relevant and credible national and international websites of health organisations and agencies and public administration and governance bodies. The review aims to map existing literature on how case managers and other caseworkers navigate reconfiguration including organisational change, new models of service delivery, decentralisation and digitalisation.\n\nMETHODS AND ANALYSIS: The JBI (formerly the Joanna Briggs Institute) methodology for scoping reviews and the Preferred Reporting Items for Systematic Reviews and Meta-Analysis extension for Scoping Reviews guidelines will be followed. The systematic search will include Medline (via PubMed), Web of Science, Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsycINFO and Embase databases. Grey literature will be searched using Google Scholar and ProQuest. Searches will be conducted in September–December 2026. Screening of titles, abstracts and full-text articles will be independently conducted by two reviewers. Extracted data will be charted in tables and synthesised thematically. No geographic limits will be applied. Using the Population-Concept-Context framework, inclusion criteria are (1) case managers and other caseworkers, (2) navigating reconfiguration of healthcare and (3) public municipal healthcare and equivalent sub-national arrangements. Exclusion criteria are (1) managers, health personnel, policymakers or clients without direct attention to case managers’ or caseworkers’ work, roles or experiences; (2) studies focusing on individual training programmes or clinical interventions that mention ‘navigation’ or ‘navigate’ only in passing, without substantively analysing reconfiguration of public municipal healthcare; and (3) studies set exclusively in hospitals, at the national policy level, or in settings outside municipal or community healthcare, or in services that are neither publicly financed nor publicly mandated.\n\nETHICS AND DISSEMINATION: The scoping review will not require ethics approval, as all data will be obtained from publicly available literature. The review authors will adhere to principles of honesty and transparency throughout the data extraction and reporting processes and thereby enhance the trustworthiness of the review. Findings will be submitted for publication in a peer-reviewed journal and disseminated through presentations at relevant conferences.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684227/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901583",
+      "pmid": "42901583",
+      "doi": "10.1136/bmjopen-2026-117566",
+      "title": "Multiregional characterisation of collaboration between clinical and community-based organisations for postpartum transition care delivery: A mixed methods study protocol.",
+      "authors": [
+        "Smith B",
+        "MacEwan SR",
+        "Winters C",
+        "Negash R",
+        "Crossnohere N",
+        "Binkley L",
+        "Kim H",
+        "Yeboah-Quarkume A",
+        "Schwimmer E",
+        "Gordon R",
+        "Brill S"
+      ],
+      "journal": "BMJ open",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "INTRODUCTION: The USA exhibits the highest rate of maternal mortality among developed high-income countries. These deaths most commonly occur during the postpartum year and are largely preventable. Individuals that live in medically underserved areas and lack access to transitional care following childbirth are at higher risk for maternal mortality, severe maternal morbidity and adverse pregnancy outcomes. National US organisations have proposed implementation of innovative models, including coordinated postpartum service delivery across clinical and community-based organisations (CBOs), to help overcome key challenges contributing to postpartum health disparities. Yet, experiences of clinical and community organisations in forging postpartum service partnerships remain poorly defined. This study aims to characterise how clinical organisations and CBOs identify effective practices in postpartum transition care that best address disparities in pregnancy-related morbidity and mortality among individuals residing in maternity care deserts and low-resource communities.\n\nMETHODS AND ANALYSIS: This study uses a convergent mixed methods research design. Semi-structured qualitative interviews will be conducted with CBO representatives to assess current practices and implementation strategies of postpartum transition care within community organisations. Additionally, a needs assessment survey will be administered to clinicians from safety-net health systems and staff members from CBOs to evaluate perceptions, practices and needs associated with integrated clinical and community-based postpartum service delivery. Data analysis will be conducted through qualitative thematic analysis and quantitative descriptive statistics and regression analyses.\n\nETHICS AND DISSEMINATION: This study was approved by The Ohio State University’s Institutional Review Board (Protocol #2024H0450). We will disseminate our study findings through academic products including peer-reviewed manuscripts and professional conference presentations as well as through community-centred lay-language summaries shared with our participating organisations, Stakeholder Advisory Committee and research consortium partners.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684218/",
       "source": "PubMed"
     },
     {
@@ -54024,16 +54155,17 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "OBJECTIVES: To characterise demographics, comorbidities, co-medications and healthcare resource utilisation in patients with Down syndrome (DS) who were newly diagnosed with Alzheimer’s disease (AD) and patients from the general population who were newly diagnosed with AD. To explore potential descriptive differences between these cohorts.\n\nDESIGN: Descriptive observational study.\n\nSETTING: Real-world data in England from the Clinical Practice Research Datalink Aurum primary care database linked to the Hospital Episode Statistics secondary care database.\n\nPARTICIPANTS: Two previously published disease-based algorithms and one previously published medication-based algorithm were selected to identify patients newly diagnosed with AD using an index period from 01 January to 31 December 2019. Patients were organised into three ‘general AD’ cohorts (Cohorts A, B and C), each defined using one of these three algorithms. Three corresponding DS-associated AD (DS-AD) subcohorts were then identified by selecting patients within each cohort who also had a DS diagnosis. The general AD cohorts included 7472–10 375 patients and the DS-AD subcohorts included 31–45 patients.\n\nPRIMARY OUTCOME MEASURES: Demographics, comorbidities, co-medications and healthcare resource utilisation present up to and including the date of cohort qualification were described.\n\nRESULTS: The mean age at index was 81–83 years in the general AD cohorts (median: 82–84 years), while in the DS-AD subcohorts, mean age ranged from 55 to 56 years (median: 56–57 years). Most patients in the general AD cohorts and the DS-AD subcohorts were white (87–94%). When descriptively compared with the general AD cohorts, a higher proportion of patients in the DS-AD subcohorts had asthma and chronic obstructive pulmonary disease (71–76% vs 60–63%), thyroid disease (38–42% vs 15–16%), hearing loss (29–31% vs 21–24%) and epilepsy (23–31% vs 2–3%). When descriptively compared with the general AD cohorts, a higher proportion of patients in the DS-AD subcohorts used thyroid therapy (44–45% vs 14–15%), topical and systemic antipsoriatics (16–22% vs 8%) and anti-epileptics (16–20% vs 6–7%).\n\nCONCLUSIONS: In England, individuals with DS were typically diagnosed with AD at younger ages (50s) than those from the general population (80s). Higher frequencies of asthma, thyroid disease, hearing loss and epilepsy in the DS-AD subcohorts than the general AD cohorts align with known DS comorbidities. Therefore, some of the observed differences may be partly attributable to the underlying characteristics of DS, rather than representing a distinct AD phenotype among individuals with DS. Exploratory differences between cohorts should be interpreted in view of the substantial age gap and modest DS-AD sample size. This study provides novel insights into the real-world population of individuals with DS who were newly diagnosed with AD and may help clinicians to better tailor patient care.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "neurology",
-        "research-methods"
+        "research-methods",
+        "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684153/",
       "source": "PubMed"
     },
     {
@@ -54054,15 +54186,19 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Herpes simplex virus (HSV) infection is a lifelong viral infection with high global prevalence. Emerging evidence suggests that chronic viral infections, including HSV, may contribute to the development of cardiometabolic diseases through persistent inflammation, endothelial dysfunction and immune dysregulation. However, findings on the association between HSV infection and cardiometabolic outcomes remain inconsistent. This systematic review and meta-analysis will synthesise the available evidence on the relationship between HSV infection and cardiometabolic diseases.\n\nMETHODS AND ANALYSIS: This protocol was developed in accordance with the PRISMA-P guidelines. Electronic searches will be conducted in PubMed/MEDLINE, Web of Science, Scopus and the Cochrane Library to identify relevant studies. Observational studies evaluating HSV-1 and/or HSV-2 infection in relation to cardiometabolic diseases will be included. Primary outcomes will include cardiovascular diseases (myocardial infarction, stroke and coronary artery disease), type 2 diabetes mellitus, obesity, dyslipidaemia, hypertension and metabolic syndrome. Two independent reviewers will perform study screening, data extraction and risk of bias assessment. Where appropriate, meta-analysis using a random-effects model will be conducted. Pooled effect estimates will be reported as ORs, risk ratios or HRs with 95% CIs. Statistical heterogeneity will be assessed using the I² statistic, while publication bias will be evaluated using funnel plots and Egger’s test.\n\nETHICS AND DISSEMINATION: Ethical approval is not required as only published data will be used. Findings will be disseminated through peer-reviewed publications and scientific conference presentations.\n\nPROSPERO REGISTRATION DETAILS: CRD420261390435.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
-        "infectious"
+        "coronary",
+        "endocrine",
+        "infectious",
+        "neurology",
+        "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684160/",
       "source": "PubMed"
     },
     {
@@ -54085,15 +54221,15 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "OBJECTIVES: The Rehabilitation Enablement in Chronic Heart Failure (REACH-HF) programme is an evidence-based, healthcare professional-facilitated, home-based cardiac rehabilitation intervention for people living with heart failure. Digital training may provide a scalable approach to preparing healthcare professionals to deliver REACH-HF. This study aimed to describe observed patterns of fidelity across REACH-HF intervention components following digital training, and to explore healthcare professional views of the training’s feasibility, acceptability and usability and its perceived influence on intervention delivery.\n\nDESIGN: Mixed-methods implementation evaluation combining descriptive assessment of fidelity with semi-structured interviews analysed using reflexive thematic analysis.\n\nSETTING: Five National Health Service cardiac rehabilitation services in England.\n\nPARTICIPANTS: 15 healthcare professionals were recruited, 14 completed the digital training and 7 subsequently delivered REACH-HF. Fidelity data comprised 17 audio-recorded intervention sessions delivered by six facilitators. 11 healthcare professionals participated in the semi-structured interviews.\n\nINTERVENTION: Co-designed training programme to train healthcare professionals as facilitators of the REACH-HF programme. Delivered in a hybrid format with self-paced learning modules accessible via a bespoke eLearning platform (asynchronous) with subsequent 3-hour virtual group session (synchronous) to complete the training.\n\nOUTCOME MEASURES: Competence of REACH-HF delivery, assessed using an established intervention fidelity checklist, alongside qualitative inquiry concerning healthcare professional experiences of the training, including its feasibility, acceptability and usability, and its perceived influence on intervention delivery.\n\nRESULTS: Adequate fidelity was observed across most REACH-HF components. Delivery was strongest for patient involvement, the physical activity programme and programme closure; competent delivery was observed for needs assessment, tailored planning, understanding of heart failure and progress monitoring. Lower scores were seen for emotional support, medication-related discussions and active exploration of caregiver involvement. Caregiver emotion and well-being could not meaningfully be assessed due to limited caregiver presence. Facilitators generally perceived the training as usable and valuable, but engagement and preparedness were shaped by prior experience, perceived relevance and service pressures affecting protected training time. Confidence was consolidated primarily through real-world delivery rather than training completion alone. Non-delivery reflected constrained operational opportunities rather than a consistent difference in confidence or preparedness.\n\nCONCLUSION: Co-designed digital training may support healthcare professional preparation for REACH-HF delivery. Further research with larger and more complete fidelity datasets is required before firm conclusions can be drawn about overall delivery fidelity or equivalence with face-to-face training. Translating digital training into practice requires protected time for training and intervention delivery, timely opportunities for delivery and ongoing practical and organisational support.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684163/",
       "source": "PubMed"
     },
     {
@@ -54117,15 +54253,42 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Variation in perioperative care delivery and outcomes persists across healthcare systems, contributing to differences in patient experience, efficiency and outcomes. National clinical audits play a central role in benchmarking practice and supporting quality improvement. However, there is currently no unified, consensus-derived set of standards to underpin a comprehensive national audit of perioperative care across specialties in the UK. This proposed modified Delphi will develop a core set of standards to support benchmarking for the newly commissioned National Clinical Audit of Perioperative Care (NCAPC), aiming to reduce unwarranted variation and inform system-wide improvement in perioperative care.\n\nMETHODS AND ANALYSES: A rapid literature review has been undertaken to inform the identification of existing frameworks, standards and areas of variation from academic and grey literature, including National Health Service (NHS) and policy guidelines. Candidate standards have been refined through a quality standard mapping exercise by a multidisciplinary expert Clinical Reference Group, including patient representatives. Derived quality standards will be put forward for a multiround, national, web-based modified Delphi process that will be used to develop consensus-based perioperative audit standards. The Delphi will be conducted with two stakeholder panels: healthcare professionals involved in perioperative care and patients with lived experience of major surgery. Participants will rate standards using a 9-point Likert scale across at least two rounds. Predefined consensus criteria will determine progression and inclusion. A subsequent consensus meeting and expert Clinical Reference Group panel will refine and operationalise the final standards. Quantitative data will be summarised descriptively, with consensus defined using a priori thresholds applied separately to stakeholder groups. Standards meeting consensus criteria will be prioritised based on high-importance ratings and aggregated across panels. Qualitative data will undergo inductive thematic analysis to inform iterative refinement. The final output will be a stakeholder-informed, consensus-derived set of measurable perioperative audit standards for national implementation within the English NHS.\n\nETHICS AND DISSEMINATION: This study has been approved by the Faculty Research Ethics Committee at the University of Southampton (ERGO110645). Findings will be disseminated through peer-reviewed publications and presentations at national and international conferences. The final consensus-derived standards will be shared with key stakeholders, including the Royal Colleges and NHS England, to support implementation of the NCAPC that will impact NHS-wide perioperative medicine practice. Lay summaries will be developed with patient representatives to ensure accessible communication to the public.\n\nTRIAL REGISTRATION NUMBER: This study has been prospectively registered with the Core Outcome Measures in Effectiveness trials (COMET) Initiative (registration number 3886—https://www.comet-initiative.org/Studies/Details/3886).",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "guidelines"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684200/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901572",
+      "pmid": "42901572",
+      "doi": "10.1136/bmjopen-2026-122361",
+      "title": "Residential exposure to agricultural pesticides and acute and recurring health outcomes: protocol for a retrospective dynamic cohort study using primary care data in the Netherlands.",
+      "authors": [
+        "Steenhof T",
+        "Baliatsas C",
+        "Yzermans CJ",
+        "Figueiredo D",
+        "Zock JP",
+        "Dückers M"
+      ],
+      "journal": "BMJ open",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Agricultural pesticide use leads to exposure in residents and raises concerns for possible health effects. Although international studies report associations between pesticide exposure and adverse effects, most studies focus on occupational settings and chronic effects. This protocol describes an approach to assess the relation between modelled pesticide exposure near homes of residents living in the vicinity of agricultural plots and the incidence of acute and recurring health symptoms and conditions. The study will also assess exacerbations in patients with asthma and chronic obstructive pulmonary disease, as well as the healthcare utilisation, using Dutch primary care registrations. The findings of this study will inform policymakers and address societal concerns of pesticide exposure in residents.\n\nMETHOD AND ANALYSIS: A retrospective dynamic cohort study design will be used spanning from 2011 to 2025. Data will be extracted from pseudonymised electronic health records of general practices in the Netherlands, using Nivel Primary Care Database (Nivel-PCD). This includes approximately 900 000 individuals residing in moderately urban to non-urban areas. Exposure data for the analytical period will be provided by the Institute for Risk Assessment Sciences (IRAS) of Utrecht University. Two formats of individual exposure will be merged with the health outcome data: amount (kg) of the active substance (AS) within defined buffers (50, 100, 250 and 500 m) and modelled concentrations at the individual homes. ASs have been pre-selected based on epidemiological and toxicological evidence of health effects, societal and scientific concerns and reported usage patterns in the Netherlands. For the primary analyses, potential associations between pesticide exposure and incidence or prevalence of health endpoints will be investigated by means of longitudinal multilevel Poisson regression models. For the analysis examining the relationship between pesticide exposure and exacerbations or total healthcare utilisation, zero-inflated Poisson and negative binomial regression models will be considered. All models will be adjusted for a number of relevant covariates at individual and neighbourhood level. Power calculations indicated overall feasibility for the selected outcomes, but detection of smaller effects for low-prevalent outcomes may require larger population sizes.\n\nETHICS AND DISSEMINATION: The study does not fall within the scope of the Medical Research Involving Human Subjects Act and therefore does not require ethical approval. Approval of applicable governance bodies of Nivel-PCD is requested. No informed consent is needed; individual opt-out of individuals is possible via their general practitioner.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684236/",
       "source": "PubMed"
     },
     {
@@ -54156,15 +54319,15 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Consensus molecular subtype 4 (CMS4) colorectal cancer (CRC) is characterised by stromal activation, therapy resistance and poor prognosis. Current CMS4 assessment relies on tissue sampling, which is limited by sampling bias due to inter-lesion and intra-lesion heterogeneity. Fibroblast activation protein (FAP) gene-expression is strongly associated with CMS4 status. [18F]-AlF-FAPI-74 positron emission tomography (PET)/ computed tomography (CT) enables non-invasive, whole-body assessment of FAP expression and may therefore provide an imaging-based biomarker for CMS4 status in CRC.\n\nMETHODS AND ANALYSIS: FoCus is a prospective, observational proof-of-concept clinical study including 45 patients (≥18 years) with resectable metachronous or synchronous colorectal liver metastases. Eligible patients must have at least one liver metastasis of ≥15 mm scheduled for surgical resection. Patients will undergo [18F]-AlF-FAPI-74 PET/CT prior to clinically indicated therapeutic interventions, including surgical resection of primary tumours and/or metastases and, when applicable, prior to systemic therapy. The primary endpoint is CMS4 status, determined by RNA sequencing of resected tumour tissue using multi-region sampling to account for spatial heterogeneity. Diagnostic performance of FAPI-PET (index test) for CMS4 classification (reference standard) will be evaluated using receiver operating characteristic analysis at the tumour-level. Secondary endpoints include FAP expression assessed by immunohistochemistry and ELISA.\n\nETHICS AND DISSEMINATION: The study has been approved by the institutional review board NedMec+, the Netherlands (protocol 23-298; Clinical Trials Information System EU CT number: 2023-509183-17-00). All participants will provide written informed consent. Results will be disseminated through peer-reviewed publications and scientific conferences.\n\nTRIAL REGISTRATION NUMBER: NCT06191120.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "imaging"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684181/",
       "source": "PubMed"
     },
     {
@@ -54182,15 +54345,15 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Global estimates of health indicators are used to determine, set and track progress of indicators towards global targets. However, there is no standard statistical framework to produce these estimates, and therefore, numerous methods and approaches are used. A checklist has been published to guide researchers on key conceptual and statistical considerations (CSC) for producing global estimates to be used alongside the Guidelines for Accurate and Transparent Health Estimates Reporting statement. This review aims to review the methodologies used in global estimates of health indicators, provide evidence to support the use of the CSC checklist and serve as a resource for readers on the common methodologies used in global estimates of health indicators.\n\nMETHODS AND ANALYSIS: We aim to conduct a scoping review of studies that produced global estimates for health indicators with a focus on understanding the statistical methodology and approaches applied in the development of the estimates. This protocol will follow the framework proposed by JBI methodology for protocols of scoping reviews. Articles will be searched in the following main health databases: EMBASE, Medline, PubMed, Scopus, Web of Science, WHO—Global Health Estimate Methods webpage. Only studies published in English will be included with no restrictions on date of publication. Screening of all articles and data extraction of eligible articles will be performed by two independent reviewers. Data extraction will follow already published work that identified key elements and checklist for methodological and statistical approaches for the development of estimates of global health indicators. The findings of the scoping review will be summarised using narrative synthesis, and descriptive statistics and visual plots where appropriate, using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) checklist.\n\nETHICS AND DISSEMINATION: Ethical approval is not required for this study because only published data will be analysed. Findings will be disseminated through peer-reviewed publications and conferences targeting statistics in health research.\n\nTRIAL REGISTRATION NUMBER: Open Science Framework, DOI: 10.17605/OSF.IO/GXW7K.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684222/",
       "source": "PubMed"
     },
     {
@@ -54213,15 +54376,16 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Sepsis is a life-threatening infectious disease with increasing prevalence. Although several studies have reported high-quality evidence, therapeutic strategies still require further development to reduce the high mortality associated with sepsis. However, small effects of newly proposed treatments due to heterogeneity in sepsis hinder the feasibility of randomised controlled trials, a standard resource-demanding approach to validate benefits of therapy. This trial aims to rapidly evaluate various treatments and strategies for sepsis through an adaptive platform trial (APT) established as a semipermanent study platform.\n\nMETHODS AND ANALYSIS: The Evaluating Multiple Treatments and Strategies for Sepsis in Adaptive Platform (EURASSIA) trial is an APT, incorporating 11 tertiary care centres in Japan. This trial was initiated in 2024 with two domains, where two different interventions will be separately and simultaneously investigated in a randomised controlled design. Domains will be added and removed during the conduct of this semipermanent trial. The EURASSIA trial will include adult patients with sepsis who require intensive care whereas those with withheld/withdrawn care at sepsis diagnosis will be excluded. Subsequently, eligibility will be assessed for each domain, and participants will be randomly assigned to either intervention in each domain (eg, intravenous low-dose landiolol or no medication for mild tachycardia in the haemodynamic management domain and chlorhexidine-containing or usual dressing for a catheter insertion site in the infection control domain). The primary outcome is 90-day survival after intensive care initiation for sepsis; however, additional outcomes will be defined at the domain admission. The outcome will be analysed following a statistical analysis plan that will be predefined in each domain. Although reweighted response-adaptive randomisation will not be adopted, intervention-by-subtype interactions will be assessed across the domains at interim and final analyses to modify the sample size and add a stratification factor for random allocation as needed.\n\nETHICS AND DISSEMINATION: The Certified Review Board of Keio at the principal institution approved this study (approval number: N20240002). Written informed consent will be obtained from all participants or their legal representatives. The results will be disseminated via publications and presentations.\n\nTRIAL REGISTRATION NUMBER: jRCT1031240424.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
-        "critical-care"
+        "critical-care",
+        "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684239/",
       "source": "PubMed"
     },
     {
@@ -54238,16 +54402,17 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Despite advances in coronary intervention and secondary prevention, patients without diabetes who experience acute coronary syndrome (ACS) remain at elevated cardiovascular risk. Metformin has pleiotropic cardiovascular effects beyond glucose lowering, but its role after ACS in people without diabetes is uncertain.\n\nMETHODS AND ANALYSIS: MetCool ACS is a multicentre, prospective, quasi-randomised, open-label trial enrolling 1000 adults without diabetes hospitalised for ACS and treated with successful percutaneous coronary intervention (PCI) with drug-eluting stent implantation. Allocation is determined by the second digit of the Polish national identification number: even digits allocate to metformin and odd digits to standard care (allocation 1:1). Participants allocated to metformin will receive dose-escalated therapy to 850 mg three times a day (2550 mg/day) for 24 months, followed by 6 months of post-treatment follow-up (total 30 months). The primary endpoint is unplanned coronary revascularisation (PCI or coronary artery bypass grafting) within 30 months after the index ACS-related revascularisation. Secondary endpoints include cardiac death, all-cause death, non-fatal myocardial infarction, non-fatal stroke and safety outcomes. Time-to-event outcomes will be analysed using appropriate survival analysis methods, including Kaplan-Meier estimates, log-rank testing and Cox proportional hazards models, with competing-risk methods applied where appropriate. Detailed statistical methods will be prespecified in the statistical analysis plan. Protocol version: 3.1/2023 (10 January 2023).\n\nETHICS AND DISSEMINATION: The study was approved by the Bioethics Committee at the Military Institute of Medicine (Resolution 55/WIM/2020; 18 November 2020) and the Bioethics Committee at the Military Chamber of Physicians (Resolution 31/23; 27 October 2023). All participants provide written informed consent. Results will be disseminated primarily through peer-reviewed publication and scientific meetings. The trial is covered by clinical trial insurance, including coverage for potential claims arising from harm related to participation in the trial. Any compensation for trial-related harm will be provided in accordance with applicable regulations and the terms and conditions of the insurance policy.\n\nTRIAL REGISTRATION NUMBERS: EudraCT 2020-004962-21; EU CT 2024-516589-13-00; NCT05305898.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "coronary",
-        "endocrine"
+        "endocrine",
+        "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684223/",
       "source": "PubMed"
     },
     {
@@ -54265,15 +54430,15 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "BACKGROUND: It is increasingly difficult to achieve high recruitment rates for participants in research studies. Application of behavioural theory and qualitative assessment of operational data might refine study recruitment processes. Field notes from conversations between potential participants and recruitment team members generate a rich source of qualitative data that can be leveraged to understand the theory-driven facilitators and barriers of research participation decisions and thus improve recruitment operations.\n\nOBJECTIVES: Describe the self-reported barriers and facilitators to research participation in a large observational cohort, the Connect for Cancer Prevention Study (Connect), using the Capability, Opportunity, Motivation-Behaviour (COM-B) model and Theoretical Domains Framework (TDF).\n\nDESIGN: Observational qualitative analysis of field notes documenting unsolicited comments made by potential participants during the course of recruitment phone calls.\n\nSETTING: A health system in the upper Midwest USA recruiting patients into Connect.\n\nPARTICIPANTS: Data were collected between January 2022 and December 2024 and include comments from 1681 individuals who both did and did not choose to participate.\n\nMEASURES: Comments were first coded by recruitment team members as positive or negative at the time they were documented and then later coded into COM-B/TDF categories by independent team members.\n\nRESULTS: A total of 1560 unsolicited comments were coded during the aforementioned recruitment period. The largest category of barriers was related to capability (31%, n=491 comments) including concerns about data privacy. The next most frequent code was of motivation-related facilitators highlighting the sense of value or purpose that comes from research participation (17%, n=258 comments). Barriers and facilitators, identified in each COM-B category, were intertwined in a given unsolicited comment (eg, opportunity facilitators like a social connection to someone with cancer and motivation facilitators related to research providing a sense of purpose).\n\nCONCLUSIONS: This unsolicited comment analysis identified factors that could be aligned with research recruitment strategies to advance more efficient and equitable participation. For example, potential participants identified a personal relationship with cancer, such as having lost a loved one to cancer, as a motivation for participation. Recruitment materials could be written to frame the study as an opportunity to appeal to this motivation. This approach is easily replicable and not only advances our understanding of facilitators and barriers to Connect study participation that are immediately actionable but also enhances our understanding of the relative mechanisms of recruitment behaviour that could be useful for designing recruitment approaches for other observational cohorts.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684182/",
       "source": "PubMed"
     },
     {
@@ -54300,15 +54465,15 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Physical inactivity and prolonged sedentary time are associated with lower functional and quality of life outcomes after stroke, and may increase the risk of stroke recurrence. Yet, the best way to manage these movement behaviours after stroke remains uncertain. This study aims to test the effects of a 3-month behavioural intervention and guided stepping training early post-stroke (BIG STEPS) programme on daily step counts, sedentary time, timed walking outcomes and patient-reported fatigue, cognitive function and quality of life.\n\nMETHODS AND ANALYSIS: This is a multicentre, assessor-blinded, waitlist-controlled, randomised controlled trial to be completed within 60 months from August 2026 to July 2031. A total of 150 participants in the early subacute stroke recovery phase (<3 months post-stroke), 50 years and older, who are able to walk at least 5 m will be recruited from six centres in Canada. Participants will be randomly assigned (1:1) to an early BIG STEPS intervention group or delayed BIG STEPS waitlist control group. Blinded assessors will complete in-person assessments at baseline and at 3, 6, 9 and 12 months post-baseline. BIG STEPS will be delivered by trained interventionists in a blended format (1 initial in-person +11 virtual sessions). The primary outcome will be daily step counts at 3 months post-baseline, measured with an activPAL accelerometer and inclinometer. In addition, changes over time in 24-hour movement behaviours, timed-walking tests and patient-reported outcomes will be evaluated.\n\nETHICS AND DISSEMINATION: Ethical approval for this study was obtained from the Health Research Ethics Board at the University of Alberta, Edmonton, Canada (Approval Number: Pro00140017). The results will be disseminated through peer-reviewed open-access publications, scientific conferences, participating clinical sites and knowledge translation activities to contribute to the evidence base for behaviour change interventions after stroke.\n\nTRIAL REGISTRATION NUMBER: NCT07702643.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684172/",
       "source": "PubMed"
     },
     {
@@ -54327,15 +54492,79 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Bloodstream infections remain a major contributor to global infectious disease mortality, and antimicrobial resistance increasingly compromises effective empirical and definitive treatment. Escherichia coli is among the leading bacterial causes of bloodstream infections and a major pathogen associated with antimicrobial resistance-related mortality. Resistance to third-generation cephalosporins, including ceftriaxone, cefotaxime and ceftazidime, is clinically important because it may limit standard treatment options and increase reliance on broader-spectrum agents. In Southeast Asia, available data on third-generation cephalosporin-resistant E. coli bloodstream isolates remain fragmented across countries, hospitals, populations and study designs. This systematic review and meta-analysis aims to estimate the pooled prevalence of third-generation cephalosporin resistance (3GCR) among E. coli bloodstream isolates in Southeast Asia.\n\nMETHODS AND ANALYSIS: This protocol will follow the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Protocols (PRISMA-P) guideline and has been registered in PROSPERO under registration number CRD420261381302. Searches will be conducted in PubMed, Scopus, ScienceDirect and Google Scholar from database inception to 1 October 2026, supplemented by citation searching and reference list screening. Eligible studies will include cross-sectional, surveillance, cohort, retrospective laboratory database and prospective observational studies conducted in Southeast Asian countries that report blood culture-specific data on third-generation cephalosporin resistance among E. coli isolates. Studies reporting ceftriaxone, cefotaxime or ceftazidime resistance, or ESBL phenotype clearly representing third-generation cephalosporin resistance, will be considered. Title and abstract screening will be performed independently by three reviewers. Full-text assessment, data extraction and quality assessment will be performed independently by two reviewers, with disagreements resolved through discussion with a third reviewer. Methodological quality will be assessed using a modified version of the Newcastle-Ottawa Scale. The primary outcome will be the pooled prevalence of third-generation cephalosporin resistance among E. coli bloodstream isolates. A random-effects meta-analysis will be used, with planned subgroup analyses by country, age group and infection-acquisition setting. Temporal trends will be explored using the year of data collection or publication.\n\nETHICS AND DISSEMINATION: Ethical approval is not required because this study will synthesise data from previously published studies and will not involve direct recruitment of human participants or collection of individual patient data. The findings will be disseminated through peer-reviewed publications and conference presentations.\n\nPROSPERO REGISTRATION NUMBER: CRD420261381302.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
-        "critical-care"
+        "critical-care",
+        "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684191/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901555",
+      "pmid": "42901555",
+      "doi": "10.1136/bmjopen-2026-120476",
+      "title": "Associations between short-term PM2.5 exposure and major cardiovascular events in high-risk population: a nationwide case-crossover study.",
+      "authors": [
+        "Wongcharoen W",
+        "Phanthasuporn B",
+        "Sirikul W",
+        "Gunaparn S",
+        "Osataphan N",
+        "Jai-Aue S",
+        "Krittayaphong R",
+        "Phrommintikul A"
+      ],
+      "journal": "BMJ open",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "OBJECTIVES: While particulate matter with a diameter ≤2.5 µm (PM2.5) is a recognised major modifiable risk factor with well-documented short-term impacts on acute cardiovascular events in the general population, data regarding its effects on high-risk populations with significant atherosclerotic risk are limited. This study aims to identify the association between short-term exposure to PM2.5 and acute major cardiovascular events in Thailand.\n\nDESIGN: A time-stratified case-crossover design.\n\nSETTING: The nationwide Cohort Of patients with high Risk for cardiovascular Events-Thailand registry (CORE-Thailand registry).\n\nPARTICIPANTS: A total of 1121 individuals from the registry who experienced four-point major adverse cardiovascular events (4P-MACEs) between 2011 and 2019.\n\nPRIMARY OUTCOME MEASURE: The primary exposure was defined as short-term PM2.5 exposure, with the primary outcome being a first-time MACE, which included acute myocardial infarction, stroke, heart failure hospitalisation and all-cause death.\n\nMETHODS: Using a time-stratified case-crossover design, the analysed events included non-fatal myocardial infarction, non-fatal stroke, heart failure hospitalisation and all-cause death. Daily PM2.5 concentrations during the event and control periods were obtained from nearby air quality monitors. Conditional logistic regression models assessed odds ratio (ORs) for 4P-MACE per 10 µg/m³ increase in PM2.5 exposure over lag periods from 0 to 7 days.\n\nRESULTS: The participants had a mean age of 69.9 years and 55.8% were male. Most had pre-existing atherosclerotic cardiovascular diseases (74.6%), diabetes mellitus (58.4%), hypertension (98.1%) and dyslipidaemia (83.3%). Significant associations were observed for both single-day (lag 1 to lag 4) and average-days (lag 01 to 07) PM2.5 exposures. A 10 µg/m³ increase in PM2.5 was associated with increased odds of MACEs, with ORs of 1.06 (95% CI 1.01 - 1.11) for single-day lagged exposures and varying ORs from 1.06 to 1.08 for average-days lagged exposures (lags 01 to 04).\n\nCONCLUSIONS: Short-term PM2.5 exposure significantly increased the risk of MACE in the Thai population with high atherosclerotic risk. These findings underscore the urgency of public health interventions aimed at mitigating air pollution exposure, especially among vulnerable groups.\n\nTRIAL REGISTRATION: The study is registered with the Thai Clinical Trials Registry (TCTR20130520001).",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "heart-failure",
+        "neurology",
+        "prevention"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684164/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901554",
+      "pmid": "42901554",
+      "doi": "10.1136/bmjopen-2026-122048",
+      "title": "Association between the triglyceride-glucose-waist circumference index and obstructive sleep apnoea: a hospital-based case-control study in China and the development of machine learning models.",
+      "authors": [
+        "Guo C",
+        "Yang T",
+        "Liu Y",
+        "Zhang L",
+        "Zhu Y",
+        "Jiang L",
+        "Jia Y",
+        "Sheng F",
+        "Wang L"
+      ],
+      "journal": "BMJ open",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "OBJECTIVES: We aimed to examine the association between the triglyceride-glucose-waist circumference (TyG-WC) index and obstructive sleep apnoea (OSA) and to develop machine learning (ML) models to identify OSA.\n\nDESIGN: Case–control study and development of six ML models.\n\nSETTING: A sleep medicine centre at a tertiary hospital in China.\n\nPARTICIPANTS: 534 patients with OSA diagnosed by polysomnography between 2017 and 2025, matched with 534 OSA-free individuals.\n\nPRIMARY AND SECONDARY OUTCOME MEASURES: The primary outcome was the association between TyG-WC and OSA, assessed using multivariable logistic regression adjusted for age, sex, education, marital status, hypertension, diabetes, smoking and alcohol use. Secondary outcomes were the dose-response and threshold effects, subgroup interactions, external consistency testing in the National Health and Nutrition Examination Survey (NHANES), sensitivity analyses and development of ML models (LightGBM, XGBoost, Random Forest, Support Vector Machine, K-Nearest Neighbours, Naive Bayes) incorporating TyG-WC and the same clinical variables, evaluated for discrimination, calibration and clinical utility, interpreted using SHapley Additive exPlanations (SHAP).\n\nRESULTS: TyG-WC was linearly associated with OSA (adjusted OR=1.067, 95% CI 1.055 to 1.079; p<0.001; p for non-linearity=0.827), and this association remained robust in NHANES and sensitivity analyses. Significant interactions were observed by age and hypertension status. In the test set, six ML models demonstrated good predictive performance (area under the receiver operating characteristic curve (AUC)=0.732–0.803). XGBoost achieved the highest discrimination (AUC=0.803, 95% CI 0.755 to 0.851), with no evidence of miscalibration (Brier score=0.183; Hosmer-Lemeshow p>0.05) and positive net benefit across threshold probabilities. SHAP identified TyG-WC as the most influential predictor across all ML models.\n\nCONCLUSIONS: TyG-WC was associated with OSA. ML models incorporating TyG-WC and clinical variables achieved good performance, supporting TyG-WC’s potential as an accessible risk marker.\n\nTRIAL REGISTRATION: Not applicable.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "prevention"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684233/",
       "source": "PubMed"
     },
     {
@@ -54353,7 +54582,7 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Hypertension, diabetes and dyslipidaemia are collectively referred to as ‘three highs’ in China. They act independently and synergistically, significantly contributing to cardiovascular disease and mortality. Many patients with the ‘three highs’ lack awareness of their conditions and risk factors, leading to poor self-management and underuse of healthcare. Online information seeking (OIS) behaviour may improve patients’ health literacy, promote early diagnosis, treatment and behavioural improvements, thus controlling the onset and progression of the ‘three highs’. To date, no review has synthesised the relationship between OIS behaviour and health outcomes in these patients. This scoping review will systematically examine the relationship between OIS behaviour and health outcomes in patients with the ‘three highs’ for the first time, encompassing three major dimensions: physiological health, behavioural health and mortality risk.\n\nMETHODS AND ANALYSIS: According to the framework proposed by Arksey and O’Malley and enhanced by Levac et al, systematic searches will be conducted across five electronic databases (PubMed, Web of Science, Embase, EBSCO and the Cochrane Library) as well as grey literature. The searches will cover database inception to 20 September 2026. Data will be charted and extracted based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) extension for Scoping Reviews. The findings of the study will be presented through narrative analysis, tables and figures.\n\nETHICS AND DISSEMINATION: This scoping review is based on published and publicly available data. Therefore, ethics approval is not required. The findings will be disseminated through peer-reviewed publications, conference presentations, public engagement activities and a plain-language summary for patient and public audiences.\n\nTRIAL REGISTRATION NUMBER: The scoping review protocol has been registered in the Open Science Framework on 19 November 2025: https://doi.org/10.17605/OSF.IO/KXR9W.",
       "publication_types": [
         "Journal Article"
       ],
@@ -54361,8 +54590,33 @@
         "endocrine",
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684176/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901552",
+      "pmid": "42901552",
+      "doi": "10.1136/bmjopen-2026-118908",
+      "title": "Immigrant-origin adolescent mental and sexual health disparities in the USA: a scoping review protocol.",
+      "authors": [
+        "Finkelstein RM",
+        "Komasinski SN",
+        "Malcolm SD",
+        "Bhadelia A"
+      ],
+      "journal": "BMJ open",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Adolescents of immigrant-origin in the USA experience unique barriers that contribute to mental and sexual health disparities. These include acculturation stress, language barriers, structural exclusion from health and social services, conflicting cultural norms, familial obligation and internalised conflict arising from intersecting identities. While the mental and sexual health of adolescents, including within this population, is often examined separately, limited evidence examines the intersection of these areas of adolescent health and well-being. This review aims to identify and synthesise evidence on social and structural factors faced by immigrant-origin adolescents in the USA that influence mental and/or sexual health, examine how these generate disparities, and identify interventions aimed at mitigating barriers to healthcare access and utilisation and improving mental and sexual health outcomes.\n\nMETHODS AND ANALYSIS: This scoping review will follow guidance from the Joanna Briggs Institute Manual for Evidence Synthesis and the Arksey and O’Malley methodological framework, and report findings using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) checklist. A systematic and iterative search strategy using the Population, Concept and Context method and relevant Boolean operators will be implemented across three databases (PubMed, CINAHL and PsycINFO) for English-language, full-text studies focused on first- or second-generation immigrant-origin adolescents aged 10–19 years in the USA. Eligible studies will employ qualitative, quantitative or mixed-methods designs and examine barriers, facilitators, disparities related to and/or interventions focused on mental and/or sexual health outcomes and/or related healthcare access and utilisation. Two reviewers will independently screen titles, abstracts and full-text articles through the Covidence platform, with conflicts initially resolved through discussion and the remaining conflicts resolved through a third independent reviewer. Data extraction will also be conducted by two independent reviewers and verified by a third independent reviewer. Data extracted across key information categories corresponding to the research questions will be thematically summarised and analysed using descriptive statistics.\n\nETHICS AND DISSEMINATION: Institutional research ethics approval is not required as there is no human subjects’ participation. Findings will be published in a peer-reviewed journal article.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684159/",
       "source": "PubMed"
     },
     {
@@ -54436,15 +54690,15 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "INTRODUCTION: Survivors of severe critical illness often experience long-lasting physical, quality of life and psychological impairments. Intensive care unit (ICU)-acquired weakness develops early and is associated with prolonged mechanical ventilation, delayed functional recovery, impaired quality of life and greater healthcare utilisation. Nutritional support and early mobilisation are considered key components of ICU care. However, trials have evaluated either nutritional or physical rehabilitation strategies and have not consistently demonstrated long-term benefits. A strong physiological rationale exists for combining nutritional therapy and structured physical rehabilitation. Moreover, most interventions were limited to the ICU stay. The NUTRIREA-4 trial will assess whether an individualised, integrated rehabilitation strategy of nutritional support, physiotherapy and adapted physical activity initiated early in the ICU and continued throughout and after the hospital stay improves long-term physical performance and recovery. NUTRIREA-4 is the first large-scale multicentre randomised controlled trial evaluating such a comprehensive approach in survivors of severe critical illness.\n\nMETHODS AND ANALYSIS: NUTRIREA-4 is a randomised controlled, multicentre, open-label trial comparing two parallel groups of patients receiving invasive mechanical ventilation and vasopressor therapy for shock and randomised to either an individualised rehabilitation programme or usual care. The rehabilitation programme combines goal-directed nutritional support, physiotherapy and adapted physical activity delivered from ICU admission to 12 weeks after the return home. We will include 830 patients in 52 French ICUs. The primary endpoint is the 6-minute walk distance measured by blinded assessors 6 months after randomisation. Secondary outcomes include muscle strength, physical activity, nutritional intake, ICU-acquired infections, quality of life, mortality and psychological recovery.\n\nETHICS AND DISSEMINATION: The NUTRIREA-4 trial has been approved by the appropriate ethics committee. Patients are included after informed consent according to French law. The results will be published in international peer-reviewed journals and presented at conferences.\n\nTRIAL REGISTRATION NUMBER: NCT06581939.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684217/",
       "source": "PubMed"
     },
     {
@@ -54462,15 +54716,15 @@
       "journal": "BMJ open",
       "date": "2026-10-20",
       "year": 2026,
-      "abstract": "",
+      "abstract": "OBJECTIVE: To quantify the frequency and types of direct and indirect exclusion criteria affecting adults with intellectual disability in Australian government-funded interventional clinical trials and to examine variation in exclusion patterns by trial characteristics.\n\nDESIGN: Retrospective analysis of trial records registered on the Australian New Zealand Clinical Trials Registry (ANZCTR).\n\nDATA SOURCES: All ANZCTR records for interventional trials funded by an Australian government source and registered between 1 January 2022 and 31 December 2024 were downloaded from the ANZCTR website. Eligibility criteria were extracted from free-text registry fields. Exclusion criteria were coded using an adapted framework distinguishing direct exclusions (ie, diagnosis, consent capacity, cognitive capacity) and indirect exclusions (ie, language, technology requirements, staff discretion).\n\nSTUDY SELECTION: Trials were excluded if they were phase 0, 1, 1/2 or 2, if the minimum participant age was >55 years or if the participant maximum age was <18 years. Of 857 records screened, 685 trials met inclusion criteria.\n\nRESULTS: Over half of trials (53%) contained no direct or indirect exclusion codes. One-third (34.2%) contained at least one direct exclusion criterion, most commonly requirements related to consent capacity (17.2%). Exclusion based on diagnostic labels was seen in 13.1% of trials and 4.8% explicitly excluded participants with intellectual disability. Indirect exclusion criteria were present in 25% of trials, including English-language requirements (12.3%) and staff-discretion codes (9.2%). Patterns varied by health condition and intervention type: cancer and drug trials showed the highest overall exclusion rates, while large trials (≥400 participants) were least likely to have any exclusions but more likely than small trials to explicitly exclude intellectual disability.\n\nCONCLUSIONS: A substantial minority of Australian government-funded trials potentially exclude people with intellectual disability through diagnostic labels, assumptions about capacity and indirect mechanisms. Trials excluding potential participants on the basis of unassessed cognitive or consent capacity are inconsistent with ethics guidance about individualised assessment and supported decision-making. Findings suggest significant room for improvement in eligibility design, such as ensuring justification for diagnostic and capacity-based exclusions, and the adoption of validated approaches to supporting participation of adults with intellectual disability.",
       "publication_types": [
         "Journal Article"
       ],
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684212/",
       "source": "PubMed"
     },
     {
@@ -54500,6 +54754,58 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901542",
+      "pmid": "42901542",
+      "doi": "10.1136/bmjgh-2026-025028",
+      "title": "Out-of-pocket health spending and population health: evidence from universal coverage expansions.",
+      "authors": [
+        "González FAI",
+        "Ramos G"
+      ],
+      "journal": "BMJ global health",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Reducing out-of-pocket (OOP) health spending is the headline target of universal health coverage (UHC) reforms, but two questions remain actively debated despite a substantial prior literature on each: does cutting OOP improve population health, and—when reform brings OOP down on average—who in the income distribution still pays OOP?\n\nMETHODS: We use a panel of 241 countries (2000–2022), 13 UHC expansion episodes and harmonised microdata from four large national surveys (the Behavioural Risk Factor Surveillance System, Pesquisa Nacional de Saúde, Encuesta Nacional de Ingresos y Gastos de los Hogares, National Health and Nutrition Examination Survey). Estimators include two-way fixed effects (TWFE), synthetic difference-in-differences, Callaway-Sant’Anna staggered difference-in-differences (DID) and wild cluster bootstrap inference for the small-group TWFE.\n\nRESULTS: A one percentage point (pp) increase in the OOP share is associated with 0.16 additional infant deaths per 1000 (p=0.003), robust to income-growth, inequality and health-spending controls. TWFE estimates a 5.9 pp average OOP reduction across UHC episodes (p=0.024); synthetic DID yields a more conservative 3.3 pp (p=0.039), with Indonesia (−10.8 pp), Rwanda (−8.7 pp) and China (−5.3 pp) driving the pooled effect while Mexico (−0.3 pp) and Chile (−1.6 pp) show small short-run changes. In the USA and Brazil, the income gradient in poor health is steep and pro-poor in both self-reported and clinically measured biomarkers (hypertension, diabetes, obesity); in Mexico, catastrophic OOP spending displays a ‘reverse gradient’ concentrated among upper-income households who self-finance private care.\n\nCONCLUSION: Universal coverage on paper does not mechanically deliver universal coverage in practice. The institutional design of where residual OOP falls is at least as policy-relevant as the headline magnitude of any OOP reduction.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "prevention"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684240/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42901540",
+      "pmid": "42901540",
+      "doi": "10.1136/bmjgh-2025-023280",
+      "title": "Patterns and determinants of antimalarial drug use and treatment adherence in Osun State, Southwestern Nigeria: a cross-sectional study.",
+      "authors": [
+        "Odediji SA",
+        "Busari LO",
+        "Amoo KO",
+        "Olawuyi AO",
+        "Amoo-Adeboye BO",
+        "Surakat OA",
+        "Adeleke MA"
+      ],
+      "journal": "BMJ global health",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "BACKGROUND: Malaria remains a leading cause of morbidity and mortality in Nigeria. Artemisinin-based combination therapies (ACTs) are first-line treatments, but adherence is suboptimal and resistance is emerging. This study assessed patterns, determinants and barriers related to antimalarial drug use and adherence in Osun State, southwestern Nigeria.\n\nMETHODS: A community-based cross-sectional household survey was conducted between October 2024 and September 2025. Using multistage sampling, 1500 residents aged ≥15 years across three senatorial districts were enrolled. Data on sociodemographics, recent antimalarial use, adherence, knowledge and access barriers were collected via structured questionnaires. Descriptive and inferential statistics, including binary logistic regression, were used to identify factors associated with treatment completion.\n\nRESULTS: The mean age of participants was 26.7 (±10.7) years; 77.0% were female. Among 713 recent antimalarial users, 70.5% completed the full course. Persistent chloroquine use was reported by 46.0% of users. Cost (40.5%) was the most cited access barrier. In adjusted analysis, treatment completion was significantly associated with tertiary education (adjusted OR (aOR)=1.85, 95% CI 1.32 to 2.59), urban residence (aOR=1.55, 95% CI 1.10 to 2.18), formal drug sources (aOR=2.20, 95% CI 1.55 to 3.12) and awareness of drug resistance (aOR=1.95, 95% CI 1.42 to 2.68).\n\nCONCLUSIONS: Suboptimal adherence, persistent use of discontinued drugs and high out-of-pocket costs threaten malaria control and may accelerate drug resistance. Public health strategies should enforce prescription policies, institute basic universal health coverage to subsidise ACTs, implement behaviour change communication and address drug unavailability in rural areas to mitigate resistance risks.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684232/",
       "source": "PubMed"
     },
     {
@@ -58397,8 +58703,8 @@
       "topics": [
         "gastro-hepatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683509/",
       "source": "PubMed"
     },
     {
@@ -58542,8 +58848,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683248/",
       "source": "PubMed"
     },
     {
@@ -58891,8 +59197,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683501/",
       "source": "PubMed"
     },
     {
@@ -58918,8 +59224,8 @@
         "gastro-hepatology",
         "nephrology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683497/",
       "source": "PubMed"
     },
     {
@@ -59091,8 +59397,8 @@
         "critical-care",
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683286/",
       "source": "PubMed"
     },
     {
@@ -59303,8 +59609,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683249/",
       "source": "PubMed"
     },
     {
@@ -59358,8 +59664,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683476/",
       "source": "PubMed"
     },
     {
@@ -59386,8 +59692,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683252/",
       "source": "PubMed"
     },
     {
@@ -59512,8 +59818,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683520/",
       "source": "PubMed"
     },
     {
@@ -59603,8 +59909,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683513/",
       "source": "PubMed"
     },
     {
@@ -59632,8 +59938,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683477/",
       "source": "PubMed"
     },
     {
@@ -64050,8 +64356,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13684295/",
       "source": "PubMed"
     },
     {
@@ -76562,8 +76868,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685423/",
       "source": "PubMed"
     },
     {
@@ -76596,8 +76902,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685587/",
       "source": "PubMed"
     },
     {
@@ -80086,8 +80392,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683276/",
       "source": "PubMed"
     },
     {
@@ -87995,8 +88301,8 @@
       "topics": [
         "gastro-hepatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13685573/",
       "source": "PubMed"
     },
     {
@@ -313042,8 +313348,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686730/",
       "source": "PubMed"
     },
     {
@@ -313071,8 +313377,8 @@
         "clinical-trials",
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686750/",
       "source": "PubMed"
     },
     {
@@ -358394,279 +358700,6 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13615418/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759826",
-      "pmid": "42759826",
-      "doi": "10.1016/j.pdpdt.2026.105655",
-      "title": "Safety and efficacy of sonodynamic therapy combined with Stupp regimen in controlling postoperative residual lesions of glioblastoma: A prospective pilot phase I study.",
-      "authors": [
-        "Wang L",
-        "Ding J",
-        "Liu X",
-        "Li T",
-        "Liu Y",
-        "You Y",
-        "Yu Y",
-        "Zheng Y"
-      ],
-      "journal": "Photodiagnosis and photodynamic therapy",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Postoperative residual disease in glioblastoma (GBM) drives early recurrence due to the blood-brain barrier (BBB), local hypoxia, and normal brain tissue dose constraints. Sonodynamic therapy (SDT) utilizes transcranial low-intensity ultrasound to selectively activate sonosensitizers (e.g., hematoporphyrin), inducing non-invasive oxidative tumor ablation, BBB permeabilization, and hypoxia alleviation. We evaluated the safety, feasibility, and preliminary efficacy of multi-session transcranial SDT combined with standard chemoradiotherapy in newly diagnosed GBM patients with MRI-confirmed residual lesions.\n\nMETHODS: In this prospective, open-label Phase I trial (Ethics Approval No 2024-KY-0621-002), 18 newly diagnosed IDH-wildtype GBM patients received a three-phase regimen: (1) Induction: pre-radiotherapy SDT (hematoporphyrin 3 mg/kg, 0.84 MHz, 1.5 W/cm², 50% duty cycle, twice daily for 5 days) with temozolomide (TMZ, 75 mg/m² daily); (2) Concurrent: intensity-modulated radiotherapy (60 Gy in 30 fractions) with daily TMZ (75 mg/m² for 6 weeks); and (3) Maintenance: adjuvant TMZ with optional concurrent SDT (hematoporphyrin 5 mg/kg, n = 9) or TMZ alone (n = 9). Primary endpoints were safety (NCI-CTCAE v5.0) and feasibility. Secondary endpoints included progression-free survival (PFS), overall survival (OS), and objective response rate (ORR) via RANO criteria.\n\nRESULTS: Over a median follow-up of 26.23 months (95% CI: 21.97-27.47), primary safety and feasibility endpoints were met. No treatment-related deaths or grade 4/5 toxicities occurred. Treatment-related adverse events were mostly mild-to-moderate (grade 1/2) and transient, including 1 grade 1 photosensitivity reaction and 2 grade 1 cerebral edema events managed with osmotic therapy. For the entire cohort (n = 18), median OS was 19.00 months (95% CI: 17.27-23.97; 12-month OS rate: 88.9%), median PFS was 10.53 months (95% CI: 8.67-18.23), ORR was 66.7% (12 PR, 6 SD), and Disease Control Rate was 100%. In maintenance subgroup analysis, patients receiving SDT + TMZ showed a higher ORR (88.9% vs. 44.4%) and extended median PFS (11.80 vs. 9.27 months; P = 0.599) compared with TMZ alone, with comparable OS (19.00 vs. 20.10 months; P = 0.740).\n\nCONCLUSIONS: Integrating transcranial SDT with standard chemoradiotherapy and maintenance temozolomide is safe, feasible, and well tolerated in newly diagnosed GBM with residual disease. Encouraging preliminary efficacy signals warrant further evaluation in multi-center Phase II trials.",
-      "publication_types": [
-        "Journal Article",
-        "Clinical Trial, Phase I"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759485",
-      "pmid": "42759485",
-      "doi": "10.1016/j.clbc.2026.08.022",
-      "title": "Supine Magnetic Resonance Imaging in Breast-Conserving Surgery Planning: A Systematic Review of Margin and Re-excision Outcomes.",
-      "authors": [
-        "Mora H",
-        "Cruz D",
-        "Gonçalves D",
-        "Peleteiro B",
-        "Fougo JL"
-      ],
-      "journal": "Clinical breast cancer",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Achieving negative margins at the first operation is a central goal of breast-conserving surgery (BCS), yet positive margins and re-excision remain common. Conventional preoperative magnetic resonance imaging (MRI) is acquired in the prone position, a position the breast does not assume during surgery, and the resulting prone-to-supine deformation may degrade image transfer to the operative field. Supine MRI (SMRI) has been proposed to overcome this limitation. This systematic review evaluated its effect on positive surgical margin and re-excision rates in BCS. Four databases were searched from inception to May 2026, with backward citation tracking. Absolute rates were summarized narratively by transfer technique; a post-hoc exploratory relative-risk meta-analysis was restricted to studies with a comparator. Thirteen studies (1718 patients) were included. Positive margin rates with SMRI ranged from 0% to 25.9%; heterogeneity in margin definitions precluded pooling of absolute rates. Across the 5 comparative studies, SMRI was associated with a significantly lower risk of a positive margin (relative risk [RR] 0.57 [95% confidence interval (CI), 0.36-0.88]) and a nonsignificant reduction in re-excision (RR 0.64 [95% CI, 0.40-1.04]), without detectable heterogeneity. The evidence base was limited: a single randomized trial and 11 of 12 nonrandomized studies at serious risk of bias, with baseline confounding that generally disfavored the intervention. SMRI is a biologically coherent and promising approach that may reduce positive margins, but current evidence is preliminary. Randomized comparison against contemporary localization techniques, using harmonized margin definitions, is required.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759484",
-      "pmid": "42759484",
-      "doi": "10.1016/j.clbc.2026.08.019",
-      "title": "Implications of Mobile Applications for Breast Surgery: A Systematic Review.",
-      "authors": [
-        "Duah-Asante K",
-        "Sivakanthan T",
-        "Oledajo I",
-        "Balogun A",
-        "Arif T",
-        "Mehta S",
-        "Kankam HKN"
-      ],
-      "journal": "Clinical breast cancer",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Breast surgery involves a long patient journey, from preoperative counseling through to postoperative rehabilitation, with high information needs and recovery that is difficult to monitor after discharge. Mobile apps have increasingly been developed to support patients through this journey, but how well they work is unclear. This review examined mobile apps designed to support patients having breast surgery at all stages of care. This Preferred Reporting Items for Systematic Reviews and Meta-Analyses-compliant review searched MEDLINE, Embase, and the Cochrane Library from database inception to June 2026 for studies of mobile apps used at any point in the breast surgery pathway. No restrictions were placed on the type of procedure, comparator, or outcome. A narrative synthesis was undertaken. The primary search returned 6999 records, with 20 studies meeting the inclusion criteria after screening. Apps served 5 purposes: preoperative education, treatment decision support, postoperative symptom management, remote monitoring, and rehabilitation. Remote monitoring apps showed the clearest benefit, reducing in-person visits without increasing complications. Education apps consistently reduced anxiety and improved patient satisfaction. Decision-support apps reduced uncertainty and, in one study, improved body image. Symptom-management apps gave the least consistent results, working best alongside additional human contact. Rehabilitation apps remain early-stage, investigated only in small pilots. In conclusion, mobile apps are being developed across the breast surgery pathway and are well received by patients, but effectiveness varies by purpose. Remote monitoring has the strongest evidence, followed by preoperative education. Decision-support, symptom-management, and rehabilitation apps require more definitive trials before patient satisfaction can be equated with real clinical benefit.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759354",
-      "pmid": "42759354",
-      "doi": "10.1016/j.aucc.2026.101683",
-      "title": "How the nurse-patient relationship is enacted in Danish intensive care units: An ethnographic study of conscious mechanically ventilated patients.",
-      "authors": [
-        "Søndergaard MP",
-        "Bundgaard K",
-        "Adams AMN",
-        "Dreyer P",
-        "Laugesen B",
-        "Haslund-Thomsen H"
-      ],
-      "journal": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: The nurse-patient relationship is crucial for conscious mechanically ventilated patients in the intensive care unit (ICU). While critical illness, immobilisation, and communication barriers challenge this relationship, the knowledge of its enactment in practice remains limited.\n\nAIM: The aim of this study was to explore how the nurse-patient relationship with conscious mechanically ventilated patients in the ICU is enacted in clinical practice.\n\nMETHODS: An ethnographic design was employed. Twenty-five participant observations supported by informal interviews (94 h) were conducted with nurses caring for conscious, nondelirious, mechanically ventilated adults in ICUs in Denmark over a 10-month period (May 2024-March 2025). Data were analysed using inductive reflexive thematic analysis. Reporting followed the Consolidated criteria for Reporting Qualitative (COREQ) guidelines.\n\nRESULTS: Relational orientation on a continuum, generated as an overarching theme, unfolds through the following subthemes: (i) The importance of navigating attentiveness in patient care; (ii) advocating for patients as a central aspect of establishing trust; (iii) active involvement of patients as a central aspect of care; and (iv) touch as a central aspect of nonverbal communication.\n\nCONCLUSIONS: The nurse-patient relationship with conscious mechanically ventilated ICU patients was enacted along a continuum ranging from technical-instrumental to relational focus, where safety, trust, and collaboration are essential. Nurses dynamically navigate this continuum, balancing attentiveness, advocacy, involvement, and touch with clinical and technical competence while remaining sensitive to patients' pace and capacity as well as managing contextual factors, such as technology and interruptions. This emphasises that nurses' responsibility and commitment to the nursepatient relationship is fundamental to provide quality care.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759353",
-      "pmid": "42759353",
-      "doi": "10.1016/j.aucc.2026.101687",
-      "title": "Neuman Systems Model-based psychoeducation for psychological distress and coping in spouses of intensive care unit patients: An action research study.",
-      "authors": [
-        "Karaçar Y",
-        "Bademli K"
-      ],
-      "journal": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Spouses of critically ill people often face higher levels of stress and psychological distress than other family members.\n\nOBJECTIVES: The aim of this study was to investigate the effects of a Neuman Systems Model (NSM)-based psychoeducation program for stress management on psychological distress, coping strategies, and experiences of spouses of intensive care unit (ICU) patients.\n\nMETHODS: This technical action research study was conducted with 14 spouses of mechanically ventilated ICU patients in a state hospital. An NSM-based psychoeducation program was delivered to spouses through six individual face-to-face sessions while the patients were hospitalised in the ICU. Quantitative data were collected using the Psychological Distress Scale and the Coping Styles Scale before and after intervention, while qualitative data were gathered post intervention. The Wilcoxon signed-rank test was used to analyse the quantitative data, and thematic and descriptive analysis techniques were applied to the qualitative data.\n\nFINDINGS: The participants' psychological distress levels decreased (p = 0.002). Scores for the self-confident (p = 0.001), optimistic (p = 0.003), and social support-seeking (p = 0.001) coping styles increased, whereas scores for the helpless (p = 0.001) and submissive (p = 0.020) coping styles decreased. Three main themes and 13 subthemes were identified from the qualitative data. The most frequently reported coping strategies were expressing emotions, acceptance, and seeking social support. The most frequently reported emotional responses were reduced anxiety and empowerment in coping. Participants also expressed a need for psychosocial support.\n\nCONCLUSIONS: The findings of this study suggested that psychoeducation based on the NSM may contribute to reduced psychological distress and improved coping styles among spouses of patients in the ICU. Following the intervention, participants most frequently reported emotional expression, acceptance, and seeking social support as coping strategies, alongside reduced anxiety and greater coping confidence. Further research in larger studies with appropriate comparison groups is needed to investigate these preliminary findings and determine the long-term impact of this intervention.\n\nREPORTING METHOD: The study reporting followed the Checklist for Assessing Quality in Action Research.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759352",
-      "pmid": "42759352",
-      "doi": "10.1016/j.aucc.2026.101684",
-      "title": "Contributing to the \"Long View\" of augmentative and alternative communication in intensive care units.",
-      "authors": [
-        "Fonseca A",
-        "Amaral M",
-        "Ribeiro M",
-        "Encarnação R"
-      ],
-      "journal": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759351",
-      "pmid": "42759351",
-      "doi": "10.1016/j.aucc.2026.101690",
-      "title": "Erratum to \"Efficacy and safety of drinking ice-carbonated water and ice-purified water immediately after extubation in paediatric patients with congenital heart disease: A randomised, controlled three-arm trial\" [Aust Crit Care 39 (2026) 101663].",
-      "authors": [
-        "Zhang X",
-        "Chen Y",
-        "Peng Y",
-        "Li S",
-        "Chen L",
-        "Lin Y"
-      ],
-      "journal": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Published Erratum"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759350",
-      "pmid": "42759350",
-      "doi": "10.1016/j.aucc.2026.101681",
-      "title": "Experience, influences, and impacts on breathlessness among people receiving care in the intensive care unit: A qualitative study.",
-      "authors": [
-        "Rushworth L",
-        "Williams P",
-        "Ciccozzi A",
-        "Williams M",
-        "Johnston K"
-      ],
-      "journal": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Breathlessness is frequently experienced by patients in the intensive care unit (ICU) and associated with anxiety and delays in weaning from mechanical ventilation. Breathlessness in this clinical setting remains under-recognised in clinical guidelines, and little is known about patient experiences in the Australian ICU context.\n\nOBJECTIVE: The aim of this study was to describe patients' experiences of breathlessness recalled in the ICU and identify factors that modified (exacerbated or relieved) the experience, within an Australian ICU.\n\nDESIGN: A descriptive qualitative study was conducted.\n\nMETHOD: Semistructured interviews were conducted with adults admitted to a single metropolitan ICU (stay >48 h) who experienced breathlessness, within 2 weeks of transfer to a general ward. The interview topic guide was developed in collaboration with healthcare experts, including consumers with past ICU experience. Interviews were audiotaped, transcribed, anonymised, and analysed using inductive content analysis. Clinical and demographic data were obtained from medical records.\n\nFINDINGS: Twenty people were interviewed a mean of 1.6 days post ICU transfer (female n = 11; mean age: 63.4 [standard deviation: 17.4] years; mean ICU stay: 5.8 [4.3] days; invasive/noninvasive ventilation n = 7/10). Six major categories were reported: two related to experiences before and after ICU and four specific to the ICU: (i) intensely difficult breathlessness (sensations, feelings, thoughts, and immediate impacts); (ii) factors exacerbating breathlessness (procedures, pain-anxiety cycles, miscommunication, and intubation/masks); (iii) factors relieving breathlessness (practical strategies enacted by staff, self, and family including calm, empathic communication and ventilation); and (iv) beliefs about causes of breathlessness (physiological origins, medical interventions, anxiety, lifetime exposures, and health behaviours).\n\nCONCLUSION: This study provides new insights into the lived experience of breathlessness among ICU patients, highlighting its physiological, emotional, and cognitive impacts. Small, nonpharmacological adjustments to care contributed to meaningful relief or, at times, escalation of breathlessness, underscoring the importance of integrating breathlessness assessment and individualised management into routine ICU care. This study prospectively registered with the Australian New Zealand Clinical Trials Registry, ACTRN12622000701729.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759349",
-      "pmid": "42759349",
-      "doi": "10.1016/j.aucc.2026.101660",
-      "title": "Exploring patients' and family members' perspectives on intensive care unit experiences through unsolicited feedback: A qualitative content analysis.",
-      "authors": [
-        "Exl MT",
-        "Ruch N",
-        "Zwahlen I",
-        "Mathier J",
-        "Buchs O",
-        "Brauchle M",
-        "Nydahl P",
-        "Hoffmann M",
-        "Jeitziner MM"
-      ],
-      "journal": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Intensive care unit (ICU) stays are profound and distressing experiences for critically ill patients and their family members, often resulting in physical, psychological, cognitive, and social sequelae. Existing knowledge stems largely from structured interviews or questionnaires addressing predefined questions, potentially overlooking how individuals spontaneously and autonomously choose to express their experiences without being prompted.\n\nOBJECTIVE: This study was conducted to explore the content of unsolicited feedback from former critically ill patients and family members, offering a valuable source of unique, self-determined, and underexplored insights into individuals' spontaneously expressed experiences, perceptions of care, and voiced concerns.\n\nMETHODS: An inductive qualitative research design was selected. Unsolicited feedback (written), spontaneously addressed directly to ICU healthcare professionals by former critically ill patients and family members, or indirectly via hospital ombudsman, was collected.\n\nFINDINGS: A total of 83 unsolicited feedbacks were received during a period of 27 months. Of these, 39 were direct unsolicited feedback and included in the qualitative analysis. Direct unsolicited feedback was most frequently submitted by family members and primarily consisted of letters of appreciation and cards notifying of a patient's demise. The analysis led to the identification of three main categories: (i) acknowledging meaningful connections; (ii) perceiving high clinical competence; and (iii) dealing with a highly challenging situation. A total of 44 indirect unsolicited feedbacks were received via the hospital ombudsman, and these were predominantly negative in nature.\n\nCONCLUSIONS: These feedbacks may support meaning-making processes following critical illness by enabling individuals to express emotions, acknowledge care received or voice concerns, and integrate highly challenging situations, thereby contributing to a sense of closure. Thus, unsolicited feedback can be understood as a self-determined expression of ongoing meaning-making.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759348",
-      "pmid": "42759348",
-      "doi": "10.1016/j.aucc.2026.101659",
-      "title": "Nurse-led intensive care follow-up interventions in low- and middle-income countries: A scoping review.",
-      "authors": [
-        "Utomo B",
-        "Malik G",
-        "Duncan R"
-      ],
-      "journal": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Post-intensive care syndrome affects more than half of intensive care unit (ICU) survivors, resulting in long-term physical, psychological, and cognitive impairments. Structured post-ICU recovery programs, including nurse-led follow-up, have improved patient outcomes in high-income countries. However, little is known about such models in low- and middle-income countries (LMICs), where post-ICU care is often lacking.\n\nOBJECTIVE: The aim of this scoping review was to identify and map the existing nurse-led follow-up care interventions for ICU survivors in LMICs to inform future development and implementation.\n\nMETHODS: This scoping review followed the Arksey and O'Malley framework and the Joanna Briggs Institute methodology. Relevant articles were searched through five electronic databases. Data were extracted and synthesised using the Patterns, Advances, Gaps, Evidence for practice and Research recommendations (PAGER) framework.\n\nRESULTS: Seven studies met the inclusion criteria. Most interventions were delivered during the ICU-to-ward transition and were led by ICU liaison nurses. One study extended follow-up beyond hospital discharge using a smartphone-supported nurse-led model for postoperative cardiac survivors. Three main identified patterns were the structure and delivery models of nurse-led follow-up care, nurses' roles and competencies, and outcomes and implications. Across studies, nurse-led follow-up care played primarily as a multitarget transition program supporting patients, families, and ward nurses. Outcomes were mostly short term and transition focused.\n\nCONCLUSIONS: Nurse-led in-hospital follow-up care in LMICs appears feasible and potentially beneficial but remains underdeveloped and largely focused on ICU-to-ward transition. Future studies should focus on developing a structured intervention, defining roles and competencies with thorough outcome measures, validating competency frameworks, and expanding the program for long-term care. Incorporating digital or predictive tools could improve care delivery and support clinical decision-making systems, but evidence for their use in LMIC settings remains limited.\n\nREGISTRATION: This study was registered to Open Science Framework Registries https://osf.io/ps6j3.",
-      "publication_types": [
-        "Journal Article",
-        "Scoping Review",
-        "Review"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
       "source": "PubMed"
     }
   ]
