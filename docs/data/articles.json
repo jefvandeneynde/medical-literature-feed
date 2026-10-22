@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:27:38.662137+00:00",
+  "generated_at": "2026-10-22T15:20:19.719957+00:00",
   "articles": [
     {
       "id": "pmid:42900467",
@@ -53404,7 +53404,8 @@
       "year": 2026,
       "abstract": "Macrophages orchestrate immunity via transcriptional reprogramming, largely controlled by the master regulator NF-κB. However, mechanisms of promoter selection remain enigmatic. Here, we reveal that DNA secondary structures called G-quadruplexes (G4s) modulate the macrophage transcriptome during inflammation. By investigating the G4 ligand pyridostatin (PDS) in lipopolysaccharide-stimulated macrophages, we establish that G4 stabilization significantly decreases the inflammatory response without affecting mitochondrial metabolism or pathogen clearance. Instead, NF-κB-dependent transcription of activation markers and proinflammatory cytokines is selectively repressed. Using chromatin accessibility profiling, NF-κB ChIP, and in silico predictions, we demonstrate that G4 stabilization sterically hinders NF-κB promoter occupancy. Furthermore, PDS stabilizes transient, transcription-induced G4s, prematurely shutting down transcription and reverting local chromatin to a dormant state. Thus, G4 formation represents a potential strategy to modulate dysregulated macrophage activation.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "topics": [
         "infectious"
