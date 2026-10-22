@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-21T20:13:20.509863+00:00",
+  "generated_at": "2026-10-22T00:43:08.101405+00:00",
   "articles": [
+    {
+      "id": "pmid:42900467",
+      "pmid": "42900467",
+      "doi": "10.1080/02813432.2026.2748807",
+      "title": "A structured framework for assessment of rehabilitation and sick-listing (STARS) - experiences among healthcare professionals.",
+      "authors": [
+        "Sundkvist EM",
+        "Jansson I",
+        "Sverker A",
+        "Karlsson E",
+        "Rosenberg L",
+        "Israelsson Larsen H"
+      ],
+      "journal": "Scandinavian journal of primary health care",
+      "date": "2027-12-01",
+      "year": 2027,
+      "abstract": "BACKGROUND/PURPOSE: The sick-listing process is often perceived uncertain and unclear by both patients and staff. To improve the process, a framework for structured assessment of rehabilitation and sick-listing (STARS) has been developed in the South-Eastern Healthcare Region in Sweden. STARS consists of seven methodological tools supporting healthcare professionals in sick-listing and rehabilitation. The purpose of this study was to investigate how primary healthcare staff clinically involved in the sick leave process experience working according to STARS.\n\nMETHOD: We used a qualitative design conducting focus group discussions (n = 7) with healthcare staff (n = 37). Eligible participants were physicians, rehabilitation coordinators and other healthcare professionals working clinically with patients. The focus group conversations were analyzed with thematic content analysis according to Braun and Clarke. The study was registered in clinicaltrials.gov (number NCT05655962).\n\nRESULT: The participants' experience of working according to STARS were described by the overarching theme 'STARS as an enabling structure' formed by three themes and eight subthemes. The themes were 'Clearer roles and responsibilities through the RECO function', 'Moving from individual work to teamwork' and 'A more active and personalized rehabilitation and sick-listing process'.\n\nCONCLUSION: The findings suggest that implementing the STARS framework may provide a supportive structure for a uniform and consistent way of working across primary healthcare centers. By clarifying RECOs' roles and strengthening interprofessional collaboration, the framework may support a more patient-centered approach across services.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
     {
       "id": "pmid:42894311",
       "pmid": "42894311",
@@ -10088,8 +10116,7 @@
       "abstract": "Background: Drama-based techniques have been increasingly implemented with trauma-exposed populations. However, the evidence base remains conceptually and methodologically heterogeneous, with substantial variation in how trauma is defined, how interventions are described, and which trauma-related outcomes are assessed.Objective: This review aimed to synthesise empirical studies examining drama-based interventions for individuals exposed to trauma. The review describes the characteristics of drama-based interventions, the types of trauma addressed, the pattern and range of trauma-related psychological outcomes assessed, and the methodological quality and certainty of the available evidence.Methods: A search was conducted across Scopus, PsycINFO, MEDLINE, and Web of Science Core Collection databases on 29 October 2025. Studies published in English within the past 20 years were eligible if they examined a drama-based intervention in a trauma-exposed population and reported trauma-related psychological outcomes. Methodological quality was appraised using the Mixed Methods Appraisal Tool and certainty of evidence was assessed using GRADE.Results: Twenty-six studies met inclusion criteria out of 1,461 screened papers. Interventions were grouped as psychodrama, dramatherapy, applied theatre, other drama-based psychotherapeutic interventions, and other. The most commonly examined outcomes were depression, anxiety, and PTSD symptoms. Across intervention types, some studies reported improvements in trauma-related and broader psychological outcomes. However, findings were mixed and frequently constrained by small samples, uncontrolled designs, heterogeneous outcome measurement, limited intervention reporting and inconsistent use of terminology. Certainty of evidence was rated as very low.Conclusions: Drama-based interventions show preliminary potential for supporting trauma-exposed populations, but the evidence base remains limited by substantial heterogeneity and low methodological quality. More rigorous study designs, clearer reporting of intervention content and delivery, and greater consistency in outcome assessment are needed to strengthen the evidence base and clarify how drama-based strategies may contribute to trauma-related mental health care.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -10115,9 +10142,8 @@
       "abstract": "Background: Forcibly displaced populations, including refugees, asylum seekers, and internally displaced persons, are frequently exposed to severe, prolonged and repeated trauma from which escape is difficult or impossible. Such exposures increase the risk for complex post-traumatic stress disorder (CPTSD), defined by core PTSD symptoms alongside disturbances in self-organisation (DSO), including affective dysregulation, negative self-concept, and relational difficulties. However, the prevalence of CPTSD in forcibly displaced populations has not yet been quantitatively synthesised, and the added value of the CPTSD construct over PTSD in this population has not been examined.Methods: This systematic review and meta-analysis searched five databases from inception to January 2026. A random-effects meta-analysis was conducted to estimate pooled CPTSD prevalence, with pre-specified subgroup analyses, meta-regression, and sensitivity analyses.Results: Twenty studies met inclusion criteria, representing 17 independent samples (n = 12,504). Reported CPTSD prevalence varied from 3.0% to 74.6%. The random-effects pooled prevalence, retained as a descriptive summary of the included studies, was 20.9% (95% CI [12.6%, 32.6%]), the 95% prediction interval was [1.7%, 80.3%]. Between-study heterogeneity was very high (I² = 98.3%). Recruitment context was strongly associated with prevalence: estimates averaged 10.6% in community-based samples and 55.2% in treatment-seeking samples. Asylum seekers exhibited markedly higher prevalence than refugees. Across four studies, post-migration living difficulties, including legal insecurity, poverty, and marginalisation, were more strongly associated with DSO symptoms than with core PTSD symptoms, suggesting that ongoing structural adversity actively perpetuates complex trauma psychopathology beyond pre-migration trauma alone.Conclusion: Available evidence indicates marked variation in CPTSD prevalence across forcibly displaced populations rather than a single generalisable prevalence rate. Recruitment context accounts for part of this variation, but the limited and geographically uneven evidence base prevents global population-level inference. Future studies should use representative sampling and consistently report displacement, trauma, and post-migration characteristics to permit more informative explanations of between-population variation.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
         "Meta-Analysis",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -39336,7 +39362,8 @@
       "abstract": "BACKGROUND AND OBJECTIVES: The rates and factors associated with complete recanalization after cervical artery dissection (CeAD) have not been comprehensively quantified in large cohorts. We sought to determine the 6-month rate of complete recanalization in CeAD, clinical and imaging factors associated with recanalization, and risk of recurrent ischemic stroke based on recanalization status.\n\nMETHODS: This was a planned subanalysis of the Antithrombotic Treatment for Stroke Prevention in Cervical Artery Dissection study, a multicenter retrospective cohort including patients with imaging-confirmed CeAD diagnosed between January 2015 and June 2022 at 63 sites worldwide. For this analysis, we included 1,095 patients with single-vessel CeAD causing stenosis at presentation who had available follow-up vascular imaging at 6 months after CeAD. The primary outcome was complete recanalization within 6 months after CeAD. Clinical and imaging variables, as well as recurrent stroke, were compared between patients with and those without complete recanalization. Factors independently associated with complete recanalization were identified using multivariable logistic regression. Time to complete recanalization was analyzed using an accelerated failure time Weibull model.\n\nRESULTS: Among 1,095 included patients (median age 45 years; 46.7% female), 634 (57.9%) achieved complete recanalization by 6 months. In multivariable analysis, each additional year of age was associated with lower odds of complete recanalization (odds ratio [OR] 0.97 per year; 95% CI 0.96-0.98; p < 0.001). Diabetes (OR 0.46; 95% CI 0.27-0.81; p = 0.006), active smoking (OR 0.69; 95% CI 0.50-0.95; p = 0.025), and complete occlusion at presentation (OR 0.44; 95% CI 0.32-0.59; p < 0.001) were independently associated with lower odds of complete recanalization. Complete occlusion at presentation was associated with both longer time to, and lower rates of, complete recanalization. We observed no effect of antithrombotic regimen (antiplatelet therapy vs anticoagulation) on complete recanalization. Incomplete recanalization was associated with a nonsignificant numerically higher proportion of recurrent stroke (5.4% vs 3.5%; p = 0.064).\n\nDISCUSSION: Almost 60% of patients with CeAD achieved complete vessel recanalization by 6 months. Older age, diabetes, smoking, and complete occlusion at presentation were independently associated with incomplete recanalization. Further study is required to determine whether these findings may help guide tailored imaging surveillance and secondary prevention strategies.",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "topics": [
         "endocrine",
@@ -40580,8 +40607,8 @@
       "topics": [
         "gastro-hepatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682830/",
       "source": "PubMed"
     },
     {
@@ -51080,6 +51107,218 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42900906",
+      "pmid": "42900906",
+      "doi": "10.1515/cclm-2026-1538",
+      "title": "Whole blood hemolysis detection on the GEM® Premier™ 7000: performance across hemoglobin A, S, and F.",
+      "authors": [
+        "Puravet A",
+        "Bouthors B",
+        "Rieu B",
+        "Montade Q",
+        "Pereira B",
+        "Brailova M",
+        "Sapin V",
+        "Bouvier D"
+      ],
+      "journal": "Clinical chemistry and laboratory medicine",
+      "date": "2026-10-22",
+      "year": 2026,
+      "abstract": "OBJECTIVES: Point-of-care blood gas analyzers are essential in critical care settings but remain vulnerable to pre-analytical interferences, particularly hemolysis, which may lead to erroneous potassium results. The GEM® Premier™ 7000 incorporates an onboard hemolysis detection system based on multi-wavelength co-oximetry, allowing direct estimation of free hemoglobin in whole blood samples. This study evaluated the analytical performance of this system across different hemoglobin variants, including fetal hemoglobin (HbF) and hemoglobin S (HbS).\n\nMETHODS: Fifty patient samples undergoing routine arterial blood gas and biochemical testing were analyzed using the GEM® Premier™ 7000, and Atellica Solution analyzers. Experimental hemolysis was induced to evaluate the performance of the onboard hemolysis detection system. In a second step, hemoglobin overload experiments using HbA0, HbF, and HbS were performed in samples from 10 healthy volunteers to assess the robustness of hemolysis detection across different hemoglobin variants.\n\nRESULTS: Experimental hemolysis significantly increased the hemolysis index and potassium concentrations measured on the GEM® Premier™ 7000, with median hemolysis index values rising from 1 to 6 and median potassium concentrations from 3.6 to 9.8 mmol/L (p<0.001). The GEM® Premier™ 7000 accurately detected increasing concentrations of free HbA0, HbS, and HbF throughout the overload experiments.\n\nCONCLUSIONS: The integrated hemolysis detection system reliably detected clinically significant hemolysis in whole blood samples, supporting more reliable point-of-care blood gas testing.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42735590",
+      "pmid": "42735590",
+      "doi": "10.1016/j.bbrc.2026.154580",
+      "title": "Identification of novel diimide and hydrazone scaffolds for synergistic HIV-1 shock and kill strategies.",
+      "authors": [
+        "Sukegawa S",
+        "Matsuda K",
+        "Kitamura H",
+        "Tanimoto K",
+        "Fujisaki C",
+        "Kobayakawa T",
+        "Tsukitani T",
+        "Yoshino H",
+        "Tamamura H",
+        "Maeda K",
+        "Takeuchi H"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-10-22",
+      "year": 2026,
+      "abstract": "Combination antiretroviral therapy (ART) is currently the standard-of-care to control HIV replication in infected individuals. However, since this treatment mainly targets viral enzymes, the presence of latently-infected reservoirs and the emergence of drug resistance remain major barriers to viral eradication. To overcome this, a \"Shock and Kill\" approach has been developed, using \"latency-reversing agents\" (LRAs) to activate latent proviruses (\"shock\"), leading to viral elimination by ART and immune-mediated clearance (\"kill\"). We previously screened a small-molecule library on monocytic and CD4+ T cell lines latently infected with HIV, and identified two novel LRA candidates (compounds #C1 and #C3). Based on their structural features, we now identified two related derivatives, compounds #C2 and #C4. Compounds #C1 and #C2 possess diimide structures, whereas #C3 and #C4 have hydrazone structures. All four compounds synergistically enhanced LRA activity when combined with JQ1 or PKC activators in J-Lat 10.6 cells. Notably, combining #C4 with JQ1 further enhanced HIV reactivation showing limited responsiveness to JQ1 alone in J-Lat 10.6 model cells. In ex vivo purified CD4+ T cells from ART-suppressed individuals, #C4 elicited a statistically significant, donor-matched increase in HIV-1 transcription (ratio paired t-test, P = 0.0137, n = 8), whereas JQ1 did not reach significance under the same paired analysis despite a comparable mean magnitude. Notably, #C4 additionally induced measurable reactivation in donors with limited responsiveness to JQ1 alone. RNA-sequencing analyses indicated that compound #C4, JQ1 and PKC activators mediated LRA activity through distinct molecular mechanisms. Collectively, these findings delineate a structurally novel class of LRA candidates that engage a latency-reversal mechanism distinct from that of JQ1 and canonical PKC signaling, and thereby support further investigation of their utility within combinatorial strategies aimed at HIV-1 reservoirs.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42732653",
+      "pmid": "42732653",
+      "doi": "10.1016/j.bbrc.2026.154579",
+      "title": "Beta-caryophyllene reduces lung inflammation secondary to chronic kidney disease.",
+      "authors": [
+        "Barcelos de Simas B",
+        "Sandin Milani Schütz ME",
+        "Ferreira-Alves G",
+        "Moreira Borges Oliveira FR",
+        "Dos Santos GJ",
+        "Nazari E",
+        "Fernandes D",
+        "Sordi R"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "date": "2026-10-22",
+      "year": 2026,
+      "abstract": "BACKGROUND: Chronic kidney disease (CKD) causes millions of deaths and is a known risk factor for the development of other diseases. CKD has been associated with lung injury characterized by neutrophil infiltration and edema. Despite evidence that the lungs are distant organs affected in CKD, there is no treatment to impair lung injury. Cannabinoid receptors type 2 (CB2) activation has been shown to reduce renal dysfunction and organ damage in sepsis.\n\nOBJECTIVE: Therefore, this study aimed to evaluate the effects of β-caryophyllene (βC), a CB2 agonist, on CKD-induced pulmonary alterations.\n\nMETHODS: Male Swiss mice were subjected to 5/6th partial nephrectomy (PNx) model and randomly assigned to three experimental groups: sham, PNx + vehicle and PNx+βC (10 mg/kg/day). Treatment was administered from days 7 to 14 post-surgery. On day 15, bronchoalveolar lavage, blood, and organs were obtained.\n\nRESULTS: PNx animals exhibited increased pulmonary leukocyte infiltration, MPO activity, and protein content. Histological analysis of lung tissue showed signs of injury and excessive superoxide production. Increased expression of ICAM-1 was also detected by Western blotting in the lungs of PNx animals. βC treatment attenuated inflammatory cell infiltration and protein extravasation, and reduced ICAM-1 expression in lungs of CKD mice. βC improved renal function parameters, which may have contributed, at least in part, to the reduction in lung inflammation. CB2 receptors expression did not differ among the groups.\n\nCONCLUSION: In conclusion, βC attenuated PNx-induced pulmonary changes, supporting its potential as an adjuvant therapy for lung injury in CKD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42648850",
+      "pmid": "42648850",
+      "doi": "10.1016/j.aca.2026.345980",
+      "title": "Development of a fully automated sample-to-answer system for rapid molecular detection of pathogens in whole blood.",
+      "authors": [
+        "Park C",
+        "Bae S",
+        "Seo MS",
+        "Woo C",
+        "Shim S",
+        "Seo J",
+        "Lim H",
+        "Hong Y",
+        "Yun J",
+        "Kwon O",
+        "Lee D"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-10-22",
+      "year": 2026,
+      "abstract": "BACKGROUND: Sepsis is a life-threatening organ dysfunction caused by infection and remains a major cause of mortality worldwide. Clinical outcomes depend on rapid pathogen identification and timely initiation of targeted antimicrobial therapy. Conventional blood culture requires 24-72 h, and although qPCR shortens turnaround time, conventional workflows still depend on labor-intensive sample preparation and open handling steps. An automated diagnostic workflow that can directly process whole blood from collection tubes is therefore needed. The problem addressed in this study is the lack of a rapid, fully automated sample-to-answer platform for sepsis pathogen detection from whole blood.\n\nRESULTS: We developed a fully automated sample-to-answer platform that integrates robotic tube handling, including automated decapping and aliquoting, magnetic bead-based nucleic acid extraction, an ultrafast real-time PCR module, and a compact CMOS-based fluorescence detector. The system was evaluated using phosphate-buffered saline (PBS) and human whole blood spiked with Salmonella spp. DNA purified by the automated workflow showed purity comparable to that obtained by manual extraction with a commercial kit, confirming biochemical reliability. The complete process, from DNA extraction to 40 PCR cycles, was finished within 30 min. The limits of detection were 1 × 102 CFU/mL in PBS and whole blood, matching the performance of commercial benchtop qPCR instruments.\n\nSIGNIFICANCE: This study demonstrates a closed, fully automated sample-to-answer system that performs direct whole-blood processing without manual intervention. Its novelty lies in integrating robotic handling, on-cartridge extraction, rapid amplification, and compact fluorescence detection into a single workflow. By reducing hands-on steps and contamination risk while maintaining sensitivity and speed, the platform offers a practical route toward point-of-care sepsis diagnostics and earlier targeted treatment.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "topics": [
+        "critical-care",
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42648826",
+      "pmid": "42648826",
+      "doi": "10.1016/j.aca.2026.345949",
+      "title": "Multiplexed EDL-FET biosensor with tannic acid stabilization for simultaneous p-Tau217 and Aβ42/Aβ40 detection in plasma and whole blood from stroke patients.",
+      "authors": [
+        "Chien SC",
+        "Chang IY",
+        "Chen YC",
+        "Lai YZ",
+        "Chen YF",
+        "Sun PL",
+        "Li BR",
+        "Wang YL",
+        "Chen JC"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-10-22",
+      "year": 2026,
+      "abstract": "Alzheimer's disease (AD) is a leading cause of disability in aging societies, underscoring the need for practical blood-based biomarker assays. Stroke patients face an elevated risk of AD-related cognitive impairment, yet reliable, scalable tools for early biomarker assessment in this population remain lacking. Current platforms are limited by low throughput, instability, and demanding sample preparation that restricts point-of-care translation. This study addresses the need for a multiplexed, clinically practical biosensor capable of simultaneously measuring AD-relevant biomarkers in both plasma and whole blood. An eight-channel electric double-layer field-effect transistor (EDL-FET) platform was developed to simultaneously measure phosphorylated tau (p-tau217) and the Aβ42/Aβ40 ratio in plasma and whole blood. Standardized surface modification with tannic acid (TA)-assisted antibody immobilization enabled stable chip performance under wet storage for at least 10 days. Clinically, 54 plasma and 32 whole-blood samples from stroke patients were stratified into cognitively impaired (MMSE ≤24) and unimpaired (MMSE >24) groups. p-tau217 significantly differentiated cognitive status in both matrices, with the strongest performance in plasma. Combining p-tau217 with Aβ42/Aβ40 in plasma yielded a receiver operating characteristic (ROC) area under the curve (AUC) of 0.938. Plasma p-tau217, alone or in combination, demonstrated higher sensitivity for detecting cognitive impairment, while whole-blood measurements offered practicality, with preserved sample integrity and minimal pre-analytical requirements. This work presents the first multiplexed EDL-FET platform for simultaneous AD biomarker profiling in stroke patients using both plasma and whole blood. The integration of p-tau217 and Aβ42/Aβ40 on a stable, multi-channel chip demonstrates a novel route toward point-of-care AD risk stratification in high-risk populations, pending validation in larger, multi-center cohorts.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42648824",
+      "pmid": "42648824",
+      "doi": "10.1016/j.aca.2026.345947",
+      "title": "Gram-scale synthesis of neodymium-enriched carbon dots as a CT/NIR-II fluorescence bimodal imaging probe for early diagnosis of acute kidney injury.",
+      "authors": [
+        "Xiang K",
+        "Liu N",
+        "Shu G",
+        "Wang G",
+        "Chen Y",
+        "Sun SK",
+        "Cheng R"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-10-22",
+      "year": 2026,
+      "abstract": "Acute kidney injury (AKI) is a highly morbid and lethal syndrome that is often clinically \"silent\" in early stages. Multimodal imaging, which integrates complementary structural and functional insights from various techniques, holds great potential to enhance diagnostic sensitivity and accuracy. However, developing a single-agent probe that effectively combines multiple imaging modalities for AKI remains a significant challenge. Herein, we show neodymium-enriched carbon dots (Nd-CDs) as a novel bimodal imaging probe for the early diagnosis of AKI by using computed tomography (CT) and the second near-infrared window (NIR-II) fluorescence. Nd-CDs with high metal doping level (17.9%) can be achieved on a gram-scale (2.1 g) through a \"bottom-up\" strategy. The ultra-small hydrodynamic size (<2 nm) endows Nd-CDs with rapid renal clearance. Benefiting from narrow-band NIR-II fluorescence emission at 1060 nm and strong X-ray attenuation, Nd-CDs provide high-spatial-resolution CT and highly sensitive fluorescence imaging in vivo. In a cisplatin-induced AKI rat model, Nd-CDs-based bimodal imaging reveals a pronounced delay in renal metabolism caused by tubular injury, which precedes abnormalities in blood biochemical parameters, enabling early diagnosis and progression monitoring of AKI. The proposed strategy provides new insights into the development of single-agent probes integrating multiple imaging modalities and opens up a new way for early diagnosis of AKI.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "topics": [
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42648813",
+      "pmid": "42648813",
+      "doi": "10.1016/j.aca.2026.345935",
+      "title": "CRISPR/Cas12a-based dual intelligent sensors for home pet detection via personal glucose meters.",
+      "authors": [
+        "Zhao M",
+        "Zhuang Q",
+        "Wang X",
+        "Gong J",
+        "Chen L"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-10-22",
+      "year": 2026,
+      "abstract": "Against the backdrop of iterative upgrades in pet pathogen detection technology, rapid on-site testing (POCT) has become the core technology for on-site identification of deadly pet diseases. Based on the research and development of new materials, intelligent sensors with high sensitivity, fast response, and high design flexibility have demonstrated strong application value and have become an important development direction for the next-generation technology system in the field of pet pathogen detection. Herein, we report two advanced intelligent material-integrated biosensing platforms: a DNA hydrogel-encapsulated glucose amylase-based assay (RC-HGPGA) and a magnetic nanoparticles (MNPs)-based system where single-stranded DNA (ssDNA) serves as a molecular bridge to conjugate MNPs with invertase (RC-MBI). Both systems operate via a cascade reaction: recombinase polymerase amplification (RPA) of target nucleic acids first activates Cas12a nuclease, which then exerts trans-cleavage activity toward the biosensing elements. Subsequent enzymatic hydrolysis generates glucose, whose concentration is quantifiable using a commercial personal glucose meter (PGM). All experimental procedures were conducted at a constant temperature of 37 °C, eliminating the need for complex thermal cycling equipment. Our findings demonstrate that the RC-HGPGA and RC-MBI platforms achieve ultra-sensitive detection of feline panleukopenia virus (FPV) and canine distemper virus (CDV)-two clinically significant pet viruses-with limits of detection (LODs) as low as 10° copies/μL and 101 copies/μL, respectively, within a rapid time of 35 min. Both systems exhibit high sensitivity, excellent specificity, broad adaptability, and user-friendliness, thereby showing great potential for on-site detection of pet viruses.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42902610",
       "pmid": "42902610",
       "doi": "10.4274/jcrpe.galenos.2026.2026-4-1",
@@ -51603,8 +51842,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682859/",
       "source": "PubMed"
     },
     {
@@ -52538,8 +52777,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681759/",
       "source": "PubMed"
     },
     {
@@ -52594,8 +52833,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681960/",
       "source": "PubMed"
     },
     {
@@ -52671,8 +52910,8 @@
       "topics": [
         "rheumatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682081/",
       "source": "PubMed"
     },
     {
@@ -52700,8 +52939,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682127/",
       "source": "PubMed"
     },
     {
@@ -52727,8 +52966,8 @@
         "endocrine",
         "imaging"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681910/",
       "source": "PubMed"
     },
     {
@@ -56615,8 +56854,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13675690/",
       "source": "PubMed"
     },
     {
@@ -58353,8 +58592,7 @@
       "abstract": "Uterus transplantation (UTx) has emerged as a promising treatment for women with absolute uterine factor infertility (AUFI), enabling pregnancy and live birth with their own genetic offspring. Living-donor uterus procurement remains the most technically demanding component of the procedure. Robotic-assisted donor hysterectomy has been introduced to improve surgical precision, reduce donor morbidity, and preserve graft quality, while recipient implantation is performed via laparotomy. This systematic review evaluated current evidence on robotic-assisted living-donor hysterectomy for UTx, focusing on surgical techniques, donor safety, recipient outcomes, and reproductive success. Databases and trial registries were searched from inception through June 2026. Six studies reporting 29 unique robotic-assisted living-donor hysterectomies across five countries met the inclusion criteria. All procedures used the da Vinci Xi robotic platform. Operative time and estimated blood loss decreased with increasing surgical experience, while major donor complications (Clavien-Dindo grade III or higher) were less frequent in later series. Among cases with reported follow-up, no graft loss was observed; restoration of menstruation, embryo transfer, clinical pregnancy, and live birth were achieved, including ten live births in the largest programme. Robotic-assisted living-donor hysterectomy for uterus transplantation appears technically feasible and has been associated with viable grafts and successful pregnancies in highly selected cases. However, major donor complications, including ureteric injury requiring reimplantation and bilateral oophorectomy, were observed, and the true incidence of donor morbidity remains uncertain. Current evidence remains limited to small observational studies, and these findings support careful evaluation within structured, multidisciplinary programmes and international registries rather than widespread expansion.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -58387,11 +58625,10 @@
       "year": 2026,
       "abstract": "PURPOSE: To compare the efficacy and safety of levetiracetam versus valproate in children with new-onset or previously treated but inadequately controlled epilepsy.\n\nMETHODS: We systematically searched PubMed, Scopus, Web of Science, and Cochrane Library from inception to April 2026 for randomized controlled trials (RCTs) comparing levetiracetam versus valproate in children (aged 0-18 years) with new-onset or previously treated but inadequately controlled epilepsy. Outcomes included seizure freedom, exploratory analyses of survival time without seizure and time to first seizure recurrence, change in aspartate aminotransferase (AST) levels, and adverse events.\n\nRESULTS: Eight RCTs involving 1,000 participants were included. Seizure freedom did not differ significantly between treatments (5 studies, 655 participants; RR = 0.95, 95% CI: 0.83-1.09; P = 0.45; I² = 59.5%; low-certainty evidence). Exploratory time-related outcomes favored valproate but were limited by low-certainty evidence and inadequate handling of censoring. Levetiracetam was associated with lower AST levels, although this did not establish superior hepatic safety, and with fewer overall adverse events and less weight gain.\n\nCONCLUSIONS: No significant difference in seizure freedom was detected between levetiracetam and valproate, although the low-certainty finding was sensitive to one trial. Time-related outcomes favored valproate but were exploratory and limited by inadequate handling of censoring. Levetiracetam was associated with fewer overall adverse events and less weight gain, while behavioral and hepatic safety remained uncertain. Treatment should be individualized based on patient and medication-related factors.",
       "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
         "Comparative Study",
-        "Review"
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -58415,8 +58652,7 @@
       "abstract": "Deficits in social skills are a core challenge for children and adolescents with autism spectrum disorder (ASD). This meta-analysis examined the effects of drama-based interventions on social skills in this population and explored potential moderators. A systematic search was conducted in Web of Science, PubMed, ProQuest, EBSCO, and CNKI. Overall effects were estimated using Hedges' g, and subgroup analyses and meta-regressions were conducted to examine heterogeneity. Publication bias and sensitivity analyses were also assessed. Sixteen controlled studies involving 703 participants contributed data to the meta-analysis. Drama-based interventions showed a significant medium effect on social skills (g = 0.54, 95% CI [0.21, 0.88], p = 0.002), with substantial heterogeneity (Q(15) = 62.59, p < 0.001; I² = 76.04%). Drama approach (Q(2) = 10.78, p = 0.005), intervention setting (Q(2) = 11.30, p = 0.010), and intervention agent (Q(2) = 6.64, p = 0.036) significantly moderated effects. Participant age was not a significant moderator, and dosage indicators were not significantly associated with effect sizes. These findings suggest that drama-based interventions may support social skills in autistic children and adolescents, with effects varying by intervention organization and delivery context.",
       "publication_types": [
         "Journal Article",
-        "Meta-Analysis",
-        "Review"
+        "Meta-Analysis"
       ],
       "topics": [
         "systematic-reviews"
@@ -58530,8 +58766,7 @@
       "abstract": "Mucopolysaccharidoses (MPS) represent a group of rare inherited lysosomal storage disorders, of which neurosurgical issues arise during childhood and adolescence. The literature however remains fragmented in terms of these specific outcomes. Correspondingly, we sought to synthesize a primer for neurosurgeons in regard to MPS, summarizing the neurosurgical manifestations and management reported in the contemporary literature. A systematic interrogation of the literature was performed according to PRISMA guidelines. Electronic databases were searched from inception through June 2026. Studies reporting hydrocephalus, craniovertebral junction (CVJ) abnormalities, spinal cord compression, myelopathy, spinal deformity, neurosurgical interventions, or related outcomes in patients with any MPS subtype were included and their findings aggregated. Seventy-eight studies comprising 983 patients with 37.8% females and mean age of 12.4 years were included. MPS I (34%), MPS II (31%), and MPS IV (26%) represented the majority of reported subtypes. A total of 819 patients (83%) exhibited neurosurgical manifestations. Spinal deformity (29%) and hydrocephalus (28%) were the most frequently reported manifestations, followed by spinal cord compression/myelopathy (22%) and CVJ pathology (20%). Distinct subtype-specific patterns were observed: spinal deformity predominated in MPS I (24%), hydrocephalus in MPS II (20%), and CVJ instability/compression in MPS IV (12%). Overall, hydrocephalus was surgically treated in 74% of instances, whereas CVJ and spinal cord pathology were surgically treated in 41% and 23% of instances respectively. Patients in studies who were not treated by any prior systemic therapy reported higher rates of surgical intervention compared to those who had received treatment. Neurosurgical manifestations occur in over four-fifths of MPS patients and are clinically significant across all types of MPS. Hydrocephalus, CVJ instability, spinal cord compression, and progressive spinal deformity represent the major surgical morbidities. Early recognition, structured imaging surveillance, and timely neurosurgical intervention are essential components of MPS management.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -58569,8 +58804,7 @@
       "abstract": "Microplastic (MP) and nanoplastic (NP) contamination threatens soil functioning and plant performance, yet the effectiveness of biochar in mitigating these impacts varies substantially among experimental conditions. We conducted a meta-analysis of 59 peer-reviewed studies comprising 1418 effect-size estimates to quantify biochar-mediated responses across the soil-plant continuum. Effect sizes were calculated as the natural logarithm of the response ratio (lnRR) and analyzed using multilevel random-effects models. Subgroup analyses examined the effects of growth medium, plant functional group, plastic type, biochar feedstock, application rate, treatment duration, pyrolysis temperature, and experimental system, while meta-regression identified continuous moderators of response magnitude. Biochar produced positive pooled responses in soil properties (lnRR = 0.130), soil biological properties (0.186), biomass yield (0.218), photosynthetic performance (0.326), and plant nutrient content (0.599). Oxidative-damage indicators declined, including malondialdehyde (lnRR = - 0.154) and H2O2 (- 0.150), while plant microplastic accumulation showed a pronounced negative response (lnRR = - 0.811). The magnitude of these responses varied significantly among environmental and management contexts. Biochar application rate was the only significant continuous moderator, whereas pyrolysis temperature and treatment duration were not significant linear predictors of overall effect magnitude. Stronger responses in controlled systems than in more environmentally complex systems further indicated a potential gap between experimental efficacy and field-scale performance. Overall, the available evidence indicates that biochar is associated with improvements across multiple soil and plant response domains under MP/NP stress, although the magnitude of these responses is strongly context dependent. These findings provide a quantitative basis for developing context-specific biochar strategies while highlighting the need for geographically broader and long-term field validation.",
       "publication_types": [
         "Journal Article",
-        "Meta-Analysis",
-        "Review"
+        "Meta-Analysis"
       ],
       "topics": [
         "systematic-reviews"
@@ -58957,9 +59191,8 @@
       "abstract": "BACKGROUND: Signet ring cell-containing gastric cancer constitutes an increasingly recognized subtype. Although perioperative chemotherapy is the standard of treatment for locally advanced gastric cancer, its efficacy in signet ring cell-containing gastric adenocarcinomas remains controversial. This systematic review and meta-analysis aims to assess the impact of neoadjuvant chemotherapy compared to upfront surgery on overall survival.\n\nMETHODS: A systematic search of MEDLINE, Scopus, and Cochrane was conducted up to January 2026. Eligible studies included adult patients with signet ring cell-containing gastric cancer undergoing neoadjuvant chemotherapy followed by surgery compared to upfront gastrectomy. A random-effects meta-analysis was performed to pool hazard ratios for overall survival.\n\nRESULTS: Six studies, including seven cohorts and 5.388 patients, were included. The pooled analysis demonstrated no significant difference in overall survival between neoadjuvant chemotherapy and upfront surgery (HR 0.96, 95% CI 0.68-1.34, I2 = 83.2%). Subgroup analyses by studies' geographic origin and design revealed consistent results with no significant differences in overall survival among Western (HR 0.85, 95% CI 0.53-1.38, I² = 86.9%) or Eastern studies (HR 1.12, 95% CI 0.63-1.97, I² = 83%), and among different study designs (randomized controlled trial: HR 1.16, 95% CI 0.81-1.67; observational: HR 0.92, 95% CI 0.62-1.38, I² = 85.5%).\n\nCONCLUSIONS: Neoadjuvant chemotherapy was not associated with a significant improvement in overall survival compared with upfront surgery in signet-ring cell-containing gastric cancer. While perioperative chemotherapy remains the recommended therapeutic approach, further studies employing contemporary chemotherapy regimens are warranted to define its role in this distinct histological subtype.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
         "Meta-Analysis",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -59117,11 +59350,10 @@
       "year": 2026,
       "abstract": "The da Vinci Xi replaced the Si with a boom-mounted architecture intended to remove the re-docking and multiquadrant limits on pelvic access. Whether it changes outcomes in rectal cancer surgery is unresolved: existing syntheses pooled rectal with colonic resection. Five databases, Google Scholar and citation graphs were searched to August 2026, without language or design restriction, for comparative studies reporting outcomes separately by platform in rectal cancer resection. Screening, extraction and risk-of-bias assessment were done in duplicate. Random-effects models with a Hartung-Knapp adjustment were used; certainty was rated with GRADE. Eight non-randomised cohorts (843 patients; 380 Xi, 463 Si) were included. Pooling all five cohorts reporting operative time, the mean difference was - 27.7 min (95% confidence interval - 80.4 to + 25.0; I² 95%); restricted to the four reporting means with standard deviations, thus conditional on excluding the largest cohort, it was - 50.6 min (- 69.4 to - 31.7). Docking time was shorter with the Xi in all three reporting cohorts, which defined it differently or not at all. The evidence is very uncertain about the effect of platform on anastomotic leak (risk ratio 0.53, 0.24 to 1.14), complications, conversion, reoperation, margin involvement and specimen quality; certainty was very low throughout. The evidence is very uncertain about the effect of the da Vinci Xi compared with the Si on perioperative and oncological outcomes in rectal cancer, and functional outcomes have not been compared. Because the platforms were compared across periods, centres and levels of experience, no estimate isolates the platform.PROSPERO registration CRD420261480007, registered 18 August 2026, before data extraction.",
       "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
         "Comparative Study",
-        "Review"
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -59304,8 +59536,7 @@
       "abstract": "Ciliated hepatic foregut cyst (CHFC) is a rare congenital cystic liver lesion described predominantly in adults, in whom malignant transformation to squamous cell carcinoma has been reported. Pediatric experience is scattered across case reports and small series, and no systematic synthesis has been published. We conducted a systematic review per PRISMA 2020. PubMed, Scopus, and Embase (Elsevier) were searched on 3 August 2026 without language or date restrictions, supplemented by citation searching and grey-literature screening (JMIR Preprints, bioRxiv, medRxiv). We included case reports and case series of patients aged ≤ 19 years with histopathologically confirmed CHFC. Screening (Rayyan) and extraction were performed in independent duplicate. Risk of bias was assessed with the Joanna Briggs Institute Critical Appraisal Checklists. Findings were synthesised descriptively per SWiM; no meta-analysis was performed. Sixteen studies contributed 23 unique pediatric patients (female-to-male ratio 1.3:1; median age 4.0 years, range 5 months-19 years). Antenatal detection occurred in 5 (21.7%) of 23. Symptomatic presentation was reported in 14 (60.9%) of 23. Median cyst size was 6.0 cm (range 0.6-19.3), and 4 patients (17.4%) had giant cysts (≥ 10 cm). Segment IV was involved in 11 of 19 patients with location reported (57.9%). Biliary communication was documented in 5 of 14 evaluable cases (35.7%; 5/23 overall); 4 of these patients underwent Roux-en-Y biliary reconstruction. Squamous metaplasia was reported in 4 of 7 evaluable cases (57.1%; 4/23 overall). No dysplasia (0/7 evaluable) and no malignant transformation (0/22 evaluable) were reported. Postoperative complications occurred in 2 (8.7%) of 23. No recurrence (0/11 evaluable) or mortality (0/23) was reported over a median 19-month follow-up (reported for 8 patients). Pediatric CHFC appears to present more often with symptomatic, larger and biliary-communicating lesions than the classical adult phenotype. Complete excision was associated with favorable reported short-term outcomes, but the evidence is of very low certainty, and limited follow-up and substantial non-reporting preclude conclusions about long-term recurrence or malignant transformation.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -64660,7 +64891,8 @@
       "abstract": "BACKGROUND: The diagnostic value of coronary computed tomography angiography-derived fractional flow reserve (FFR-CT) in stable coronary artery disease is well established. The prognostic value of predicting future cardiovascular events is less clear, as studies are limited by small populations, variable measurement points, composite outcomes, and short follow-up.\n\nOBJECTIVES: A nationwide cohort of coronary computed tomography angiography with 3-year follow-up was used to examine the association between FFR-CT measurements and future cardiovascular events.\n\nMETHODS: Patients receiving coronary computed tomography angiography and clinically indicated FFR-CT analysis (HeartFlow) for stable coronary artery disease between 2017 and 2020 at 27 sites across England were included. Lowest per-patient stenosis-specific and distal vessel FFR-CT measurements were related to individual outcomes of myocardial infarction (MI), cardiovascular mortality, all-cause mortality, and revascularization. FFR-CT measurements were divided into subgroups to investigate for a gradient of risk: normal FFR-CT (>0.8), borderline (0.71-0.8), reduced (0.51-0.7), and severely reduced (≤0.5).\n\nRESULTS: In total, 7836 patients aged 63 (56.0-71.0), 37.4% women, underwent FFR-CT analysis. Stenosis-specific FFR-CT was associated with future MI (hazard ratio [HR], 2.08-5.73; P<0.001), cardiovascular death (HR, 1.51-3.40; P<0.001), all-cause death (HR, 1.01-1.58; P=0.01), and revascularization (HR, 4.79-24.48; P<0.001), with lower FFR-CT values associated with incrementally greater risk. After adjusting for cardiovascular risk factors and coronary stenosis severity (Coronary Artery Disease Reporting and Data System), stenosis-specific FFR-CT≤0.7 was associated with MI (adjusted HR, 2.94-3.39; P<0.001), ≤0.5 with cardiovascular death (adjusted HR, 2.92; P=0.02), all-cause death (adjusted HR, 1.49; P=0.045), and ≤0.8 with revascularization (adjusted HR, 3.02-9.42; P<0.001). The addition of FFR-CT improved discrimination for MI or cardiovascular death compared with a risk factor and stenosis severity model (C index, 0.783; ∆C index, 0.012; P<0.001). An FFR-CT value of 0.67 defined the optimal cutoff for risk of future cardiovascular events. Distal-vessel FFR-CT was associated with outcomes similar to stenosis-specific FFR-CT. Stenosis-specific and distal-vessel FFR-CT discordance was common (36.4%), but when stenosis-specific FFR-CT was normal, event rates were low (1.5% at 3 years for MI or cardiovascular death).\n\nCONCLUSIONS: FFR-CT is associated with the individual outcomes of MI, cardiovascular death, and all-cause death independent of risk factors and stenosis severity, with lower FFR-CT values associated with worse outcomes. Reduced and severely reduced FFR-CT have the strongest association with future cardiovascular events, with a value of 0.67 defining the optimal risk threshold.",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "topics": [
         "coronary"
@@ -64903,6 +65135,60 @@
         "endocrine",
         "neurology",
         "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42735684",
+      "pmid": "42735684",
+      "doi": "10.1016/j.xcrm.2026.103044",
+      "title": "First-line fecal microbiota transplantation for the management of immune checkpoint inhibitor-mediated diarrhea and colitis.",
+      "authors": [
+        "Wang Y",
+        "Fan C",
+        "Varatharajalu K",
+        "Shatila M",
+        "Cruz CC",
+        "Sun B",
+        "Lermi NO",
+        "Hayase T",
+        "Thomas A",
+        "Szymonowicz KA",
+        "Espiridion BS",
+        "Duose DY",
+        "Hayase E",
+        "Tan L",
+        "Liu Y",
+        "Chang CC",
+        "Arias CA",
+        "Junek K",
+        "DuPont HL",
+        "Jiang ZD",
+        "Kim ST",
+        "Nurieva R",
+        "Campbell MT",
+        "Tannir NM",
+        "Gao J",
+        "Watowich SS",
+        "Wang XS",
+        "Chen K",
+        "Lorenzi PL",
+        "Haymaker C",
+        "Parra ER",
+        "Jenq RR"
+      ],
+      "journal": "Cell reports. Medicine",
+      "date": "2026-10-20",
+      "year": 2026,
+      "abstract": "Immune checkpoint inhibitor (ICI) therapy commonly leads to adverse events such as ICI-mediated diarrhea and colitis (IMDC). Fecal microbiota transplantation (FMT) remains an option for patients with refractory colitis. We report a multi-omics profiling of patients receiving first-line FMT for IMDC. In our preliminary analysis, 10 (76.9%) patients achieve clinical response, with a median time to clinical improvement of 1.5 (1-10.5) days. Among responder patients with baseline and follow-up samples, 6 (75%) show an increase in alpha-diversity post-FMT. Pre-FMT samples show an increase in the abundance scores of plasma cells, neutrophils, macrophages (M1 and M2), memory activated and resting memory CD4+ T cells, CD8+ T cells, T follicular helper (Tfh) cells, and regulatory T cells (Tregs), all of which decrease post-FMT. In a small cohort of patients, we identify potential mechanisms for FMT response and demonstrate that first-line FMT in patients with IMDC (NCT04038619) can be effective.",
+      "publication_types": [
+        "Clinical Trial, Phase I",
+        "Journal Article"
+      ],
+      "topics": [
+        "clinical-trials"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -65246,8 +65532,8 @@
       "topics": [
         "endocrine"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682814/",
       "source": "PubMed"
     },
     {
@@ -65609,9 +65895,10 @@
       "year": 2026,
       "abstract": "BACKGROUND: Nonobstructive hypertrophic cardiomyopathy (nHCM) is associated with significant morbidity with no approved treatment. Aficamten is a cardiac myosin inhibitor targeting excess contractility and diastolic impairment, the predominant mechanism responsible for adverse outcomes in nHCM. In the ACACIA-HCM trial (Assessment Comparing Aficamten to Placebo on Cardiac Endpoints in Adults With Non-Obstructive HCM; URL: https://www.clinicaltrials.gov; Unique identifier: NCT06081894), aficamten significantly improved outcomes in patients with nHCM versus placebo. To contextualize the observed treatment effects, we performed a responder analysis integrating multiple clinically relevant measures.\n\nMETHODS: Patients with symptomatic nHCM were randomized to daily aficamten (n=258) or placebo (n=259) assessed at week 36, including (1) symptom burden (≥1 improvement in New York Heart Association class or reported improvement in Patient Global Impression of Change); (2) exercise capacity (≥0.5 mL/kg per min in peak oxygen uptake); (3) >10% decrease in left atrial volume index; (4) >10% improvement in septal early diastolic mitral annular velocity (e'); (5) ≥50% reduction in NT-proBNP (N-terminal pro-B-type natriuretic peptide). Overall clinical response was classified by the number of favorable outcomes achieved: nonresponder (none), limited (1 or 2), partial (3 or 4), or complete (all 5).\n\nRESULTS: At 36 weeks, a greater proportion of patients treated with aficamten versus placebo experienced improvements in symptom burden (71% versus 53%), peak exercise capacity (45% versus 37%), left atrial volume index (31% versus 23%), septal e' (51% versus 26%), and NT-proBNP (63% versus 5%) (P<0.05 for all except peak oxygen uptake, P=0.1). Number needed to treat for aficamten ranged from 1.7 (NT-proBNP reduction) to 14 (peak oxygen uptake improvement) relative to placebo. A partial or complete clinical response (≥3 outcomes) was achieved in 53% of patients on aficamten versus 14% on placebo (P<0.001).\n\nCONCLUSIONS: In patients with nHCM, aficamten was associated with improvements across a broad range of clinically relevant measures including symptom burden and diastolic function. These results underscore a potential benefit of aficamten in the population of patients with nHCM.\n\nREGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06081894.",
       "publication_types": [
+        "Clinical Trial, Phase III",
         "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Randomized Controlled Trial"
       ],
       "topics": [
         "clinical-trials",
@@ -68244,7 +68531,8 @@
       "abstract": "BACKGROUND: Individuals with Down syndrome commonly present with a variety of craniofacial and dental anomalies that increase the prevalence of malocclusion and the need for orthodontic treatment. Despite this, data regarding orthodontic needs in this population in the middle east, particularly in Egypt, remain limited.\n\nAIM OF THE STUDY: This study aimed to assess the patterns of malocclusion and orthodontic treatment needs among individuals with Down syndrome.\n\nMATERIALS AND METHODS: A total of 117 individuals with Down syndrome aged 12-25 years, who met the study's eligibility criteria, were recruited from specialized institutions in Egypt in a multi-centred cross-sectional study. Clinical examination included extraoral and intraoral assessment, occlusal analysis using Angle's classification, and assessment of the need for orthodontic treatment using Dental Health Component of Index of Orthodontic Treatment Need (IOTN). Additional data on oral hygiene, oral habits, and craniofacial features were recorded. Descriptive statistics were computed for all study variables. Qualitative (categorical) variables were presented as frequencies (n) and percentages (%).\n\nRESULTS: Class I molar relationship was the most common (41.0%), followed by Class II (29.9%) and Class III (29.1%). Anterior open bite (23.1%) and posterior crossbite (21.4%) were also frequently observed. Regarding orthodontic treatment need, 71.7% of participants demonstrated borderline to very great need (IOTN Grades 3-5), with 49.6% exhibiting great or very great need (Grades 4-5). Fair or poor oral hygiene was identified in 81.2% of participants. Mouth breathing was the most common oral habit (32.5%).\n\nCONCLUSION: Patients with Down syndrome exhibit a high prevalence of malocclusion and a significant need for orthodontic treatment. Early orthodontic assessment, preventive strategies, and multidisciplinary management are essential to improve oral health outcomes in this population.\n\nCLINICAL TRIAL NUMBER: Not applicable.",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "topics": [
         "research-methods"
@@ -68956,7 +69244,8 @@
       "abstract": "Imbalanced skeletal muscle mitochondrial dynamics contribute to the onset and progression of type 2 diabetes (T2D) by mechanisms that remain incompletely understood. Here, we examined the role of Mitochondrial Rho GTPase 1 (Miro1), an outer mitochondrial membrane enzyme, in regulating skeletal muscle insulin action and glucose homeostasis in type 2 diabetes (T2D). In a cross-sectional clinical study, we show that Miro1 accumulates in the skeletal muscle of patients with obesity and T2D, which was further replicated in mouse models of T2D. This accumulation is explained by inadequate insulin-mediated interaction between AKT and Miro1 at the outer mitochondrial membrane. In a randomized controlled trial (NCT02977442), we show that exercise training relieves skeletal muscle Miro1 accumulation while improving insulin sensitivity in patients with T2D. Muscle-specific Miro1 deletion improves oxidative capacity and insulin sensitivity in mice and cells. Taken together, these data support a key regulatory role for skeletal muscle Miro1 in the pathophysiology of T2D. ClinicalTrials.gov Identifier: NCT02977442.",
       "publication_types": [
         "Journal Article",
-        "Randomized Controlled Trial"
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
       ],
       "topics": [
         "clinical-trials",
@@ -79792,8 +80081,7 @@
       "abstract": "BACKGROUND: Non-pharmacologic management of chronic low back pain (cLBP) should be considered the first-line treatment. However, consensus guidelines and internationally accepted recommendations on the therapeutic algorithm are missing. The present level I systematic review presents a qualitative analysis of advancements in physiotherapy over the past decades to discuss the role of physical and rehabilitation medicine in the management of cLBP.\n\nMETHODS: In August 2025, the following databases were accessed: PubMed, Web of Science and Embase. All randomised controlled trials evaluating the efficacy of physiotherapy programs in patients with cLBP were assessed using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) criteria. The data extraction and risk-of-bias evaluation were performed independently by two authors.\n\nRESULTS: Data from 150 randomised controlled trials (RCTs) (12,773 patients) were collected. The mean symptom duration was 61.2 ± 51.0 months, and the mean follow-up was 4.3 ± 5.9 months. The mean age was 44.5 ± 9.4 years, and the mean body mass index (BMI) was 25.8 ± 2.9 kg/m2.\n\nCONCLUSIONS: Managing cLBP is challenging. While individual investigations highlight the efficacy of a specific intervention, most cLBP management strategies share common elements. Combining key elements from various approaches may prove crucial. Although this result is not decisive for treatment, it paves the way for further research that considers a more holistic and multidisciplinary approach.",
       "publication_types": [
         "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Systematic Review"
       ],
       "topics": [
         "systematic-reviews"
@@ -92545,7 +92833,8 @@
       "publication_types": [
         "Journal Article",
         "Randomized Controlled Trial",
-        "Observational Study"
+        "Observational Study",
+        "Research Support, N.I.H., Extramural"
       ],
       "topics": [
         "clinical-trials"
@@ -358378,282 +358667,6 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759268",
-      "pmid": "42759268",
-      "doi": "10.1016/j.jemermed.2026.08.008",
-      "title": "Stroke Symptoms Present in Ambulance Records and Prehospital Time Delay-A Retrospective Cohort Study.",
-      "authors": [
-        "Bakke I",
-        "Lund CG",
-        "Salvesen R",
-        "Benum E",
-        "Normann B",
-        "Trichet LO",
-        "Carlsson M"
-      ],
-      "journal": "The Journal of emergency medicine",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: The outcome of a stroke is highly dependent on time to treatment. Reducing prehospital delay is crucial to increase access to effective stroke treatment.\n\nOBJECTIVE: We aimed to examine how stroke symptoms are recorded and to assess the association between prehospital registration of stroke symptoms and stroke triage and prehospital delay.\n\nMETHODS: We included patients with a final diagnosis of acute stroke, admitted to Nordland Hospital Trust and Helgeland Hospital Trust in Norway from June 2018 to May 2019. Data were extracted from the Emergency Medical Communication Center records, from ambulance reports, and hospital admissions records. Associations between Facial Arm Speech Test (FAST) symptoms and prehospital time were analyzed using linear regression models and the Mann-Whitney U test. Logistic regression was used to assess the association between FAST symptoms and stroke alert.\n\nRESULTS: Of 295 patients, 273 (92.5%) had ≥1 stroke symptom recorded, and 224 (75.9%) had one or more FAST symptoms. Documentation of FAST symptoms in ambulance records was associated with a higher likelihood of activating a stroke alert; odds ratio 6.7 (95% confidence interval: 3.5-13.1) and a significantly shorter prehospital time (17.0 vs. 34.5 min, p = 0.024).\n\nCONCLUSION: Recording of FAST symptoms in the ambulance was associated with the use of stroke alerts and shorter prehospital time delay. However, 24.1% of the patients with a confirmed stroke did not present with FAST symptoms, highlighting the need to improve prehospital stroke recognition and triage.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759267",
-      "pmid": "42759267",
-      "doi": "10.1016/j.jemermed.2026.08.007",
-      "title": "Orbital Cavernous Hemangioma (Cavernous Venous Malformation).",
-      "authors": [
-        "Kim G",
-        "Folk J"
-      ],
-      "journal": "The Journal of emergency medicine",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759266",
-      "pmid": "42759266",
-      "doi": "10.1016/j.jemermed.2026.08.013",
-      "title": "Emergency Department-to-Intensive Care Unit Transfer Delay and Mortality in Critically Ill Adults: A 5-Year Retrospective Cohort Study.",
-      "authors": [
-        "Kabahasanoğlu K",
-        "Bektaş MH",
-        "Öztürk Örmeci G",
-        "Beyoğlu R"
-      ],
-      "journal": "The Journal of emergency medicine",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Emergency department (ED)-to-intensive care unit (ICU) delay may reflect access block, but prior studies often combine predecision care and postdecision boarding.\n\nOBJECTIVES: To evaluate whether total ED registration-to-ICU-bed delay >4 h and postdecision boarding were associated with mortality among adults reaching an ICU bed.\n\nMETHODS: We conducted a 5-year retrospective cohort of adults transferred from the ED to two level-3 general ICUs at a tertiary training and research hospital. Primary models used early-ED severity-adjusted robust Poisson regression; supportive analyses examined decision-to-ICU boarding, continuous delay, period-specific and COVID-19-negative cohorts, matching, and time-to-event outcomes.\n\nRESULTS: Among 691 ED-to-study-ICU candidate records, 650 adults were analyzed; 351 (54.0%) had delay >4 h. Median total transfer time was 4.3 h: 1.3 h before ICU decision and 3.0 h after ICU acceptance. Delay >4 h was associated with higher in-hospital mortality (adjusted risk ratio [aRR] 2.01; 95% CI: 1.46-2.76) and ICU mortality (aRR: 1.70; 95% CI: 1.20-2.42). Adjusted in-hospital mortality was 27.5% versus 13.8% (adjusted risk difference +13.7 percentage points). Postdecision boarding >4 h was associated with in-hospital mortality (adjusted odds ratio [aOR] 1.82; 95% CI: 1.21-2.73), and each boarding hour was associated with higher death odds (aOR 1.14; 95% CI: 1.06-1.24).\n\nCONCLUSION: Among adults reaching a study ICU bed, ED-to-ICU delay was common and associated with mortality. Most delay accrued after ICU acceptance, identifying postdecision boarding as a practical target.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42759045",
-      "pmid": "42759045",
-      "doi": "10.1097/ASW.0000000000000523",
-      "title": "Hidradenitis Suppurativa: Part of a Tetrad of Follicular Occlusion Disorders.",
-      "authors": [
-        "Sie SP",
-        "Walker D",
-        "Sibbald RG",
-        "Akpala C",
-        "Miller J",
-        "Coutts PM",
-        "Alavi A"
-      ],
-      "journal": "Advances in skin & wound care",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "UNLABELLED: Follicular occlusion disorders (FOD) represent a tetrad of chronic, recurrent inflammatory conditions united by a common pathophysiologic mechanism: follicular hyperkeratosis leading to occlusion, rupture, and subsequent abscess or sinus tract formation. First conceptualized as a triad in the 1950s and later expanded to a tetrad in the 1970s, this grouping includes hidradenitis suppurativa (HS), acne conglobata (AC), dissecting cellulitis of the scalp (DCS), and pilonidal sinus (PS). Despite their shared pathogenesis, each condition carries distinct clinical features, epidemiological profiles, and management considerations. This article aims to provide a comprehensive review of FOD, with a primary emphasis on HS (the most prevalent of the disorders). Hidradenitis suppurativa is a debilitating disease affecting ∼1% of the global population, predominantly in females, and the diagnosis is often delayed by 7 or more years. Multiple genes are linked to FOD patients with a positive familial history in 35% to 40%, along with lifestyle factors (smoking, alcohol consumption, and obesity). Key inflammatory mediators, including TNF-α, IL-1β, and IL-17, drive the chronic tissue destruction characteristic of FOD, frequently resulting in scarring, lymphedema, and significant psychosocial impairment. Wound care is critical and often underemphasized in disease management. This article outlines evidence-informed wound care strategies for both nonsurgical and postsurgical presentations, including dressing selection, exudate and odor management, pain and itch control, infection management, and the emerging role of intravenous ertapenem as rescue therapy. An interprofessional approach, integrating dermatology, surgery, wound care nursing, and psychosocial support, is emphasized throughout as essential to improving patient outcomes and quality of life.\n\nGENERAL PURPOSE: To increase clinicians' understanding of follicular occlusion disorders including the associated risk factors, clinical manifestations, and evidence-based approaches for management.\n\nTARGET AUDIENCE: This continuing education activity is intended for physicians, physician assistants, nurse practitioners, and registered nurses with an interest in skin and wound care.\n\nLEARNING OBJECTIVES/OUTCOMES: After participating in this educational activity, the participant will: Assess clinical characteristics of each follicular occlusion disorderEvaluate the basic disease mechanisms for follicular occlusion disordersDescribe principal disease burdens that require wound care attentionIdentify the unique wound care strategies and follicular occlusion disorder challenges JOURNAL/aswca/04.03/00129334-202610000-00004/figure1/v/2026-09-18T181327Z/r/image-jpeg.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42758868",
-      "pmid": "42758868",
-      "doi": "10.1097/HC9.0000000000001045",
-      "title": "Genetic testing and exchangeable copper can improve the accuracy of Wilson disease diagnoses.",
-      "authors": [
-        "Berenguer M",
-        "Torra M",
-        "Espinós C",
-        "Andreu Escrivá R",
-        "Pocurull A",
-        "Carvalho-Gomes Â",
-        "Miralpeix A",
-        "Rojas Echarry G",
-        "Romero-Moreno S",
-        "Sanchez C",
-        "Silgo E",
-        "Palacios-Martínez C",
-        "Badenas C",
-        "Perez-Rojas J",
-        "Aguado Codina C",
-        "Mariño Z"
-      ],
-      "journal": "Hepatology communications",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology",
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13592991/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42758867",
-      "pmid": "42758867",
-      "doi": "10.1097/HC9.0000000000001046",
-      "title": "THBS1+ macrophages fuel pathogenic inflammation in alcohol-associated liver disease.",
-      "authors": [
-        "Xu W",
-        "Wu S",
-        "Gao J",
-        "Cheng C",
-        "Li C",
-        "Hong S",
-        "Huang J",
-        "Zhang J",
-        "An C",
-        "Wu M",
-        "Li X",
-        "Wang X",
-        "Zhang Y",
-        "Wang H",
-        "Kong D",
-        "He W"
-      ],
-      "journal": "Hepatology communications",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Alcohol-associated liver disease (ALD) is one of the most common chronic liver diseases worldwide, with a pathological spectrum ranging from simple steatosis to steatohepatitis and, ultimately, cirrhosis. Severe alcohol-associated hepatitis (sAH) arises acutely within this continuum as a rapidly developing inflammatory condition associated with high mortality and poor prognosis.\n\nMETHODS: To investigate important cellular subpopulations, we integrated single-cell RNA sequencing (scRNA-seq) data from the peripheral blood and liver tissues of healthy individuals and patients with ALD (including those with alcoholic cirrhosis and sAH). A murine metabolic dysfunction-associated steatotic liver disease and alcohol-associated liver disease (MetALD)-like model was established by combining a metabolic dysfunction-associated steatohepatitis-inducing diet with controlled ethanol exposure. The model was used for histopathological analyses, and CD45+ cells from peripheral blood and liver tissues were isolated for scRNA-seq. Analyses included cell composition profiling, differential expression, pathway enrichment, pseudotime trajectory inference, transcriptional regulatory network reconstruction, and cell-cell communication analysis. In parallel, we generated THBS1‑KO and IL15‑KO immortalized bone marrow-derived macrophages cell lines in vitro and conducted functional assays to validate their roles.\n\nRESULTS: ScRNA-seq data revealed significant enrichment of IL15+ monocytes and THBS1+​​​​ monocyte-derived macrophages (moMFs) in patients with sAH, both exhibiting highly proinflammatory characteristics. Pseudotime analysis indicated that circulating IL15+ monocytes could dynamically differentiate into hepatic THBS1+ moMFs. Pathological staining and scRNA-seq data from the MetALD mouse model yielded similar results, further confirming the dynamic evolution of IL15+​​​​ monocytes into THBS1+​​​​ moMFs. In vitro cellular experiments also substantiated the proinflammatory roles of THBS1 and IL15.\n\nCONCLUSIONS: Our study reveals that circulating IL15+​​​​ monocytes dynamically differentiate into hepatic THBS1+​​​​ moMFs, and the combined proinflammatory action of these subsets accelerates the progression of ALD.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13596963/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42758866",
-      "pmid": "42758866",
-      "doi": "10.1097/HC9.0000000000001049",
-      "title": "The Childhood Liver Disease Research Network's prospective characterization of pediatric primary sclerosing cholangitis.",
-      "authors": [
-        "Mack CL",
-        "Miethke AG",
-        "Hawthorne K",
-        "Henn L",
-        "Horslen S",
-        "Alonso EM",
-        "Gupta NA",
-        "Sundaram SS",
-        "Kohli R",
-        "Bozic M",
-        "Deneau M",
-        "Guthery S",
-        "Loomes KM",
-        "Valentino PL",
-        "Tessier MEM",
-        "Shneider B",
-        "Magee JC",
-        "Karpen S",
-        "Rosenthal P",
-        "Wang K",
-        "Ricciuto A",
-        "Sokol RJ",
-        "Kamath BM",
-        "Childhood Liver Disease Research Network (ChilLDReN)"
-      ],
-      "journal": "Hepatology communications",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Primary sclerosing cholangitis (PSC) is a rare biliary fibrosing disease that leads to significant morbidity and the need for liver transplantation. The Childhood Liver Disease Research Network is conducting a prospective, observational longitudinal study to define the natural history of pediatric PSC. The aim of this report is to characterize the clinical phenotypes of the first 175 children enrolled in the PSC study and to determine correlations of specific phenotypes with clinical and laboratory characteristics.\n\nMETHODS: Data collected included a history of inflammatory bowel disease (IBD), autoimmune hepatitis (AIH), laboratories, autoantibodies, liver stiffness measurements (LSM), medications, and IBD activity. Comparison of phenotypes with/without IBD and/or AIH, and small-duct versus large-duct PSC was performed.\n\nRESULTS: The median age at enrollment was 16.1 years, 60% were male, 78% had large-duct PSC, and the median duration of PSC was 2.2 years. The predominant phenotype was PSC/IBD, and 96% had quiescent/mild IBD. The entire cohort had evidence of mild liver disease based on biochemistries and LSMs; <10% had evidence of portal hypertension. Higher LSMs were associated with elevated liver biochemistries. There were no significant characteristics that differentiated the phenotypes; however, there was more frequent autoantibody positivity in PSC/IBD and higher LSMs in PSC/AIH overlap syndrome.\n\nCONCLUSIONS: This prospective cohort of pediatric PSC revealed mild liver disease in the majority. Laboratory biomarkers of liver injury and fibrosis were associated with LSM severity, suggesting LSM as a reliable tool to monitor PSC progression. This dataset encompasses a well-phenotyped cohort of children with PSC that will be followed prospectively for longitudinal assessment of progression of disease, as well as a model for stratification within future treatment trials.",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "topics": [
-        "gastro-hepatology",
-        "prevention"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13592951/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42758865",
-      "pmid": "42758865",
-      "doi": "10.1097/HC9.0000000000001053",
-      "title": "The global burden of metabolic and alcohol-associated liver disease (MetALD).",
-      "authors": [
-        "Brar G",
-        "Lee BP"
-      ],
-      "journal": "Hepatology communications",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "Chronic liver disease is a leading cause of global morbidity and mortality, with an evolving etiologic landscape driven by rising metabolic dysfunction and persistent alcohol use. The introduction of metabolic and alcohol-associated liver disease (MetALD) recognizes the coexistence of these exposures as dual drivers of liver-related outcomes as a distinct clinical entity. This review synthesizes current evidence on the global epidemiology, clinical outcomes, and public health implications of MetALD. Current evidence suggests that ~10%-20% of individuals worldwide with hepatic steatosis meet criteria for MetALD. Emerging data demonstrate that the combination of cardiometabolic risk factors and alcohol is associated with more aggressive liver disease, including accelerated fibrosis progression, increased risk of cirrhosis and hepatic decompensation, and higher incidence of hepatocellular carcinoma compared with either exposure alone. In addition to major adverse liver outcomes, individuals with MetALD experience increased all-cause mortality, reflecting both progressive liver disease and the systemic effects of metabolic dysfunction and alcohol use. These factors contribute substantially to global disability-adjusted life years, particularly among working-age populations. The burden of MetALD varies across regions, reflecting differences in metabolic risk, alcohol consumption, and socioeconomic determinants, and is expected to rise further in both high- and middle-income settings. Despite its growing clinical relevance, the global burden of MetALD remains incompletely characterized due to limitations in standardized definitions, data availability, and ascertainment of alcohol use. Improved recognition, harmonized definitions, and integrated clinical and public health strategies are essential to better characterize and mitigate its impact on global liver health.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13593176/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42758578",
-      "pmid": "42758578",
-      "doi": "10.1002/acm2.70787",
-      "title": "Evaluation of interfractional shift corrections in Gamma Knife radiosurgery.",
-      "authors": [
-        "Opalko EA",
-        "Prasad D",
-        "Podgorsak MB"
-      ],
-      "journal": "Journal of applied clinical medical physics",
-      "date": "2026-10-01",
-      "year": 2026,
-      "abstract": "PURPOSE: The purpose of this study was to evaluate the ability of the GammaPlan treatment planning system used in the Gamma Knife Icon and Esprit machines to automatically correct large interfractional shifts in hypofractionated frameless treatments using a custom 3D printed phantom.\n\nMETHODS: A custom 3D printed insert was created to modify a commercial head phantom. The water equivalence of polylactic acid (PLA) was determined by comparing optical densities of film using solid water and PLA as buildup. Lesions of varying size, shape and location were created on images of the phantom to replicate several clinical scenarios. Seven 5-fraction plans were generated using typical dose objectives. Six combinations of headrests/masks were created to simulate different setup positions. Masks were changed between fraction measurements to simulate interfractional shifts. The composite dose distributions of the corrected plans were measured using Gafchromic film and compared to the original dose distribution using Gamma Analysis.\n\nRESULTS: The average deviation for Coverage, Paddick Conformity Index and Gradient Index across all plans remained unchanged between the corrected plan and the original plan. No deviation was greater than 0.01 between the three metrics. Compared to the original plans, the measured dose distributions produced an average Gamma Passing Rate of 98.3% for 3%/1mm, 99.6% for 2%2mm, 96.3% for 2%1mm and 92.7% for 1%/1mm. All but two dose distributions produced passing rates above 90%. For the dosimetric analysis of PLA, the optical densities at various MU values were found to be equivalent for solid water and PLA.\n\nCONCLUSION: The correction algorithm was able to produce a corrected plan almost identical to the original plan in terms of plan statistics and dose distributions. The algorithm could accurately correct for extreme interfractional shifts beyond what is seen clinically. The results of this study also show the potential for PLA phantoms to be used as dosimetry tools.",
-      "publication_types": [
-        "Journal Article",
-        "Evaluation Study"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13588321/",
       "source": "PubMed"
     }
   ]
