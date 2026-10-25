@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:49:55.178840+00:00",
+  "generated_at": "2026-10-25T00:21:51.950293+00:00",
   "articles": [
     {
       "id": "pmid:42900467",
@@ -52947,6 +52947,161 @@
         "infectious",
         "neurology",
         "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42920233",
+      "pmid": "42920233",
+      "doi": "10.13345/j.cjb.260422",
+      "title": "[pMHCBind: predicting major histocompatibility complex class I-peptide interactions via protein large language models and hypergraph neural networks].",
+      "authors": [
+        "Ma J",
+        "Yang H",
+        "Wang X",
+        "Zhang Y",
+        "Zheng Y"
+      ],
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "date": "2026-10-25",
+      "year": 2026,
+      "abstract": "Major histocompatibility complex class I (MHC I) molecules initiate CD8+ T cell immune responses by presenting antigenic peptides, a process fundamentally governed by the spatial interaction network mediated by multi-residue synergy between the binding groove and the peptide. Accurate modeling of this mechanism is crucial for tumor neoantigen screening and personalized immunotherapy. However, existing methods are largely confined to sequence-level modeling, failing to capture cross-residue higher-order structural dependencies and fine-grained binding interface interactions. To address these challenges, we propose pMHCBind, a prediction model that integrates a protein language model with a hypergraph neural network. The model employs ESM-MSA-1b and ESM-2 to extract evolution-aware residue-level embeddings for MHC I molecules and antigenic peptides, respectively, and constructs a peptide-specific hypergraph based on spatial contact relationships to model higher-order interactions via hypergraph convolution. Subsequently, cross-molecular feature fusion is employed to characterize the interaction patterns on the binding interface for presentation ability prediction. In five-fold cross-validation on the NetMHCpan-4.1 benchmark dataset and the test performance on the Anthem independent test dataset, pMHCBind consistently outperforms a variety of state-of-the-art methods across multiple metrics, including the area under receiver operating characteristic curve (AUC) and area under the precision-recall curve (AUPR). Furthermore, interpretability analysis reveals that the model effectively identifies key interaction modes, such as hydrogen bonds, salt bridges, and hydrophobic interactions, between the binding groove and the peptide, demonstrating strong structural interpretability. Collectively, pMHCBind provides a promising and biologically interpretable computational tool for neoantigen recognition in precision cancer immunotherapy.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42920223",
+      "pmid": "42920223",
+      "doi": "10.13345/j.cjb.260006",
+      "title": "[Genome-wide identification of PfLACS in Perilla frutescens and functional analysis of PfLACS1 mediating lipid synthesis].",
+      "authors": [
+        "Chai X",
+        "Zhou Y",
+        "Yang H",
+        "Wu K",
+        "Wen J",
+        "Huang X",
+        "Li R",
+        "Li R",
+        "Wang J"
+      ],
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "date": "2026-10-25",
+      "year": 2026,
+      "abstract": "Perilla frutescens (L.) Britt. is a characteristic oil crop rich in n-3 polyunsaturated fatty acids in its seeds, holding significant potential for development and utilization. Long-chain acyl-CoA synthetase (LACS) plays a crucial regulatory role in plant lipid metabolism by activating free fatty acids into fatty acyl-CoA. In this study, to deeply analyze the functional characterization of the LACS gene in perilla lipid synthesis and storage, PfLACS sequences were identified from the genomic and transcriptomic data of P. frutescens. Omics tools were employed to analyze their sequence characteristics, gene structures, and phylogenetic relationships. The activity of PfLACS1 was evaluated via the LACS-deficient strain YB525, and the function of PfLACS1 in lipid synthesis was analyzed through genetic transformation in Saccharomyces cerevisiae and tobacco, as well as transient transformation in perilla cotyledons. A total of 12 PfLACS gene family members were identified and classified into five subfamilies based on sequence characteristics. Members within the same subfamily exhibited similar gene structures and conserved motifs in terms of type and number. The secondary structures of PfLACS were predominantly composed of α-helices and random coils. Transcriptome sequencing analysis revealed that 12 PfLACS were differentially expressed in developing perilla seeds, with PfLACS1 showing the highest expression level in seeds. Subcellular localization analysis indicated that PfLACS1 was localized to the endoplasmic reticulum. Yeast complementation assays confirmed that PfLACS1 could restore the functional deficiency in the LACS-deficient yeast strain YB525 and exhibited LACS activity. The results of heterologous expression indicated that overexpression of PfLACS1 led to a significant increase in total lipid content in both yeast and tobacco, accompanied by elevated levels of C16:1 and C18:1. Transient infection assays in perilla cotyledons further confirmed that overexpression of PfLACS1 significantly enhanced total lipid content. This study preliminarily confirms that PfLACS1 is involved in the activation of free fatty acids (especially C16 and C18) and fatty acid-related lipid metabolic processes, providing a theoretical basis for the genetic improvement and breeding of new varieties in P. frutescens and other oil-rich plants.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42920219",
+      "pmid": "42920219",
+      "doi": "10.13345/j.cjb.260134",
+      "title": "[Genome-wide identification, expression profiling, and natural allelic variation analysis of the ckx genes in sorghum (Sorghum bicolor)].",
+      "authors": [
+        "Wei X",
+        "Hou Y",
+        "Wang Z",
+        "Guo Z",
+        "Shi X",
+        "Hao Y",
+        "Ma J",
+        "Wang X",
+        "Zou C",
+        "Bai H",
+        "Zhang C",
+        "Lv J",
+        "Jiang L",
+        "Zhang C"
+      ],
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "date": "2026-10-25",
+      "year": 2026,
+      "abstract": "Cytokinin (CK) is one of the essential plant hormones, and cytokinin oxidase (CKX) is the key enzyme for CK degradation. Currently, the ckx gene family of rice (Oryza sativa) and maize (Zea mays) have been characterized, while a genome-wide analysis of the ckx gene family in sorghum (Sorghum bicolor) has not been reported. This study aims to identify the Sbckx gene family in sorghum, analyze its evolutionary characteristics and expression patterns, and screen for key genes. A combined approach of bioinformatics analysis and experimental validation was utilized to examine sorghum subjected to abiotic stress conditions: low nitrogen and drought, as well as biotic stress induced by infections of head smut pathogens and sugarcane aphids, and the expression levels of Sbckxs were measured. A total of eleven Sbckxs were identified from the sorghum genome, exhibiting uneven distribution across chromosomes SBI-01, SBI-03,SBI-04, SBI-06, SBI-07, SBI-09, and SBI-010 (notably, chromosome SBI-03 contained four genes arranged in a clustered pattern). The SbCKX family proteins all contained the FAD-binding and cytokin-binding conserved domains. They exhibited high homology with the CKX family of five species including maize and rice and were classified into five evolutionary groups based on phylogenetic analysis. The expression pattern of SbCKXs exhibited tissue specificity. Specifically, Sbckx1-3g and Sbckx4-3g demonstrated high expression levels in roots and seedlings, whereas Sbckx11-7g was exclusively expressed in the panicle. Under conditions of drought, low nitrogen availability, and head smut infection, the expression levels of certain genes were notably elevated. The predicted interacting proteins of SbCKXs were implicated in pathways associated with growth, development, and substance metabolism. DNA variant analysis of re-sequenced sorghum germplasm revealed a high frequency of non-synonymous SNPs and INDELs in Sbckx10-10g across multiple cultivars. This study is the first to systematically analyze the molecular characteristics, expression patterns, and allelic variations of the ckx gene family in sorghum, providing a theoretical basis for subsequent functional verification of Sbckxs and molecular breeding for improving the stress resistance and yield of sorghum.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42908449",
+      "pmid": "42908449",
+      "doi": "10.13702/j.1000-0607.20260402",
+      "title": "[Mechanism of electroacupuncture combined with antibiotics targeting dorsal motor nucleus of vagus nerve to activate vagus-adrenal axis, alleviate inflammatory response and reduce mortality in septic mice].",
+      "authors": [
+        "Liu J",
+        "Ren H",
+        "Lin Q",
+        "Zhao S",
+        "Li T",
+        "Jian H",
+        "Sun H",
+        "Yu L",
+        "Jing X",
+        "Li M",
+        "Zhang H"
+      ],
+      "journal": "Zhen ci yan jiu = Acupuncture research",
+      "date": "2026-10-25",
+      "year": 2026,
+      "abstract": "OBJECTIVES: To explore the mechanism by which electroacupuncture (EA) combined with antibiotics regulates the vagus-adrenal axis via the dorsal motor nucleus of vagus (DMV), promotes catecholamine secretion, attenuates inflammatory storm, and improves survival rate in septic mice.\n\nMETHODS: Experiment 1:fifty C57BL/6 mice were randomly divided into sham operation group, model group, antibiotic group, EA group, and EA + antibiotic group, with 10 mice in each group. Cecal ligation and puncture (CLP) was performed to establish the sepsis model. Mice in the EA group received 15 min EA (10 Hz, 0.5 mA) at bilateral \"Zusanli\" (ST36), once daily for 3 consecutive days. Mice in the antibiotic group were intraperitoneally injected with imipenem-cilastatin sodium (30 mg/kg) every 12 h for 3 consecutive days. Mice in the EA+antibiotic group received EA and antibiotic treatment the same as the above. The 3-day survival rate and body weight changes of mice in each group were recorded. ELISA was adopted to detect serum levels of interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α). HE staining was used to observe pathological changes and the number of inflammatory cells in cecal tissues. Whole-brain optical clearing was performed to detect the expression of proto-oncogene c-Fos protein (c-Fos) in the DMV region. Experiment 2:fifty Chat-Cre mice were randomly assigned to sham operation + empty virus group, model + empty virus group, EA-antibiotic combination + empty virus group, EA-antibiotic combination + inhibitory virus group, and antibiotic + activating virus group, with 10 mice per group. Corresponding viruses were injected into the DMV 3 weeks before model establishment. CLP operation was conducted 3 weeks after virus injection, followed by daily intraperitoneal injection of clozapine N-oxide (CNO, 3 mg/kg), combined with antibiotics or EA treatment (the same interventions and parameters as Experiment 1). Serum IL-6 and TNF-α levels were measured by ELISA;cecal inflammatory infiltration was evaluated via HE staining. Ultra-high performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) was applied to detect serum catecholamines including dopamine (DA), epinephrine (E), norepinephrine (NE), as well as their metabolites 3-methoxytyramine (3-MT), normetanephrine (NMN), and metanephrine (MN) levels. Immunofluorescence staining was used to quantify the counts of forkhead box protein P3 positive / cluster of differentiation 4 positive (FOXP3+/CD4+) cells in cecal tissues.\n\nRESULTS: Experiment 1:compared with the sham operation group, the model group exhibited markedly decreased 3-day survival rate and body weight (P<0.000 1), elevated serum IL-6 and TNF-α levels (P<0.000 1), and increased inflammatory cell infiltration in cecum (P<0.000 1). Compared with the model group, the EA + antibiotic group showed improved survival rate (P<0.05), alleviated body weight loss (P<0.000 1), decreased serum IL-6 and TNF-α levels (P<0.000 1), reduced inflammatory cell infiltration (P<0.000 1), and elevated c-Fos positive cell density in DMV (P<0.000 1). Moreover, all above indicators were superior to those in the single EA or single antibiotic group to varying degrees. Experiment 2:in comparison with the sham operation + empty virus group, the model + empty virus group had higher serum inflammatory factor levels and more cecal inflammatory infiltrates (P<0.0001), and lower levels of catecholamines and their metabolites, as well as fewer FOXP3+/CD4+ cells in cecal tissues (P<0.000 1). Compared with the model + empty virus group, the EA-antibiotic combination + empty virus group, EA-antibiotic combination + inhibitory virus group, and antibiotic + activating virus group displayed reduced serum inflammatory factors and relieved cecal inflammatory infiltration (P<0.000 1, P<0.01, P<0.05), accompanied by increased levels of catecholamines and metabolites, and more FOXP3+/CD4+ cells in cecum (P<0.01, P<0.05, P<0.001, P<0.000 1). Relative to the EA-antibiotic combination + empty virus group, all the above indicators were reversed in the EA-antibiotic combination + inhibitory virus group (P<0.01, P<0.001, P<0.05, except for 3-MT).\n\nCONCLUSIONS: EA at ST36 combined with antibiotics exerts optimal therapeutic effects on CLP-induced septic mice. The underlying mechanism may involve activating cholinergic neurons in DMV, regulating the vagus-adrenal axis to facilitate catecholamine secretion, suppressing excessive inflammatory response, and consequently elevating survival rate.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42748893",
+      "pmid": "42748893",
+      "doi": "10.1016/j.chroma.2026.467443",
+      "title": "Immobilization of neurotensin receptor through immunologic recognition between ALFA tag and nanobody for affinity-based ligand discovery.",
+      "authors": [
+        "Zhang Y",
+        "Yang M",
+        "Liu Y",
+        "Wang J",
+        "Li Q",
+        "Yin G",
+        "Zhao X"
+      ],
+      "journal": "Journal of chromatography. A",
+      "date": "2026-10-25",
+      "year": 2026,
+      "abstract": "Fabrication of bioactive interface by immobilizing proteins with pharmacological importance onto a solid surface is instrumental for interrogating drug actions and discovery of new drug molecules. In current work, we have developed a hybrid method for the interface fabrication by using Halo-tagged nanobody as a bidirectional adaptor for simultaneous capture of ALFA-tagged proteins onto solid surface and capturing proteins of the interest with a fused short epitope sequence. To this end, we engineered G protein-coupled receptors with a fused ALFA tag comprised of 13 amino acids and an ALFA-specific nanobody (NbALFA) fused to a Halo tag for the covalent immobilization onto a silica surface chemically modified with the Halo substrate. This strategy was applied to incorporate β2-adrenergic receptor (β2AR) into a silica sphere-based chromatographic stationary phase. Both salbutamol and methoxyphenamine showed specific retention profiles in the β2AR column with measured dissociation constant (Kd) as 58.50 μM and 115.20 μM respectively. We employed this strategy for human neurotensin receptor 1 (NTR1), a class A GPCR member involved in schizophrenia, diabetes, and cancer but with scarce verified ligands. The proved peptide ligands of NTR1 show retention time of 4.64 ± 0.04 min and 1.83 ± 0.05 min with Kd of 40.00 μM and 49.13 μM respectively in the NTR1 column. Extracts of Ziziphi Spinosae Semen (ZSS) were further applied to the NTR1 column and a natural product, spinosin, was discovered with estimated Kd of 5.16 μM and further identified by LC-MS. Molecular docking reveals that spinosin binds to orthosteric pocket of NTR1. Taken together, we developed a hybrid method for immobilizing GPCRs and fabricating the bioactive chromatographic column for measuring drug interactions and identified a new ligand binding to NTR1.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -358898,155 +359053,6 @@
       ],
       "topics": [
         "systematic-reviews"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42452842",
-      "pmid": "42452842",
-      "doi": "10.3238/arztebl.m2026.0127",
-      "title": "Fractures in Patients With Hip and Knee Prostheses: Epidemiology, Diagnosis, and Treatment.",
-      "authors": [
-        "Werneburg F",
-        "Delank KS",
-        "Hagel A"
-      ],
-      "journal": "Deutsches Arzteblatt international",
-      "date": "2026-10-02",
-      "year": 2026,
-      "abstract": "BACKGROUND: Fractures in patients with hip or knee prostheses (periprosthetic fractures, PPF) are rare but clinically significant complications whose absolute number is steadily increasing as implantation rates rise. In Germany, approximately 200 000 hip and 170 000 knee joints are primarily replaced each year: PPFs account for approximately 15% of all revisions of hip surgery and 3% of all revisions of knee surgery.\n\nMETHODS: This review is based on publications retrieved by a selective search in the PubMed/MEDLINE and Google Scholar databases up to December 2025. Registry analyses, meta-analyses, systematic reviews, and clinical trials were included.\n\nRESULTS: Key risk factors for PPF are advanced age (OR 1.4-1.7), female sex (OR 1.6-2.1), and osteoporosis as the overarching risk modifier. The 1-year mortality rate of 11-24% is comparable to that after fractures around the hip joint. History-taking and physical examination serve not only to assess fracture morphology but also to rule out implant loosening and low-grade infection. Most of the available evidence on treatment is derived from retrospective cohort and registry studies. The choice of treatment is mainly determined by implant stability: if the implant is stable, angle-stable osteosynthesis is performed; if it is loose, it must be replaced. The goal of surgery is a reconstruction that is stable under full weight-bearing, so that early functional mobilization can ensue and secondary complications can thereby be avoided.\n\nCONCLUSION: Interdisciplinary treatment planning for the early resumption of function, along with low-threshold osteoporosis screening in the presence of risk factors, are key strategies for lowering mortality and preventing further fractures.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42425177",
-      "pmid": "42425177",
-      "doi": "10.1016/j.bbr.2026.116367",
-      "title": "Effects of acute resistance exercise on prefrontal oxygenation and task-switching performance: Considerations of loading strategies and blood flow restriction.",
-      "authors": [
-        "Jung M",
-        "Pennartz KJ",
-        "Blough J",
-        "Lee W",
-        "Song J",
-        "Loprinzi PD",
-        "Hill EC",
-        "Keller JL"
-      ],
-      "journal": "Behavioural brain research",
-      "date": "2026-10-02",
-      "year": 2026,
-      "abstract": "Although acute resistance exercise (RE) has been proposed to influence cognitive flexibility and underlying neural mechanisms, it remains unclear whether these effects vary across loading strategies and whether exercise-induced prefrontal hemodynamic responses translate into cognitive outcomes. The present study examined (1) prefrontal cortex (PFC) oxygenated hemoglobin (O2Hb) responses across exercise sets and conditions, (2) the effects of low-load (LL), LL with blood flow restriction (BFR), and high-load (HL) RE on task-switching performance, and (3) whether exercise-related PFC O2Hb responses were associated with pre- to post-exercise changes in task-switching performance. Thirty physically active adults completed three randomized, counterbalanced RE conditions consisting of four sets of barbell squats. LL was performed at 30% one-repetition maximum (1RM) with and without BFR, whereas HL was performed at 70% 1RM. Cognitive flexibility was assessed pre- and post-exercise using a modified Stroop task, indexed by switch-cost reaction time (RT) and accuracy. PFC O2Hb was assessed using functional near-infrared spectroscopy during exercise and expressed as changes from the resting baseline for each set (Sets 1-4). PFC O2Hb increased across sets, rising from Set 1 to Set 3 before plateauing, with no differences observed across conditions. Switch cost RT and accuracy did not improve from pre- to post-exercise, and no differences across conditions were detected. PFC O2Hb during the final set was not associated with changes in switch cost. These findings suggest that although acute RE elicits robust increases in prefrontal hemodynamic activity, such responses may not translate into acute improvements in cognitive flexibility.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42419464",
-      "pmid": "42419464",
-      "doi": "10.1016/j.bbr.2026.116366",
-      "title": "Rigorous validation of paw preference using three complementary behavioral assays in Sprague Dawley rats.",
-      "authors": [
-        "Pokharel D",
-        "Le K",
-        "Beligala D",
-        "Subramanian T",
-        "Venkiteswaran K"
-      ],
-      "journal": "Behavioural brain research",
-      "date": "2026-10-02",
-      "year": 2026,
-      "abstract": "Paw preference, or handedness, is a widely studied behavioral trait used to assess lateralization and motor function in rodents. This study aimed to determine the consistency and reliability of three commonly used behavioral tests to rigorously assess paw preference: the Collins Test, the Staircase Test, and the Pawedness Trait Test. Thirty Sprague Dawley rats (12-48 weeks; 20 females, 10 males) were subjected to all three behavioral tests. Paw uses were recorded, and the laterality index was calculated for each test. Additional cohorts of younger rats (6-9 weeks; 45 females, 45 males) and older rats (12-48 weeks; 38 females, 45 males) were tested to assess the effects of age and sex on paw preference. ANOVA, Fleiss', and pairwise Cohen's Kappa were used for statistical analysis. All three tests yielded comparable measures of paw preference (ANOVA, p = 0.801). Substantial inter-test agreement was demonstrated by Fleiss' kappa (κ = 0.761, p = 3.93 × 10⁻¹²). Paw preference did not significantly vary by age or sex, and the distribution of left, right, and ambidextrous preference categories aligned with existing literature. The Collins, Staircase, and Pawedness Trait Tests provide consistent, reliable assessments of paw preference in Sprague Dawley rats. These validated behavioral assays can serve as essential tools for preclinical research, including but not limited to models of motor asymmetry observed in stroke, cerebral palsy, traumatic brain injury, and language lateralization, as well as neurodegenerative diseases.",
-      "publication_types": [
-        "Journal Article",
-        "Validation Study"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42418705",
-      "pmid": "42418705",
-      "doi": "10.1158/0008-5472.CAN-25-4870",
-      "title": "Macrophage-Induced Senescent Cancer-Associated Fibroblasts Promote SASP-Mediated Chemoresistance in Colorectal Cancer.",
-      "authors": [
-        "Yang S",
-        "Chen Y",
-        "Liu S",
-        "Zuo A",
-        "Ba Y",
-        "Zhang Y",
-        "Liu B",
-        "Zhang C",
-        "Xu H",
-        "Luo P",
-        "Cheng Q",
-        "Weng S",
-        "Liu L",
-        "Zhou X",
-        "Pan T",
-        "Ming R",
-        "Ning J",
-        "Hu X",
-        "Han X",
-        "Wang F",
-        "Deng J",
-        "Liu Z"
-      ],
-      "journal": "Cancer research",
-      "date": "2026-10-02",
-      "year": 2026,
-      "abstract": "UNLABELLED: Cancer-associated fibroblasts (CAF) play a crucial role in the tumor microenvironment (TME) by influencing tumor progression, metastasis, and therapy resistance. Accumulating evidence suggests that CAFs undergo senescence, which can affect their effects on the TME. In this study, we developed a machine learning-based prediction model, the cellular senescence prediction model, to accurately identify senescent CAFs (sCAF) based on single-cell RNA sequencing data. In colorectal cancer, the abundance of sCAFs strongly correlated with impaired chemotherapy responsiveness and poor prognosis. In preclinical models, including subcutaneous tumors, patient-derived organoids (PDO), PDO xenografts, and orthotopic tumors, sCAFs mediated chemoresistance through the senescence-associated secretory phenotype (SASP), with IL6 and CXCL12 being key contributors. Macrophage-derived IL1B triggered CAF senescence through the IL1B-IL1R1 interaction, promoting the accumulation of sCAFs in tumors. Spatial transcriptomics and multiplex immunohistochemistry revealed the colocalization of IL1B+ macrophages and IL1R1+ sCAFs in the tumor stroma. Functional studies using fibroblast-specific Il1r1 knockout mice further confirmed that macrophage-derived IL1B induces CAF senescence via IL1R1, leading to SASP-driven chemotherapy resistance. These findings highlight the critical role of sCAFs in colorectal cancer chemoresistance and suggest that targeting the IL1B-IL1R1 axis may offer a promising strategy to enhance chemotherapy efficacy in colorectal cancer.\n\nSIGNIFICANCE: Senescent cancer-associated fibroblasts induced by IL1B-IL1R1 signaling mediated by macrophages secrete SASP factors that impair chemotherapy responsiveness in colorectal cancer, suggesting that stromal senescence could be a therapeutic target.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42409120",
-      "pmid": "42409120",
-      "doi": "10.1016/j.bbr.2026.116364",
-      "title": "Fear conditioning with five footshocks is sufficient to produce stress-enhanced fear learning in rats but does not produce physiological characteristics of stress.",
-      "authors": [
-        "Bae Y",
-        "Robinson PK",
-        "Trask S"
-      ],
-      "journal": "Behavioural brain research",
-      "date": "2026-10-02",
-      "year": 2026,
-      "abstract": "Stress-enhanced fear learning (SEFL) is widely used in rodent studies to understand how prior experience with stress amplifies subsequent fear conditioning. SEFL procedures using rats often implement prolonged stress exposure (15 unsignaled footshocks) and sex differences are rarely, if ever, observed. Here, we first investigated how a 5-shock contextual fear conditioned procedure (unsignaled footshocks) influences subsequent fear learning, with the hypothesis that females would be more sensitive to SEFL under these conditions following similar work showing female mice are sensitive to SEFL with more mild procedures. 5 inescapable footshocks prior to subsequent fear conditioning with a single context-footshock pairing produced robust enhancement of later contextual freezing, and this effect was observed in both males and females to a similar extent. Further experiments demonstrated that SEFL remained intact even when the initial footshocks were signaled by a cue. While experience with 5 unsignaled footshocks did not increase freezing following a single-trial of delay conditioning, it did enhance freezing to a novel cue, consistent with stress-enhanced fear responding (SEFR). Both 5 and 15 shocks increased expression of the immediate early gene zif268 in several brain regions associated with stress, including the prelimbic and infralimbic cortices, the anterior and posterior retrosplenial cortex, and the paraventricular nucleus. While zif268 expression in the basolateral amygdala was increased following 5 shocks, this was not the case following 15 shocks. Serum corticosterone was selectively increased in females following 15 footshocks, but in neither sex following 5 footshocks. Together, these findings demonstrate that experience with 5 footshocks is sufficient to produce a SEFL-like effect despite not showing physiological changes identical to a 15-footshock stress procedure.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
       ],
       "has_full_text": false,
       "full_text_url": null,
