@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:20:17.869946+00:00",
+  "generated_at": "2026-11-01T20:33:42.074397+00:00",
   "articles": [
     {
       "id": "pmid:42900467",
@@ -2028,6 +2028,38 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13664708/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967075",
+      "pmid": "42967075",
+      "doi": "10.1002/lrh2.70130",
+      "title": "Consolidated Framework for Implementation Research (CFIR) Mapping and Visualization of Pre-Implementation Determinants for Sepsis Care Transitions.",
+      "authors": [
+        "You SB",
+        "Stawnychy MA",
+        "Song J",
+        "Hirschman KB",
+        "O'Connor M",
+        "Sang E",
+        "Oh S",
+        "Pitcher K",
+        "Garren P",
+        "Cueto S",
+        "Bowles KH"
+      ],
+      "journal": "Learning health systems",
+      "date": "2027-01-01",
+      "year": 2027,
+      "abstract": "INTRODUCTION: High-quality care transitions are essential for sepsis survivors at risk of readmission and long-term complications. These complex innovations require coordination across organizations, individuals, and processes. The Consolidated Framework for Implementation Research (CFIR) offers a systematic approach to identifying multi-level implementation determinants, but translating them into actionable strategies remains challenging. This study examines the representation of implementation determinants across CFIR domains and visualizes their cross-domain interconnectedness.\n\nMETHODS: CFIR-guided, semi-structured pre-implementation needs assessment interviews were conducted with stakeholders involved in sepsis care transitions across five hospital-home healthcare (HHC) dyads. Thirty-two themes identified through deductive-inductive coding were mapped to CFIR domains and constructs and visualized using node diagrams.\n\nRESULTS: Sixty-one interviews with 91 stakeholders identified 32 themes spanning all five CFIR domains, with most themes mapping to multiple domains. Access to Care theme mapped across all five domains, while External Policies and Incentives and Informal Caregiving themes were represented only once. Implementation Process domain was most represented and Innovation least represented. All constructs within the Implementation Process and Individual Characteristics domains were captured. Node diagrams illustrated the depth and interconnected influence of determinants in sepsis care transitions.\n\nCONCLUSIONS: Stakeholders identified complexity emerged across technical, structural, and policy domains as both an innovation feature and contextual determinants of sepsis care transitions. CFIR mapping and visualization provided a structured approach to characterizing pre-implementation complexity in sepsis care transitions. Examining determinant representation and cross-domain interconnectedness may help identify cross-cutting, potentially high-leverage implementation needs and inform strategy selection and tailoring for complex hospital-to-home interventions.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722945/",
       "source": "PubMed"
     },
     {
@@ -11291,6 +11323,253 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967233",
+      "pmid": "42967233",
+      "doi": "10.1080/21505594.2026.2730393",
+      "title": "Differences in circulating levels of non-classical monocytes and associated caspase 1 activation during Staphylococcus aureus and Escherichia coli bacteremia.",
+      "authors": [
+        "Courjon J",
+        "Scussel R",
+        "Mellan E",
+        "Lotte R",
+        "Ruimy R",
+        "Demonchy E",
+        "Risso K",
+        "Touitou I",
+        "Bertrand PM",
+        "de Swart P",
+        "Robert A",
+        "Contenti J",
+        "Dellamonica J",
+        "Jozwiak M",
+        "Gonfrier G",
+        "Munro P",
+        "Doye A",
+        "Loubatier C",
+        "Visvikis O",
+        "Chaintreuil P",
+        "Jacquel A",
+        "Dufies O",
+        "Carles M",
+        "Boyer L"
+      ],
+      "journal": "Virulence",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "Bloodstream infections (BSI) caused by Escherichia coli and Staphylococcus aureus are frequent and are associated with substantial mortality rate. The host immune response major determinant of the clinical outcomes during BSI. Here, we investigated the innate immune response, by characterizing peripheral blood myeloid cell subsets and caspase-1 activation as a surrogate marker of inflammasome activation in patients with E. coli or S. aureus bacteremia. We prospectively enrolled patients with monomicrobial bacteremia and analyzed peripheral blood samples by flow cytometry. We observed distinct alterations in myeloid cell composition and caspase-1 activation associated with E. coli bacteremia, including an expansion in intermediate and non-classical monocytes, and increased caspase-1 activation in non-classical monocytes. In contrast, these changes were not observed in patients with S. aureus bacteremia. Additionally, we found differences in myeloid cell subset frequencies and caspase-1 activation between patients with and without sepsis, revealing distinct profiles associated with disease severity. Importantly, the differences in myeloid cell subsets and caspase-1 activation between E. coli and S. aureus bacteremia were primarily attributable to the infecting bacteria rather than disease severity. Furthermore, our findings suggest that eosinophil counts, and caspase-1 activation may serve as potential markers to distinguish between bacterial BSI and viral infections. Overall, our study highlights the importance of considering both the infecting pathogen and disease severity when studying the host immune response during bacteremia and suggests that potential innate immune biomarkers may improve the diagnosis and clinical management of BSI.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967198",
+      "pmid": "42967198",
+      "doi": "10.1002/jha2.70425",
+      "title": "Extreme Thrombocytosis in Patients With Malignancy; Complications, Management and Outcomes.",
+      "authors": [
+        "McDonald L",
+        "Hasan H",
+        "Donato L",
+        "Wylde L",
+        "Cardoso R",
+        "Boyd K",
+        "Peralta R",
+        "Iyengar S",
+        "El-Sharkawi D"
+      ],
+      "journal": "EJHaem",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Extreme thrombocytosis (EXT; platelet count >1000 × 109/L) is a rare haematological abnormality that may be primary or reactive. Data on its incidence and management in patients with malignancy are limited. We retrospectively evaluated the incidence, management, and complications of EXT in patients with malignancy over a 12-year period.\n\nMETHODS: Two-hundred and twenty patients with malignancy experienced at least one episode of EXT during the study period. Patients with a known or subsequent diagnosis of myeloproliferative neoplasm (MPN) were excluded from analysis. Clinical data were collected from electronic patient records.\n\nRESULTS: We identified 198 patients (57% female), with a median age of 55 years (range 1-86) and median follow-up of 55 months. The median peak platelet count was 1112 × 109/L (range 1001-2593). Most patients (77%) had solid tumours, lung cancer being most common (25%). MPN screening was performed in 11 patients (5.5%), with no positive results. Thrombocytosis resolved in 70% but persisted in 28%. Antiplatelets were prescribed in 16% and anticoagulation in 18%, almost exclusively for venous thrombosis. Thrombosis occurred in 42 patients (21%), predominantly venous (83%); 60% had concurrent thrombocytosis. This exceeds the reported 4%-6% thrombotic rate in patients with cancer. Among 44 paediatric patients, none received thromboprophylaxis, and four (9%) developed thrombosis. Overall mortality was 64.5%, predominantly from progressive malignancy.\n\nCONCLUSIONS: EXT in patients with malignancy was associated with a higher-than-expected thrombotic risk. Persistent thrombocytosis was common, yet MPN screening was infrequent. These findings support further investigation of persistent EXT and evaluation of thromboprophylaxis in prospective studies.\n\nTRIAL REGISTRATION: The authors have confirmed clinical trial registration is not needed for this submission.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13723305/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967029",
+      "pmid": "42967029",
+      "doi": "10.1002/joa3.70512",
+      "title": "Gastric Hypomotility Unmasking a Phytobezoar After Cryoballoon Pulmonary Vein Isolation.",
+      "authors": [
+        "Dalgıç ŞN",
+        "Karaçimen D",
+        "Kıtlık EB",
+        "Duman AB",
+        "Çağdaş M"
+      ],
+      "journal": "Journal of arrhythmia",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "After cryoballoon pulmonary vein isolation, acute gastric hypomotility progressed to phytobezoar formation. The admission CT had already shown a mottled intragastric mass with entrapped gas, initially interpreted as retained food; when post-ablation symptoms persist, clinicians should re-examine the original imaging before escalating therapy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "electrophysiology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722944/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966973",
+      "pmid": "42966973",
+      "doi": "10.1016/j.radcr.2026.10.013",
+      "title": "Necrotizing abdominal wall infection along a prior drain pathway: A case report and literature review.",
+      "authors": [
+        "Leary RHO",
+        "Kleiner D"
+      ],
+      "journal": "Radiology case reports",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "We report the case of a 37-year-old female with uncontrolled type 2 diabetes mellitus with an HbA1c of 106 mmol/mol who developed a necrotizing abdominal wall infection at the site of a prior percutaneous drain insertion for tubo-ovarian abscesses. The patient presented with recurrent flank pain, cellulitis, and a systemic inflammatory response, with imaging findings highly suspicious for necrotizing infection, which was confirmed at surgical exploration. Emergency surgical debridement, critical care support, and antibiotic therapy were required. This case highlights the need for awareness surrounding the rarity of a necrotizing infection along interventional radiology drain pathways, and we review the relevant literature.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "endocrine",
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722556/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966966",
+      "pmid": "42966966",
+      "doi": "10.1016/j.metop.2026.100515",
+      "title": "First evidence of an association between alexithymia and reduced humoral immunity following COVID-19 vaccination, independent of insomnia and metabolic factors in healthcare workers.",
+      "authors": [
+        "Petropoulou D",
+        "Petropoulou G",
+        "Karampela I",
+        "Karras SN",
+        "Kounatidis DC",
+        "Vallianou NG",
+        "Papadopoulou A",
+        "Muscogiuri G",
+        "Dalamaga M"
+      ],
+      "journal": "Metabolism open",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Psychological factors have been increasingly implicated in immune regulation; however, the role of emotional awareness in shaping vaccine responses remains unexplored. Alexithymia, characterized by the difficulty in identifying and describing emotions, represents a psychosomatic construct associated with chronic stress physiology and immune dysregulation. This study investigated for the first time whether alexithymia, alongside other psychological factors, is associated with vaccine-induced humoral immunity, especially serum SARS-CoV-2 anti-Spike (anti-S) IgG concentrations following vaccination.\n\nMETHODS: In this cross-sectional study, 198 healthcare workers who received the BNT162b2 mRNA vaccine were evaluated 4-6 months post-vaccination. Alexithymia was assessed using the Toronto Alexithymia Scale-20 (TAS-20), insomnia using the Athens Insomnia Scale, and anxiety/depression using Hamilton scales. Self-reported positive thinking was also assessed. Anti-S IgG concentrations against the receptor-binding domain (RBD) of the S1 subunit were quantified, and multivariable linear regression (stepwise method) analyses were performed adjusting for demographic, metabolic, inflammatory, and behavioral covariates.\n\nRESULTS: Higher alexithymia (p = 0.002) and insomnia scores (p < 0.001) were independently associated with lower anti-S IgG concentrations after adjustment for vaccination doses, prior COVID-19 infection, BMI, interleukin-6 (IL-6), smoking, and alcohol consumption. Among alexithymia subscales, difficulty identifying and difficulty describing feelings, but not externally oriented thinking, were inversely associated with anti-S IgG concentrations. Participants who reported post-vaccination fever exhibited higher anti-S IgG concentrations and lower alexithymia scores; this retrospective finding is exploratory and does not establish a difference in inflammatory activation.\n\nCONCLUSION: Alexithymia and insomnia are independently associated with lower anti-S IgG concentrations in healthcare workers. Although these concentrations correlate with neutralizing activity, neutralization and clinical protection were not directly assessed in this study. Nevertheless, these findings suggest that alexithymia may represent an underrecognized psychosomatic correlate of post-vaccination antibody responses, meriting further investigation as a potential marker of variation in vaccine responses and protection. Prospective studies should determine whether the observed association extends to neutralizing activity or clinical protection.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722552/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966959",
+      "pmid": "42966959",
+      "doi": "10.1016/j.radcr.2026.10.015",
+      "title": "Left spheno-orbital en plaque meningioma revealed by progressive exophthalmos: imaging features and a compartment-based approach to spheno-orbital hyperostosis.",
+      "authors": [
+        "Babbar N",
+        "Edderai M",
+        "Zamani O",
+        "En-Nouali H",
+        "Saouab R",
+        "El Fenni J",
+        "Boui M"
+      ],
+      "journal": "Radiology case reports",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "En plaque meningioma is an uncommon variant of meningioma (2-9% of cases), defined by a thin carpet-like sheet of tumor spreading along the dura together with bone hyperostosis that is disproportionate to the intradural component. The spheno-orbital region is the site of election, and because the dominant abnormality on imaging is a sclerotic bone lesion rather than a mass, the diagnosis is frequently delayed or mistaken for fibrous dysplasia. We report the case of a 75-year-old woman with no history of malignancy, cranio-orbital trauma, or infection, who presented with slowly progressive left orbital swelling, unilateral exophthalmos, and ipsilateral visual loss. Magnetic resonance imaging showed a left spheno-orbital lesion with broad-based dural thickening, isointense to cortex on T1-weighted images, iso- to slightly hyperintense on T2/FLAIR, with intense and relatively homogeneous enhancement after gadolinium, exerting mass effect on the orbital contents without adjacent parenchymal signal abnormality. Computed tomography demonstrated marked hyperostosis along the left greater sphenoid wing with mild narrowing of the ipsilateral optic canal. The association of a broad-based enhancing dural sheet with disproportionate hyperostosis was highly suggestive of an en plaque meningioma of dural origin. Histopathologic examination of the resected specimen confirmed a meningothelial meningioma, CNS WHO grade 1, with bone invasion. This case illustrates a compartment-based reading of spheno-orbital hyperostosis (orbital, osseous, or meningeal) and the value of imaging-pathology correlation: bone invasion was histologically confirmed in this patient, although meningioma-associated hyperostosis does not necessarily reflect direct neoplastic invasion in every case.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722545/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966923",
+      "pmid": "42966923",
+      "doi": "10.1016/j.radcr.2026.10.012",
+      "title": "Integration of computed tomography and endoscopic findings in identifying pseudoaneurysm rupture associated with duodenal penetration by pancreatic head cancer: A case report.",
+      "authors": [
+        "Hosoi K",
+        "Ishikawa A",
+        "Matsumoto T",
+        "Konishi H",
+        "Iyama K",
+        "Nagai S",
+        "Onoe M",
+        "Kikuchi H",
+        "Karikomi M",
+        "Saigusa H"
+      ],
+      "journal": "Radiology case reports",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "Pancreatic head cancer may cause life-threatening upper gastrointestinal bleeding through duodenal invasion and tumor-related arterial involvement. In such patients, differentiating between benign peptic ulcer disease and tumor invasion or penetration is clinically important because this distinction may influence whether endoscopic management or angiography with possible endovascular treatment is pursued. We report a 66-year-old man receiving chemotherapy for unresectable pancreatic head adenocarcinoma who presented with melena. Compared with pre-chemotherapy computed tomography, contrast-enhanced computed tomography on admission showed tumor shrinkage; however, air and a gas-containing low-attenuation area involving the residual pancreatic head lesion and adjacent peripancreatic region suggested tumor necrosis and/or communication with the gastrointestinal lumen. A focal aneurysmal lesion was also identified within the residual pancreatic head tumor. Endoscopy revealed a deep duodenal bulb ulcer without active bleeding. Together, these findings suggested duodenal penetration with tumor-related arterial involvement. The patient subsequently developed hemorrhagic shock, and emergency angiography demonstrated pseudoaneurysm rupture corresponding to the aneurysmal lesion seen on computed tomography. Transcatheter arterial embolization achieved hemostasis, and follow-up endoscopy showed coil exposure at the ulcer base. This case highlights that careful integration of computed tomography and endoscopic findings may help identify duodenal penetration with tumor-related pseudoaneurysm rupture, even when endoscopy shows no active bleeding.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722554/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966920",
+      "pmid": "42966920",
+      "doi": "10.1016/j.onehlt.2026.101631",
+      "title": "Modelling the transmission and burden of ESBL-producing Enterobacterales from a One Health perspective in Singapore.",
+      "authors": [
+        "Xie Y",
+        "Graves N",
+        "Lim ZZ",
+        "Morton A",
+        "Srivastava IM",
+        "Teerawattananon Y",
+        "Wee HL",
+        "Mo Y"
+      ],
+      "journal": "One health (Amsterdam, Netherlands)",
+      "date": "2026-12-01",
+      "year": 2026,
+      "abstract": "The long-term burden of antimicrobial resistance (AMR) in hyper-urbanised settings, shaped by complex, multi-sectoral transmission dynamics across human, animal, and environmental reservoirs, remains poorly understood. Using Singapore as a case study, we applied a dynamic One Health modelling framework to explore how ESBL-producing Enterobacterales infections and deaths may evolve over the next decade and identify critical control pathways. We developed a deterministic, compartmental One Health transmission model, the first to integrate hospital, community, companion animal, and environmental reservoirs, calibrated to ten years of national hospital surveillance data (2012-2021) using Markov Chain Monte Carlo Bayesian methods. We projected the baseline disease burden over a 10-year reporting horizon and compared it with counterfactual scenarios while employing global and local sensitivity analyses to identify influential parameters. Over this period, the model projected a total burden of 208,179 clinical ESBL-producing Enterobacterales infections (95% uncertainty interval [UI] 121,669-307,053) and 5567 (95% UI 3660-7806) deaths, with 3491 deaths specifically attributable to ESBL-producing Enterobacterales. Community decolonization strongly influenced infection burdens in both community and hospital settings; a 100% reduction in this process was projected to add nearly 1.8 million additional infections and more than 45,000 resistant-infection deaths across hospital and community settings in Singapore over 10 years. Our dynamic One Health model quantifies these inter-sectoral transmission pathways and identifies clear intervention priorities. While preventing progression from colonisation to infection is vital for reducing hospital-specific mortality, comprehensive system-wide control may benefit from targeting the community reservoir. Ultimately, the modelling framework developed here provides a robust, transferable tool for other global cities to design and evaluate integrated One Health AMR control strategies to mitigate urgent public health threats and associated socio-economic consequences for urban populations and global healthcare systems.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722557/",
       "source": "PubMed"
     },
     {
@@ -47704,6 +47983,478 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42967267",
+      "pmid": "42967267",
+      "doi": "10.1007/s40477-026-01251-8",
+      "title": "Comprehensive echocardiographic assessment of the left atrium in daily practice: a practical guide.",
+      "authors": [
+        "Anwar AM",
+        "Ali MAM"
+      ],
+      "journal": "Journal of ultrasound",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "The left atrium (LA) is a crucial component of cardiovascular performance. A thorough understanding of LA anatomy, physiology, and pathology is necessary for diagnostic and prognostic purposes in daily clinical practice. LA volume is widely recognized as a novel biomarker for cardiovascular risks in the general population. Furthermore, it has been shown to be a significant prognostic factor in various cardiac conditions, such as atrial fibrillation, ischemic heart disease, valvular heart disease, and heart failure. The assessment of LA function in physiologic and pathologic states has gathered interest with expanding research supporting its utility as a biomarker for outcomes in different cardiovascular abnormalities. Utilizing basic and advanced echocardiographic modalities and integrating multiple parameters helps in both qualitative and quantitative assessment of LA size and function. This is a narrative review provides a comprehensive approach to assessing LA size and function by interpreting existing English-language literature, including landmark studies, reviews and consensus documents from leading echocardiography societies. The literature search focused on key terms, such as LA size, phasic function, strain, and Doppler hemodynamics. By collecting, analyzing, and grouping the echocardiographic parameters, we introduce a simplified approach to guide clinicians through a comprehensive LA assessment ranging from standard 2D dimensions to advanced deformational tracking tailored to specific clinical indications.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "electrophysiology",
+        "heart-failure",
+        "imaging",
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967253",
+      "pmid": "42967253",
+      "doi": "10.1007/s00540-026-03940-4",
+      "title": "Reply to \"Clarification of age-term coding in a pediatric tracheal tube prediction model\".",
+      "authors": [
+        "Akabane S",
+        "Asamoto M",
+        "Azuma S",
+        "Ezaka M",
+        "Otsuji M",
+        "Uchida K"
+      ],
+      "journal": "Journal of anesthesia",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967248",
+      "pmid": "42967248",
+      "doi": "10.1186/s11671-026-04876-0",
+      "title": "Upcycling of polyethylene terephthalate sourced from waste plastic bottles into graphene oxide and its evaluation for CO2 absorption.",
+      "authors": [
+        "Shukla S",
+        "Kamal M"
+      ],
+      "journal": "Discover nano",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "The human-made \"plastic\" resource has turned into an environmental concern for years now. The ideal solution to the problem is still under research. Our research aims to deplete the huge amount of plastic waste on Earth by converting it into a functional material. The carbon chain of this polymer cannot be broken; however, it can be altered into a different category. Plastic waste, specifically PET, was chosen for the experiment and was converted finally into graphene oxide. Catalytic graphitization was used to convert one carbon form into another. The obtained graphene oxide was characterized using Fourier transform infrared spectroscopy, energy dispersive spectroscopy, thermal analysis, and electron paramagnetic resonance spectroscopy. The FT-IR and EDS results confirm the synthesis of graphene oxide. The thermal stability and magnetic behavior of graphene oxide are satisfactory. Catalytic behavior toward CO2 adsorption is a potent application of PETGO. The desorption curve indicates CO2 adsorption on the surface through chemisorption. A high amount of desorbed CO2 indicates a high reaction surface area and electronic interaction.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967247",
+      "pmid": "42967247",
+      "doi": "10.1007/s41999-026-01633-5",
+      "title": "Intraoperative hypotension in older adults with hip fracture: a comparative analysis of different definitions.",
+      "authors": [
+        "Vleeshouwers K",
+        "Salman S",
+        "Poeze M",
+        "van den Boogaart M",
+        "Boonen A",
+        "Buise MP",
+        "de Korte-de Boer D",
+        "Brouns S",
+        "Spaetgens B"
+      ],
+      "journal": "European geriatric medicine",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "PURPOSE: Intraoperative hypotension (IOH) is associated with adverse outcomes, but its definition varies widely and most definitions are derived from younger or mixed-age populations. Older adults undergoing hip fracture surgery are particularly susceptible due to reduced physiological reserve. This study compared absolute, relative, and duration-based definitions of IOH and evaluated their associations with postoperative adverse outcomes.\n\nMETHODS: This retrospective single-center cohort study included all patients aged ≥ 65 years who underwent hip fracture surgery at Maastricht University Medical Centre+ between January 2021 and December 2022. IOH was defined using absolute thresholds (MAP < 65 mmHg, SBP < 100 mmHg), relative reductions (≥  20%), post-induction decreases, and duration below thresholds. Outcomes were acute kidney injury (AKI, KDIGO criteria), and 30 day mortality. Multivariable logistic regression models were adjusted for age-adjusted Charlson Comorbidity Index, ASA classification, medication use, and nursing home residency.\n\nRESULTS: A total of 473 patients were included (mean age 80.9 years, 69.8% female). Postoperative AKI occurred in 9.9% and 30 day mortality in 5.5%. Absolute and relative IOH thresholds were not significantly associated with outcomes. In contrast, longer IOH duration (SBP < 100 mmHg) was associated with 30 day mortality (OR 1.09 per minute, 95%CI 1.02-1.16). After adjustment, higher ASA classification remained associated with AKI, while IOH duration remained significantly associated with mortality.\n\nCONCLUSIONS: In older patients undergoing hip fracture surgery, the duration of IOH, rather than static thresholds, appeared more strongly associated with adverse outcomes, particularly 30 day mortality. These findings highlight the potential clinical relevance of hypotension duration and support further prospective research to establish geriatric-specific IOH definitions and optimal perioperative blood pressure management strategies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967242",
+      "pmid": "42967242",
+      "doi": "10.1007/s00520-026-11436-w",
+      "title": "Is fear of recurrence a determinant of breast self-examination awareness in women who have survived breast cancer?",
+      "authors": [
+        "Yılmaz E",
+        "Balcı H",
+        "Arslan S",
+        "Kanyılmaz G"
+      ],
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Fear of cancer recurrence is one of the most prevalent and enduring psychosocial challenges encountered by breast cancer survivors. Although this fear can prompt health-monitoring behaviors such as breast self-examination (BSE), comprehensive survivorship care models addressing these psychological dynamics remain limited.\n\nOBJECTIVE: This study was aimed at determining the level of fear of cancer recurrence in women who have survived breast cancer and examining its relationship with their health beliefs and awareness regarding breast self-examination.\n\nMETHODS: This descriptive, cross-sectional, and correlational study was conducted between June 2024 and October 2024 with 259 breast cancer survivors registered at the radiation oncology outpatient clinic of a tertiary hospital in Türkiye. Data were collected using a Patient Information Form, the Champion Health Belief Model Scale, and the Fear of Cancer Recurrence Inventory. The study was reported in accordance with the STROBE checklist. Data were analyzed using descriptive statistics, independent samples t test, ANOVA, and linear regression analysis.\n\nRESULTS: The mean total score for fear of cancer recurrence among the survivors was 1.42 ± 0.82 points. A statistically significant positive correlation was identified between fear of recurrence and health belief model dimensions, particularly perceived severity and health motivation (p < 0.05). Linear regression analysis revealed that fear of cancer recurrence had a significant positive effect on the health belief model (F = 31.690, p < 0.001), explaining 11% of the total variance (R2 = 0.110).\n\nCONCLUSIONS: Fear of cancer recurrence is common among breast cancer survivors and significantly influences their health beliefs and self-monitoring behaviors. While moderate fear may heighten surveillance awareness through BSE, structured psychosocial support and educational programs are essential to help survivors manage recurrence concerns adaptively within holistic nursing care.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967239",
+      "pmid": "42967239",
+      "doi": "10.1007/s11136-026-04422-6",
+      "title": "Chronic disease burden and health-related quality of life among missouri adults.",
+      "authors": [
+        "Lima Dos Santos SP",
+        "Schmaltz CL",
+        "Jackson-Thompson J",
+        "Simões EJ"
+      ],
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "PURPOSE: This cross-sectional study examined associations between chronic disease burden, specific chronic conditions, and Short Form 36 (SF-36) health-related quality of life (HRQoL) scores among Missouri adults 18 years of age or older.\n\nMETHODS: We analyzed survey-weighted data from the 2024 Center for Medical Epidemiology and Population Health Adult Health Survey (N = 547). The primary chronic condition count included cardiovascular disease, chronic respiratory disease, arthritis, diabetes, depressive disorder, non-skin cancer, and kidney disease and was categorized as zero, one, or two or more conditions. Obesity was examined as a condition-specific exposure and in sensitivity analyses. Survey-weighted linear regression models adjusted for age, sex, race/ethnicity, educational attainment, employment status, and rurality. The Benjamini-Hochberg procedure was used to control the false discovery rate across the 10 HRQoL outcomes.\n\nRESULTS: Overall, 30.0% of Missouri adults had two or more of the seven selected chronic conditions. Compared with adults with no chronic conditions, adults with two or more conditions had lower scores for nine of the 10 HRQoL outcomes after false discovery rate correction. The largest adjusted differences were observed for Role-Physical (β = -30.65; 95% CI, -46.56 to -14.74), Physical Functioning (β = -28.70; 95% CI, - 38.60 to -18.81), Bodily Pain (β = -28.28; 95% CI, -38.96 to -17.59), Social Functioning (β = -26.18; 95% CI, -35.43 to -16.92), and General Health (β = -24.18; 95% CI, - 30.75 to - 17.62). Physical Component Summary (PCS) was 12.82 points lower (95% CI, -16.98 to -8.66), and Mental Component Summary (MCS) was 6.10 points lower (95% CI, -9.47 to -2.73). Arthritis and cardiovascular disease had the strongest associations with lower PCS, while depressive disorder had the strongest association with lower MCS. In supplementary continuous-count models, each additional condition was associated with a 4.57-point lower PCS score and a 2.20-point lower MCS score.\n\nCONCLUSIONS: Greater chronic disease burden was associated with poorer physical and mental HRQoL among Missouri adults. Adding HRQoL assessment to chronic disease surveillance and clinical follow-up may help identify functional limitations and mental health needs that are not apparent from diagnoses alone.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967191",
+      "pmid": "42967191",
+      "doi": "10.1002/hsr2.73461",
+      "title": "The State of Health in Jordan, 1990-2023: A Systematic Analysis for the Global Burden of Disease Study.",
+      "authors": [
+        "Al-Ajlouni YA",
+        "Alawa J",
+        "Al-Shamari A",
+        "Hazra A",
+        "Khoshnood K",
+        "Shamieh O",
+        "Makarem N",
+        "Al Ta'ani O",
+        "Zubi SA",
+        "Coutts A",
+        "Njei B"
+      ],
+      "journal": "Health science reports",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Jordan's health system has evolved amid rapid urbanization and the strain of hosting one of the world's largest refugee populations per capita. This study comprehensively evaluates national disease burden trends in Jordan from 1990 to 2023 to inform health priorities.\n\nMETHODS: Using the Global Burden of Disease (GBD) 2023 framework, we analyzed age-standardized rates of disability-adjusted life years (DALYs), years lived with disability (YLDs), and years of life lost (YLLs) across 370 diseases and 88 risk factors. Data were derived from national censuses, health surveys, disease registries, and hospital records, and harmonized using standardized GBD modeling and estimation procedures. Analyses were stratified by age, sex, and cause.\n\nRESULTS: Between 1990 and 2023, age-standardized DALYs declined by 33.88% (95% UI: -37.38 to -30.59), with greater reductions in males (-38.83%; -42.22 to -35.60) than females (-27.22%; -31.33 to -23.58). YLLs decreased by 49.38% (-50.93 to -47.68), while YLDs remained comparatively stable (2.49%; -2.37 to 7.47). Using mutually exclusive GBD Level 3 causes, ischemic heart disease and diabetes mellitus were the two leading causes of DALYs in 2023. Diabetes mellitus rose from 7th place in 1990 to 2nd place in 2023, while neonatal disorders declined from 1st to 7th place. Metabolic risks remained important contributors to the overall disease burden. Jordan's age-standardized diabetes DALY rate in 2023 was approximately 1.56 times the global rate.\n\nCONCLUSION: Jordan's health profile has shifted toward a greater burden from noncommunicable diseases, while age-standardized health loss and premature mortality have declined substantially. In contrast, nonfatal disability changed comparatively little. These findings provide an evidence base for primary prevention of NCDs and for long-term strategies addressing the country's evolving health challenges.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13723306/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967049",
+      "pmid": "42967049",
+      "doi": "10.1002/ccr3.73822",
+      "title": "Extensive Stray-Dog Mauling as Major Contaminated Crush Trauma Causing Severe Rhabdomyolysis, Acute Kidney Injury, and Overt Disseminated Intravascular Coagulation: Recovery Without Renal Replacement Therapy.",
+      "authors": [
+        "Bshara RA",
+        "Atroshi LA",
+        "Abdullah ZM",
+        "Salim BIM",
+        "Prince G"
+      ],
+      "journal": "Clinical case reports",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "An adolescent male developed severe rhabdomyolysis, acute kidney injury, overt disseminated intravascular coagulation, and respiratory fluid overload after extensive stray-dog mauling. The course reflected overlapping traumatic, inflammatory, and infectious mechanisms. He recovered without renal replacement therapy through source control, individualized antimicrobials, conservative renal support, and timely transition to de-resuscitation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "nephrology"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722833/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966984",
+      "pmid": "42966984",
+      "doi": "10.1029/2025GH001735",
+      "title": "A Spatiotemporal Causal Machine Learning Framework for Quantifying the Impact of PM2.5 on Asthma at the Community Level.",
+      "authors": [
+        "Li J",
+        "Wang X",
+        "Chu HW"
+      ],
+      "journal": "GeoHealth",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Air pollution, particularly fine particulate matter with an aerodynamic diameter of 2.5 μm or smaller (PM2.5), is a leading environmental risk factor for respiratory diseases. While previous studies have investigated the biological mechanisms linking PM2.5 to asthma exacerbation, these studies are unable to scale for population-level assessments. In contrast, most regional analyses rely on traditional statistical models that primarily quantify associations, limiting estimation of health changes under hypothetical pollution interventions. This study introduces a spatiotemporal causal machine learning framework to estimate PM2.5-related changes in asthma outcomes at the county level. Using county-level monthly hospitalization and emergency department records from 2011 to 2019 in Colorado, the framework integrates spatial and temporal representation learning to model geographic interdependence and temporal dynamics in exposure-response relationships. Further, through a causal inference approach, the model estimates model-based counterfactual health outcomes under hypothetical PM2.5 interventions, moving beyond regression-based correlation analysis. Results show that the model-based counterfactual estimates exhibit spatial and population heterogeneity. Larger estimated effects were observed in several communities experiencing compounded environmental and social stressors, while uncertainty was greater in data-sparse counties.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods",
+        "respiratory"
+      ],
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13723011/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966905",
+      "pmid": "42966905",
+      "doi": "10.2519/jospt.2026.14073",
+      "title": "First-Hand Experience and the Value of Telerehabilitation for Chronic Knee Pain: A Discrete Choice Experiment Nested in a Randomized Controlled Trial.",
+      "authors": [
+        "Woode ME",
+        "Hinman RS",
+        "Harris A",
+        "Bennell KL",
+        "Campbell PK",
+        "Lawford BJ"
+      ],
+      "journal": "The Journal of orthopaedic and sports physical therapy",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: The aim of this study was to assess whether first-hand experience of receiving physical therapy via telerehabilitation affected patient preferences and willingness to pay for telerehabilitation. DESIGN: This study used a discrete choice experiment nested within a randomized controlled trial. METHODS: We recruited 319 Australian adults aged 45 years or over, with chronic knee pain consistent with osteoarthritis, who had completed a clinical trial where they were randomized to receive physical therapy via telerehabilitation or in-person. Participants were presented hypothetical scenarios and asked to choose between physical therapy delivered via telerehabilitation or in-person. Each scenario presented seven attributes of consultations at varying levels. Data were analyzed using a generalized multinomial logit and latent class models. RESULTS: There were 164 participants from the in-person trial arm (80% of those randomized) and 155 from the telerehabilitation arm (82% of those randomized) who participated. Participants in the telerehabilitation arm (ie, with first-hand experience of telerehabilitation) were willing to pay AU$ 87.49 (95% confidence interval: 72.83, 102.14) more than people in the in-person arm for telerehabilitation consultations (all other attributes fixed at reference values for categorical variables and at mean values for continuous variables). Four subgroups were identified. In the telerehabilitation arm, 105 (68% of 155) participants preferred telerehabilitation, and 50 (32%) preferred in-person consultations. In the in-person arm, 63 (39% of 164) held a strong preference for in-person consultations, and 101 (61%) had a mild preference for in-person consultations. CONCLUSION: People with first-hand experience using telerehabilitation for physical therapy expressed a greater willingness to use and pay for it than people who experienced in-person care. J Orthop Sports Phys Ther 2026;56(11):735-744. Epub 23 September 2026. doi:10.2519/jospt.2026.14073.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966901",
+      "pmid": "42966901",
+      "doi": "10.2519/jospt.2026.13875",
+      "title": "Effects of Exercise Type and Duration on Pain, Function, and Quality of Life in Patients With Knee Osteoarthritis: A Systematic Review With Bayesian Network Meta-Analysis.",
+      "authors": [
+        "Yang Y",
+        "Cao F",
+        "Su M",
+        "Dong H",
+        "He S",
+        "Su G"
+      ],
+      "journal": "The Journal of orthopaedic and sports physical therapy",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To compare the effects of aerobic exercise, resistance exercise, and combined interventions on pain, function, and quality of life (QoL) in patients with knee osteoarthritis (OA) at the short term (≤12 weeks) and long term (>12 weeks). DESIGN: Intervention systematic review with Bayesian network meta-analysis (NMA). LITERATURE SEARCH: MEDLINE, PubMed, EMBASE, CENTRAL, CINAHL, PEDro, AMED, and SPORTDiscus were searched from inception until July 2025. STUDY SELECTION CRITERIA: We included randomized controlled trials of patients with knee OA that evaluated exercise interventions aimed at improving pain, function, and QoL. DATA SYNTHESIS: Using random-effects models, the NMA synthesized effect sizes and ranked interventions by the surface under the cumulative ranking curve (SUCRA), with evidence certainty assessed via the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. RESULTS: Thirty-five trials (n = 3808 patients) were included. For pain, short-term combined aerobic and resistance exercise had the largest effect among the interventions (standardized mean difference [SMD] = -0.937, low certainty). For function, short-term combined aerobic and resistance exercise had the largest effect estimates (SMD = -0.590, low certainty), followed by long-term aerobic exercise (SMD = -0.540, very low certainty). Short-term combined aerobic and resistance exercise had the largest effect (SMD = 0.663, low certainty) for improving QoL. CONCLUSION: Aerobic and resistance exercise, alone or in combination, and delivered over the short- or long-term, improved pain, function, and QoL for patients with knee OA. Short-term combined aerobic and resistance exercise had clinically meaningful improvements for pain, with relatively favorable effects on function and QoL. Evidence regarding the clinical significance of long-term exercise interventions was limited. J Orthop Sports Phys Ther 2026;56(11):724-734. Epub 24 July 2026. doi:10.2519/jospt.2026.13875.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis",
+        "Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966900",
+      "pmid": "42966900",
+      "doi": "10.2519/jospt.2026.0203",
+      "title": "Broad Conclusions From a Narrow Evidence Base: Comments on a Systematic Review of ESWT for Achilles Tendinopathy.",
+      "authors": [
+        "Schmitz C",
+        "Rich A",
+        "Morgan DR",
+        "Maffulli N"
+      ],
+      "journal": "The Journal of orthopaedic and sports physical therapy",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Letter to the Editor-in-Chief in response to JOSPT article \"Shockwave Therapy for Midportion and Insertional Achilles Tendinopathy: A Nail in the coffin? A Systematic Review With Meta-analysis\" by Korakakis et al. J Orthop Sports Phys Ther 2026;56(11):745-746. doi:10.2519/jospt.2026.0203.",
+      "publication_types": [
+        "Letter",
+        "Journal Article",
+        "Comment",
+        "Systematic Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966899",
+      "pmid": "42966899",
+      "doi": "10.2519/jospt.2026.14210",
+      "title": "Prevalence of Sleep Disorders in Patients With Knee, Hip, and Hand Osteoarthritis: A Systematic Review With Meta-Analysis.",
+      "authors": [
+        "Krag-Andersen KK",
+        "van Zaane JH",
+        "Gaban GLNA",
+        "Bricca A",
+        "Ferreira P",
+        "Hall M",
+        "Vaegter HB",
+        "Thorlund JB"
+      ],
+      "journal": "The Journal of orthopaedic and sports physical therapy",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To estimate the pooled prevalences of insomnia, obstructive sleep apnea, restless legs syndrome, and narcolepsy in patients with knee, hip, or hand osteoarthritis. DESIGN: Prevalence systematic review with meta-analyses. The review protocol was preregistered at PROSPERO (CRD420251005836). LITERATURE SEARCH: We conducted systematic searches in Embase, MEDLINE, and the Cochrane Library from inception to August 2025, supplemented by citation screening and reference checking. STUDY SELECTION CRITERIA: We identified observational and interventional studies reporting prevalence data on sleep disorders among patients with knee, hip, or hand osteoarthritis. DATA SYNTHESIS: Risk of bias was assessed using the Newcastle-Ottawa Scale, and certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation tool. Pooled prevalence estimates were calculated using random-effects proportion meta-analyses, with subgroup analyses based on diagnostic criteria and patient characteristics. RESULTS: Eighteen studies (202 847 participants) were included (three cohort, five case-control, 12 cross-sectional), of which nine studies were of very good to good or high quality. Insomnia was the most prevalent sleep disorder, 42% (95% confidence interval [CI]: 34% to 51%), followed by sleep apnea (37% [95% CI: 6% to 67%]) and restless legs syndrome (35% [95% CI: 10% to 61%]). No studies reported on narcolepsy. Estimates varied by diagnostic criteria and sample characteristics across studies, and the certainty of evidence was very low. CONCLUSION: Sleep disorders, particularly insomnia, were common among patients with knee, hip, or hand osteoarthritis, supporting the need to raise clinical awareness. Future studies may alter prevalence estimates, as only a small number of high-quality studies were identified and large between-study heterogeneity was observed. J Orthop Sports Phys Ther 2026;56(11):710-723. Epub 27 Aug 2026. doi:10.2519/jospt.2026.14210.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966898",
+      "pmid": "42966898",
+      "doi": "10.2519/jospt.2026.14384",
+      "title": "Can Clinicians Predict Which Patients Respond Best to a Specific Treatment? A Systematic Review of Low Back Pain Moderators in Primary Care.",
+      "authors": [
+        "Douglas T",
+        "Jenkins H",
+        "Corrêa LA",
+        "Nogueira L",
+        "Young A",
+        "Hancock M"
+      ],
+      "journal": "The Journal of orthopaedic and sports physical therapy",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To synthesize and critically evaluate evidence on treatment effect moderators in the primary care management of low back pain (LBP). DESIGN: Systematic review of randomized controlled trials (RCTs) and secondary analyses of RCTs. LITERATURE SEARCH: Medline, EMBASE, CINAHL, and Cochrane Library were searched from inception to August 2025. STUDY SELECTION CRITERIA: We included RCTs investigating moderators for primary care interventions in nonspecific LBP. DATA SYNTHESIS: Data were synthesized by exploring data clusters (similar intervention-moderator combinations) and examining high-quality evidence with promising effects. The quality of moderation analyses was assessed using the Instrument for assessing the Credibility of Effect Modification Analyses tool, and trial quality was assessed using the Physiotherapy Evidence Database scale. Study diversity precluded meta-analysis. RESULTS: Seventy-three studies were identified. The studies were highly heterogeneous with almost no repeated investigations of the same intervention-moderator combination. While RCT quality was generally high, moderation analysis quality was poor. Six studies (8% of 73) prioritized effect moderation as the primary aim. The remaining studies tended to analyze available data post hoc rather than assessing theory driven moderators. Ten higher-quality analyses did not identify any clearly important moderators. Results were inconclusive due to high uncertainty (eg, wide confidence intervals, lack of statistical significance) and conflicting findings. Some promising moderators were identified in fair-quality analyses; for example, graded exposure appeared more effective for those with high catastrophizing. CONCLUSION: We identified a broad but superficial body of literature on effect moderation in LBP primary care. The promising moderators identified require further testing before they can be recommended for clinical practice. J Orthop Sports Phys Ther 2026;56(11):699-709. Epub 2 Sep 2026. doi:10.2519/jospt.2026.14384.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966884",
+      "pmid": "42966884",
+      "doi": "10.12659/MSM.953682",
+      "title": "Short-Term Pain Outcomes of Trigger Point Injection Versus Dry Needling for Acute Myofascial Low Back Pain in the Emergency Department: A Prospective Randomized Comparative Study.",
+      "authors": [
+        "Şengün E",
+        "Gür STA"
+      ],
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "BACKGROUND Acute myofascial low back pain prompts emergency department visits, where rapid pain relief matters. Trigger point injection and dry needling are used for myofascial trigger points, but comparative evidence in emergency care is limited. This study compared the short-term analgesic effectiveness of trigger point injection and dry needling in patients with acute myofascial low back pain presenting to the emergency department. MATERIAL AND METHODS This prospective, randomized, comparative study randomized 52 patients; 49 patients who completed at least 1 post-procedure pain assessment were included in the analysis. Pain was assessed using the Numeric Rating Scale (NRS) at baseline and 5, 15, 30, and 60 minutes after the procedure. The principal effectiveness outcome was the between-group difference in percentage pain reduction at 30 minutes. Intravenous fentanyl (1 µg/kg) was administered as rescue analgesia after the 60-minute assessment when required. RESULTS Baseline NRS scores were similar between groups (P=0.191). Percentage pain reduction at 30 minutes was greater after trigger point injection than after dry needling (86.85±17.53% vs 32.98±13.48%; mean difference, 53.86 percentage points; 95% confidence interval, 44.78-62.94; P<0.001). Pain scores were lower and pain reduction was greater after trigger point injection at all post-procedure timepoints (all P<0.001). Rescue analgesia was required in 0 of 26 patients after trigger point injection and 15 of 23 patients (65.2%) after dry needling (P<0.001). No procedure-related adverse events were observed. CONCLUSIONS Trigger point injection was associated with greater short-term pain reduction and less frequent rescue analgesia than dry needling during the first hour of emergency department care. These preliminary findings require confirmation in larger studies.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966868",
+      "pmid": "42966868",
+      "doi": "10.1186/s40662-026-00518-9",
+      "title": "Meibomian gland epithelial cells demonstrate enhanced reliance on glycolysis for energy metabolism and differentiation.",
+      "authors": [
+        "Ren Y",
+        "Li W",
+        "Zhang Y",
+        "Tian Y",
+        "Yi S",
+        "Tian X",
+        "Chen Y",
+        "Ke M",
+        "Xia F",
+        "Liu Y"
+      ],
+      "journal": "Eye and vision (London, England)",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Meibomian gland dysfunction is a leading cause of dry eye disease. Previous studies have established that the meibomian gland exists in a physiological hypoxic environment, with hypoxia-inducible factor 1α playing a regulatory role. However, the metabolic strategy of this gland remains unclear. This study aimed to test the hypothesis that glycolysis serves as an important metabolic pathway in meibomian gland epithelial cells in vivo and that these cells have an enhanced glycolytic phenotype during differentiation.\n\nMETHODS: We combined clinical imaging, tissue analysis, and in vitro experiments to test our hypothesis.\n\nRESULTS: 18F-fluorodeoxyglucose positron emission tomography/computed tomography revealed significantly higher glucose uptake in human meibomian glands than in the orbicularis oculi muscle and surrounding subcutaneous connective tissues outside the tarsal plate, indicating substantial glycolytic activity in vivo. Immunofluorescence staining confirmed strong expression of glycolytic markers, including hypoxia-inducible factor 1α, glucose transporter type 1, hexokinase 2, 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3, and pyruvate kinase M2, and lactate dehydrogenase A, in both human and mouse meibomian gland tissues. In immortalized human meibomian gland epithelial cells, differentiation induced a metabolic shift favoring glycolysis with increased extracellular acidification rate, elevated lactate production, and upregulated glycolytic enzyme expression. Three-dimensional spheroid cultures further revealed state-dependent metabolic heterogeneity.\n\nCONCLUSION: The findings indicate that meibomian gland epithelial cells have a highly glycolytic phenotype in vivo and markedly enhanced glycolytic dependence during differentiation. These support their specialized secretory functions and adaptation to hypoxic microenvironments.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966850",
+      "pmid": "42966850",
+      "doi": "10.1111/cts.70770",
+      "title": "Assessing EHR Cohort Fitness With Partially Paired Registry Data: A New Statistical Approach Applied to Maternal Health in OneFlorida.",
+      "authors": [
+        "Harrall KK",
+        "Muller KE",
+        "Louis-Jacques AF",
+        "Barrow SB",
+        "Li Q",
+        "Shenkman EA"
+      ],
+      "journal": "Clinical and translational science",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Cohort discovery using electronic health records (EHR) supports research recruitment and pragmatic clinical trials; however, the validity of EHR-derived cohorts depends on whether patient characteristics recorded in EHR are representative of the target population. While methods exist for assessing internal validity, no published methods address continuous outcomes when EHR and reference population data partially overlap at the individual level. We present a novel statistical approach for assessing EHR data cohort fitness when partially overlapping data are available from an EHR and a registry. For continuous outcomes, we derived an explicit test accommodating unequal variances and correlation between paired records. For binary outcomes, we recommend generalized linear mixed models with a binomial distribution and logit link. We demonstrate the new approach using maternal health data from the OneFlorida+ Data Trust (n = 37,200) and Florida birth certificate records (n = 210,910) from 2021. OneFlorida+ EHR had higher rates of Black race identification, residence in areas of higher social deprivation, and pre-existing diabetes or hypertension, while showing lower probabilities of gestational complications. Maternal age, height, and cesarean delivery rates were not meaningfully different between data sources. Observed differences may reflect the academic health center composition of OneFlorida+ partner sites; however, substantially higher missingness in OneFlorida+ EHR than birth certificate records for race, ethnicity, and location of residence suggests that data capture differences play a role. This replicable statistical method provides researchers with quantitative tools to assess cohort fitness and is applicable to other clinical research networks where EHR and registry data overlap.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42966652",
       "pmid": "42966652",
       "doi": "10.4037/ajcc2026557",
@@ -47828,7 +48579,8 @@
       "year": 2026,
       "abstract": "BACKGROUND: Pulse oximetry is an essential, noninvasive tool in critical care, yet mounting evidence indicates that readings may be inaccurate in patients with darker skin pigmentation. These discrepancies can delay recognition of hypoxemia and contribute to racial disparities in clinical outcomes.\n\nOBJECTIVE: To quantify the difference between oxygen saturation as measured by pulse oximetry and arterial blood gas measurements across a spectrum of skin pigmentation using objective measures of melanin and skin tone.\n\nMETHODS: A prospective observational study was conducted in an adult critical care unit. Skin pigmentation was measured using reflectance spectrophotometry. Simultaneous pulse oximetry and arterial blood gas readings were collected during routine arterial blood gas sampling. Bias (pulse oximetry value - arterial blood gas value) was calculated for each measurement pair. Multivariate linear regression models were used to assess the association between skin pigmentation and measurement bias, adjusting for potential confounders such as age, sex, and perfusion index.\n\nRESULTS: Forty-two measurement pairs were analyzed. A weak and nonsignificant relationship was found between the individual typology angle and melanin index and the difference between pulse oximetry and arterial blood gas measures.\n\nCONCLUSIONS: Individual typology angle and melanin index are not strong predictors of the difference in oxygen readings between pulse oximeters and arterial blood gas measurements, even in critically ill patients. The weak fit of all models and the lack of statistical significance indicate that other unmeasured factors may play a more substantial role in explaining the variability.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Observational Study"
       ],
       "topics": [
         "critical-care"
@@ -48955,8 +49707,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722996/",
       "source": "PubMed"
     },
     {
@@ -49013,8 +49765,8 @@
         "hematology",
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722948/",
       "source": "PubMed"
     },
     {
@@ -49111,8 +49863,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722882/",
       "source": "PubMed"
     },
     {
@@ -49140,8 +49892,8 @@
       "topics": [
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722904/",
       "source": "PubMed"
     },
     {
@@ -49168,8 +49920,8 @@
         "endocrine",
         "prevention"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722880/",
       "source": "PubMed"
     },
     {
@@ -49222,8 +49974,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722829/",
       "source": "PubMed"
     },
     {
@@ -49247,8 +49999,8 @@
       "topics": [
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722792/",
       "source": "PubMed"
     },
     {
@@ -49272,8 +50024,8 @@
       "topics": [
         "coronary"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722773/",
       "source": "PubMed"
     },
     {
@@ -49302,8 +50054,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722802/",
       "source": "PubMed"
     },
     {
@@ -49329,8 +50081,8 @@
       "topics": [
         "neurology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722777/",
       "source": "PubMed"
     },
     {
@@ -49355,8 +50107,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722797/",
       "source": "PubMed"
     },
     {
@@ -49388,8 +50140,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722611/",
       "source": "PubMed"
     },
     {
@@ -49444,8 +50196,8 @@
         "endocrine",
         "heart-failure"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722603/",
       "source": "PubMed"
     },
     {
@@ -63501,8 +64253,8 @@
         "critical-care",
         "hematology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722761/",
       "source": "PubMed"
     },
     {
@@ -70867,6 +71619,44 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42855491",
+      "pmid": "42855491",
+      "doi": "10.1038/s41423-026-01470-3",
+      "title": "The H3K27me3-NR1D1-IFN-γ axis in trained macrophages induced by early respiratory virus infection drives non-T2 asthma in children.",
+      "authors": [
+        "Li H",
+        "Zheng B",
+        "Qin B",
+        "Li W",
+        "Gao J",
+        "Li M",
+        "Ji W",
+        "Wang J",
+        "Li C",
+        "Zhang L",
+        "Liang J",
+        "Zhang Y",
+        "Zhao L",
+        "Wang M",
+        "Zheng X",
+        "Deng Y",
+        "Zeng R"
+      ],
+      "journal": "Cellular & molecular immunology",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Unlike that of T2 asthma, the pathophysiology of non-T2 asthma remains largely unexplored. However, increasing evidence supports a role for trained macrophages in asthma. In this study, we utilized a non-T2 asthma mouse model associated with early respiratory viral infection to identify the H3K27me3-NR1D1-IFN-γ axis in lung-trained macrophages, which drives non-T2 asthma by promoting Th1 differentiation. Early infection combined with allergen sensitization induced the formation of trained macrophages, which displayed hyperactive methionine cycling and elevated levels of S-adenosylmethionine (SAM). As a substrate for methyltransferase, SAM enhanced the trimethylation of H3K27, subsequently suppressing the expression of the nuclear receptor subfamily 1 group D member 1 (NR1D1) gene through enrichment at its promoter. Interestingly, NR1D1 interacted with the Ifng gene and negatively regulated its expression. High levels of IFN-γ from trained macrophages were observed because NR1D1 was inhibited by elevated H3K27me3 levels. Following allergen challenge, the increased expression of IFN-γ, MHC-II, and CD80/CD86 in trained macrophages positively regulated the activation and differentiation of Th1 cells, which subsequently produced more IFN-γ, thereby promoting non-T2 asthma. Consistently, in patients with asthma, peripheral blood mononuclear cells (PBMCs) and monocytes downregulated NR1D1 expression, resulting in elevated IFN-γ levels. Conversely, treatment of patient monocytes with an NR1D1 agonist led to a marked decrease in IFN-γ production. In mice, non-T2 asthma was significantly inhibited by either the inhibition of H3K27me3, the activation of NR1D1, or the neutralization of IFN-γ. Our results demonstrate that the H3K27me3-NR1D1-IFN-γ axis in lung-trained macrophages, which is associated with early infection, drives non-T2 asthma during childhood in mice. Consequently, SAM, NR1D1, and IFN-γ may serve as potential drug targets for the treatment of non-T2 asthma.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42855472",
       "pmid": "42855472",
       "doi": "10.1038/s41375-026-03125-8",
@@ -71199,6 +71989,30 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42854590",
+      "pmid": "42854590",
+      "doi": "10.1016/j.anireprosci.2026.108350",
+      "title": "Copper nanoparticles as a precision nutrition strategy to enhance reproductive resilience and in vitro sperm fertilizing capacity in heat stressed breeding bulls.",
+      "authors": [
+        "Afzal A",
+        "Mahreen N"
+      ],
+      "journal": "Animal reproduction science",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "Heat stress (HS) is a major environmental challenge that compromises fertility in breeding bulls by disrupting physiological homeostasis and reproductive function. This study evaluated the potential of dietary copper nanoparticles (CuNPs) to improve reproductive resilience and thermotolerance in Sahiwal breeding bulls exposed to summer HS. Eighteen clinically healthy bulls were randomly assigned to three dietary treatments (n = 6/group): control (no CuNPs), S1 (10 mg CuNPs/kg dry matter (DM), and S2 (20 mg CuNPs/kg DM), and maintained under peak HS conditions for 16 weeks. The supplementation of CuNPs significantly improved thermoregulation by reducing rectal temperature, pulse rate, respiration rate, and circulating cortisol while preserving rumen motility. Supplemented bulls exhibited greater semen quality and sperm functional competence, including improved plasma membrane integrity, acrosome integrity, and DNA stability. These modifications were accompanied by enhanced testicular blood perfusion and preservation of ultrasonographic echotexture. Oxidative stress was also attenuated by CuNPs, as indicated by reduced malondialdehyde concentrations and enhanced antioxidant defenses, including superoxide dismutase, catalase, glutathione peroxidase, and total antioxidant capacity. Improved redox status was associated with higher reproductive hormone levels and enhanced immune function. During in vitro fertilization, semen from supplemented bulls achieved higher cleavage and blastocyst rates and produced a greater proportion of transferable grade embryos than the control group. The beneficial effects were more pronounced in the S2 group. These findings demonstrate that dietary copper supplementation in nanoparticle form enhance thermotolerance, redox homeostasis, testicular function, and in vitro sperm fertilizing capacity in heat-stressed Sahiwal breeding bulls.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42854584",
       "pmid": "42854584",
       "doi": "10.1016/j.medcli.2026.107658",
@@ -71220,7 +72034,9 @@
       "year": 2026,
       "abstract": "AIMS: To analyze the differences in clinical characteristics, treatment and 1-year outcomes between patients with HFrEF, HFmrEF and HFpEF according to CKD stage (4-5 versus 1-3).\n\nMETHODS: We analyzed data from 2,245 patients with HF included between 2019 and 2024 by 68 specialized HF units. Clinical characteristics, treatment and 1-year mortality and HF hospitalization rates were compared in HFrEF, HFmrEF and HFpEF patients according to CKD stages4-5 versus 1-3.\n\nRESULTS: Of the 2,245 patients, 54.2% were HFrEF, 12% HFmrEF and 33.8% HFpEF. CKD stages4-5 were present in 9.9% (8.9% of HFrEF, 11.5% of HFmrEF and 11.3% of HFpEF patients). Median age was 73years (IQR: 63-80), being older in CKD 4-5 stages, and 37.3% were female. CKD 4-5 patients received in significantly lower proportion ARNI, MRA, betablockers and SGLT2i in HFrEF and HFmrEF. One-year mortality and 1-year rate of HF hospitalizations were significantly higher in patients with HFrEF and lower in those with HFmrEF and HFpEF in cases of CKD 4-5, but there were no differences among the three types of HF in the CKD 1-3 subgroup. There was significant interaction between ERC severity and HF subtypes (P=.025 for mortality and P=.046 for HF hospitalizations).\n\nCONCLUSIONS: In this contemporary cohort of patients with HF, an association between renal dysfunction and type of HF was observed in terms of 1-year outcomes, with significant differences in event rates between HF types only in cases of more severe CKD.",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Comparative Study",
+        "Multicenter Study"
       ],
       "topics": [
         "heart-failure",
@@ -71294,6 +72110,35 @@
       "topics": [
         "coronary",
         "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42854370",
+      "pmid": "42854370",
+      "doi": "10.1016/j.drugalcdep.2026.113366",
+      "title": "A pilot randomized controlled trial assessing the feasibility and preliminary effects of a text message intervention to promote secure storage and disposal of prescription opioids.",
+      "authors": [
+        "Egan KL",
+        "Cox MJ",
+        "Helme DW",
+        "Jackson JT",
+        "Paukner LD",
+        "Kline DM",
+        "Richman AR"
+      ],
+      "journal": "Drug and alcohol dependence",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Unused prescription opioids are a major source of diversion and nonmedical use, yet adoption of secure storage and disposal practices remains low. Scalable behavioral interventions are needed to promote medication safety. We pilot tested a theory-informed short message service (SMS) text-based intervention designed to encourage secure storage during treatment and disposal of unused prescription opioids following treatment.\n\nMETHODS: We conducted a two-arm, single-blinded randomized controlled pilot trial (June-December 2024) among adults prescribed an opioid medication (≤30 days). Participants (N = 479) were randomized to receive a 45-day SMS intervention or standard care. Surveys were administered at baseline, mid-intervention, and post-intervention. Primary outcomes were self-reported locked storage (mid- and post-intervention) and disposal of unused medication (post-intervention). Feasibility metrics included recruitment, retention, intervention delivery, and acceptability. Logistic regression models assessed group differences using a modified intention-to-treat approach.\n\nRESULTS: Recruitment via electronic health record outreach was feasible, and retention was reasonable (76.6%). Most intervention participants reported the messages were helpful, acceptable, and non-burdensome. A higher proportion of intervention participants compared to control reported storing opioid medications in a locked location. The pilot study was underpowered to detect differences between conditions for disposing of unused medication.\n\nCONCLUSION: A theory-informed SMS intervention to promote opioid medication safety was feasible, acceptable, and associated with improved storage behaviors. Findings support further evaluation through a hybrid effectiveness-implementation trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -72912,6 +73757,39 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13676475/",
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42843238",
+      "pmid": "42843238",
+      "doi": "10.1016/j.jclinane.2026.112330",
+      "title": "Erector spinae plane and superficial parasternal intercostal plane blocks vs. control for sternotomy in cardiac surgery: A prospective, randomized trial.",
+      "authors": [
+        "Shariat A",
+        "Egorova N",
+        "Ouyang Y",
+        "Fang S",
+        "Koshchak E",
+        "Qian D",
+        "Armenta D",
+        "Choi J",
+        "Puskas J",
+        "Bhatt HV"
+      ],
+      "journal": "Journal of clinical anesthesia",
+      "date": "2026-11-01",
+      "year": 2026,
+      "abstract": "BACKGROUND: Cardiac surgical pain is challenging to treat because of its multifactorial nature. Fascial plane blocks present an attractive alternative analgesic technique due to their favorable safety profile and relative technical simplicity.\n\nMETHODS: This prospective, randomized controlled trial tested the hypothesis that fascial plane blocks added to a multimodal analgesic regimen in patients undergoing cardiac surgery will decrease opioid consumption and pain scores postoperatively. Participants included adults of all genders between the ages of 18-85 who were assigned to American Society of Anesthesiologists physical status II-IV and underwent elective sternotomy procedures at Mount Sinai Morningside Hospital Center. Patients were randomized 1:1:1 to standard therapy, erector spinae plane block, or superficial parasternal intercostal plane block. Outcomes included the use of postoperative opioid medications in morphine equivalents, numerical rating scale pain scores, intensive care unit length of stay, hospital length of stay and postoperative nausea.\n\nRESULTS: A total of 271 patients were enrolled into the trial between July 2022 and July 2024. There was no significant difference in opioid consumption during the surgery and on postoperative days 0, 1, and 2, although the median morphine milligram equivalents use on postoperative day 3 was significantly different among the three groups driven by lower consumption in the ESP group, (p = 0.047). Maximum numerical pain rating scale was significantly lower in both regional block groups compared to control for postoperative day 0, 1, 2, and 3: POD 1 (p < 0.001), POD 2 (p < 0.001), and POD 3 (p = 0.002).\n\nCONCLUSION: Patients undergoing sternotomy procedures may benefit from the addition of erector spinae plane or superficial parasternal intercostal plane blocks to a postoperative multimodal analgesic regimen.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "topics": [
+        "clinical-trials"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
       "source": "PubMed"
     },
     {
@@ -75215,8 +76093,8 @@
         "imaging",
         "nephrology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13723068/",
       "source": "PubMed"
     },
     {
@@ -97305,8 +98183,8 @@
       "topics": [
         "pulmonary-vascular"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722760/",
       "source": "PubMed"
     },
     {
@@ -99703,6 +100581,126 @@
       ],
       "topics": [
         "rheumatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967235",
+      "pmid": "42967235",
+      "doi": "10.1016/j.jcin.2026.10.013",
+      "title": "Posterior Leaflet Restoration for Secondary Mitral Regurgitation: EXPLORE MR Results.",
+      "authors": [
+        "Schäfer U",
+        "Abizaid A",
+        "Popma JJ",
+        "Guicciardi NA",
+        "Khairkhahan A",
+        "Campbell D",
+        "Bakall A",
+        "Gogorishvili I",
+        "Shaburishvili T",
+        "Chukhrukidze A",
+        "Feldt K",
+        "Sandoli de Brito F"
+      ],
+      "journal": "JACC. Cardiovascular interventions",
+      "date": "2026-10-31",
+      "year": 2026,
+      "abstract": "BACKGROUND: Secondary mitral regurgitation (MR) contributes to morbidity and mortality in patients with symptomatic valve disease. Although transcatheter edge-to-edge repair is beneficial, many patients remain suboptimal candidates. Posterior leaflet restoration (PLR) provides a prosthetic coaptation surface via an adaptive coaptation element that inflates during systole and deflates during diastole to facilitate leaflet coaptation.\n\nOBJECTIVES: This study aims to evaluate the safety and feasibility of PLR using the MRace implant (Polares Medical, Inc).\n\nMETHODS: Early Feasibility Experience of Posterior Leaflet Restoration to Reduce Mitral Regurgitation Using the MRace Implant in Georgia and Brazil (EXPLORE MR) enrolled 78 symptomatic patients with severe secondary MR (≥3+), stratified post hoc by left ventricular end-diastolic volume: nonseverely enlarged left ventricle (NSELV) (N = 46) and severely enlarged left ventricle (SELV) (N = 32). The primary endpoint was 30-day mortality; secondary endpoints were MR reduction and functional outcomes.\n\nRESULTS: The implant was successfully deployed in 96.2% of patients. All-cause mortality at 30 days was 6.4%. MR ≤2+ was achieved in 93.8% of patients at 30 days and was sustained in 90.6% at 1 year. Patients with NSELV showed better results in MR ≤1+ at every time point (94.4% at 30 days, 89.5% at 1 year) compared with the SELV group (79.3% and 69.2%, respectively). The NSELV subgroup demonstrated better functional recovery, with NYHA functional class I or II rising from 8.7% to 84.2%, vs a more attenuated response in the SELV group (15.6%-76.9%). The 6-minute walk test improved in the paired NSELV cohort (Δ +93.9 m), but not in paired patients with SELV (Δ -7.8 m). Kaplan-Meier 1-year all-cause mortality was 29.5% overall and was better in patients with NSELV (19.4%) than in SELV (41.7%).\n\nCONCLUSIONS: PLR with the MRace implant achieves substantial MR reduction and meaningful functional improvement, most pronounced in patients without severely enlarged left ventricles. (XPLORE MRace [BR]: Early Feasibility Experience of Posterior Leaflet Restoration to Reduce Mitral Regurgitation Using the MRace Implant [EXPLORE MRace]; NCT06113354).",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966866",
+      "pmid": "42966866",
+      "doi": "10.1186/s12872-026-06952-w",
+      "title": "Improvement in mitral regurgitation after alcohol septal ablation in hypertrophic obstructive cardiomyopathy: a retrospective cohort study.",
+      "authors": [
+        "Damlin A",
+        "Rück A",
+        "Mustafic M",
+        "Jandér R",
+        "Rickenlund A",
+        "Eriksson MJ",
+        "Saleh N",
+        "Marlevi D"
+      ],
+      "journal": "BMC cardiovascular disorders",
+      "date": "2026-10-31",
+      "year": 2026,
+      "abstract": "BACKGROUND: The primary mechanism of mitral regurgitation (MR) in hypertrophic obstructive cardiomyopathy is systolic anterior motion (SAM) of the mitral leaflets due to septal hypertrophy narrowing the left ventricular outflow tract (LVOT), influencing leaflet movement and closure. Among patients undergoing alcohol septal ablation (ASA), the impact on- and underlying mechanism of MR remains less studied. The aim was to determine the prevalence of MR and changes in MR severity after ASA and analyze echocardiographic (ECHO) parameters associated with MR changes.\n\nMETHODS: All patients who underwent ASA at Karolinska University Hospital in Sweden, 2009-2021 (follow-up until 2025), were included in this retrospective cohort study. ECHO parameters were collected before ASA, at 1-year follow-up and at the latest follow-up registered. To evaluate differences in continuous values, Kruskal-Wallis test was used, and for categorical values, Fischer's exact test was used.\n\nRESULTS: 154 patients were included (mean follow-up 4.0 ± 3.9 years). 14% (n = 21) had at least moderate MR at baseline, of which 90% (n = 19) improved to mild MR or less. The patients with improved (n = 19, 12%) or unchanged (n = 128, 83%) grade of MR showed greater reduction of LVOT peak pressure gradients (improved MR: 137.5 to 4.8 mmHg, unchanged MR: 57.0 to 25.0 mmHg) between baseline and last follow-up, compared with patients with increased MR grade (n = 7, 4.5%, 57.0 to 51.0 mmHg, p = 0.003).\n\nCONCLUSIONS: Among patients with at least moderate MR before ASA, MR severity generally improved at follow-up, potentially due to septal reduction and LVOT enlargement, which may have reduced SAM.\n\nCLINICAL TRIAL NUMBER: Not applicable.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42966716",
+      "pmid": "42966716",
+      "doi": "10.1016/j.jcct.2026.09.012",
+      "title": "Updates in cardiovascular CT imaging in 2025: A year in review.",
+      "authors": [
+        "Nagpal P",
+        "Priya S",
+        "Bluemke DA",
+        "Garcia-Garcia HM",
+        "Alfaddagh A",
+        "Andreini D",
+        "Baggiano A",
+        "Canan A",
+        "Chelliah A",
+        "Chen MY",
+        "Conte E",
+        "De Cecco CN",
+        "Fairbairn T",
+        "Ferencik M",
+        "Feuchtner G",
+        "Föllmer B",
+        "Hamdan A",
+        "Han BK",
+        "Ko B",
+        "Leipsic JA",
+        "Madan N",
+        "Michallek F",
+        "Mushtaq S",
+        "Ng MY",
+        "Nicol E",
+        "Niinuma H",
+        "Pontone G",
+        "Pourmorteza A",
+        "Reid A",
+        "Weir-McCall JR",
+        "Whelton S",
+        "Yu J",
+        "Williams MC",
+        "Chow BJW",
+        "Fuss C",
+        "Arbab-Zadeh A"
+      ],
+      "journal": "Journal of cardiovascular computed tomography",
+      "date": "2026-10-31",
+      "year": 2026,
+      "abstract": "The year 2025 brought long-term outcome data supporting coronary CT angiography (CCTA)-guided management of stable chest pain, a proposed reframing of coronary artery disease around atherosclerosis rather than ischemia, and the first large-scale real-world evaluation of a national artificial intelligence (AI)-enabled CT-derived fractional flow reserve (FFR-CT) program. This review summarizes selected advances in cardiovascular computed tomography (CCT) published in print or online during 2025. The studies span coronary artery disease outcomes and prevention, quantitative plaque analysis, photon-counting detector CT, coronary artery calcium scoring, pericoronary inflammation imaging, AI and machine learning, structural and congenital heart disease, and consensus and training documents. For each study we summarize the design, principal findings, limitations, and likely clinical implications, and we close with the barriers, including technical standardization, vendor-specific thresholds, equitable access, and the need for randomized outcome trials, that must be addressed before many of these advances can be implemented broadly.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "congenital"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -110166,8 +111164,8 @@
         "prevention",
         "pulmonary-vascular"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13723037/",
       "source": "PubMed"
     },
     {
@@ -358042,948 +359040,6 @@
       ],
       "topics": [
         "hematology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867197",
-      "pmid": "42867197",
-      "doi": "10.1093/ismejo/wrag265",
-      "title": "Fructose metabolic heterogeneity drives vancomycin tolerance in clonal Staphylococcus aureus biofilms.",
-      "authors": [
-        "Jiang Z",
-        "Bian Y",
-        "Ding W",
-        "Kong L",
-        "Yu X",
-        "Hao J",
-        "Zhang W"
-      ],
-      "journal": "The ISME journal",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Bacterial biofilms are characterized by profound heterogeneity, which is a primary driver of their antibiotic recalcitrance and a major obstacle to clinical infection control. However, how metabolic heterogeneity underpins collective antibiotic tolerance within biofilms remains poorly understood, particularly at single-cell resolution. Here, we apply single-cell RNA sequencing to dissect the response of Staphylococcus aureus ATCC 12600 biofilms to vancomycin. We show that vancomycin induces heterogeneous upregulation of the fructose metabolism genes fruA and fruK, which spatially segregates the biofilm into metabolically active and metabolically reduced subpopulations. Active cells exhibit increased fructose consumption, which fuels peptidoglycan biosynthesis and promotes cell wall thickening, as a mechanism that directly enhances vancomycin tolerance. In contrast, certain metabolically reduced subpopulations potentiate oxidative stress repair programs, representing an alternative survival strategy. In a diabetic mouse model characterized by impaired fructose clearance, elevated systemic fructose levels exacerbate pulmonary S. aureus infection, indicating that fructose utilization may reflect clinically relevant features of host susceptibility. Together, our findings uncover a fundamental link between metabolic heterogeneity and antibiotic tolerance in S. aureus biofilms, opening new avenues for the rational design of anti-biofilm therapeutics.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867193",
-      "pmid": "42867193",
-      "doi": "10.5414/CN112097",
-      "title": "Associations of base excess and alactic base excess with KDIGO stage 2 - 3 acute kidney injury in patients with acute ischemic stroke.",
-      "authors": [
-        "Wang J",
-        "Xi Z",
-        "Shi W"
-      ],
-      "journal": "Clinical nephrology",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "PURPOSE: To identify the associations of base excess (BE) and alactic base excess (aBE) with KDIGO stage 2 - 3 acute kidney injury (AKI) in patients with acute ischemic stroke (AIS).\n\nMATERIALS AND METHODS: In this cohort study, 1,377 adult patients with AIS were identified from the Medical Information Mart for Intensive Care IV (MIMIC-IV) database. A univariable logistic regression model was used to explore the associations of all variables with KDIGO stage 2 - 3 AKI during the ICU stay of patients. Confounding factors were screened using bidirectional stepwise regression. Subgroup analysis was stratified based on age, Glasgow Coma Scale (GCS), Sequential Organ Failure Assessment (SOFA), and comorbidities. Forest plot was plotted to identify the associations of BE and aBE with KDIGO stage 2 - 3 AKI in AIS patients in different subgroups. Restricted cubic spline (RCS) was plotted.\n\nRESULTS: A total of 1,377 participants were included, of whom 680 developed KDIGO stage 2 - 3 AKI during their ICU stay. After adjusting for covariates including SOFA, sodium, anticoagulants, furosemide, and aspirin, we found that the association between BE < -5.124 mmol/L and KDIGO stage 2 - 3 AKI was significant (OR = 1.51, 95% CI: 1.05 - 2.16). As for aBE, we observed that aBE < -3.444 mmol/L might be related to KDIGO stage 2 - 3 AKI (OR = 1.57, 95% CI: 1.12 - 2.20). In the adjusted model, aBE < -3.444 mmol/L was associated with elevated OR of KDIGO stage 2 - 3 AKI in AIS patients (OR = 1.43, 95% CI: 1.00 - 2.04). RCS revealed the non-liner associations of BE and aBE with KDIGO stage 2 - 3 AKI in AIS patients.\n\nCONCLUSION: Low BE or aBE were associated with an increased risk of KDIGO stage 2 - 3 AKI in patients with AIS.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care",
-        "nephrology",
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867192",
-      "pmid": "42867192",
-      "doi": "10.5414/CN112095",
-      "title": "Association of IL-8 rs4073 -251T>A gene polymorphism with diabetic nephropathy in patients with type 2 diabetes mellitus.",
-      "authors": [
-        "Kurt I",
-        "Ay A",
-        "Ustundag A",
-        "Kurultak İ",
-        "Üstündağ S"
-      ],
-      "journal": "Clinical nephrology",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "BACKGROUND: Diabetic nephropathy (DN) is one of the most common microvascular complications of type 2 diabetes mellitus (T2DM) and a leading cause of chronic kidney disease worldwide. Inflammatory pathways play a key role in the pathogenesis and progression of DN. Interleukin-8 (IL-8), a pro-inflammatory cytokine involved in leukocyte recruitment and activation, has been associated with renal inflammation and albuminuria. However, the contribution of IL-8 gene polymorphisms to susceptibility and progression of DN remains unclear.\n\nMATERIALS AND METHODS: This cross-sectional case-control study included 138 patients with T2DM and 138 age- and sex-matched healthy controls. Diabetic patients were stratified according to the presence of DN based on urinary albumin excretion and diabetic retinopathy. Genomic DNA was isolated from peripheral blood samples, and the IL-8 rs4073 -251T>A polymorphism was determined using polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) analysis. Genotype and allele frequencies were compared between groups, and clinical and laboratory parameters were evaluated according to genotype status.\n\nRESULTS: Genotype distributions of the IL-8 rs4073 -251T>A polymorphism were similar between T2DM patients and controls, suggesting no association with the development of T2DM. Among diabetic patients, however, the AA genotype was detected only in individuals without nephropathy and was absent in both latent and overt DN groups. Patients lacking the AA genotype demonstrated higher urinary albumin excretion and a greater frequency of nephropathy progression. DN patients also exhibited longer diabetes duration, poorer glycemic control, impaired renal function, and elevated inflammatory markers compared with patients without nephropathy. Additionally, an inverse relationship between the presence of the A allele and leukocyte and neutrophil counts was observed.\n\nCONCLUSION: The IL-8 rs4073 -251T>A polymorphism does not appear to influence susceptibility to T2DM; however, the presence of the A allele may exert a protective effect against the development of diabetic nephropathy. This protective effect may be mediated through modulation of inflammatory pathways, as suggested by the inverse association between the A allele and inflammatory cell counts. Larger multicenter studies are required to confirm these findings.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine",
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867191",
-      "pmid": "42867191",
-      "doi": "10.5414/CP205028",
-      "title": "Recovery from liraglutide-induced acute liver injury assessed for causality using the updated RUCAM as global gold standard: A case report and literature review.",
-      "authors": [
-        "Su F",
-        "Lu W"
-      ],
-      "journal": "International journal of clinical pharmacology and therapeutics",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Liraglutide is a glucagon-like peptide-1 receptor agonist (GLP-1RA) widely used for managing type 2 diabetes mellitus (T2DM) and obesity. Reports of liraglutide-associated hepatotoxicity are exceedingly rare. To our knowledge, this is the 9th case of drug-induced liver injury (DILI) caused by liraglutide to be reported. We present a case of a 40-year-old Chinese woman who developed acute liver injury with elevated liver enzymes following 2 weeks of liraglutide treatment for T2DM. Causality was assessed using the updated RUCAM scale, yielding a score of 7, indicating probable DILI, and the diagnosis was further confirmed by liver biopsy. Liver enzyme levels normalized after discontinuing the drug and administering liver-protective treatment within 3 weeks. Furthermore, this case report includes a comprehensive review of all published cases of liraglutide-associated DILI, emphasizing the necessity of regular hepatic-biochemistry monitoring in patients receiving GLP-1 receptor agonists such as liraglutide and providing meaningful evidence regarding their hepatotoxic risk.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867187",
-      "pmid": "42867187",
-      "doi": "10.5414/NP301761",
-      "title": "A rare case of ultrastructurally proven toxoplasmic myositis masquerading as necrotizing myopathy with emphasis on pathobiology.",
-      "authors": [
-        "Rajeswarie RT",
-        "Mittal S",
-        "Periyasamy G",
-        "Saraf U",
-        "Unnikrishnan G"
-      ],
-      "journal": "Clinical neuropathology",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Toxoplasmosis is a zoonotic infection caused by the obligate protozoan Toxoplasma gondii. In an immunocompetent human host, the parasite forms bradyzoites (tissue cysts), mainly in skeletal muscle, eye, brain, or cardiac muscle, and remains latent. Once cysts are established, type 1 cytokine-based immunity controls the conversion to tachyzoites from bradyzoites. We propose that short-term immunosuppression can only cause a transient defect in this cycle of conversion control. The temporary lapse in conversion control releases few tachyzoites, and the host immunity in response gives rise to cytokines that can cause polymyositis. Myositis and the presence of a parasite in the muscle biopsy are very rare, even in immunosuppressed patients. We present a case of a young man with quadriplegia after immunosuppression for dengue-associated hemophagocytic lymphohistiocytosis. We report a rare case of toxoplasmic myositis in a patient masquerading as necrotizing myopathy, with emphasis on the possible pathomechanism of myositis and ultrastructure of toxoplasma. We recommend that toxoplasma myositis should be included among the differentials of sudden muscular weakness, especially in an immunocompromised host. Our case highlights the crucial role of muscle biopsy in the diagnosis of toxoplasmic myositis. For early diagnosis, a systematic search for toxoplasmosis should be formulated in case of polymyositis, especially in immunocompromised patients, as a quicker identification of the parasite is possible and treatment response is also better in the early, acute phase of toxoplasmic myositis.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867177",
-      "pmid": "42867177",
-      "doi": "10.1093/ntr/ntag226",
-      "title": "Investigating Mediating Factors in the Genetic Link Between Maternal Smoking Around Birth and Offspring's Cardiovascular Disease Risk.",
-      "authors": [
-        "Gao Y",
-        "Zhang Z",
-        "Xie Z",
-        "Lin G",
-        "Huang X",
-        "Jin T"
-      ],
-      "journal": "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Maternal smoking around birth (MSAB) has been associated with adverse offspring health outcomes, but whether it causally increases offspring cardiovascular disease (CVD) risk remains unclear. We evaluated genetic associations of an MSAB proxy on offspring CVDs and explored potential mediating pathways.\n\nMETHODS: We conducted a two-sample Mendelian randomization (MR) study using large genome-wide association study datasets predominantly of European ancestry. Genetic instruments for MSAB were obtained from offspring genotypes associated with reported maternal smoking around birth in the UK Biobank. Outcomes included atrial fibrillation (AF), heart failure (HF), coronary artery disease (CAD), and myocardial infarction (MI). Multivariable MR adjusted for offspring smoking initiation, and two-step MR mediation analyses assessed body mass index (BMI), type 2 diabetes mellitus (T2DM), and lipid traits as potential mediators. The inverse-variance weighted method was the primary analysis.\n\nRESULTS: Genetically predicted MSAB was associated with higher risks of AF (OR=2.23, 95% CI=1.28-3.92, p=4.93×10-3), HF (OR=3.84, 95% CI=1.91-7.76, p=1.70×10-4), and CAD (OR=4.50, 95% CI=1.16-17.51, p=0.03), but not MI. After adjustment for offspring smoking, the associations remained significant for HF (OR=3.88, 95% CI=1.57-9.55, p=3.22×10-3) and CAD (OR=6.23, 95% CI=2.23-17.40, p=4.82×10-4). Mediation analyses suggested that higher BMI and triglycerides, lower HDL-C and ApoA-I, and greater T2DM liability may partly mediate these associations.\n\nCONCLUSIONS: Genetically proxied MSAB was associated with offspring CVD risk, particularly HF and CAD. Adiposity, dyslipidemia, and T2DM may represent important mediating pathways.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "coronary",
-        "electrophysiology",
-        "endocrine",
-        "heart-failure",
-        "prevention"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867174",
-      "pmid": "42867174",
-      "doi": "10.1080/15548627.2026.2747028",
-      "title": "Innate immune signaling relays environmental cues to mitophagy for metabolic adaptation to obesity.",
-      "authors": [
-        "Campbell CJ",
-        "Soleimanpour SA"
-      ],
-      "journal": "Autophagy",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "The mechanisms by which pancreatic β cells sense and communicate environmental cues to mitochondria to maintain insulin secretion remain poorly understood. We identified that β cells transduce metabolic stress, such as during obesity or glucolipotoxicity, through the innate immune signaling adaptor TRAF6 to regulate mitochondrial quality control. TRAF6 was dispensable for β-cell function at baseline yet was essential for glucose-stimulated insulin secretion in mouse or human β cells following nutrient excess. TRAF6 was required for the recruitment of components of both ubiquitin- and receptor-mediated mitophagy pathways to clear dysfunctional mitochondria following metabolic stress. Interestingly, concomitant loss of the ubiquitin-mediated mitophagy effector Parkin restored glucose homeostasis and mitophagy flux in TRAF6-deficient β cells by relieving impediments in receptor-mediated mitophagy. Together, we found that TRAF6 forms a molecular relay linking environmental signals to multiple mitophagy pathways to equip β cells with the means to adapt to metabolic demand and prevent diabetes.Abbreviations: ADP: adenosine diphosphate; ATP: adenosine triphosphate; BNIP3: BCL2 interacting protein 3; GSIS: glucose-stimulated insulin secretion; HFD: high-fat diet; MFN2: mitofusin 2; PRKN: parkin RBR E3 ubiquitin protein ligase; RNF41/NRDP1: ring finger protein 41; SQSTM1/p62: sequestosome 1; T2D: type 2 diabetes; TAX1BP1: Tax1 binding protein 1; TLR: Toll-like receptor; TRAF6: TNF receptor associated factor 6.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867157",
-      "pmid": "42867157",
-      "doi": "10.1021/acssensors.6c02479",
-      "title": "Development of a Magnetic Bead-Based Electrochemical Immunoassay for Human Immunodeficiency Virus Type 1 p24 Antigen Detection.",
-      "authors": [
-        "Baldo TA",
-        "Villarini N",
-        "Unruh B",
-        "Bridges MD",
-        "Enney BM",
-        "Lynd M",
-        "Rai AJ",
-        "Geiss BJ",
-        "Dandy DS",
-        "Henry CS"
-      ],
-      "journal": "ACS sensors",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Early and sensitive detection of human immunodeficiency virus 1 (HIV-1) p24 antigen is crucial for identifying acute infection before seroconversion and monitoring low-level viremia. Here, we report a magnetic bead (MB)-based electrochemical immunoassay using stencil-printed carbon electrodes, systematically comparing streptavidin-, tosyl-, and N-hydroxysuccinimide-MBs for p24 detection. Tosyl-MBs achieved superior analytical performance with limits of detection of 19.4 pg/mL in tris-buffered saline with Tween 20, 24.3 pg/mL in media containing viral lysis buffer, and 8.8 pg/mL in human serum, demonstrating excellent matrix tolerance and reproducibility across the clinically relevant concentration range. The sandwich immunoassay employed optimized capture and horseradish peroxidase-conjugated detection antibodies with chronoamperometric readout using 3,3',5,5'-tetramethylbenzidine substrate at 0.0 V vs a silver pseudoreference electrode, enabling rapid immunocomplex quantification on magnet-retained beads with minimal sample handling. Tosyl-MBs provided the strongest concentration-dependent response across all matrices tested, with surface chemistry influencing antibody immobilization efficiency, nonspecific background signal, and p24 capture capacity. The platform demonstrated stability for at least 28 days under storage conditions and successfully distinguished inactivated HIV-1 samples from negative controls, thereby establishing tosyl-MB electrochemical immunoassays that are compatible with serum and other complex biological matrices. Further validation with clinical specimens, integration of simplified sample-processing steps, and implementation in portable instrumentation will be required to assess their potential for future point-of-care HIV diagnostics.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867155",
-      "pmid": "42867155",
-      "doi": "10.1093/jas/skag333",
-      "title": "Modeling finishing pig growth performance and carcass response to dietary net energy using ingredient nutrient values from four different databases.",
-      "authors": [
-        "Cordoba HM",
-        "Tokach MD",
-        "Gebhardt JT",
-        "DeRouchey JM",
-        "Woodworth JC",
-        "Goodband RD"
-      ],
-      "journal": "Journal of animal science",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Data from 91 grow-finish pig experiments with diets differing in net energy (NE) and other nutrients were used in a meta-analysis to model growth performance and carcass characteristics based on the diet's NE, crude protein (CP), standardized ileal digestible (SID) Lys, neutral detergent fiber (NDF), and lysine to NE (Lys:NE) ratio. Energy and nutrient concentrations in all diets were determined using values from four different databases (NRC, 2012 [NRC]; CVB, 2022 [CVB]; INRA, 2024 [INRA]; Rostagno et al., 2024 [BR]). Stepwise selection using Akaike information criteria was used for model selection considering the linear, quadratic, and interactive effects of NE, SID Lys, CP, NDF, Lys:NE ratio, and body weight. Model variable predictors were generated using a linear mixed model. Selected models indicated that ADG and G:F increased as dietary NE increases in the four databases evaluated. However, the magnitude of response in G:F differed between ingredient databases at the early and late stages of the finishing period. The model using BR database appears to overestimate ADG when diets with concentrations of NDF are used. The 4 models predicted greater changes in ADG and G:F when the Lys:NE ratio was maintained compared to when a constant SID Lys level was used. Dressing percentage (DP), backfat depth (BF), and loin depth (LD) increased and percentage lean (PL) decreased as NE increased with different magnitudes of response depending on the database. However, when a constant Lys:NE ratio was not maintained, increasing NE did not change DP predictions using the BR database, with the NRC and INRA models predicting a slight increase only at high NE levels. The CVB model suggested a similar response in DP whether Lys:NE ratio was maintained or not. For all the ingredient databases, BF and PL were predicted to linearly increase and decrease, respectively, as NE increased whether the Lys:NE ratio was maintained or not, but the changes were greater without maintaining the Lys:NE ratio. The models predicted LD to increase quadratically, with a greater response at low NE levels and the response plateauing at high dietary NE, regardless of whether the Lys to NE was maintained or not. In conclusion, the models generated provide estimates of the magnitude of the change for growth and carcass parameters of grow-finish pigs when dietary NE and other nutrients changed, with the magnitude of the changes being greater when Lys:NE ratio are maintained compared to constant levels of Lys.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867154",
-      "pmid": "42867154",
-      "doi": "10.1093/bioinformatics/btag750",
-      "title": "Inverse probability weighting-based mediation analysis for microbiome data.",
-      "authors": [
-        "Zhang Y",
-        "Wang J",
-        "Shen J",
-        "Galloway-Peña J",
-        "Shelburne S",
-        "Wang L",
-        "Hu J"
-      ],
-      "journal": "Bioinformatics (Oxford, England)",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "MOTIVATION: Mediation analysis is an important tool for elucidating causal mechanisms in biomedical research and has recently gained increasing attention in microbiome studies. Motivated by a microbiome study of acute myeloid leukemia (AML) patients, we investigate whether the effect of induction chemotherapy intensity on infection status is mediated through gut microbial taxa. This problem poses substantial methodological challenges due to the high dimensionality, zero inflation, and dependence of microbial mediators, as well as the presence of an exposure-induced mediator-outcome confounder, antibiotic use.\n\nRESULTS: To address these challenges, we propose a novel nonparametric identification formula for the interventional indirect effect, a causal mediation estimand that remains identifiable in the presence of exposure-induced mediator-outcome confounding. Building on this identification result, we develop an inverse probability weighting estimator and construct standard normal bootstrap confidence intervals for inference. Simulation studies demonstrate that the proposed method achieves accurate effect estimation and maintains appropriate type I error rates and power in finite samples. Application to the AML microbiome study provides evidence of a statistically significant interventional indirect effect of induction chemotherapy intensity on infection risk through alterations in the gut microbiome.\n\nAVAILABILITY AND IMPLEMENTATION: The R code for the simulation studies is available at https://github.com/YX-ZHANG-1/CausalMediationMicrobiome and archived on Zenodo at https://doi.org/10.5281/zenodo.21960802.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867145",
-      "pmid": "42867145",
-      "doi": "10.1111/febs.70764",
-      "title": "Surface charge alterations in urinary extracellular vesicles mirror diabetic kidney disease pathophysiology.",
-      "authors": [
-        "Tepuš M",
-        "Savoca MP",
-        "Maamra M",
-        "Meehan CJ",
-        "Goumenos DS",
-        "Johnson T",
-        "Verderio EAM"
-      ],
-      "journal": "The FEBS journal",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Urinary extracellular vesicles (uEVs) are an attractive source of biomarkers as their cargo of proteins, nucleic acids and lipids reflects cell pathophysiology. The physical properties of uEVs such as their electrical nature measured by the zeta potential (charge at the interface of vesicle and liquid) are seldom explored although their understanding may lead to translational applications of EVs in clinical settings. In diabetes and diabetic kidney disease (DKD), post-translational modifications resulting from loss of glycocalyx (diabetes) and gain of extracellular matrix components (tissue fibrosis) could potentially affect the electrical charge of pathologically relevant EVs. DKD cohorts obtained by adhering to industry-standard reproducible criteria were stratified into stable and progressive disease based on estimated glomerular filtration rate (eGFR) loss and compared to nonkidney disease diabetic and healthy controls. Surface charge analysis revealed a significant difference in the zeta potential of large uEVs between the diabetic and healthy cohorts, as well as between the diabetic and DKD-progressive cohorts. These differences are mechanistically consistent with pathological alterations observed in heparan sulfate (HS) content. Accordingly, uEVs from DKD patients exhibited higher HS levels than those from diabetic individuals, as assessed by SP-IRIS/ExoView using HS-binding capture. Comparative proteomic analysis further demonstrated an increased abundance of the sulfated glycosaminoglycan lumican in DKD uEVs relative to diabetes, consistent with its reported upregulation in early fibrotic stages of DKD. Notably, our findings indicate for the first time that the zeta potential of large uEVs may be predictive of the progression of diabetes into DKD.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867140",
-      "pmid": "42867140",
-      "doi": "10.1093/jas/skag335",
-      "title": "Gestational heat stress alters maternal vaginal microbiome, plasma metabolic markers, and preweaning offspring performance in Bos indicus-influenced cow-calf pairs.",
-      "authors": [
-        "Izquierdo VS",
-        "Brauner CC",
-        "Sousa LM",
-        "Rocha CC",
-        "Laporta J",
-        "Peñagaricano F",
-        "Binelli M",
-        "Bittar JHJ",
-        "Burdick Sanchez NC",
-        "Cooke RF",
-        "Vendramini JMB",
-        "Moriel P"
-      ],
-      "journal": "Journal of animal science",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "This 3-year study evaluated the effects of gestational access to shade on maternal performance, vaginal microbiome composition, and offspring preweaning performance in beef cows. On day 0 of each year (92 ± 20 days prepartum), 176 multiparous, pregnant Brangus crossbred beef cows (25 to 37.5% Bos indicus) were stratified by bull, body weight (BW; 548 ± 51 kg) and body condition score (BCS; 5.52 ± 0.70; scale of 1 to 9), and randomly assigned to 1 of 16 bahiagrass (Paspalum notatum) pastures (11 cows and 8.1 ha per pasture). Treatments were randomly assigned to pastures on day 0 of each year (8 pastures per treatment) and consisted of cows provided (SH) or not (NSH) access to artificial shade (3.27 m2 per cow) from day 0 to 90. Cows were provided free-choice access to artificial shade from day 91 until calf weaning on day 330 (240 ± 20 days of age). Non-binary and binary data were analyzed as a complete randomized study using the MIXED and GLIMMIX procedure of SAS, respectively. Effects of treatment × day × year and treatment × year were not detected (P ≥ 0.11) for any variable, except for calf preweaning BW (P = 0.01). Shade access improved (P ≤ 0.05) cow BCS on days 30, 60, and 150 and modified plasma metabolites, including lower cortisol on day 30 and greater glucose and IGF-1 but lower urea nitrogen on day 60. Shade also reduced (P ≤ 0.05) body surface and rectal temperatures on day 60, respiration rates, and intravaginal temperatures from 1000 to 1400 h. Plasma non-esterified fatty acids, whole blood mRNA expression of heat shock proteins, and reproductive success did not differ (P ≥ 0.12) between treatments. Relative abundance of Blautia and Methanobrevibacter on day 30 were greater (P ≤ 0.05) in SH vs. NSH cows. At birth, gestational access to shade did not impact (P ≥ 0.41) calf plasma cortisol and serum immunoglobulin G but increased (P ≤ 0.05) calf plasma haptoglobin and BW. At weaning, calf BW was greater (P ≤ 0.04) in year 1 but was less (P = 0.05) in years 2 and 3 for NSH vs. SH calves. In conclusion, gestational shade access improved maternal thermoregulation, body condition, and metabolic profile, while modestly shifting the prepartum vaginal microbiome. These maternal responses were accompanied by greater calf birth weight, although weaning performance varied by year, underscoring the dynamic nature of gestational heat stress impacts in subtropical grazing systems.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867124",
-      "pmid": "42867124",
-      "doi": "10.1080/14737175.2026.2744756",
-      "title": "Current and emerging neuromodulation techniques for motor recovery after ischemic stroke: a 2026 update.",
-      "authors": [
-        "Ikramuddin S",
-        "Huang Z",
-        "Zhu L",
-        "Hu X",
-        "Zheng H",
-        "Feng W"
-      ],
-      "journal": "Expert review of neurotherapeutics",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Neuromodulation technologies have emerged as promising tools to enhance motor recovery following ischemic stroke. Acute reperfusion therapy remains highly time-dependent, underscoring the need for interventions that augment post-stroke neuroplasticity. Brain stimulation techniques aim to modulate cortical excitability and promote adaptive reorganization of motor networks during the critical recovery period after stroke.\n\nAREAS COVERED: The authors review recent advances in neuromodulation strategies for post-stroke motor recovery, as well as the key principles underlying neuromodulation. Major noninvasive modalities, including transcranial direct current stimulation (tDCS), repetitive transcranial magnetic stimulation (rTMS), and low-intensity focused ultrasound stimulation (LIFUS), are reviewed alongside emerging applications of invasive techniques such as deep brain stimulation (DBS) and vagus nerve stimulation (VNS). Recent randomized clinical trials and translational studies are also highlighted. This article is based on literature obtained through PubMed and ClinicalTrials.gov searches for content published between 1 January 2020 and 30 March 202630 March 2026 and was supplemented by earlier landmark studies relevant to stroke recovery and neuromodulation.\n\nEXPERT OPINION: Although neuromodulation technologies demonstrate encouraging safety profiles, clinical trial results feature notable neutral results. Future studies bear the burden of refining stimulation paradigms, patient selection, and rehabilitation dosing, possibly leveraging personalized, biomarker-driven patient selection.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867121",
-      "pmid": "42867121",
-      "doi": "10.1002/dvdy.70193",
-      "title": "A review on recent advances in regenerative medicine for renal diseases: Approaches and challenges.",
-      "authors": [
-        "Roy U",
-        "Pillatt AS",
-        "Chan MKS",
-        "Velure RajaRao MR",
-        "Banerjee A",
-        "Pathak S"
-      ],
-      "journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Renal diseases such as acute and chronic kidney disease cause loss of nephrons and kidney function, often leading to renal failure. Current treatments like dialysis and transplantation only manage symptoms and extend survival for a few years. Regenerative medicine offers promising approaches for repairing and regenerating renal tissue by targeting underlying disease mechanisms. For this narrative review, relevant original research articles and review articles were retrieved from online databases such as PubMed, Google Scholar, and ScienceDirect by using relevant keywords such as \"renal regeneration,\" \"kidney organoids,\" \"stem cell therapy,\" \"gene therapy,\" \"extracellular vesicles,\" and \"tissue engineering.\" The literature search focused primarily on articles published between 2020 and 2026 to discuss the recent advancements in regenerative approaches for renal disease. Recent advances in regenerative medicine have identified therapies such as stem cells, gene therapy, CRISPR-Cas9, extracellular vesicles, and kidney organoids that promote nephron regeneration, improve vascularization, regulate inflammation, and restore kidney function. This review highlights the cellular and molecular mechanisms underlying renal damage, recent advances in regenerative medicine, and the key challenges and future directions for the safe and effective use of regenerative medicine in treating renal diseases.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867110",
-      "pmid": "42867110",
-      "doi": "10.1002/acn3.70555",
-      "title": "Stage-Specific Patterns of Imaging and Non-Motor Biomarkers in Spinocerebellar Ataxia Type 3.",
-      "authors": [
-        "Li C",
-        "Ye ZX",
-        "Chen XY",
-        "Qiu LL",
-        "Chen ZL",
-        "Qiu YS",
-        "Lin W",
-        "Yuan RY",
-        "Yu XT",
-        "Huang CY",
-        "Chen XY",
-        "Lin MT",
-        "Hu JP",
-        "Chen WJ",
-        "Wang N",
-        "Yao SB",
-        "Gan SR",
-        "Fu Y"
-      ],
-      "journal": "Annals of clinical and translational neurology",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "OBJECTIVE: Advancements in disease-modifying therapies for spinocerebellar ataxia Type 3 (SCA3) underscore the need for robust biomarkers to monitor disease progression and evaluate treatment efficacy. Although motor phenotypes have been well characterized, less is known about non-motor and imaging-based features across different disease stages. This study aimed to characterize stage-specific patterns of non-motor and imaging biomarkers in SCA3.\n\nMETHODS: This cross-observational study included 229 patients with SCA3 and 104 age- and sex-matched healthy controls from the Organization for Southeast China for cerebellar ataxia research. Non-motor symptoms were assessed using a battery of neuropsychological tests. Brain volume loss was assessed by 3.0-Tesla MRI with regions-of-interest (ROI)-based volumetric analysis. Neuroinflammation was quantified in vivo using translocator protein positron emission tomography (TSPO-PET) with the 18F-DPA-714 radioligand. Additive regression models were fitted to evaluate the cross-sectional associations between biomarkers and disease stages. Receiver operating curve (ROC) analyses were applied to estimate the discriminative ability of the candidate biomarkers.\n\nRESULTS: Non-motor symptoms, including cognitive functions, anxiety, fatigue, depression, and sleep quality, declined after ataxia onset in SCA3. Volume loss in the brainstem and ventral diencephalon diverged from normal controls at 0.7 and 0.2 years before ataxia onset, respectively. Correspondingly, the TSPO signal in the brainstem and ventral diencephalon increased and deviated from normal throughout the disease course.\n\nINTERPRETATION: Our findings propose a staging model of SCA3 that includes a biomarker stage characterized by multidimensional objective indicators of neurodegeneration and neuroinflammation from pre-ataxia to ataxia onset.\n\nTRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT04010214.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13660296/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867081",
-      "pmid": "42867081",
-      "doi": "10.2340/jrm.v58.46786",
-      "title": "Six-month supervised telerehabilitation combining pilates-based therapeutic exercise and self-myofascial release in adults with fibromyalgia: a randomized controlled trial.",
-      "authors": [
-        "Marantidou T",
-        "Germanou E",
-        "Manou V",
-        "Koutlianos N",
-        "Sykaras E",
-        "Terzidis I"
-      ],
-      "journal": "Journal of rehabilitation medicine",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "OBJECTIVE: To evaluate the effects of a 6-month supervised multicomponent telerehabilitation programme combining Pilates-based therapeutic exercise and self-myofascial release on fibromyalgia impact, sleep quality, and psychological outcomes.\n\nDESIGN: Two-arm, parallel-group randomized controlled trial.\n\nSUBJECTS/PATIENTS: 68 adults with fibromyalgia confirmed according to the 2016 ACR criteria.\n\nMETHODS: Participants were randomized to a 6-month supervised home-based telerehabilitation programme (n = 35) or usual care (n = 33). The intervention comprised 3 live online sessions weekly combining Pilates-based therapeutic exercise, self-myofascial release, core stabilization, low-load resistance exercise, stretching, and relaxation. Outcomes were assessed at baseline, 3 months, and 6 months using validated patient-reported measures.\n\nRESULTS: Significant group-by-time interactions were observed for fibromyalgia impact (p < 0.001, partial η2 = 0.132), sleep quality (p < 0.001, partial η2 = 0.129), depressive symptoms (p = 0.002, partial η2 = 0.129), and perceived stress (p = 0.028, partial η2 = 0.065), but not for anxiety (p = 0.701). Mean intervention adherence was 87.5%, with no adverse or serious adverse events reported in either group.\n\nCONCLUSION: 6 months of supervised multicomponent telerehabilitation produced favourable longitudinal changes in fibromyalgia impact, sleep quality, depressive symptoms, and perceived stress compared with usual care.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867071",
-      "pmid": "42867071",
-      "doi": "10.5603/pjnns.114442",
-      "title": "Cognitive assessment in post-stroke delirium: distinguishing impairment from instability.",
-      "authors": [
-        "Barczak A"
-      ],
-      "journal": "Neurologia i neurochirurgia polska",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867031",
-      "pmid": "42867031",
-      "doi": "10.1002/1545-5017.70765",
-      "title": "The Added Value of 18F-FDG PET/CT in Children With Langerhans Cell Histiocytosis Presenting as a Clinically Isolated Lesion.",
-      "authors": [
-        "Wen X",
-        "Zhang S",
-        "Lu X",
-        "Kan Y",
-        "Wang G",
-        "Yang J"
-      ],
-      "journal": "Pediatric blood & cancer",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "BACKGROUND: The clinical utility of 18F-FDG PET/CT in children diagnosed with Langerhans cell histiocytosis (LCH) who present with a clinically isolated lesion remains unclear. This study aimed to assess the added value of 18F-FDG PET/CT in identifying occult lesions and assessing its impact on disease classification and clinical outcomes in this patient population.\n\nMETHODS: This retrospective study included children who underwent surgical resection of a clinically isolated lesion, were confirmed to have LCH by histopathology, and received 18F-FDG PET/CT prior to initiation of systemic therapy. Outcomes including detection of additional lesions, disease reclassification, and progression-free survival were analyzed. Kaplan-Meier analysis with log-rank test was used to compare progression-free survival between groups.\n\nRESULTS: A total of 44 children were included (median age 4.29 years; 70.5% male). 18F-FDG PET/CT identified additional lesions in 24 patients (54.5%), leading to reclassification as single-system multifocal disease in 10 (22.7%) and multisystem disease in 14 (31.8%). Four patients (9.1%) had risk organ involvement. 18F-FDG PET/CT findings altered the treatment strategy in 54.5% of patients. All 5 relapsed patients belonged to the group with additional lesions (p = 0.044).\n\nCONCLUSION: 18F-FDG PET/CT detected additional lesions in over half of the children diagnosed with LCH presenting as a clinically isolated lesion, resulting in disease reclassification and improved risk stratification. 18F-FDG PET/CT should be routinely performed in this clinical scenario to ensure accurate staging and appropriate treatment.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867027",
-      "pmid": "42867027",
-      "doi": "10.1002/wjs.70606",
-      "title": "The Use of Adhesion Barriers in Abdominopelvic Surgery: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-      "authors": [
-        "Mang PVSL",
-        "Chuen HJ",
-        "Ng KT"
-      ],
-      "journal": "World journal of surgery",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "BACKGROUND: The efficacy and safety of adhesion barriers in preventing postoperative adhesions remain uncertain. This systematic review and meta-analysis aimed to evaluate the effectiveness and safety of adhesion barriers in reducing postoperative adhesions following abdominopelvic surgery.\n\nMETHODS: CENTRAL, EMBASE and MEDLINE were searched from inception to January 15, 2025 for parallel-arm randomized controlled trials (RCTs) comparing adhesion barriers with controls in patients undergoing abdominopelvic surgery. Case series, case reports, reviews, animal studies, observational studies and studies involving patients with pre-existing adhesions were excluded.\n\nRESULTS: Thirty-six RCTs involving 6729 patients were included. Adhesion barriers significantly reduced the incidence of postoperative adhesions on second-look assessment compared with controls (21 RCTs, n = 2351; OR 0.37, 95% CI 0.30-0.45, p < 0.00001; I2 = 51%; certainty of evidence: moderate). Subgroup analyses demonstrated significant reductions in postoperative adhesions in both general surgery (9 studies, n = 1162; OR 0.38, 95% CI 0.27-0.53, p < 0.00001; I2 = 27%) and obstetrics and gynecology (12 studies, n = 1189; OR 0.36, 95% CI 0.27-0.47, p < 0.00001; I2 = 62%). Pooled analysis demonstrated no significant differences between the adhesion barrier and control groups in the incidence of anastomotic leakage (9 RCTs, n = 1541), abscess formation (6 RCTs, n = 1182), wound infection (11 RCTs, n = 1084), time between initial surgery and second surgery (10 RCTs, n = 874), intraoperative blood loss (15 RCTs, n = 5327) and adhesion severity (11 RCTs, n = 756). Adhesion barriers were associated with a modest reduction in post-operative small bowel obstruction (12 RCTs, n = 4917; OR 0.81, 95% CI 0.66 to 0.99, p = 0.04; I2 = 38%), but were associated with a significantly longer duration of the index operation (18 RCTs, n = 5868; MD 18.66, 95% CI 11.25 to 26.06, p < 0.00001; I2 = 99%).\n\nCONCLUSIONS: Adhesion barriers reduced adhesions at second-look assessment in a meta-analysis of pooling eight heterogeneous agent classes and procedures against an inconsistently scored surrogate outcome. Thus, evidence remains insufficient to recommend routine use or to define which patients, procedures, or risk levels warrant its use. Until adequately powered, agent-specific trials with standardized scoring and patient-centered endpoints exist, adhesion-barrier use should remain an individual clinical decision, not standard care.\n\nPROSPERO REGISTRATION: CRD42024595564.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867023",
-      "pmid": "42867023",
-      "doi": "10.1002/14651858.CD006258.pub3",
-      "title": "Haemodiafiltration, haemofiltration and haemodialysis for adults with kidney failure.",
-      "authors": [
-        "Vernooij RW",
-        "Strippoli GF",
-        "Veltkamp DM",
-        "Nistor I",
-        "Craig JC",
-        "Saglimbene VM",
-        "Covic AC",
-        "Vecchio M",
-        "supported by Cochrane Kidney and Transplant"
-      ],
-      "journal": "The Cochrane database of systematic reviews",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "RATIONALE: Convective extracorporeal dialysis modalities, haemofiltration (HF), haemodiafiltration (HDF), and acetate-free biofiltration (AFB), remove excess body fluid across the dialysis membrane through an interplay of positive and negative pressures and accumulated middle- and larger-sized solutes more efficiently than haemodialysis (HD). This increased removal of larger solutes, combined with the use of ultrapure dialysis fluid in convective dialysis, is hypothesised to reduce the frequency and severity of symptoms during HD and improve long-term clinical outcomes. This is an update of a review first published in 2006 and updated in 2015.\n\nOBJECTIVES: To determine the benefits and harms of convective (HF, HDF, or AFB) versus diffusive (HD) dialysis modalities, or expanded HD (HDx), in preventing all-cause and cardiovascular death, cardiovascular morbidity, fatigue, and vascular access problems in adults with kidney failure.\n\nSEARCH METHODS: We searched the Cochrane Kidney and Transplant Specialised Register, CENTRAL, MEDLINE, Embase and two trial registers up to 3 April 2025. Additionally, handsearching of journals and conference abstract books was performed, and the references of the included studies were reviewed.\n\nELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs) comparing convective therapy (HF, HDF, AFB) with another convective therapy or with diffusive therapy (HD or HDx) for treating adults with kidney failure.\n\nOUTCOMES: Critical and important outcomes included all-cause and cardiovascular death, nonfatal cardiovascular events, fatigue, problems with vascular access, hospitalisation, and health-related quality of life (HRQoL).\n\nRISK OF BIAS: Two authors independently assessed the risk of bias using the Cochrane RoB 1 tool.\n\nSYNTHESIS METHODS: We summarised treatment effects using the random-effects model and reported risk ratios (RR) for dichotomous outcomes and mean differences (MD) for continuous data with 95% confidence intervals (CI). We assessed the confidence of the evidence using the GRADE approach.\n\nINCLUDED STUDIES: We identified 62 eligible studies (6897 participants). In total, 54 studies (6525 participants) compared HF, HDF or AFB with HD (both high-flux and low-flux); two studies (24 participants) compared AFB with HDF; three studies (62 participants) compared HDF with HF; and four studies (163 participants) compared HDx with HDF/HD.\n\nSYNTHESIS OF RESULTS: Convective dialysis, compared with diffusive therapy, likely reduces the risk of death (any cause) (RR 0.88, 95% CI 0.80 to 0.96; I² = 0%; 15 studies, 5463 participantss; moderate-certainty evidence due to indirectness) and cardiovascular death (RR 0.78, 95% CI 0.66 to 0.92; I² = 0%; 9 studies, 4761 participants; moderate-certainty evidence due to indirectness). Cardiovascular morbidity was likely not different between convective and diffusive dialysis (RR 1.05, 95% CI 0.90 to 1.22; I² = 0%; 2 studies, 2074 participants; moderate-certainty evidence due to indirectness). Little to no differences were found between convective and diffusive dialysis on fatigue (MD -0.95, 95% CI -2.50 to 0.60; 1 study, 543 participants; low-certainty evidence due to imprecision), problems with vascular access (RR 0.87, 95% CI 0.50 to 1.50; 1 study, 124 participants; low-certainty evidence due to imprecision), hospitalisation (RR 1.14, 95% CI 0.96 to 1.37; I² = 0%; 3 studies, 600 participants; low-certainty evidence due to indirectness and imprecision), or physical quality of life (MD 0.66, 95% CI -1.08 to 2.40; 1 study, 538 participants; low-certainty evidence due to imprecision). Direct comparisons between different convective modalities were limited and underpowered to detect meaningful differences.\n\nAUTHORS' CONCLUSIONS: Convective dialysis likely reduces all-cause and cardiovascular death. Effects on nonfatal cardiovascular events, fatigue, vascular access failure, and hospitalisation are inconclusive. Future RCTs should prioritise methodological rigour and could focus on unresolved questions, including the impact of convective therapies on patient-centred outcomes such as symptom burden, HRQoL, functional status, and intradialytic tolerance, as well as investigating barriers to uptake, evaluating health system readiness, assessing cost-effectiveness, and identifying strategies to promote equitable access.\n\nFUNDING: No specific funding.\n\nREGISTRATION: Previous versions available via DOI: 10.1002/14651858.CD006258 and DOI: 10.1002/14651858.CD006258.pub2.",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "topics": [
-        "systematic-reviews"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13659861/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867020",
-      "pmid": "42867020",
-      "doi": "10.1002/acr.80188",
-      "title": "Performance of the Expanded Cardiovascular Risk Prediction Score for Rheumatoid Arthritis: An External Validation in the BRASS Registry.",
-      "authors": [
-        "Paudel ML",
-        "Liao K",
-        "Giles JT",
-        "Bathon JM",
-        "Guan H",
-        "Everett BM",
-        "Santacroce LM",
-        "Shadick N",
-        "Weinblatt M",
-        "Rist P",
-        "Solomon DH"
-      ],
-      "journal": "Arthritis care & research",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "BACKGROUND: Cardiovascular (CV) disease occurs more frequently in rheumatoid arthritis (RA) than in the general population and is difficult to predict. The expanded risk score for RA (ERS-RA) has demonstrated good discrimination and calibration in prior studies, but additional external validation studies are needed to understand clinical utility.\n\nMETHODS: Data from a single center RA registry was integrated with electronic health records (EHR) and linked to Medicare/Medicaid administrative claims data. A less restrictive CV outcome was defined as an event identified in any of the three data sources (questionnaires/EHR/claims), and a more restrictive outcome included events in EHR and claims. External validation of the ERS-RA examined model discrimination and calibration.\n\nRESULTS: The longitudinal RA registry has 1,332 participants aged 20-80 years without prior evidence of CVD, followed for a mean of 6.8 years. The mean age was 54 years and 84% were female. We observed 164 (12.3%) and 69 (5.2%) participants with a CV event with the less and more restrictive CV definitions, respectively. The mean ERS-RA predicted score was 7.1%, and 424 (32%) participants had a predictive score ≥7.5%. We observed c-statistics of 0.66 (95% CI 0.62-0.71; less restrictive) and 0.80 (95% CI 0.76-0.85; more restrictive). The ERS-RA also demonstrated good calibration, with better performance for the more restrictive CV event definition.\n\nCONCLUSIONS: The ERS-RA demonstrated good discrimination and calibration for CV risk prediction in an external validation RA cohort. It also highlights the importance of using multiple sources of data to find CV events in a non-CV registry.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867019",
-      "pmid": "42867019",
-      "doi": "10.1080/09286586.2026.2739999",
-      "title": "Association of Retinal Age Gap with Socioeconomic Deprivation: A Cross-Sectional Analysis of a Large Diverse Urban Cohort.",
-      "authors": [
-        "Verma SS",
-        "Wang Y",
-        "Hu W",
-        "Zhu Z",
-        "Rahi J",
-        "Ge Z",
-        "He M",
-        "Zhou Y",
-        "Keane PA",
-        "Wagner SK"
-      ],
-      "journal": "Ophthalmic epidemiology",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "PURPOSE: Socioeconomic deprivation is a profound determinant of health, driving systemic physiological dysregulation that may accelerate biological ageing. Retinal age gap (RAG) is a validated deep-learning-derived biomarker for accelerated ageing and systemic disease risk. This study investigates the relationship between socioeconomic deprivation and RAG in two large, distinct United Kingdom cohorts.\n\nMETHODS: We performed cross-sectional analysis within the UK Biobank (UKB) (N = 38,412) and the London-based AlzEye (N = 49,681) cohorts. Socioeconomic deprivation was defined using Townsend Index for UKB and Index of Multiple Deprivation (IMD) for AlzEye. RAG was generated from colour fundus photography using a pre-trained deep learning model. We applied linear regression modelling to examine associations between deprivation and RAG, sequentially adjusting for chronological age, sex, ethnicity, hypertension, and diabetes.\n\nRESULTS: The AlzEye cohort was older, more diverse, and had more comorbidities compared to the UKB cohort. Modelled per decile of decreasing deprivation, there was significant association with decreased RAG in both UKB (-0.11 years per decile; 95% CI -0.13 to -0.10; p < 0.001) and AlzEye (-0.43 years per decile; 95% CI -0.46 to -0.39; p < 0.001). Following full adjustment, association remained significant in UKB (-0.04 years per decile; p < 0.001) but was attenuated and non-significant in AlzEye (-0.002 years per decile; p = 0.82).\n\nCONCLUSIONS: Socioeconomic deprivation is associated with accelerated retinal ageing, although influenced by cohort characteristics and underlying health status. Signal attenuation in AlzEye suggests comorbidities may mediate impact of deprivation on retinal ageing. Longitudinal research is required to disentangle complex interplay, ensuring equitable utility of oculomic biomarkers in precision medicine.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine",
-        "prevention"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867012",
-      "pmid": "42867012",
-      "doi": "10.1111/ejh.70341",
-      "title": "Interpreting the Association Between Plasma Citrulline and Bloodstream Infection in Pediatric Acute Myeloid Leukemia.",
-      "authors": [
-        "Aslan M",
-        "Yılmaz E"
-      ],
-      "journal": "European journal of haematology",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867007",
-      "pmid": "42867007",
-      "doi": "10.1080/23279095.2026.2746405",
-      "title": "NIHSS cutoff scores for predicting FIM motor severity at discharge in acute stroke.",
-      "authors": [
-        "Kurosaki S",
-        "Amano S",
-        "Nakazono T",
-        "Chiba S",
-        "Sasaki S",
-        "Jimbo T",
-        "Fukuda M",
-        "Nishiyama K"
-      ],
-      "journal": "Applied neuropsychology. Adult",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Early estimation of activities of daily living outcomes after acute stroke is important for rehabilitation and discharge planning. The aims were to (1) examine Functional Independence Measure (FIM) motor, cognitive, and total score distributions and floor and ceiling effects at discharge; (2) determine the incremental explanatory value of the acute-phase National Institutes of Health Stroke Scale (NIHSS); and (3) derive and internally validate NIHSS cutoff rules for distinguishing adjacent FIM motor severity levels and evaluate their incremental classification value. This retrospective cohort included 974 patients; cognitive and total FIM analyses included 969. Regression analyses and a stratified 70:30 derivation-validation split were used. Ceiling effects were observed for the FIM motor (19.2%), cognitive (34.7%), and total scores (16.0%), whereas no floor effects were observed. Adding NIHSS to clinical variables increased the explained variance for the FIM motor (ΔR2 = 0.253), cognitive (ΔR2 = 0.332), and total scores (ΔR2 = 0.292; all p < .001). Higher NIHSS scores, older age, higher pre-stroke modified Rankin Scale scores, and hemorrhagic stroke were associated with greater FIM motor severity. The NIHSS >17 and >5 rules distinguished severe from moderate and moderate from mild severity, with validation-sample AUCs of 0.777 and 0.780. Adding these rules to baseline models improved the validation-sample AUCs for both comparisons, although paired classification accuracy improved significantly only for severe versus moderate severity. Sensitivity was below 0.70 in some analyses. NIHSS cutoff rules may provide reference points for estimating FIM motor severity at discharge but should not be used as stand-alone predictors.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42867002",
-      "pmid": "42867002",
-      "doi": "10.1002/jdd.70385",
-      "title": "Reimagining Dental Education: Consensus Recommendations for Strengthening Faculty Pathways and Academic Career Success.",
-      "authors": [
-        "Khoynezhad S",
-        "Abou-Arraj R",
-        "Fox CH",
-        "Lee JS",
-        "Lepowsky S",
-        "Nör JE",
-        "Quock RL",
-        "Stanford CM",
-        "Mays KA"
-      ],
-      "journal": "Journal of dental education",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "BACKGROUND: Since the beginning of the 21st century, national reports have warned that dental education is not recruiting and retaining enough oral health faculty, even as student bodies grow and become more diverse and the professions increase the emphasis on oral health's intersection with overall health. The faculty who prepare future clinicians and scientists are in short supply, and this shortage compromises the quality of dental education and ultimately impacts the quality of care delivered to our communities.\n\nOBJECTIVE: To develop consensus recommendations to increase and sustain dental faculty for the oral health professions, addressing financial, debt, and pathway barriers to recruiting and retaining oral health faculty while strengthening research and scholarship.\n\nCONSENSUS PROCESS: Our group (Working Group 3) consisted of eight participants, including dental school deans, clinician-educators, clinician-scientists, national and federal leaders, and a summit scholar. The group reviewed national reports, peer-reviewed literature, and program-specific evidence before and throughout three facilitated working sessions. Consensus was defined as unanimous endorsement of each recommendation following structured deliberation, with no formal objections.\n\nRECOMMENDATIONS: The group advanced five recommendations: faculty loan-repayment programs, earlier admission pathways, a public and professional awareness campaign, deliberate recruitment through existing fellowships and federal programs, and standardized accreditation expectations for faculty development. The public awareness campaign and the faculty loan-repayment program were prioritized as near-term and intermediate priorities, respectively, with success metrics and accountability anchored in annual reporting and a first review in 2028.\n\nCONCLUSIONS: The academic career pathway can be improved and faculty better supported. Aligning the profession's stated priorities with meaningful financial and structural incentives would strengthen faculty recruitment and retention and sustain the workforce advancing oral health education and public health.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866990",
-      "pmid": "42866990",
-      "doi": "10.1128/spectrum.01485-26",
-      "title": "Genomic diversity of human-associated Mycobacterium bovis in Canada.",
-      "authors": [
-        "Sharma MK",
-        "Andrievskaia O",
-        "Tyrrell GJ",
-        "Akochy P-M",
-        "Sekirov I",
-        "Richard-Greenblatt M",
-        "Ma A",
-        "Adam H",
-        "Alawa M",
-        "Simms E",
-        "Islam MR",
-        "Rabb M",
-        "Soualhine H"
-      ],
-      "journal": "Microbiology spectrum",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "Human infections caused by Mycobacterium bovis in Canada are not well documented. The following study analyzed M. bovis (excluding BCG) isolates identified in public health laboratories across Canadian provinces between 2000 and 2025. Whole-genome sequencing was used to catalog mutations linked to antimicrobial resistance and evaluate the genomic relatedness of isolates. The majority of samples in this study were non-respiratory (60%). Of 74 study isolates, 69 (93%) were phenotypically sensitive to first-line drugs isoniazid, rifampin, and ethambutol. The most frequently encountered M. bovis clusters belonged to M. tuberculosis complex lineages La 1.7 and La 1.8. Although some isolates showed phylogenetic clustering, their lack of spatial and temporal relatedness suggested sporadic cases rather than local M. bovis transmission. Of all first-line drugs evaluated, isoniazid showed the lowest concordance (94.4%) between phenotypic and genotypic methods. The isolates in this study harbor some mutations that are not currently documented in the WHO mutation catalog, indicating that these variants may be rare. The findings suggest that the prevalence of M. bovis infection in Canada is low with cases unlikely to be acquired through human-to-human transmission.IMPORTANCEIncidence of human infections due to Mycobacterium bovis in Canada is largely unknown as these data are not collected or annually published. This research is a first effort to identify historical M. bovis isolates that were available for culture, had drug susceptibility testing data, and were analyzed through whole-genome sequencing. The annual reporting of these data in Canada holds value.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866951",
-      "pmid": "42866951",
-      "doi": "10.1093/nar/gkag972",
-      "title": "ZBP1 specifically binds pre-formed Z-RNA, limiting its potential pool of nucleic acid ligands compared to ADAR1.",
-      "authors": [
-        "Krall JB",
-        "Beck LG",
-        "Nichols PJ",
-        "Welty R",
-        "Vicens Q",
-        "Henen MA",
-        "Vögeli B"
-      ],
-      "journal": "Nucleic acids research",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "ZBP1 senses foreign nucleic acids in the unusual, left-handed Z-conformation via binding through its Zα1 and Zα2 domains and initiates cell death pathways that enable viral clearance. dsDNA and dsRNA can adopt Z-conformations; however, both typically require chemical modifications or protein binding to induce Z-form conversion and stabilization. ZBP1 has been previously shown to bind and convert B-DNA to the Z-conformation and was assumed to be able to convert A-RNA as well, despite the lack of experimental validation. Here, we use NMR and other biophysical and biochemical experiments to characterize the Z-DNA and Z-RNA binding properties of ZBP1's Zα1 and Zα2 domains. While ZBP1's Zα domains are able to convert and stabilize unmodified dsDNA in the Z-conformation, they are incapable of flipping unmodified (CpG)n repeat dsRNA. ZBP1's Zα domains require dsRNAs with Z-promoting chemical modifications to be able to bind and stabilize the Z-conformation. These results contrast with ADAR1's Zα domain, which can bind and flip both dsDNA and dsRNA into the Z-conformation, potentially indicating finely tuned competition between ADAR1 and ZBP1 for pro-survival and pro-death outcomes, respectively. This work highlights the functional variability of Zα domains and narrows down potential physiological substrates of ZBP1 in infection and disease.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866942",
-      "pmid": "42866942",
-      "doi": "10.1017/S1047951126124457",
-      "title": "Association between the inferior vena cava collapsibility index and Fontan pressure in patients with Fontan physiology: a two-centre prospective pilot study.",
-      "authors": [
-        "Campbell MD",
-        "Mir A",
-        "Behere S",
-        "Huang JH",
-        "Burch G",
-        "Alnoor M",
-        "Madriago E"
-      ],
-      "journal": "Cardiology in the young",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Patients with functional single ventricle anatomy undergo staged surgical palliation in early childhood culminating in the Fontan procedure whereby the inferior vena cava is connected to the pulmonary artery. Fontan circulation inherently requires elevated central venous pressure to maintain adequate pulmonary blood flow; however, excessive elevation is associated with morbidity and mortality. In adults, a key component of echocardiographic evaluation is the use of a \"sniff test\" as a surrogate of downstream right atrial pressure. This technique has not yet been validated as a measure of pressure assessment in patients with Fontan circulation.\n\nMETHODS: This was a two-center prospective study of patients with functional single ventricle physiology who had undergone the Fontan procedure and were undergoing previously scheduled transthoracic echocardiogram and cardiac catheterization as part of their standard clinical care. We correlated collapsibility index on echocardiogram with directly obtained Fontan pressure measurements from cardiac catheterization performed the same day.\n\nRESULTS: 15 patients were enrolled and analyzed for the study. Collapsibility index demonstrated an inverse correlation with Fontan pressure, (Pearson r = -0.72, R2 = 0.51, p = 0.003). Collapsibility index was significantly higher for patients with non-elevated Fontan pressure (45% vs 30%, p = 0.0005). Using a collapsibility index threshold of 35.0% demonstrated a 100% positive predictive value for detecting elevated Fontan pressure (greater than 14 mmHg).\n\nCONCLUSIONS: There was a significant inverse relationship between the collapsibility index and Fontan pressure. These findings may suggest a possible association between collapsibility index and Fontan pressure, warranting further investigation in larger studies.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital",
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866940",
-      "pmid": "42866940",
-      "doi": "10.1080/14737159.2026.2749580",
-      "title": "MRSA nasal PCR as a prevalence-dependent stewardship tool in hospitalized children: a structured review.",
-      "authors": [
-        "Bakir M",
-        "Shrestha R"
-      ],
-      "journal": "Expert review of molecular diagnostics",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Empiric anti-methicillin-resistant Staphylococcus aureus (MRSA) therapy is common in hospitalized children with severe pneumonia or suspected sepsis. MRSA nasal polymerase chain reaction (PCR) is increasingly used to support de-escalation, but its central metric, the negative predictive value (NPV), is often quoted without the prevalence on which it depends.\n\nAREAS COVERED: PubMed, EMBASE, and the Cochrane Library were searched from January 2018 to April 2026. Twenty-seven sources were synthesized; the pediatric diagnostic-accuracy and stewardship studies and the in-window meta-analyses were appraised with QUADAS-2, EPOC, or AMSTAR-2. We examine why NPV is high in children, the prevalence above which a negative swab no longer rules out infection, performance by syndrome, and the pediatric implementation and cost literature, and propose a prevalence-conditioned framework for prospective evaluation.\n\nEXPERT OPINION: The pediatric evidence is observational, and no study was designed to test whether PCR-guided de-escalation is safe. A negative swab is a defensible rule-out aid in severe or complicated pneumonia and selected low-prevalence intensive care sepsis, but not in skin, soft-tissue, or osteoarticular infection. Because NPV depends on prevalence, programs should measure the proportion of children with the target syndrome who have culture-confirmed MRSA infection locally before applying a published NPV.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "critical-care",
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866939",
-      "pmid": "42866939",
-      "doi": "10.1017/dmp.2026.10469",
-      "title": "Shifts in Dermatology Outpatient Diagnostic Patterns Following a Major Earthquake: A Comparative Pre- and Post-Disaster Study.",
-      "authors": [
-        "Taner Akbay S",
-        "Aşkar S",
-        "Doğramacı AÇ"
-      ],
-      "journal": "Disaster medicine and public health preparedness",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "OBJECTIVE: To compare dermatologic outpatient diagnostic frequencies before and after the February 6, 2023 Hatay earthquake and to evaluate the implications of these temporal changes for disaster-responsive dermatologic care.\n\nMETHODS: This retrospective study compared tertiary-center dermatology outpatient diagnosis records from the pre-earthquake (February 6, 2021-February 3, 2023) and post-earthquake (May 11, 2023-February 6, 2025) periods. Diagnoses were classified into 18 categories and 69 ICD-10-coded subdiagnoses. Logistic regression adjusted for age, sex, and calendar month using patient-clustered robust standard errors; aORs with 95% CIs and FDR-adjusted q values were reported.\n\nRESULTS: Among 41,012 diagnosis records, 19,646 were from the pre-earthquake period and 21,366 from the post-earthquake period. After adjustment, infestations/insect bites were more frequently represented in the post-earthquake diagnostic mix (aOR 2.55, q < 0.001). Dermatitis (aOR 1.17, q < 0.001), bacterial diseases (aOR 1.58, q < 0.001), environmentally induced diseases (aOR 1.51, q = 0.003), and sexually transmitted diseases (aOR 1.50, q < 0.001) were also more frequently represented. Acneiform disorders were less frequently represented (aOR 0.61, q < 0.001). Despite a crude increase, fungal infections did not differ significantly in the adjusted analysis (aOR 1.04, q = 0.149).\n\nCONCLUSIONS: Post-earthquake records showed more infestations and selected infectious and environmentally related diagnoses, but lower representation of some chronic disorders. These clinic-based associations support dermatologic surveillance, infection control, and continuity of care in disaster planning without implying population-level prevalence changes or causal earthquake effects.",
-      "publication_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866921",
-      "pmid": "42866921",
-      "doi": "10.1093/ejhf/xuag323",
-      "title": "Guideline directed medical therapy and decongestion in patients with acute heart failure.",
-      "authors": [
-        "Ivey-Miranda JB",
-        "Cox ZL",
-        "Rao VS",
-        "Moreno-Villagomez J",
-        "Ramos-Mastache D",
-        "Maulion C",
-        "Bellumkonda L",
-        "Turner JM",
-        "Yamamoto Y",
-        "Butler J",
-        "Biegus J",
-        "Ponikowski P",
-        "Ter Maaten J",
-        "Damman K",
-        "Nunez J",
-        "Petrie MC",
-        "Wilson FP",
-        "Testani JM"
-      ],
-      "journal": "European journal of heart failure",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "heart-failure"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866917",
-      "pmid": "42866917",
-      "doi": "10.1093/ejhf/xuag320",
-      "title": "Consistency of the effect of digoxin across clinical subgroups in heart failure with reduced ejection fraction: insights from the DIG trial.",
-      "authors": [
-        "Chimura M",
-        "Docherty KF",
-        "Campbell RT",
-        "Gardner RS",
-        "Henderson AD",
-        "Lee MMY",
-        "Petrie MC",
-        "Jhund PS",
-        "McMurray JJV"
-      ],
-      "journal": "European journal of heart failure",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "heart-failure"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42866916",
-      "pmid": "42866916",
-      "doi": "10.1093/ejhf/xuag324",
-      "title": "The Polypill: The Unmet Need and Great Hope for Heart Failure Patients.",
-      "authors": [
-        "Biegus J",
-        "Böhm M",
-        "Butler J",
-        "Ponikowski P"
-      ],
-      "journal": "European journal of heart failure",
-      "date": "2026-10-13",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "heart-failure"
       ],
       "has_full_text": false,
       "full_text_url": null,
