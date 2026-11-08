@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:16:40.349309+00:00",
+  "generated_at": "2026-11-08T01:28:44.491761+00:00",
   "articles": [
     {
       "id": "pmid:42987263",
@@ -51646,6 +51646,86 @@
       ],
       "topics": [
         "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42967625",
+      "pmid": "42967625",
+      "doi": "10.3760/cma.j.cn112151-20260527-00410",
+      "title": "[Expert consensus on pathological evaluation of esophageal squamous cell carcinoma after neoadjuvant therapy (2026 version)].",
+      "authors": [
+        "Esophageal Cancer Cooperative Group of Cancer Pathology Committee of China Anti-Cancer Association"
+      ],
+      "journal": "Zhonghua bing li xue za zhi = Chinese journal of pathology",
+      "date": "2026-11-08",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "topics": [
+        "guidelines"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42763180",
+      "pmid": "42763180",
+      "doi": "10.1016/j.aca.2026.346130",
+      "title": "Highly specific detection of PET NPs using an amino-functionalized PEC sensor based on a SnS2@MoS2 heterojunction.",
+      "authors": [
+        "Liu J",
+        "Cheng J",
+        "Wu W",
+        "Niu J",
+        "Zhang Z",
+        "Guo P",
+        "Du M"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-11-08",
+      "year": 2026,
+      "abstract": "The rapid detection of polyethylene terephthalate (PET) nanoplastics (PET NPs) is hindered by their low concentration, high mobility and lack of a distinguishable interface with other nanoplastics. In this study, we developed an SnS2@MoS2/APTES amino-functionalized photoelectrochemical sensor capable of detecting PET NPs with high specificity. The SnS2@MoS2 heterojunction synthesized via in situ hydrothermal synthesis and the APTES self-assembled amino-functionalized interface enable PET NPs to interact with amino-functionalized interface at multiple sites through oxygen-containing groups such as ester groups, carbonyl oxygen and ether oxygen. The sensor exhibits a detection range of 0.5-800 μg mL-1 for PET NPs, with a detection limit of 0.17 μg mL-1. DFT calculations further indicate that the PET-APTES system exhibits a lower adsorption energy (-1.37 eV) and a more significant interfacial charge rearrangement, demonstrating that the APTES amino siloxane interface exhibits a polymer structural selectivity toward PET. Furthermore, this PEC sensor exhibits good recovery rates (96.04%-102.76%) in practical water samples such as seawater, bottled water and tap water. It provides a new method for interface recognition and signal conversion for the specific PEC detection of PET nanoplastics.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42763179",
+      "pmid": "42763179",
+      "doi": "10.1016/j.aca.2026.346128",
+      "title": "Instant CMQT stabilization coupled UHPLC-MS/MS for the quantification of reduced and total forms of cysteine, homocysteine, and glutathione in blood plasma.",
+      "authors": [
+        "Zhou Y",
+        "Tan H",
+        "Chen Y",
+        "Luo H",
+        "Li H",
+        "Luo W",
+        "Xiao Y",
+        "Lin Z"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-11-08",
+      "year": 2026,
+      "abstract": "BACKGROUND: Reduced and total forms of cysteine (Cys), homocysteine (Hcy), and glutathione (GSH) are key players in redox homeostasis, and their dysregulation is linked to diseases such as sepsis. However, accurate quantification of reduced thiols in plasma remains challenging due to rapid air oxidation of native thiols. In this work, a thiol-specific reagent (2-chloro-1-methylquinolinium tetrafluoroborate, CMQT) that reacts rapidly under mild conditions was coupled with UHPLC-MS/MS to develop a method for the simultaneous determination of reduced and total forms of Cys, Hcy, and GSH in plasma samples.\n\nRESULTS: CMQT rapidly stabilizes native thiols in whole blood without inducing hemolysis. The proposed method was validated for linearity, precision, accuracy and sensitivity. Calibration curves showed excellent linearity (R2 > 0.9993). Intra- and inter-day precisions ranged from 0.14% to 7.23%, and accuracy from -5.62% to 4.15%. The limits of detection for the reduced and total forms of Cys, Hcy and GSH ranged from 0.051 to 0.88 μM. The method was successfully applied to a lipopolysaccharide-induced endotoxemia mouse model, revealing that reduced Hcy and reduced GSH may serve as potential biomarkers for early and late oxidative stress, respectively. The method was also validated on human plasma samples, confirming its applicability across species and revealing sex-related thiol differences.\n\nSIGNIFICANCE: The combination of rapid and hemolysis-free thiol stabilization with MS-based structural characterization provides a robust analytical tool for thiol redox studies and could be extended to other biological matrices.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -358629,93 +358709,6 @@
       ],
       "topics": [
         "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42899389",
-      "pmid": "42899389",
-      "doi": "10.1093/ajrccm/aamag484",
-      "title": "Geo-economic variations in structure and organization of intensive care units: the ISOREA survey.",
-      "authors": [
-        "Mekontso Dessap A",
-        "Myatra SN",
-        "Roche-Campo F",
-        "Antonelli M",
-        "Bracht H",
-        "Gouveia J",
-        "Uyar M",
-        "Ouanes Besbes L",
-        "Coulibaly Y",
-        "Demoule A",
-        "Hernandez G",
-        "Gendreau S",
-        "ISOREA collaborators"
-      ],
-      "journal": "American journal of respiratory and critical care medicine",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "PURPOSE: Little is known on critical care services globally. This study aimed to describe ICU resources and organization across countries and assess variability by income group, between countries, and within countries.\n\nMETHODS: Participating centers provided structured data on hospital and ICU characteristics via electronic case report form (January 2018 to July 2020). Questionnaire included 237 items covering general characteristics (2 topics) and ICU resources and organization (18 topics). We computed standardized functional domain scores (ISOREA score), classified ICUs using Marshall criteria, and readiness for essential emergency and critical care using a modified Schell score.\n\nRESULTS: A total of 1,426 ICUs from five continents were recruited, and 1,225 were analyzed, from high-income countries (HICs, 58%), upper-middle-income (20%), and low/lower-middle-income countries (LLMICs, 22%). Most ICUs were in referral centers (90%) and large urban areas (80%). Most variables (93%) were significantly associated with income group, Most variables (93%) were significantly associated with income group, with 88% showing higher levels in HICs and lower levels in LLMICs. Six domains showed major disparities: extracorporeal support, respiratory support, emergency access to interventional radiology and surgery, neurology and trauma care, patient file and general monitoring, and cardiovascular and hemodynamic monitoring. According to the Marshall classification, 79% of ICUs in HICs were classified as level III, whereas 55% of ICUs in LLMICs were classified as level I. Domains with higher ISOREA scores varied primarily between countries, whereas lower-performing domains exhibited greater variability across ICUs within the same country. Adjustment for income group reduced, but did not eliminate, country-level clustering.\n\nCONCLUSION: Substantial disparities exist in ICU resources and organization across income groups, countries, and ICUs. ICU capacities appeared multidimensional, extending beyond resource limitations.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care",
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42899386",
-      "pmid": "42899386",
-      "doi": "10.1093/ajrccm/aamag549",
-      "title": "Cross-Ancestry Analysis of the 1q31 Th2-Associated Interval in Steroid-Dependent Asthma.",
-      "authors": [
-        "Qu HQ",
-        "Qiu H",
-        "Mentch FD",
-        "Cardinale CJ",
-        "Hakonarson H"
-      ],
-      "journal": "American journal of respiratory and critical care medicine",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "respiratory"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42899381",
-      "pmid": "42899381",
-      "doi": "10.1111/ejh.70342",
-      "title": "Hepatitis-Associated Aplastic Anemia in Children and Adolescents: A Comprehensive Review.",
-      "authors": [
-        "Liao E",
-        "Subedi S",
-        "Kasper V",
-        "Fassel H"
-      ],
-      "journal": "European journal of haematology",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "Hepatitis-associated aplastic anemia (HAAA) is a rare but life-threatening subtype of acquired aplastic anemia (AA) that predominantly affects children and adolescents, characterized by bone marrow failure developing weeks to months following acute hepatitis. Although HAAA accounts for a small proportion of AA cases, it presents unique diagnostic and therapeutic challenges and remains poorly understood. Most cases are seronegative, with no identifiable viral pathogen, supporting an immune-mediated pathophysiology. Emerging evidence implicates dysregulated cytotoxic T-cell activation, reduced regulatory T-cell function, and a shared immune target within hepatic and hematopoietic tissues. HAAA follows a variable course of hepatitis and pancytopenia, which necessitates a high index of suspicion and thorough evaluation to exclude inherited and secondary causes of bone marrow failure. Management strategies are largely extrapolated from severe AA and include supportive care, immunosuppressive therapy with antithymocyte globulin and cyclosporine, and hematopoietic stem cell transplantation. While outcomes have improved with modern therapy, relapse, treatment failure, and clonal evolution remain challenges. This review synthesizes current knowledge on the epidemiology, pathophysiology, clinical features, diagnostic approach, treatment options, and outcomes of pediatric HAAA, highlighting critical gaps in evidence and the need for prospective studies to guide risk stratification and therapy optimization.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "gastro-hepatology"
       ],
       "has_full_text": false,
       "full_text_url": null,
