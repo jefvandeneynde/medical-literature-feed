@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:31:55.863326+00:00",
+  "generated_at": "2026-11-09T01:45:37.773284+00:00",
   "articles": [
     {
       "id": "pmid:42987263",
@@ -52569,6 +52569,161 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42999994",
+      "pmid": "42999994",
+      "doi": "10.1515/hmbci-2026-0069",
+      "title": "Hormones, glycaemia and innate immunity: correlates of NK cell dysfunction in type 2 diabetes.",
+      "authors": [
+        "Omer ZK",
+        "Hanqing C",
+        "Dawood AA"
+      ],
+      "journal": "Hormone molecular biology and clinical investigation",
+      "date": "2026-11-09",
+      "year": 2026,
+      "abstract": "OBJECTIVES: Type 2 diabetes mellitus (T2DM) is linked to impaired natural killer (NK) cell function and altered sex hormone homeostasis. We examined the associations of HbA1c, sex hormones and NK-cell subsets with peripheral blood mononuclear cell (PBMC) cytotoxicity.\n\nMETHODS: In this cross-sectional study, 58 patients with T2DM and 62 metabolically healthy controls were enrolled. PBMC cytotoxicity (specific lysis of K-562-GFP target cells, an NK cell-associated readout) was measured by flow cytometry. Serum estradiol, testosterone and HbA1c were measured, and NK-cell subsets were quantified by flow cytometry. In an exploratory sub-cohort of 16 patients undergoing bariatric surgery, omental adipose tissue (OAT)-derived immune cells were compared with paired PBMCs.\n\nRESULTS: There was a reduction in PBMC cytotoxicity for men with T2DM compared to control men and for women compared to men with T2DM. Multiple regression analysis showed that the cortisol level and PBMC cytotoxicity were inversely correlated (adjusted R2=0.218), while the testosterone level and percentage of CD56+CD16+ NK-cells were positively correlated (adjusted R2=0.218). The OAT-derived cells proved to be more cytotoxic than matched PBMCs (p=0.0005).\n\nCONCLUSIONS: These are theory generating associations. The cross-sectional design and limited number of children in the OAT sub-cohort and the lack of surgical control group in the non-diabetic population limit the ability to make causal inferences and need to be confirmed in future prospective studies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42993667",
+      "pmid": "42993667",
+      "doi": "10.1097/jnr.0000000000000776",
+      "title": "Effect of Infection-Site-Targeted Postural Drainage on Mechanical Ventilation Duration in Intensive Care Unit Patients: A Randomized Controlled Trial.",
+      "authors": [
+        "Lv Q",
+        "Shen G",
+        "Yang L",
+        "Wu Y"
+      ],
+      "journal": "The journal of nursing research : JNR",
+      "date": "2026-11-09",
+      "year": 2026,
+      "abstract": "BACKGROUND: Mechanical ventilation (MV) is essential for intensive care unit (ICU) patients with respiratory failure, but prolonged MV increases the risk of complications.\n\nPURPOSE: This study was conducted to evaluate the effect of infection-site-targeted postural drainage, guided by imaging, on patient outcomes compared with conventional care.\n\nMETHODS: In this randomized controlled trial, 384 ICU patients requiring MV were assigned to either the personalized-care group (PCG), which received imaging-guided drainage, or the routine-care group (RCG), which received standard positional changes. The primary outcome was MV duration, and secondary outcomes included PaO2/FiO2 (PF) ratios, ICU/hospital length of stay, and 28-day mortality.\n\nRESULTS: The PCG was found to have significantly shorter MV duration (median 7 vs. 9 days, p<.05) and higher PF ratios at critical time points (X2, X4, X5; p<.001). A shorter average ICU stay length was reported for the PCG (12.3 vs. 13.4 days), although the difference was not significant after multivariable adjustment. No between-group difference was observed in terms of 28-day mortality.\n\nCONCLUSIONS: The results indicate that imaging-guided, nursing-led postural drainage effectively improves pulmonary function and shortens MV and ICU lengths of stay without increasing mortality risk, supporting the integration of individualized pulmonary care, potentially enhanced through intelligent technologies, into routine ICU practice.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care",
+        "infectious",
+        "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42999996",
+      "pmid": "42999996",
+      "doi": "10.1093/eurjpc/zwag573",
+      "title": "Variability of lipoprotein(a) levels in patients with acute myocardial infarction between admission, discharge, and follow-up.",
+      "authors": [
+        "Simon T",
+        "Khani Bittar R",
+        "Rousseau A",
+        "Prunier F",
+        "Cayla G",
+        "Ferrari E",
+        "Lhermusier T",
+        "Berard L",
+        "Goube P",
+        "Lemesle G",
+        "Bouleti C",
+        "Cottin Y",
+        "Eltchaninoff H",
+        "Bonnefont-Rousselot D",
+        "Angoulvant D",
+        "Popovic B",
+        "Schiele F",
+        "Aboyans V",
+        "Puymirat E",
+        "Barone-Rochette G",
+        "Thuaire C",
+        "Coste P",
+        "Gallet R",
+        "Saulat-Dufour L",
+        "Danchin N",
+        "Steg PG",
+        "Boccara F",
+        "FRENCHIE-Lp(a) Investigators and the French Alliance for Cardiovascular Trials (FACT) investigators network"
+      ],
+      "journal": "European journal of preventive cardiology",
+      "date": "2026-11-08",
+      "year": 2026,
+      "abstract": "AIMS: Lipoprotein(a) [Lp(a)] is an established risk factor for atherosclerotic cardiovascular disease. Using Lp(a) concentrations measured during stable follow-up as the reference, we aimed to assess the temporal variability of Lp(a) after acute myocardial infarction (AMI) and to explore a pragmatic strategy for Lp(a) measurement.\n\nMETHODS AND RESULTS: The FRENCHIE-Lp(a) cohort enrolled consecutive adults hospitalized for AMI in 21 centres. Lp(a) mass concentration, measured at admission, hospital discharge, and 3-12 months follow-up, was analysed both as a continuous and predefined categorical variable (≤20, >20-≤50, >50-≤70, >70 mg/dL). Assuming follow-up Lp(a) as the reference, we aimed to identify the threshold values that would allow us to accurately identify patients with Lp(a) > 70mg/dL, the threshold mostly used for patient selection in phase III trials of targeted Lp(a) therapies. A cumulative threshold analysis was performed to identify the Lp(a) value below which the misclassification rate (i.e. % of patients with follow-up Lp(a) > 70 mg/dL) remained <1%. Among 1561 patients (aged 61 ± 12 years; 21.3% women), median Lp(a) was 13 mg/dL at admission and remained stable over time (median difference overtime = 0 mg/dL). However, only 68.5% of patients remained in the same Lp(a) category overtime. In patients with discharge-Lp(a) ≤37 mg/dL (72.5% of the population), only 0.97% had Lp(a) >70 mg/dL at follow-up compared to 39.9% of those with discharge-Lp(a) >37 mg/dL.\n\nCONCLUSION: Although the median Lp(a) level remained stable between admission and follow-up, one-third of AMI patients shifted within Lp(a) categories over time. Pending external validation, an exploratory two-step strategy based on Lp(a) measurement at discharge, followed by repeat testing in patients with Lp(a) >37 mg/dL, showed a misclassification rate below 1% for identifying patients potentially needing intervention.\n\nREGISTRATION: Clinical trial Number: NCT04050956.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42999988",
+      "pmid": "42999988",
+      "doi": "10.1161/JAHA.126.055490",
+      "title": "Thymectomy Extent, Immune Recovery, and Infectious Burden After Neonatal Cardiac Surgery.",
+      "authors": [
+        "Rojas A",
+        "Katasani H",
+        "Faateh M",
+        "Potter AS",
+        "Chappell G",
+        "Mantell BS",
+        "Morales DLS",
+        "Karamlou T",
+        "Moore C"
+      ],
+      "journal": "Journal of the American Heart Association",
+      "date": "2026-11-08",
+      "year": 2026,
+      "abstract": "BACKGROUND: Neonatal cardiac surgery frequently requires thymectomy, but the consequences of extensive thymic removal remain uncertain.\n\nMETHODS: We retrospectively studied 105 neonates undergoing sternotomy (2015-2024), comparing infections and 6-month lymphocyte recovery after partial versus total thymectomy, with Firth regression adjusted for bypass duration and surgical era. Separate cohorts underwent paired plasma biomarker (n=8) and whole-blood RNA sequencing (n=4) analysis before and after thymectomy.\n\nRESULTS: Among 105 neonates, 27 underwent partial and 78 total thymectomy. Multiple infections occurred in 2 of 27 (7%) after partial and 23 of 78 (30%) after total thymectomy (P=0.02); after adjustment for bypass duration and surgical era, the association was not statistically significant (Firth-adjusted odds ratio, 2.99 [95% CI, 0.82-15.85]; P=0.10). Median lymphocyte count decreased after total but increased after partial thymectomy (change, -0.8 versus +0.9×103/μL; P=0.011). Tumor necrosis factor-α decreased in all 8 biomarker participants (unadjusted P=0.0078). RNA sequencing in 4 patients (2 partial, 2 total thymectomy) identified 835 differentially expressed genes; pre-T-cell receptor α decreased in all 4 pairs (log2 fold change, -2.50; adjusted P=6×10-6).\n\nCONCLUSIONS: Total thymectomy was associated with reduced 6-month lymphocyte recovery and higher unadjusted odds of multiple infections. The infection association was not statistically significant after adjustment, and few events (2 of 27 after partial thymectomy) limit precision and cannot exclude a clinically important effect; these findings are hypothesis-generating. Biomarker and transcriptomic findings are exploratory and cannot distinguish thymectomy from surgery, maturation, or postoperative recovery. Prospective studies are underway to evaluate thymic preservation and autologous reimplantation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "congenital",
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42999986",
+      "pmid": "42999986",
+      "doi": "10.1080/02770903.2026.2759488",
+      "title": "Asthma prevalence and influenza and COVID-19 vaccination coverage among children aged ≤17 years with asthma.",
+      "authors": [
+        "Hou S",
+        "Lu P",
+        "Liu P"
+      ],
+      "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+      "date": "2026-11-08",
+      "year": 2026,
+      "abstract": "OBJECTIVE: Children with asthma are at increased risk for complications from respiratory infectious diseases. This study assessed asthma prevalence and influenza and COVID-19 vaccination coverage among children with asthma.\n\nMETHODS: Data from the 2024 National Health Interview Survey (NHIS) were analyzed to assess asthma prevalence and influenza and COVID-19 vaccination coverage by asthma status among children.\n\nRESULTS: Current asthma prevalence was 6.5% among children aged ≤17 years. Prevalence was higher among children aged 5-12 years (8.2%) and 13-17 years (7.8%) compared with those aged <5 years (2.2%). Influenza and COVID-19 vaccination coverage among children with current asthma were 54.1% and 50.9%, respectively. Asthma prevalence and vaccination coverage varied by demographic and access-to-care characteristics.\n\nCONCLUSION: Asthma prevalence was higher among older children, males, and non-Hispanic Black children. Influenza and COVID-19 vaccination coverage among children with asthma remained low. Tailored strategies are needed to reduce the asthma burden and improve vaccination coverage in populations with lower uptake.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "respiratory"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42999959",
       "pmid": "42999959",
       "doi": "10.1161/CIRCULATIONAHA.126.083993",
@@ -52626,8 +52781,9 @@
       "year": 2026,
       "abstract": "Post-cardiac arrest brain injury represents a central component of the post-resuscitation syndrome, driven not only by the initial hypoxic-ischemic insult but also by reperfusion injury after the return or start of mechanical circulation. Complex neuronal damage accounts for a substantial proportion of mortality among successfully resuscitated patients, making reliable neurological prognostication a key objective of post-resuscitation care and clinical decision-making. The 2025 European Resuscitation Council guidelines emphasize a structured, multimodal approach to neuroprognostication. Prognosis should not rely on a single parameter; instead, it requires the integrated interpretation of clinical findings, electrophysiological data, neuroimaging results, and circulating biomarkers. This strategy aims to reduce falsely pessimistic predictions, prevent premature withdrawal of life-sustaining therapy, and avoid the unnecessary prolongation of futile intensive care in cases of irreversible brain injury. In the early phase of return of spontaneous circulation, neurological assessment may be confounded by several factors, including residual sedation, neuromuscular blockade, metabolic disturbances, and cardiorespiratory instability. Therefore, accurate prognostication depends on the correction of reversible conditions and stabilization of physiological parameters before definitive conclusions are drawn. Importantly, neurological outcome assessment is inherently time-dependent, and appropriate timing is essential for safe and evidence-based decision-making. Overall, the 2025 recommendations advocate standardized, multidisciplinary, and stepwise neuroprognostication as a cornerstone of post-resuscitation management, prioritizing patient-centered care while minimizing uncertainty and supporting long-term neurological recovery whenever possible. Orv Hetil. 2026; 167(45): 1799-1809.",
       "publication_types": [
-        "English Abstract",
-        "Journal Article"
+        "Journal Article",
+        "Review",
+        "English Abstract"
       ],
       "topics": [
         "critical-care"
@@ -53052,8 +53208,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744129/",
       "source": "PubMed"
     },
     {
@@ -57223,8 +57379,8 @@
       "topics": [
         "hematology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744161/",
       "source": "PubMed"
     },
     {
@@ -57705,8 +57861,8 @@
       "topics": [
         "endocrine"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13743997/",
       "source": "PubMed"
     },
     {
@@ -57739,8 +57895,8 @@
       "topics": [
         "endocrine"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13743998/",
       "source": "PubMed"
     },
     {
@@ -57767,8 +57923,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744109/",
       "source": "PubMed"
     },
     {
@@ -58473,6 +58629,69 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42886024",
+      "pmid": "42886024",
+      "doi": "10.1093/jpids/piag112",
+      "title": "Incidence and Risk Factors for Invasive Mold Infections in Children During First-Line Chemotherapy for Primary Acute Leukemia: A National Retrospective Cohort Study.",
+      "authors": [
+        "Duus RM",
+        "Joergensen ES",
+        "Offendal EB",
+        "Vissing NH",
+        "Juul-Dam KL",
+        "Rosenvinge FS",
+        "Grosen D",
+        "Birk NM",
+        "Harder KM",
+        "Husby S",
+        "Moeller JB",
+        "Christensen R",
+        "Duus LA",
+        "Rathe M"
+      ],
+      "journal": "Journal of the Pediatric Infectious Diseases Society",
+      "date": "2026-11-07",
+      "year": 2026,
+      "abstract": "BACKGROUND: Invasive mold infections (IMI) are life-threatening complications during treatment for pediatric acute leukemia. Population-based data on IMI incidence, timing, and outcomes during first-line therapy remain limited. We aimed to provide a nationwide epidemiological overview of IMI during first-line treatment of pediatric acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) and explore potential treatment-related risk factors.\n\nMETHODS: We conducted a retrospective nationwide cohort study of all children (<18 years) initiating first-line chemotherapy for AML or ALL in Denmark during 2008-2022. IMIs were classified as proven or probable according to 2020 European Organization for Research and Treatment of Cancer and the Mycoses Study Group Education and Research Consortium criteria by review of microbiology, imaging, pathology, and chart data. Follow-up covered first-line chemotherapy. Competing risk-adjusted cumulative incidence of IMI was estimated, risk factors were evaluated using Cox regression, and survival after IMI was analyzed using the Kaplan-Meier method.\n\nRESULTS: Among 621 patients, 43 (6.9%) developed IMI: 14/90 (15.6%) with AML and 29/531 (5.5%) with ALL. In adjusted Cox regression, AML was associated with higher IMI hazard than ALL (HR 5.6, 95% CI, 2.6-12.1), whereas no other prespecified risk factors were independently associated with IMI. Incidence rates were 38.6 per 100 patient-years in AML and 2.7 in ALL. Nearly half of IMIs occurred beyond 90 days after initiation of first-line chemotherapy. Four patients experienced a second distinct IMI episode; Aspergillus species accounted for 37 out of 47 (79%) episodes and non-Aspergillus molds for 10 out of 47 (21%). IMI-associated death occurred in 10 patients (1.6% of the cohort), yielding a case fatality rate of 23% among IMI cases; IMI was present in 43% of all deaths.\n\nCONCLUSIONS: In this nationwide cohort, IMI occurred more frequently than reported in many previous pediatric studies, particularly in AML. IMIs were observed throughout first-line therapy, despite antifungal prophylaxis, and were associated with substantial mortality, emphasizing the need for sustained clinical vigilance beyond induction.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42872936",
+      "pmid": "42872936",
+      "doi": "10.1093/jpids/piag109",
+      "title": "Real-World Use of Ceftazidime-Avibactam for Carbapenem-Resistant Enterobacterales Infections in Children: A 7-Year Cohort from a Latin American Referral Center.",
+      "authors": [
+        "Novoa Villada MG",
+        "Restrepo Gouzy A",
+        "Trujillo-Honeysberg M",
+        "Viana AM",
+        "Arbeláez Gómez M",
+        "Rodríguez Padilla LM",
+        "Diaz AD"
+      ],
+      "journal": "Journal of the Pediatric Infectious Diseases Society",
+      "date": "2026-11-07",
+      "year": 2026,
+      "abstract": "BACKGROUND: Pediatric data on ceftazidime-avibactam (CAZ-AVI) for carbapenem-resistant Enterobacterales (CRE) infections remain limited, particularly in Latin America, where Klebsiella pneumoniae carbapenemase (KPC)-producing organisms are endemic. We describe the clinical characteristics, microbiological profile, and outcomes of children with CRE infections treated with CAZ-AVI at a tertiary referral center in Colombia.\n\nMETHODS: We conducted a retrospective cohort study of children younger than 18 years with clinically significant CRE infections treated with CAZ-AVI between January 2018 and June 2025. Clinical, microbiological, treatment, and outcome data were collected. The primary outcome was clinical response at the end of therapy.\n\nRESULTS: Forty-three patients were included (median age, 11 years [IQR, 6-15]); 25 patients (58%) were immunocompromised, 29 (67%) required PICU admission, and 16 (37%) presented with septic shock. K. pneumoniae was the predominant pathogen (33 patients, 77%), and KPC was the most common carbapenemase detected (39 patients, 91%). Clinical improvement within 72 h occurred in 40 patients (93%), with a median time to response of 2 days (IQR, 2-3). Overall, 40 patients (93%) achieved clinical cure. The estimated 30-day survival probability was 95.3% (95% CI, 88.8-100), recurrence occurred in 3 patients (7%), and no treatment-related adverse events were documented.\n\nCONCLUSION: In this real-world pediatric cohort from a KPC-endemic setting, CAZ-AVI was associated with favorable clinical outcomes and good tolerability. These findings support its role as an important therapeutic option for pediatric CRE infections and underscore the importance of mechanism-guided antimicrobial management.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:42667934",
       "pmid": "42667934",
       "doi": "10.1016/S0140-6736(26)01654-5",
@@ -59000,8 +59219,8 @@
       "topics": [
         "respiratory"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13741443/",
       "source": "PubMed"
     },
     {
@@ -59029,8 +59248,8 @@
       "topics": [
         "critical-care"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744116/",
       "source": "PubMed"
     },
     {
@@ -59060,8 +59279,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13741582/",
       "source": "PubMed"
     },
     {
@@ -59103,8 +59322,8 @@
       "topics": [
         "systematic-reviews"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13741725/",
       "source": "PubMed"
     },
     {
@@ -59129,8 +59348,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13741535/",
       "source": "PubMed"
     },
     {
@@ -59152,8 +59371,8 @@
       "topics": [
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744121/",
       "source": "PubMed"
     },
     {
@@ -59178,8 +59397,8 @@
         "gastro-hepatology",
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13741611/",
       "source": "PubMed"
     },
     {
@@ -93245,8 +93464,8 @@
       "topics": [
         "clinical-trials"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744128/",
       "source": "PubMed"
     },
     {
@@ -358963,199 +359182,6 @@
       ],
       "topics": [
         "research-methods"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42902594",
-      "pmid": "42902594",
-      "doi": "10.1177/15385744261501882",
-      "title": "Transarterial Computed Tomographic Angiography in Patients With Impaired Renal Function Undergoing Endovascular Aortic Repair.",
-      "authors": [
-        "Beropoulis E",
-        "Pitoulias AG",
-        "Bisdas T",
-        "Torsello GB",
-        "Torsello GF"
-      ],
-      "journal": "Vascular and endovascular surgery",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "PurposeComputed tomography angiography (CTA) is crucial for preoperative planning and postoperative surveillance of endovascular aneurysm repair (EVAR). Renal function impairment however limits pre- and postoperative assessment. The aim of our study was to evaluate the safety and diagnostic value of a novel technique in the setting of patients undergoing EVAR.Methods216 patients with chronic kidney disease undergoing transbrachial placement of an angiography catheter in the aorta for contrast medium administration were analyzed retrospectively. 45 patients with normal kidney function and aortic aneurysms were included as control group. 27 were female, 84 cases were for thoracoabdominal aortic aneurysm, while 106 cases were for abdominal aortic aneurysm. Primary endpoint was the freedom from contrast-induced acute kidney injury. Secondary safety endpoints were freedom from access site complications and cerebrovascular incidents. Imaging quality endpoints were attenuation values and contrast-to-noise-ratios in predefined vessels, validated by intraclass correlation coefficients.ResultsMean creatinine change was -.11 mg/dL, mean GFR change was 2.13% in the intervention group. There were 10 (4.6%) false aneurysms and two access site hematoma (0.93%). Two cerebrovascular incidents (0.9%) were transient. Transarterial CTA attenuation values varied between 210.4 (±89) and 241.4 (±98) Hounsfield units (HU), and 306.35 (±63.27) to 321.39 (±70.12) HU in the control group. The mean amount of contrast medium used in the catheter group was significantly reduced (31.70 ± 5.82 mL) compared to the control group (P = .001). Contrast-to-noise ratios varied between 9.1 (±4.6) and 11.1 (±4.4. Intraclass correlation coefficients between the readings were very good (0.987-0.992).ConclusionCatheter-based transarterial computed tomographic angiography is a safe and efficacious way to evaluate patients with aortic aneurysms, both prior and after EVAR.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42902586",
-      "pmid": "42902586",
-      "doi": "10.1177/10738584261490865",
-      "title": "Plasticity in Human Brain Language Areas After Stroke: What Can the Right Hemisphere Do?",
-      "authors": [
-        "Seydell-Greenwald A",
-        "Martin KC"
-      ],
-      "journal": "The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "Among the most devastating effects stroke can have on the lives of survivors and those around them are language production and comprehension impairments. The most notable of them - often given the joint diagnostic label of \"aphasia\" despite their heterogeneity and dissociability - are associated with damage to the brain's left hemisphere, which, in large part for this reason, is considered the \"language-dominant\" hemisphere. However, the right hemisphere's contribution to language should not be underestimated and may in fact be key to understanding the possibilities and limitations of neuroplasticity for supporting language recovery after stroke. Thus, in this review, we focus on the role of the right hemisphere in supporting human language function, in the neurologically healthy brain and after stroke. We discuss the remarkable capability of the right hemisphere to support normal language abilities after a large left-hemisphere stroke early in life, the more limited capacity for right-hemisphere language support after left-hemisphere stroke in adulthood, and potential interactions between typically left-hemisphere dominant \"core\" language functions with language functions typically thought to be right-hemisphere dominant, such as emotional prosody. We conclude by highlighting gaps in current knowledge and suggesting areas for future research.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42902585",
-      "pmid": "42902585",
-      "doi": "10.1177/1096620X261500242",
-      "title": "Lactobacillus delbrueckii subsp. lactis CKDB001 Attenuates Hepatic Steatosis and Metabolic Dysfunction in High-Fat Diet-Induced Obese Mice.",
-      "authors": [
-        "Lee J",
-        "Cho M",
-        "Chu J",
-        "Kim YW",
-        "Lee J",
-        "Kwon YJ",
-        "Shin CH",
-        "Joung H",
-        "Ha JH"
-      ],
-      "journal": "Journal of medicinal food",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "Metabolic dysfunction associated with obesity frequently coincides with hepatic lipid accumulation; however, effective preventive strategies are scarce. This study evaluated the dose-dependent effects of Lactobacillus delbrueckii subsp. lactis CKDB001 in mice with high-fat diet (HFD)-induced obesity. Male C57BL/6J mice were assigned to a normal diet, HFD, or HFD with CKDB001 at one of three different doses (LL1, 5.0 × 108; LL2, 1.0 × 109; LL3, 5.0 × 109 CFU/day). Following 4 weeks of HFD feeding, CKDB001 was administered daily for 8 weeks while maintaining the HFD. Among the doses, LL2 demonstrated the most consistent outcomes, including reductions in body weight gain and liver and adipose tissue weights, without affecting food or energy intake. LL2 also decreased serum total cholesterol, alanine aminotransferase levels, hepatic cholesterol content, and histological scores for steatosis, fibrosis, and nonalcoholic fatty liver disease. Although changes in hepatic triglyceride and lipid metabolism-related gene expression were minimal, LL2 and LL3 enhanced colonic Zo-1 and occludin mRNA expression compared to the HFD group, suggesting a potential gut-associated transcriptional response to CKDB001 supplementation.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42902565",
-      "pmid": "42902565",
-      "doi": "10.1080/10410236.2026.2749455",
-      "title": "Words That Heal: A Systematic Review of Healthcare Providers-Patient Communication to Enhance Chronic Care Management and Practice Recommendations.",
-      "authors": [
-        "Pietrabissa G",
-        "Rapelli G",
-        "Marchesi G",
-        "Castelnuovo G"
-      ],
-      "journal": "Health communication",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "Chronic diseases represent a major global health burden, and suboptimal treatment adherence remains a key obstacle to long-term management. Healthcare provider (HCP)-patient communication is a modifiable determinant of adherence and psychological functioning, yet evidence remains fragmented across conditions and communication domains. This review builds on patient-centered communication scholarship and established models of communication functions and pathways linking clinician-patient communication to health outcomes. This systematic review synthesizes empirical evidence on HCP-patient communication strategies associated with treatment adherence and psychological outcomes among adults with chronic diseases, including diabetes, cancer, cardiovascular, and respiratory conditions. Following PRISMA guidelines and PROSPERO registration (CRD42020171690), five databases (Scopus, PubMed, PsycINFO, Cochrane Library, Google Scholar) were searched. Results: Twenty-seven studies met the inclusion criteria. Communication strategies clustered into four macro-domains: (1) trust and interpersonal relationship; (2) information exchange and decision processes; (3) active involvement, empowerment, and autonomy; and (4) change processes, emotional regulation, and management of difficulties. Domains were defined a priori from patient-centered communication, self-management, and behavior-change literature and refined during data extraction. Across conditions, integrated communication patterns addressing multiple domains were generally associated with favorable adherence, self-management, clinical, quality-of-life, and healthcare-utilization outcomes, although evidence strength varied by study design, disease context, and methodological quality. Findings support a provisional, evidence-informed framework in which HCP-patient communication strategies, organized within relational, informational, participatory, and change-regulatory macro-domains, may engage proximal regulatory processes that, in turn, may be associated with adherence and other chronic-care outcomes. Prospective studies are needed to test these pathways.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42902540",
-      "pmid": "42902540",
-      "doi": "10.1002/marc.70461",
-      "title": "A One-Stone-Two-Birds Strategy to Develop P-Por COF/PDES Composite Gels for Photothermal/Photodynamic Antibacterial Activity and Wearable Strain Sensing.",
-      "authors": [
-        "Ma Z",
-        "Wang L",
-        "Fan Z",
-        "Yang W",
-        "Xuan S",
-        "Lu H",
-        "Yang W"
-      ],
-      "journal": "Macromolecular rapid communications",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "Flexible wearable electronics face growing bacterial infection risks from prolonged skin contact, creating an urgent demand for flexible materials integrating efficient sensing and antibacterial functions. Herein, a novel phosphorus-containing porphyrin covalent organic framework (P-Por COF) was synthesized via a solvothermal Schiff-base reaction, and incorporated into a polymerizable deep eutectic solvent to fabricate P-Por COF/PDES composite gels through in-situ UV polymerization. The resulting gel exhibited enhanced photothermal performance, improved mechanical properties, and excellent near-infrared (NIR) triggered antibacterial activity. Under 730 nm NIR light irradiation, the P-Por COF/PDES composite gel could reach 76 °C with 4 min, while showing excellent stability of photothermal cycle. Based on the synergistic effect of photodynamic production of singlet oxygen and photothermal effect, the P-Por COF/PDES composite gel resulted in a high bactericidal rate of nearly 100% against both Staphylococcus aureus (S. aureus) and Escherichia coli (E. coli). The P-Por COF/PDES composite gel delivered a fracture strain up to 2435.82% and 2.6-fold higher toughness than pure PDES, along with stable, sensitive and self-healable strain sensing for human motion monitoring. Overall, this work provides a simple and effective strategy for developing antibacterial materials and multifunctional gels with integrated therapeutic and sensing capabilities.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42902539",
-      "pmid": "42902539",
-      "doi": "10.1002/wjs.70630",
-      "title": "Optimal Resources for Children's Surgery 2: Tiered Recommendations for Minimum Essential Children's Surgical Procedures Across Health System Levels.",
-      "authors": [
-        "Biswangree A",
-        "Ameh EA",
-        "Lakhoo K",
-        "Shalaby M",
-        "Cairo SB",
-        "GICS Membership"
-      ],
-      "journal": "World journal of surgery",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "BACKGROUND: In 2015 the World Health Assembly (WHO), based on recommendations by the Lancet Commission on Global Surgery, passed resolution (68:15) on strengthening emergency and essential surgical care and anesthesia as a component of universal health coverage. However, children's surgery was not adequately represented and in response, the Global Initiative for Children's Surgery (GICS) published the Optimal Resources for Children's Surgical Care (OReCS) in 2019 providing insight into procedures which should be performed at different facility types. OReCS 2 addresses a gap in both policy and published literature to further define surgical conditions and procedural capabilities by hospital level.\n\nMETHODS: We performed a review of the literature to identify procedures routinely performed in a variety of settings. We then used an iterative Delphi like approach to identify specialty-specific procedures and nursing skills by hospital level. Participation was open to all members of GICS with representation from 21 working groups and more than 50 low-middle income countries (LMICs) and high-income countries (HICs). Data on essential procedures were collected for twelve specialty groups. Modifications of the recommendations provided by the working groups were made by the executive board based on firsthand knowledge of capabilities at lower-level facilities where subspecialists have less experience. Final recommendations were made based on greater than 75% agreement by respondents and review of the executive board of GICS.\n\nRESULTS: Procedures performed at health centers were limited to those not requiring anesthesia or sedation and were largely identified to help triage and stabilize patients for transfer to higher level care. Similarly, first level hospital procedures focused on stabilization and transfer to referral level hospitals for most specialties. Alternatively, specialties such as ophthalmology and dental surgery have identified definitive procedures for lower-level facilities. Procedures performed at the National Children's Hospital level include those requiring specialty providers and equipment such as transplantation, repair of congenital heart disease, and reconstructive surgery for complex trauma, congenital anomalies, and burns.\n\nCONCLUSIONS: This updated version of OReCS provides specific examples of procedural capabilities for twelve subspecialties at the health center, first, second, third, and referral level hospitals in LMICs. Whereas the list is not meant to be all inclusive, it provides a framework within which to define the minimum essential material resources, equipment, and personnel by hospital level.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42902526",
-      "pmid": "42902526",
-      "doi": "10.1111/acps.70151",
-      "title": "Bipolar Disorder and the Risk of Cardiovascular Diseases: A Systematic Review and Meta-Analysis of Observational Studies.",
-      "authors": [
-        "Motta FDS",
-        "Ruffini ML",
-        "Ritter AC",
-        "Ferrão SM",
-        "Silva RS",
-        "Mastella NDS",
-        "Montezano BB",
-        "Ajub E",
-        "Kapczinski F",
-        "Pinto JV",
-        "Passos IC"
-      ],
-      "journal": "Acta psychiatrica Scandinavica",
-      "date": "2026-10-20",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Bipolar disorder (BD) is a chronic psychiatric illness characterized by recurrent manic and depressive episodes, affecting 2% of the global population. It is associated with premature mortality, including cardiovascular disease (CVD)-related mortality. Although clinically important, the absolute burden and incidence of cardiovascular outcomes in BD remain incompletely characterized. This systematic review and meta-analysis synthesized observational evidence on CVD prevalence and incidence in adults with BD.\n\nMETHODS: Following PRISMA guidelines and prospectively registered in PROSPERO (CRD42023484712), we searched PubMed, Web of Science, Embase, Scopus, and PsycInfo, screening 11,909 records. Thirty-two observational studies in adults with BD were included after Newcastle-Ottawa Scale assessment. Data were extracted on overall CVD, coronary artery disease, cerebrovascular disease, peripheral arterial disease, comorbidities, and psychotropic exposure. Pooled prevalence and incidence rate ratios were calculated using random-effects models when data were comparable.\n\nRESULTS: The pooled CVD prevalence in BD was 7.70% (95% CI: 5.07-11.52), with coronary artery disease at 6.89% (95% CI: 4.05-11.47), cerebrovascular disease at 4.45% (95% CI: 2.13-9.05), and peripheral arterial disease at 3.30% (95% CI: 1.66-6.45). However, prevalence estimates showed extreme heterogeneity and should be interpreted as broad indicators of absolute burden rather than precise estimates for a single BD population. In controlled incidence studies, BD was associated with increased CVD incidence (IRR 1.66, 95% CI: 1.32-2.08), with elevated coronary and cerebrovascular estimates. Clinical variable analyses involving medication use, lifestyle factors, and cardiometabolic comorbidities were not feasible because reporting was insufficient and noncomparable.\n\nCONCLUSION: Adults with BD show substantial cardiovascular burden and increased incidence. However, extreme heterogeneity, limited incidence data, observational designs, and insufficient moderator reporting limit the precision and generalizability of pooled estimates. These findings support integrated cardiovascular screening in BD populations and future prospective studies.\n\nTRAIL REGISTRATION: PROSPERO CRD42023484712.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "topics": [
-        "coronary"
       ],
       "has_full_text": false,
       "full_text_url": null,
