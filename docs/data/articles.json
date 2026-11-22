@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:39:45.852126+00:00",
+  "generated_at": "2026-11-22T21:52:24.136466+00:00",
   "articles": [
     {
       "id": "pmid:43018112",
@@ -61876,6 +61876,255 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:43068420",
+      "pmid": "43068420",
+      "doi": "10.1007/s10456-026-10106-z",
+      "title": "STAP2 contributes to retinal endothelial dysfunction in diabetes through CXCR4-associated signaling revealed by single-cell RNA sequencing.",
+      "authors": [
+        "Xiao Y",
+        "Zhu Q",
+        "Zhang J",
+        "Lv K",
+        "Wang H",
+        "Liu X",
+        "Jiang Y",
+        "Shi X",
+        "Qu Y",
+        "Xing X",
+        "Liu X",
+        "Niu T",
+        "Liu K"
+      ],
+      "journal": "Angiogenesis",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "BACKGROUND: Diabetic retinopathy (DR) is a leading cause of vision loss and is driven by diabetes-induced retinal endothelial dysfunction. However, diabetes-associated transcriptional heterogeneity within retinal endothelial cells (ECs) and its molecular regulators remain incompletely understood.\n\nMETHODS: Retinal ECs were re-analyzed from a previously published single-cell RNA sequencing dataset of db/db and db/m mouse retinas. STAP2 expression was evaluated in db/db and streptozotocin (STZ)-induced diabetic mouse retinas, human proliferative diabetic retinopathy (PDR) tissue, and human retinal microvascular endothelial cells (HRMECs). Gain- and loss-of-function studies assessed endothelial proliferation, migration, angiogenic activity, retinal capillary degeneration, and vascular leakage. Transcriptomic profiling was used to identify downstream mediators.\n\nRESULTS: Three transcriptionally defined endothelial subclusters were identified, with EC3 predominantly represented in the diabetic group and showing relatively higher expression of signal-transducing adaptor protein 2 (STAP2). STAP2 was increased in diabetic retinas and high-glucose-treated HRMECs. STAP2 knockdown suppressed HRMEC proliferation, migration, and early tube formation in vitro and reduced acellular capillary formation and Evans blue extravasation in vivo, whereas STAP2 overexpression promoted these responses. Transcriptomic analysis identified C-X-C motif chemokine receptor 4 (CXCR4) as a candidate downstream mediator, and CXCR4 silencing attenuated STAP2-induced endothelial responses.\n\nCONCLUSIONS: These findings identify STAP2 as a previously unrecognized regulator associated with diabetic retinal endothelial dysfunction and reveal CXCR4-associated signaling as a potential mechanism involved in STAP2-mediated endothelial responses. This study provides new insights into endothelial regulation during diabetic vascular injury.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068412",
+      "pmid": "43068412",
+      "doi": "10.1556/650.2026.33695",
+      "title": "[Acute coronary syndromes after transcatheter aortic valve implantation].",
+      "authors": [
+        "Molnár B",
+        "Ahres A",
+        "Baranyai T",
+        "Pintér T",
+        "Fülöp G",
+        "Fontos G",
+        "Vértesaljai M",
+        "Dénes M",
+        "Pál M",
+        "Kolossváry M",
+        "Piróth Z",
+        "Jánosi A",
+        "Andréka P"
+      ],
+      "journal": "Orvosi hetilap",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "Nearly half of patients undergoing transcatheter aortic valve implantation have concomitant significant coronary artery disease. In patients with severe aortic stenosis and coexisting obstructive coronary artery disease, several issues remain controversial, including the optimal diagnostic evaluation, the choice of treatment strategy (surgical, percutaneous, or conservative), the indication for and extent of coronary revascularization, and, if percutaneous coronary intervention is performed, its optimal timing. After transcatheter aortic valve implantation, selective coronary cannulation may be challenging in a subset of patients, an issue of increasing clinical relevance as accumulating evidence in recent years has progressively expanded transcatheter aortic valve implantation indications to patients with longer anticipated survival. Although the likelihood of requiring invasive coronary angiography or percutaneous coronary intervention after transcatheter aortic valve implantation is expected to increase in these patients, coronary events occurring during the post-transcatheter aortic valve implantation period - particularly life-threatening acute coronary syndromes - remain insufficiently characterized with respect to their incidence, clinical characteristics, predictors, and outcomes. In addition to conventional atherothrombotic mechanisms, the transcatheter heart valve itself may contribute to the development of acute coronary syndromes after transcatheter aortic valve implantation. Furthermore, the presence of a transcatheter heart valve may complicate invasive management because of technical challenges related to coronary access. This may be of particular importance in patients presenting with ST-segment elevation myocardial infarction after transcatheter aortic valve implantation, in whom rapid and reliable coronary access and time-critical reperfusion are essential. The Gottsegen National Cardiovascular Center is one of the leading high-volume centers nationwide for the treatment of patients with severe aortic stenosis. Since the initiation of the institutional transcatheter aortic valve implantation program in 2008, more than 3000 procedures have been performed. Analysis of this large-scale registry may contribute to a better understanding of the currently unknown incidence, clinical characteristics and outcomes of acute coronary syndromes among patients undergoing transcatheter aortic valve implantation in Hungary. Orv Hetil. 2026; 167(47): 1887-1899.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary",
+        "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068398",
+      "pmid": "43068398",
+      "doi": "10.1016/j.jadohealth.2026.09.008",
+      "title": "Youth and Young Adult Suicide by County, Race, and/or Ethnicity in the United States, 2000-2019.",
+      "authors": [
+        "Rahman SG",
+        "Hinerman AS",
+        "Dwyer-Lindgren L",
+        "Rodriquez EJ",
+        "Pavy ME",
+        "Strassle PD",
+        "Mensah GA",
+        "Alvarez CS",
+        "Choi K",
+        "McHugh TA",
+        "La Motte-Kerr W",
+        "Sylte DO",
+        "Li Z",
+        "Kelly YO",
+        "Bertolacci GJ",
+        "Murray CJL",
+        "Mokdad AH",
+        "Pérez-Stable EJ"
+      ],
+      "journal": "The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "PURPOSE: To evaluate trends in suicide rates among individuals aged 10-24 by race and/or ethnicity, county, and age category in the United States from 2000 to 2019.\n\nMETHODS: Deidentified death records from the National Vital Statistics System and population estimates from the National Center for Health Statistics from January 1, 2000, to December 31, 2019, were used to estimate suicide rates per 100,000 for youth and young adults by race and/or ethnicity (American Indian/Alaska Native or AIAN, Asian, Black, Latino, and White), county, and age category (10-14, 15-19, and 20-24 years). County-level rates were calculated using small-area estimation methods and misclassification bias correction methodologies.\n\nRESULTS: From 2000 to 2019, the age-standardized suicide rate among individuals aged 10-24 years increased by 33.6% (95% uncertainty interval [UI] 27.9%-39.9%) from 7.7 (95% [UI], 7.4-8.0) to 10.3 (95% UI, 10.0-10.6) deaths per 100,000. Suicide increased across all populations, with the AIAN population having the highest mortality rates in 2000 and 2019: 16.1 (95% UI, 13.0-19.7) and 27.2 (95% UI, 22.0-33.4) deaths per 100,000 individuals, respectively. Of the 10 counties with the highest overall suicide rates, seven were in Alaska, two in South Dakota, and one in North Dakota in 2019. From 2000 to 2019, 99.2% (3,055 of 3,079, 61.4% statistically significant) of counties experienced increased suicide rates among individuals aged 10-24 years.\n\nDISCUSSION: Suicide rates increased among all youth and young adult populations between 2000 and 2019. There is a need for comprehensive interventions that promote prevention strategies and address social isolation especially among AIAN individuals.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068396",
+      "pmid": "43068396",
+      "doi": "10.1016/j.jaccas.2026.111258",
+      "title": "Electro-Structural Remodeling Reversal With Myosin Inhibitor in Apical Hypertrophic Cardiomyopathy.",
+      "authors": [
+        "Wu X",
+        "Wang L",
+        "Zhang M",
+        "Xu L",
+        "Wang D",
+        "Jiang W",
+        "Song L",
+        "Kang L"
+      ],
+      "journal": "JACC. Case reports",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "BACKGROUND: Myosin inhibitor is a novel treatment for hypertrophic cardiomyopathy (HCM), but evidence for the efficacy in apical hypertrophic cardiomyopathy (AHCM) is lacking.\n\nCASE SUMMARY: A 41-year-old man with AHCM presented with progressive dyspnea and chest pain despite beta-blocker therapy. Besides classic electrocardiography changes, echocardiography revealed a high-velocity apical jet. Mavacamten 5 mg daily was initiated. By week 32, N-terminal pro-B-type natriuretic peptide and apical flow velocity normalized. T-wave inversion was absent at week 89 and was normalized by week 135. At week 145, magnetic resonance showed no further progression of myocardial fibrosis.\n\nDISCUSSION: To our knowledge, this is the first report of a myosin inhibitor reversing symptoms, structural remodeling, and electrophysiological abnormalities in AHCM. Patients with AHCM could benefit from long-term treatment, and the electrocardiogram may serve as a marker of therapeutic response.\n\nTAKE-HOME MESSAGES: Myosin inhibitors may benefit ventricular remodeling, especially electrophysiological abnormalities, in patients with AHCM. Further research is warranted.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "heart-failure",
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068393",
+      "pmid": "43068393",
+      "doi": "10.1111/jdi.70493",
+      "title": "Predictors of sustained partial remission in acute-onset type 1 diabetes: Prospective longitudinal study in Japanese type 1 diabetes (TIDE-J).",
+      "authors": [
+        "Kawasaki E",
+        "Shimada A",
+        "Noso S",
+        "Awata T",
+        "Ikegami H",
+        "Imagawa A",
+        "Oikawa Y",
+        "Osawa H",
+        "Katsuki T",
+        "Kanatsuna N",
+        "Kawamura R",
+        "Kozawa J",
+        "Kobayashi T",
+        "Shimoda M",
+        "Takahashi K",
+        "Chujo D",
+        "Tsuchiya K",
+        "Terasaki J",
+        "Nagasawa K",
+        "Fukui T",
+        "Horie I",
+        "Yasuda K",
+        "Yasuda H",
+        "Hanafusa T",
+        "Kajio H",
+        "Kodani N",
+        "Japanese Type 1 Diabetes Database Study (TIDE‐J)"
+      ],
+      "journal": "Journal of diabetes investigation",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "AIM/INTRODUCTION: To identify predictors of sustained partial remission (PR) in acute-onset type 1 diabetes (AT1D), using data from the nationwide, multicenter, prospective longitudinal TIDE-J Study.\n\nMETHODS: Data were collected annually for up to 11 years in 132 patients with AT1D. Patients were classified into three groups based on an insulin dose-adjusted HbA1c (IDAA1c) of ≤9: 54 patients with no remission during the follow-up period (No PR), 45 patients with remission lasting at least 3 years (PR≥3 years), and 24 patients with remission lasting less than 3 years (PR <3 years). Predictors of sustained PR were identified by multivariate analysis.\n\nRESULTS: Compared with the No PR group, the PR ≥3 years group had lower IDAA1c, lower insulin requirements, lower incidence of diabetic ketosis/ketoacidosis (DK/DKA), and higher F-CPR levels. PR ≥3 years also had a higher prevalence of GADA single-positivity and a lower frequency of IA-2A and/or ZnT8A than PR <3 years. Multivariate analysis identified lower IDAA1c (OR, 0.87), absence of DK/DKA (OR, 1.74), less weight loss prior to diagnosis (OR, 0.89), higher F-CPR (OR, 1.96), lower insulin requirement (OR, 2.04), and GADA single-positivity (OR, 1.50) as predictors significantly associated with PR ≥3 years compared with No PR. Compared to PR <3 years, significant predictors of PR ≥3 years were multiple daily insulin injection regimen following diagnosis (OR, 2.70), higher F-CPR (OR, 2.16), GADA single-positivity (OR, 2.03), and negativity for both IA-2A and ZnT8A (OR, 1.93).\n\nCONCLUSIONS: These results suggest that PR is more likely to be sustained in patients with preserved β-cell function from the early stages of AT1D onset, mild metabolic impairment, and GADA single-positivity.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068388",
+      "pmid": "43068388",
+      "doi": "10.1080/00207454.2026.2762296",
+      "title": "Integrative Mendelian Randomization and Single-Cell Transcriptomic Analysis of Aging-Related Genes Associated With Stroke Risk.",
+      "authors": [
+        "Li H",
+        "Li J",
+        "Chen Y",
+        "Shen X",
+        "Xu Y",
+        "Bian R",
+        "Yao Y",
+        "Li Y"
+      ],
+      "journal": "The International journal of neuroscience",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "BACKGROUND: Stroke is a major cerebrovascular disease, and aging is a major risk factor associated with poorer outcomes. Identifying genetic mechanisms linking aging-related processes to stroke may help prioritize relevant genes and pathways.\n\nAIMS: To identify aging-related genes associated with stroke risk and explore their molecular and cellular context.\n\nSTUDY DESIGN: An integrated analysis combining eQTL-based Mendelian randomization and single-cell transcriptomics.\n\nMETHODS: eQTL data were obtained from eQTLGen, with stroke GWAS data from FinnGen as the discovery dataset and the GWAS Catalog as the validation dataset. MR, sensitivity, and colocalization analyses were used to evaluate associations between genetically predicted gene expression and stroke risk. Single-cell data (GSE174574) were analyzed using Seurat to characterize cell-type-specific expression of prioritized genes. GSEA and GSVA were used for pathway analysis, while RcisTarget, miRWalk, and DGIdb were used to explore regulatory and drug-gene interactions.\n\nRESULTS: In 340,999 participants, 22 aging-related genes showed nominal MR associations with stroke risk. Validation in 1,039,382 participants identified LPAR3, MEOX1, VEGFA, and PRKDC. Higher genetically predicted MEOX1 and VEGFA expression was associated with lower stroke risk, whereas LPAR3 and PRKDC were associated with higher risk. VEGFA showed additional support from regional colocalization analysis, whereas LPAR3 and MEOX1 were primarily supported by MR evidence. Regulatory analysis identified 51 predicted miRNAs and 53 drug-gene interaction records involving VEGFA and LPAR3.\n\nCONCLUSION: LPAR3, MEOX1, VEGFA, and PRKDC were prioritized as aging-related genes associated with stroke risk. VEGFA showed additional support from regional colocalization analysis, while LPAR3, MEOX1, and PRKDC require further functional validation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068376",
+      "pmid": "43068376",
+      "doi": "10.12932/AP-190226-2235",
+      "title": "Evaluation of clinical, immunological, genetic characteristics and follow-up results of patients presenting with common variable immunodeficiency phenotype.",
+      "authors": [
+        "Gül HBK",
+        "Haskoloğlu Ş",
+        "Bal SK",
+        "Islamoğlu C",
+        "Baskoin K",
+        "Demirbaş N",
+        "Erman B",
+        "Ceylaner S",
+        "Boztuğ K",
+        "Ikincioğullar A",
+        "Doğu F"
+      ],
+      "journal": "Asian Pacific journal of allergy and immunology",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "BACKGROUND: Common Variable Immunodeficiency (CVID) is an antibody deficiency characterized by hypogammaglobulinemia, recurrent infections and non-infectious clinical features. Patients presenting with heterogeneous clinical findings lead to delayed diagnosis, various complications, and organ damage.\n\nOBJECTIVE: This study aims to evaluate the clinical, immunological, genetic features of CVID cases diagnosed in our clinic over a 20-year period.\n\nMETHODS: We retrospectively evaluated 51 patients diagnosed with common variable immunodeficiency (CVID) according to ESID criteria and followed at the Department of Pediatric Allergy and Immunology, Ankara University Faculty of Medicine, between 2002 and 2022.\n\nRESULTS: The median age at diagnosis was 11.08 years (range: 4-27.91), with a median diagnostic delay of 4.79 years (range: 1-22.91). The most common clinical manifestation was sinopulmonary infections (96%). The most frequent non-infectious clinical manifestation was lymphoproliferation (41.1%). Splenomegaly was significantly more common in patients with autoimmune disease (53.3%). Patients with bronchiectasis had significantly lower proportions of class-switched memory B cells (p = 0.020). CD4+ naive T-cell counts were significantly lower in patients with malignancy compared to those without malignancy (p = 0.006). Genetic analysis performed in 40 patients revealed pathogenic variants in 35%, most frequently involving TACI, followed by ICOS and NFKB2. Following immunoglobulin replacement therapy, infection-related hospitalization rates markedly decreased (from 71.4% to 9.8%).\n\nCONCLUSIONS: CVID patients can present with a wide variety of clinical features. Early diagnosis and treatment can improve quality of life. Identification of genetic defects will enhance understanding of immunopathogenesis opening new avenues for targeted therapies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:43067698",
       "pmid": "43067698",
       "doi": "10.12659/AJCR.954790",
@@ -62117,6 +62366,83 @@
       ],
       "topics": [
         "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068355",
+      "pmid": "43068355",
+      "doi": "10.15403/jgld-7486",
+      "title": "Therapeutic Endoscopic Intervention in Cirrhosis: Routine Clinical, Laboratory and Ultrasound Markers in a Retrospective Cohort Study.",
+      "authors": [
+        "Kühnle JM",
+        "Lienig A",
+        "Benignus C",
+        "Zoller W",
+        "Marschner D"
+      ],
+      "journal": "Journal of gastrointestinal and liver diseases : JGLD",
+      "date": "2026-11-21",
+      "year": 2026,
+      "abstract": "BACKGROUND AND AIMS: Upper gastrointestinal endoscopy remains the reference standard for detecting and grading esophageal varices in cirrhosis, but repeated surveillance is invasive and resource-intensive. Most non-invasive strategies focus on ruling out high-risk varices. We assessed whether routinely available clinical, laboratory and ultrasound parameters are associated with clinically relevant endoscopic findings, focusing on therapeutic endoscopic intervention as a pragmatic real-world endpoint.\n\nMETHODS: This retrospective single-center cohort study included adults with confirmed liver cirrhosis treated at a German tertiary care hospital between 2014 and 2021. Only the first examination episode per patient was analyzed. Gastroscopy, abdominal ultrasound and laboratory testing were eligible when performed during the same hospital stay. The primary endpoint was therapeutic intervention during upper gastrointestinal endoscopy. Secondary endpoints were presence of esophageal varices and Paquet grade II/III varices. These summaries were data-derived, unweighted and not internally or externally validated. Discrimination was assessed using receiver operating characteristic analysis, and logistic regression was used to estimate odds ratios with 95% confidence intervals (CI).\n\nRESULTS: Among 257 patients, esophageal varices were present in 235 (91.4%), and therapeutic endoscopic intervention was performed in 38 (14.8%). The intervention point-based summary, including ascites, hemoglobin <9.9 g/dL and alanine aminotransferase >33.5 U/L, was calculable in 248 patients and showed moderate apparent discrimination for intervention, with an AUC of 0.706. Each additional point was associated with higher odds of intervention (OR=2.80, 95%CI: 1.73-4.53; p<0.001). In multivariable analysis, hemoglobin <9.9 g/dL and alanine aminotransferase >33.5 U/L remained associated with intervention, whereas ascites did not. Secondary point-based summaries for esophageal varices and Paquet grade II/III varices showed apparent AUCs of 0.775 and 0.623, respectively, but were limited by complete-case sample size and endpoint distribution.\n\nCONCLUSIONS: Routine clinical, laboratory and ultrasound parameters were associated with clinically relevant endoscopic findings in cirrhosis, particularly therapeutic endoscopic intervention. Low hemoglobin and elevated alanine aminotransferase were associated with intervention need, but the findings likely reflect clinical presentation and therapeutic endoscopic relevance rather than portal pressure alone. The exploratory point-based summaries are descriptive, data-derived tools and should not replace established non-invasive strategies or endoscopic assessment. Prospective external validation is required before clinical use.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068353",
+      "pmid": "43068353",
+      "doi": "10.15403/jgld-6926",
+      "title": "Effects of Liraglutide as Add-on to Metformin on Hepatic Steatosis and Fibrosis in Patients with Prediabetes and MASLD: A Retrospective Cohort Study.",
+      "authors": [
+        "He Q",
+        "Yang J",
+        "Tang R",
+        "Wang W"
+      ],
+      "journal": "Journal of gastrointestinal and liver diseases : JGLD",
+      "date": "2026-11-21",
+      "year": 2026,
+      "abstract": "BACKGROUND AND AIMS: The coexistence of prediabetes and metabolic dysfunction-associated steatotic liver disease (MASLD) is common and accelerates metabolic and hepatic complications. This study evaluated the effects of liraglutide on hepatic steatosis and fibrosis in patients with prediabetes and MASLD.\n\nMETHODS: This retrospective cohort study included 263 patients with prediabetes and MASLD who received either liraglutide plus metformin (liraglutide group, n=142) or metformin alone (control group, n=121) for 12 months. Primary outcomes were changes in controlled attenuation parameter (CAP), liver stiffness measurement (LSM), Fibrosis-4 (FIB-4) index, and non-alcoholic fatty liver disease fibrosis score (NFS). Secondary outcomes included anthropometric measurements, glycemic parameters, lipid profiles, and liver enzymes.\n\nRESULTS: After 12 months of treatment, CAP values decreased significantly in both groups (both p<0.001), with significantly lower values in the liraglutide group compared to the control group (p<0.001). LSM showed significant reductions in both groups, with more pronounced improvement in the liraglutide group (p<0.001) and significantly lower values compared to the control group at 12 months (p<0.05). FIB-4 index and NFS decreased significantly in both groups (p<0.05), though between-group differences did not reach statistical significance (p>0.05). The liraglutide group achieved significantly greater improvements in body weight, waist circumference, glycemic parameters [fasting plasma glucose (FPG), glycated hemoglobin (HbA1c), fasting insulin, homeostasis model assessment of insulin resistance (HOMA-IR)], triglycerides, and non-high-density lipoprotein (HDL) cholesterol compared to the control group (all p<0.05). Liver enzymes [alanine aminotransferase (ALT), aspartate aminotransferase (AST]), gamma-glutamyl transferase (GGT)] improved significantly in both groups, with greater reductions in the liraglutide group (all p<0.001). The most common adverse events were mild-to-moderate gastrointestinal symptoms, with no serious adverse events reported.\n\nCONCLUSIONS: In patients with prediabetes and MASLD, 12-month liraglutide as add-on therapy to metformin was associated with significant improvements in hepatic steatosis and liver stiffness measurement compared to metformin monotherapy, alongside favorable metabolic effects and an acceptable safety profile. These findings support liraglutide as a potential therapeutic option for this high-risk population.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "gastro-hepatology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068352",
+      "pmid": "43068352",
+      "doi": "10.15403/jgld-6964",
+      "title": "Real-world Gastrointestinal, Pancreaticobiliary, Cardiorenal, Metabolic and Nutritional Outcomes of GLP-1 or GIP Receptors Agonists -based Therapy in Chronic Pancreatitis.",
+      "authors": [
+        "Dhali A",
+        "Maity R",
+        "Khan F"
+      ],
+      "journal": "Journal of gastrointestinal and liver diseases : JGLD",
+      "date": "2026-11-21",
+      "year": 2026,
+      "abstract": "BACKGROUND AND AIMS: Glucagon-like peptide-1(GLP-1) receptor agonists and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists are increasingly used for metabolic disease, but their safety profile in patients with chronic pancreatitis (CP) remains uncertain. We compared several gastrointestinal, cardio, renal and metabolic outcomes in patients with CP exposed to dulaglutide, semaglutide, or tirzepatide versus propensity-matched unexposed controls.\n\nMETHODS: We conducted a retrospective, propensity score-matched cohort study using the TriNetX federated real-world data platform. Adults with CP were classified by recorded exposure to dulaglutide, semaglutide, or tirzepatide versus no recorded exposure to those drugs. Risk analyses and Kaplan-Meier time-to-event analyses were done.\n\nRESULTS: After matching, median follow-up was 588 (IQR 831) versus 879 (IQR 807), respectively. Nausea/vomiting occurred in 656/4,938 (risk 0.133) versus 1,099/5,585 (risk 0.197), with risk ratio (RR) 0.675 (95%CI: 0.618-0.738) and hazard ratio (HR) 0.710 (95%CI: 0.645-0.783). Bowel obstruction/ileus occurred in 241/9,103 (risk 0.026) versus 466/8,949 (risk 0.052), with RR=0.508 (95%CI: 0.436-0.592) and HR=0.556 (95%CI: 0.476-0.649). Upper gastrointestinal bleeding occurred in 355/8,536 (risk 0.042) versus 608/8,657 (risk 0.070), with RR=0.592 (95%CI: 0.521-0.673) and HR=0.659 (95%CI: 0.578-0.751). Biliary/procedural outcomes were lower, including cholecystectomy (risk 0.023 vs 0.049; HR=0.486, 95%CI: 0.412-0.572) and ERCP (risk 0.026 vs 0.064; HR=0.420, 95%CI: 0.362-0.488). Recurrent acute pancreatitis occurred in 329/5,639 exposed patients (risk 0.058) versus 579/5,499 controls (risk 0.105), with HR=0.584 (95%CI: 0.510-0.669). Additional associations included lower insulin initiation (risk 0.178 vs 0.269; HR=0.731, 95%CI: 0.658-0.812), heart failure (risk 0.061 vs 0.101; HR=0.687, 95%CI: 0.613-0.770), myocardial infarction (risk 0.039 vs 0.054; HR=0.818, 95%CI: 0.712-0.939 and acute kidney injury (risk 0.086 vs 0.150; HR=0.643, 95%CI: 0.580-0.712), malnutrition (risk 0.049 vs 0.107; HR=0.491, 95%CI: 0.438-0.550).\n\nCONCLUSIONS: Exposure to dulaglutide, semaglutide, or tirzepatide was associated with lower recorded risks across several gastrointestinal, cardio, renal and metabolic outcome domains. These findings should be interpreted with caution, and further prospective studies are required to confirm the same.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "heart-failure",
+        "nephrology"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -359962,311 +360288,6 @@
       ],
       "has_full_text": false,
       "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43002620",
-      "pmid": "43002620",
-      "doi": "10.1371/journal.ppat.1014764",
-      "title": "Retraction: Flaviviridae RdRp exploits NSUN2-driven m5C methylation to establish persistent infection.",
-      "authors": [
-        "PLOS Pathogens Editors"
-      ],
-      "journal": "PLoS pathogens",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Journal Article",
-        "Retraction Notice"
-      ],
-      "topics": [
-        "infectious"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43001415",
-      "pmid": "43001415",
-      "doi": "10.1111/nicc.70738",
-      "title": "Building Consensus Among Intensive Care Nurses on the Scope of Practice for Registered Nurses Deployed to Intensive Care During Surge Events: A Real-Time Delphi Study.",
-      "authors": [
-        "Causby B",
-        "Jakimowicz S",
-        "Varndell W",
-        "Levett-Jones T"
-      ],
-      "journal": "Nursing in critical care",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Disaster events that overwhelm health system capacity often require the deployment of nurses from non-critical care clinical areas to supplement the specialist intensive care workforce. However, the role of deployed registered nurses in intensive care is poorly defined and without clear role boundaries, experienced intensive care nurses often bear disproportionate supervisory burdens, and deployed staff may assume clinical responsibilities for which they are inadequately prepared. Developing a scope of practice for deployed nurses is essential for safe, effective surge responses.\n\nAIM: To achieve expert consensus on the scope of practice of deployed registered nurses in a surged intensive care unit.\n\nSTUDY DESIGN: A Real-Time Delphi study was conducted using a web-based platform. A 65-item survey was administered to a panel of experienced Australian intensive care nurses and educators with expertise in training and/or supervising nurses deployed to intensive care during surge events. Participants rated activities that could potentially be undertaken by deployed registered nurses in a surged intensive care setting using a 5-point Likert scale across two dimensions: appropriateness for delegation and importance within a tiered nursing model. Consensus was defined a priori as ≥ 70% agreement. Free-text comments were analysed thematically.\n\nRESULTS: Fifteen expert panellists completed the survey. Of the 69 items assessed, 33 reached consensus and were retained as constituting the scope of practice for registered nurses deployed to intensive care. Consensus items spanned neurological observation, basic cardiovascular monitoring, gastrointestinal care, fluid balance documentation, and essential nursing cares. No consensus was reached for mechanical ventilation, non-invasive ventilation or renal replacement therapy.\n\nCONCLUSIONS: This study resulted in a consensus-derived scope of practice for deployed registered nurses in a surged intensive care. The findings establish clear role boundaries to support safe, tiered nursing care during future surge events and provide a foundation for developing targeted upskilling programs.\n\nRELEVANCE TO CLINICAL PRACTICE: The findings offer intensive care clinicians, educators, and health services a practical foundation for planning surge nursing models before surge events occur. Clearer role delineation may also reduce uncertainty for deployed nurses and lessen the supervisory burden on experienced intensive care staff.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13746175/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43001327",
-      "pmid": "43001327",
-      "doi": "10.7759/cureus.119324",
-      "title": "Acute Appendicitis During Pregnancy: A Seven-Year Retrospective Case Series at a United Kingdom Tertiary Hospital.",
-      "authors": [
-        "Kadrekar AR",
-        "Rao S",
-        "Gala O"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Background Acute appendicitis is the most common surgical problem encountered during pregnancy. Our case series was conducted to evaluate the clinical presentation, diagnosis, management, and outcomes of acute appendicitis in pregnant women. Methods  A retrospective analysis of nine pregnant women diagnosed with acute appendicitis at James Cook University Hospital, United Kingdom, from 2017 to 2024 was conducted. Patients were evaluated according to age, clinical presentation, gestational age, diagnostic modalities, histopathology, time interval from admission to surgery, type of surgery, outcomes, and complications. Results The mean age was 26.6 years. Cases occurred in the first trimester (n = 1/9, 11.1%), second trimester (n = 3/9, 33.3%), third trimester (n = 4/9, 44.4%), and postpartum period (n = 1/9, 11.1%). Right iliac fossa pain was the most common presentation. WBC counts and CRP levels were elevated in all cases. Imaging was used to support the diagnosis in 7/9 patients (77.8%). Ultrasound was performed in 5/9 patients (55.6%), yielding positive findings in 1/5 (20.0%), inconclusive findings in 1/5 (20.0%), and false-negative findings in 3/5 (60.0%). MRI was performed in 7/9 patients (77.8%) and identified appendicitis in all clinically suspected cases, although 2/5 examinations (40.0%) were subsequently considered false-positive. The mean interval from presentation to surgery was 3.4 days. All patients (n = 9/9, 100%) underwent surgery, including laparoscopic appendicectomy in 6/9 (66.7%) and open appendicectomy in 3/9 (33.3%). Histopathological confirmation of acute appendicitis was obtained in 5/9 cases (55.6%). The negative appendicectomy rate was 4/9 (44.4%). Complications among confirmed cases included peritonitis in 5/9 patients (55.6%), sepsis in 2/9 (22.2%), perforation in 1/9 (11.1%), and preterm labour in 1/9 (11.1%). Conclusion  Our case series demonstrates the continued challenges in the accurate and timely diagnosis of acute appendicitis, coupled with a reluctance to operate on pregnant women, which leads to delays in surgical intervention, thereby increasing the risk of complications. The surgical approach (laparoscopic/open) did not change outcomes. MRI demonstrates superior diagnostic reliability; however, despite advances in diagnostic modalities, the negative laparotomy rate remains high during pregnancy.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744943/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43001080",
-      "pmid": "43001080",
-      "doi": "10.1002/mco2.71135",
-      "title": "Effects of Danhong Injection on 90-Day Functional Outcome in Acute Ischemic Stroke: An Adaptive, Multicenter, Randomized, Double-Blind, Placebo-Controlled Phase IV Trial.",
-      "authors": [
-        "Liu J",
-        "Wang Y",
-        "Chen B",
-        "Lu J",
-        "Chen L",
-        "Guan S",
-        "Shi Y",
-        "Liu W",
-        "Yu Y",
-        "Li B",
-        "Dang H",
-        "Zhu X",
-        "Teng F",
-        "Liu X",
-        "Zhou N",
-        "Chen Q",
-        "Shen C",
-        "Zhu L",
-        "Wang Y",
-        "Zhao X",
-        "Wang Z",
-        "Danhong‐Stroke Trial Investigators"
-      ],
-      "journal": "MedComm",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Therapeutic options for neurological recovery remain limited in acute ischemic stroke (AIS) patients ineligible for thrombolysis, and while multitarget drugs like Danhong injection (DHI) demonstrate efficacy, their polypharmacological mechanisms remain understood. In this trial including 1505 thrombolysis-ineligible AIS patients with anterior-circulation and blood stasis syndrome (NCT01677208), 14-day treatment with DHI (n = 1002) versus placebo (n = 503) demonstrated superior 90-day outcomes (modified Rankin scale [mRS] score ≤1: 64.57 vs. 59.24%; adjusted odds ratio 1.43, 95%CI 1.10-1.86, p = 0.007), particularly in females and hypertensive patients, and no significant between-group differences in any serious adverse events (all p > 0.05). In the exploratory RNA-sequencing substudy of 39 patients (24 DHI, 15 placebo), we identified 19 differentially expressed modules, including two paired targeted modules \"HBG2\" and \"TMEM108,\" whose topological features showed opposite correlations with the primary clinical outcome (δmRS at Day 90). Furthermore, a combination effect model was introduced to describe the time-dependent joint association of these modules with outcome (combination effect score: -0.729 at Day 0, 0.227 at Day 14, and 1 at Day 90). These findings demonstrate DHI may be a favorable treatment option for thrombolysis-ineligible AIS patients and provide a proposed analytical framework for future, independently validated studies of multitarget drug actions in complex diseases.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744646/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43001071",
-      "pmid": "43001071",
-      "doi": "10.1002/mco2.71146",
-      "title": "A Pan-Hepatic T-Cell Atlas Identifies Disease-Specific Immune Dysfunction and Therapeutic Targets for Immunotherapy.",
-      "authors": [
-        "Chen SY",
-        "Wang YY",
-        "Zhou SN",
-        "Zhou MJ",
-        "Li X",
-        "Li WZ",
-        "Zhu MM",
-        "Yang YX",
-        "Sun Y",
-        "Fan P",
-        "Li J",
-        "Fan X",
-        "Xu R",
-        "Jiao YM",
-        "Song JW",
-        "Zhen C",
-        "Shi M",
-        "Zhang C",
-        "Wang FS"
-      ],
-      "journal": "MedComm",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Single-cell transcriptomics has greatly advanced insight into hepatic immunity and immunotherapy. However, the absence of an integrated atlas spanning multiple hepatic diseases limits systematic comparisons of immune heterogeneity and dynamics. Here, we established a Pan-HEpatic single-cell Atlas of T cells (Pheat), covering 139 donors, 255 blood and liver samples spanning chronic hepatitis (chronic hepatitis B/C [CHB/CHC], alcohol-associated hepatitis, metabolic dysfunction-associated steatohepatitis), cirrhosis, hepatocellular carcinoma (HCC), and healthy controls (HC), and delineated profound population-, tissue-, and disease-level heterogeneity of 624,215 T cells, with emphasis on CD8+ exhausted T cells (Tex) and CD4+ regulatory T cells (Treg). Within Tex, intrahepatic precursor Tex (Texpre) were depleted in CHB compared with healthy controls and other hepatic diseases. Disease-specific checkpoint dominance (4-1BB in CHB, TIGIT in HCC) in Texpre was identified and experimentally validated. Panobinostat was predicted and validated to reinvigorate Texpre in CHB patients. In parallel, effector Treg (eTreg) accumulated in diseased livers and exhibited divergent IL-2-STAT5 signaling-hyperactive in CHB and HCC, suppressed in cirrhosis-indicating distinct immunosuppressive status. Lapatinib/olopatadine enhanced Treg suppressive markers in cirrhosis. Pheat provides a high-resolution atlas of hepatic T cells, revealing disease-specific immune heterogeneity and regulatory programs that inform cellular and molecular targets for potential immunotherapy.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744652/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42999922",
-      "pmid": "42999922",
-      "doi": "10.7759/cureus.119284",
-      "title": "Chest Pain in Vain: Spontaneous Portal Vein Thrombosis.",
-      "authors": [
-        "Makstutis S",
-        "Collins S"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "A 53-year-old man with a patient-reported history of ultrasound-diagnosed fatty liver disease presented with sudden-onset severe chest pain and a brief loss of consciousness, followed by progressive abdominal pain and a single episode of bloody diarrhoea. Admission investigations approximately 24 hours after the chest pain episode showed a D-dimer of 14,502 µg/L and high-sensitivity troponin I below 3 ng/L. An arterial-phase computed tomography (CT) aortogram showed no aortic dissection but did not establish portal venous patency. Following specialist thoracic radiology review, the aortogram was considered satisfactory to exclude pulmonary embolism down to the segmental level, and dedicated pulmonary angiography was not performed. Portal venous-phase CT performed 72 hours after the aortogram demonstrated extensive portal, superior mesenteric, and splenic vein thrombosis, with equivocal caecal and ascending colonic changes. Symptoms improved during anticoagulation. Repeat CT three months later showed resolution of thrombosis, with all three affected veins patent. This case illustrates the importance of selecting an imaging protocol appropriate to the evolving clinical presentation. An unrevealing arterial-phase examination did not exclude portal venous thrombosis. The relationship between the thrombosis and the initial chest pain and collapse remains uncertain, as does the contribution of the patient's reported fatty liver disease.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology",
-        "hematology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744412/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42999913",
-      "pmid": "42999913",
-      "doi": "10.7759/cureus.119274",
-      "title": "Factors Associated With Extended Resection (Cecal Resection or Right Hemicolectomy) in Patients With Acute Appendicitis at a Tertiary Private Hospital: A Retrospective Cohort Study.",
-      "authors": [
-        "Silva-Ramos CS",
-        "Leal-Hidalgo JL",
-        "Arechavala-Lopez SF",
-        "Ramos-Griera MF",
-        "Fuentes-Calvo KJ",
-        "Alfaro-Goldaracena A",
-        "Díaz Girón-Gidi A",
-        "Villegas-Tovar E",
-        "Montalvo-Jave EE"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Acute appendicitis may require surgical procedures beyond conventional appendectomy, including cecal resection and right hemicolectomy. This study aimed to identify clinical factors associated with extended resection in adults undergoing surgery for acute appendicitis.\n\nMETHODS: This retrospective, single-center cohort study included 360 adults treated surgically for acute appendicitis at a tertiary care hospital between 2018 and 2023. Extended resection was defined as cecal resection or right hemicolectomy. Associations were assessed using univariate analyses and multivariable logistic regression adjusted for age, symptom duration, previous abdominal surgery, diabetes mellitus, and hypertension. Appendicitis severity was evaluated in a secondary model using grouped phases. Missing data were not imputed. The study received ethics committee approval (2024-EXT-871).\n\nRESULTS: Extended resection occurred in 50 of 351 patients with available outcome data (14.2%). Longer symptom duration (adjusted odds ratio (aOR) 1.185; 95% confidence interval (CI) 1.004-1.398; p=0.045) and older age (aOR 1.022; 95% CI 1.001-1.045; p=0.045) were associated with extended resection in the primary model. In the secondary model, advanced appendicitis phases were strongly associated with extended resection (aOR 10.273; 95% CI 4.694-22.481; p<0.001).\n\nCONCLUSION: Longer symptom duration was associated with extended resection, including after adjustment for grouped appendicitis severity. These findings warrant cautious interpretation given the retrospective design and limited number of events.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine",
-        "prevention"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744365/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42999820",
-      "pmid": "42999820",
-      "doi": "10.1002/ccr3.73891",
-      "title": "Diagnostic Pitfall: Mixed Connective Tissue Disease-Associated Pulmonary Hypertension Presenting With Postpartum Right-Sided Heart Failure in a 21-Year-Old-Case Report.",
-      "authors": [
-        "Alla SSM",
-        "Khetan MS",
-        "Alla D",
-        "Ganguru SL",
-        "Appala S",
-        "Sree K",
-        "Shah RJ",
-        "Seth A",
-        "Rawtani NA",
-        "Aamir MR",
-        "Emmanuel NW"
-      ],
-      "journal": "Clinical case reports",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Mixed connective tissue disease is a multisystem autoimmune condition characterized by overlapping clinical and serological features related to anti-U1-RNP antibodies of at least two connective tissue diseases. It may present with myocarditis, pericarditis, pulmonary arterial hypertension, and, less commonly, heart failure. We present a 21-year-old female with bilateral foot swelling, cough, and shortness of breath 3 months after a vaginal delivery. On examination, she was hypotensive (90/70 mmHg), with an elevated jugular venous pressure, a pulmonary systolic murmur with loud P2, and a tricuspid regurgitation murmur. Bronchial breath sounds and fine crepitations were present in both lower lung fields. She was evaluated initially for suspected postpartum cardiomyopathy. Transthoracic echocardiography was suggestive of a probable moderate to severe PAH. High-resolution computed tomography showed bilateral moderate pleural effusions, honeycombing with partial atelectasis of the underlying lung, and cardiomegaly. Computed Tomography Pulmonary Angiography (CTPA) showed findings likely consistent with probable mild pulmonary hypertension. An antinuclear antibody panel was performed and was positive for anti-U1-RNP, SS-A, SS-B, and Jo-1 antibodies. She was started on Lasix 40 mg, Aldactone 25 mg, lisinopril 10 mg, and heparin. Treatment with 20 mg of prednisolone was started and gradually tapered. Her anasarca and dyspnea improved, and she was discharged with follow-up arranged with cardiology and rheumatology. Timely identification of MCTD-associated pulmonary hypertension and its cardiovascular complications is essential and allows early commencement of treatment, which further prevents the patients from developing heart failure.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "heart-failure",
-        "imaging",
-        "prevention",
-        "pulmonary-vascular",
-        "rheumatology",
-        "valvular"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13743992/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42999813",
-      "pmid": "42999813",
-      "doi": "10.7759/cureus.119267",
-      "title": "Prenatal Diagnosis of Laterality Disorder Associated With NME7 Variants.",
-      "authors": [
-        "Hardy V",
-        "Ortegat M",
-        "De Clippel K",
-        "Sznajer Y",
-        "Wuyts W",
-        "Blaumeiser B",
-        "Steenhaut P"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Situs inversus totalis (SIT) is a rare congenital laterality disorder characterized by a mirror-image reversal of the thoracic and abdominal organs. Although isolated SIT is generally associated with a favorable prognosis, prenatal diagnosis requires careful evaluation to exclude associated structural malformations and syndromic presentations, as well as genetic investigation to identify a possible underlying etiology and improve prognostic assessment. The genetic basis of SIT is complex and remains incompletely understood. To date, genotype-phenotype correlations for SIT-associated genetic variants remain poorly established. We report the prenatal and postnatal clinical course of a fetus with isolated SIT carrying a homozygous intragenic deletion of the NME7 gene, identified by whole-exome sequencing. A primigravida woman was referred at 22 + 2 weeks of gestation after dextrocardia was identified during the second-trimester morphology scan. Detailed ultrasound and fetal echocardiography were performed to assess organ laterality and exclude associated structural abnormalities. An invasive diagnostic procedure (amniocentesis) was performed, including chromosomal microarray analysis (CMA) and trio whole-exome sequencing. Ultrasound confirmed isolated SIT, characterized by dextrocardia, a right-sided stomach, and a left-sided liver and gallbladder. Echocardiography revealed normal cardiac anatomy and function. CMA identified a maternally inherited Xp22.33 deletion encompassing the entire SHOX gene, which was detected in the mother but not in the father and was considered an incidental finding. Trio whole-exome sequencing identified a homozygous, likely pathogenic intragenic deletion involving exons 2-7 of the NME7 gene. Targeted parental DNA analysis confirmed that both parents were heterozygous carriers of the deletion. The pregnancy was continued based on the present molecular findings, since the implication of NME7 variants seemed to be responsible for a non-syndromic form of SIT. A healthy female infant was delivered at term. Postnatal evaluation confirmed SIT with a small atrial septal defect with no hemodynamic impact and no other associated anomalies.  This case highlights the additional diagnostic value of whole-exome sequencing in fetuses with apparently isolated laterality abnormalities. It adds to the currently limited evidence linking NME7 variants to isolated SIT. This case also emphasizes the importance of multidisciplinary assessment and genetic counseling to optimize diagnosis, prognostic evaluation, parental counseling, and postnatal management.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13744134/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42999800",
-      "pmid": "42999800",
-      "doi": "10.1029/2026GH002199",
-      "title": "Exploring Environmental Influences on Mono(2-Ethylhexyl) Phthalate (MEHP) Exposure in Common Bottlenose Dolphins (Tursiops truncatus) in Sarasota Bay, FL, USA.",
-      "authors": [
-        "Warden KB",
-        "Dziobak MK",
-        "Wilkinson KA",
-        "Wells RS",
-        "Sandifer PA",
-        "Vulava VM",
-        "Hart LB"
-      ],
-      "journal": "GeoHealth",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Phthalates, endocrine-disrupting, persistent organic pollutants widely used in plastic manufacturing, can readily enter aquatic environments and contaminate estuaries. As apex predators, resident bottlenose dolphins (Tursiops truncatus) provide critical insights into ecosystem health. Prior work documented phthalate exposure in the long-term resident bottlenose dolphin community of Sarasota Bay, Florida, with evidence of temporal and spatial variability, particularly for mono(2-ethylhexyl) phthalate (MEHP), a metabolite of the commonly used plasticizer di(2-ethylhexyl) phthalate (DEHP). We predicted that environmental factors, such as large-scale storm events, rainfall, and harmful algal blooms (HABs), may influence this variability. Urine samples collected from 138 free-ranging dolphins during 1993-2024 were screened for phthalate metabolites, reliable biomarkers of exposure. MEHP was the most common metabolite, detected in 78.3% of samples (Regression on Order Statistics mean = 6.19 ng mL-1, s.d. = 11.29 ng mL-1, range = 0.04-76.6 ng mL-1), and concentrations did not vary significantly by sex or age (p > 0.05). MEHP concentrations were positively correlated with rainfall occurring 3 days prior to sampling (p = 0.01), and concentrations were significantly lower among dolphins sampled within 6 months of a major storm event (p = 0.007). No significant associations between MEHP and HABs were discerned (p > 0.05). Such findings suggest increased phthalate-contaminated runoff during short-term rainfall events, as well as the dilution or offshore transport of phthalates via storm-related processes. Despite documented toxicity of MEHP to humans and other marine species, health impacts on Sarasota Bay dolphins remain poorly understood. As sentinels of estuarine health, long-term exposure may signal chronic ecotoxicological risks, and observed environmental influences highlight the need for continued monitoring, research, and mitigation.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13743994/",
       "source": "PubMed"
     }
   ]
