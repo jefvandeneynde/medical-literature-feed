@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:41:34.176304+00:00",
+  "generated_at": "2026-11-22T02:18:02.958747+00:00",
   "articles": [
     {
       "id": "pmid:43018112",
@@ -61105,6 +61105,89 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:42887989",
+      "pmid": "42887989",
+      "doi": "10.1016/j.aca.2026.346249",
+      "title": "A trifluoromethyl-triggered J-aggregation switch for Cu+-Responsive fluorescence imaging and in vivo application in mice.",
+      "authors": [
+        "Li Y",
+        "Xu Y",
+        "Li H",
+        "Cai J",
+        "Gao X",
+        "Cao R",
+        "Song Y",
+        "Yu J",
+        "Ai Q",
+        "Gao B"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "Herein, we elucidate the structural basis of J-aggregation in our previously reported dual-locked fluorescent probe HBimmCue, a trifluoromethyl-substituted sensor for neuronal mitochondrial Cu+. By designing a methyl-substituted control probe HBimmCH3, we demonstrate that the trifluoromethyl group is the critical moiety triggering J-aggregation in PBS. This aggregation enables HBimmCue to function through a photoinduced electron transfer (PET) + J-aggregation-caused quenching (J-ACQ) dual-quenching mechanism, affording an exceptional 59-fold fluorescence turn-on response. In contrast, HBimmCH3 lacks J-aggregation entirely and exhibits only a 13.2-fold enhancement via single PET quenching. DFT/TD-DFT calculations and electrostatic potential (ESP) analysis further corroborate the PET mechanism, energy-level shifts, and substituent-dependent assembly behaviors. Given its excellent photophysical performance, we further explored the in vivo imaging capability of HBimmCue. This work demonstrates a facile substituent-engineering approach to modulate J-aggregation, which provides valuable insights for the rational design of high-performance activatable fluorescent probes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "imaging"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42887976",
+      "pmid": "42887976",
+      "doi": "10.1016/j.aca.2026.346232",
+      "title": "An electrochemical sensor platform for rapid nucleic acid detection of Influenza A in unamplified samples and machine-learning-assisted infection diagnosis.",
+      "authors": [
+        "Li Y",
+        "He H",
+        "Wang J",
+        "Wu J"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "Influenza A remains a major cause of respiratory infection that demands for rapid, accurate and readily accessible diagnostic tools for timely clinical decision-making and outbreak control. Here, we report a smartphone-assisted electrochemical biosensor platform for amplification-free nucleic acid detection of Influenza A based on magnetic beads enriched target capture and methylene blue (MB)-mediated signal transduction. Under optimized conditions, the platform enabled sensitive detection of both synthetic complementary DNA and RNA, with limits of detection of 0.33aM and 3.32aM, respectively, while maintaining high selectivity against mismatched and non-target sequences. Additionally, the platform is also applied to the detection of RNA extracted from nasopharyngeal swab samples and shows superior discrimination ability between positive and negative samples as well as strong correlation with reverse transcription quantitative polymerase chain reaction (RT-qPCR) results. Finally, an optimal machine-learning framework based on a support vector classifier (SVC) is developed to analyze DPV signal profiles and directly classify clinical samples without explicit comparison to blank-current responses, achieving an accuracy of 100% in the clinical cohort. Unlike conventional nucleic acid detection approaches that mainly rely on predefined thresholds or quantitative signal interpretation, this study establishes a machine-learning-assisted classification strategy for direct discrimination of influenza A nucleic-acid positive and negative samples based on electrochemical DPV signal profiles. This simple algorithmic framework is particularly suitable for portable devices with resource constrained microcontrollers to realize rapid result analysis. Our results shed a light on potential portable platform for decentralized rapid nucleic acid testing and promising technique for point-of-care infectious disease diagnostics.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:42887950",
+      "pmid": "42887950",
+      "doi": "10.1016/j.aca.2026.346179",
+      "title": "Uncovering allergen presence and accumulation in glucose monitoring systems: evidence of a \"sponge effect\" via validated GC-MS.",
+      "authors": [
+        "Saorin A",
+        "Watson S",
+        "Hawkes CP",
+        "Bourke JF",
+        "O'Boyle NM"
+      ],
+      "journal": "Analytica chimica acta",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "BACKGROUND: Despite the clinical benefits associated with the use of continuous and flash glucose monitoring systems (GMS), they are frequently associated with dermatological adverse effects, most notably allergic contact dermatitis (ACD). Chemical analysis of devices is often the only means to confirm the presence of suspected sensitizers or detect emerging allergens in these products. Although previous research efforts lead to the identification of some main allergens such as acrylates and colophony compounds, new allergens continue to emerge and the presence of known allergens in devices cannot be excluded. However, no validated quantitative analytical methods for these compounds in GMS have been reported.\n\nRESULTS: A quantitative gas chromatography-mass spectrometry (GC-MS) method was developed and validated, with a focus on optimizing the extraction from the devices. An untargeted screening workflow was incorporated to detect additional potentially relevant allergens. Targeted analysis enabled quantification (14 compounds) or estimated abundance analysis determination (5 compounds) of relevant allergens. The method was applied to unused and used Dexcom G7 and associated adhesive patches. Different allergens were detected and quantified including isobornyl acrylate, methyl dehydroabietate, and isocyanates. Other compounds were only detected in used devices, such as cetyl alcohol, isopropyl palmitate and isopropyl myristate.\n\nSIGNIFICANCE: The analysis revealed the presence of known and new allergens in medical devices for diabetes. Several allergens were present in unused devices, but others were detected only in used devices. These additional compounds likely accumulated from daily usage, leading to what we defined as the \"sponge effect\".",
+      "publication_types": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:43065328",
       "pmid": "43065328",
       "doi": "10.1177/17474930261504668",
@@ -67473,6 +67556,44 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:43063693",
+      "pmid": "43063693",
+      "doi": "10.1016/j.vaccine.2026.129365",
+      "title": "Differences in patient attitudes on respiratory syncytial virus immunization among Canadian jurisdictions with and without publicly funded universal nirsevimab programs.",
+      "authors": [
+        "Wong JMH",
+        "McClymont E",
+        "Langlois J",
+        "Blitz S",
+        "Bogler T",
+        "Boucoiran I",
+        "Castillo E",
+        "D'Souza R",
+        "El-Chaâr D",
+        "Elwood C",
+        "Fadel S",
+        "Kakkar F",
+        "Kuret V",
+        "Sadarangani M",
+        "Tunde-Byass M",
+        "van Schalkwyk J",
+        "Money D"
+      ],
+      "journal": "Vaccine",
+      "date": "2026-11-20",
+      "year": 2026,
+      "abstract": "BACKGROUND: In 2024, Canada introduced two strategies to prevent severe infant RSV infection: maternal vaccine (RSVpreF) and infant monoclonal antibody (nirsevimab). Although Canadian guidelines recommended universal seasonal nirsevimab, implementation varied across provinces/territories. We compared attitudes and preferences towards RSV immunization in jurisdictions with and without publicly funded universal nirsevimab programs.\n\nMETHODS: Between November 2024 and March 2025, we conducted a national prospective cohort study recruiting pregnant or recently pregnant participants through social media. Participants completed a baseline survey, with follow-up at 3 and 6 months postpartum. Surveys collected demographic data, obstetrical outcomes, reported receipt of immunization products, and attitudes towards RSVpreF and nirsevimab, including perceived barriers. Participants were analyzed by residence in provinces/territories with versus without universal nirsevimab programs.\n\nRESULTS: Among 1008 participants included in the analysis, 40.6% resided in jurisdictions with funded universal nirsevimab programs. If both immunization products were free and available, in jurisdictions with universal nirsevimab, 78.5% would accept nirsevimab, while 72.4% would accept RSVpreF. In provinces without funded nirsevimab programs, 73.9% of participants would accept nirsevimab with an 89.8% acceptance rate for RSVpreF (p < 0.001). In jurisdictions with universal nirsevimab programs, nirsevimab was perceived as more beneficial (p < 0.001) and more effective (p = 0.02) at preventing RSV disease than RSVpreF. Approximately 96% of participants agreed that the decision to obtain RSVpreF was up to them, however, fewer felt the same about nirsevimab (84.6%). When ranking vaccines in pregnancy, 43.9% of participants ranked Tdap as their top priority, while 21% ranked RSV vaccination first. Tdap was ranked higher than RSVpreF by 60.5% of participants, with no significant differences between jurisdictions.\n\nCONCLUSIONS: During the 2024/2025 RSV season, preferences between RSVpreF and nirsevimab were associated with provincial/territorial public funding for infant monoclonal antibodies. As RSV immunoprophylaxis programs evolve, policymakers should recognize that funding decisions can influence public attitudes and preferences towards available immunization products.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:43063662",
       "pmid": "43063662",
       "doi": "10.1016/j.jcrc.2026.155813",
@@ -67499,6 +67620,32 @@
       ],
       "topics": [
         "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43063628",
+      "pmid": "43063628",
+      "doi": "10.1016/j.wombi.2026.102435",
+      "title": "Building climate-resilient maternity care through co-design, local leadership and the maternity workforce.",
+      "authors": [
+        "Ginnane JF",
+        "Lokmic-Tomkins Z",
+        "Homer CSE",
+        "Capon A",
+        "Vogel JP"
+      ],
+      "journal": "Women and birth : journal of the Australian College of Midwives",
+      "date": "2026-11-20",
+      "year": 2026,
+      "abstract": "PROBLEM: Climate change, through changes to ambient temperature, the frequency, intensity and duration of extreme weather events, changes to infectious disease dynamics, and disruptions to food systems, threatens maternal health.\n\nBACKGROUND: Pregnant women face disproportionate impacts from climate change, yet there are few purposefully designed, evaluated and demonstrably effective adaptation interventions. Developing and testing such interventions face logistical and complexity challenges, but these are not insurmountable.\n\nAIM AND APPROACH: In this commentary we discuss the key challenges to effective climate adaptation for pregnant women and propose a way forward.\n\nDISCUSSION: Progress has been constrained by challenges including restrictive research environments for studies involving pregnant women, difficulties in recruitment, workforce preparedness gaps, and broader system-level limitations. We argue that future adaptation efforts should prioritise co-design with pregnant women, communities, and healthcare workers; strengthen local leadership and ownership; and foster collaboration across disciplines including health, engineering, environmental science, and policy. Midwives and the wider maternity workforce are well placed to act as essential partners in this work, through their relationships with women and families, and their knowledge of local vulnerabilities. Emerging examples from maternal health and community-based adaptation initiatives demonstrate the potential of these approaches to generate contextually appropriate and responsive solutions.\n\nCONCLUSION: Effective climate adaptation for maternal health will require interventions that are co-designed, locally led, cross-sectoral, and planned with long-term sustainability in mind. Advancing such approaches offers an opportunity to strengthen the resilience of maternal and newborn health systems while reducing climate-related risks for women, infants, and communities.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -67745,6 +67892,30 @@
         "critical-care",
         "hematology",
         "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43063529",
+      "pmid": "43063529",
+      "doi": "10.1016/j.coviro.2026.101596",
+      "title": "Non-standard viral genomes in RNA viruses: from viral fitness and host responses to antiviral therapeutics.",
+      "authors": [
+        "Li X",
+        "López CB"
+      ],
+      "journal": "Current opinion in virology",
+      "date": "2026-11-20",
+      "year": 2026,
+      "abstract": "Non-standard viral genomes (nsVGs) are increasingly recognized as integral components of RNA virus populations rather than mere stochastic byproducts of replication. Emerging evidence indicates that nsVG biogenesis is governed by coordinated interactions between the viral replication machinery, RNA structural features, and host cellular environments. In this review, we summarize emerging concepts in the biology of nsVGs in RNA viruses, focusing on the mechanistic regulation of their biogenesis and their capacity to reshape fitness landscapes. In addition, we examine how heterogeneous nsVG populations influence host responses, viral persistence, and infection outcomes. Together, the experimental insights summarized here provide an updated perspective on nsVG population dynamics and their implications for the development of nsVG-based antiviral therapeutics and vaccine adjuvants.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "infectious"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -78499,6 +78670,7 @@
         "Review"
       ],
       "topics": [
+        "endocrine",
         "gastro-hepatology"
       ],
       "has_full_text": false,
@@ -360069,200 +360241,6 @@
       ],
       "has_full_text": true,
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13728470/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42973055",
-      "pmid": "42973055",
-      "doi": "10.1111/cpf.70104",
-      "title": "Fully automated AI-based quantification of tumour volume on PSMA PET-CT images is associated with overall survival in prostate cancer.",
-      "authors": [
-        "Wittgren J",
-        "Ingvar J",
-        "Enqvist O",
-        "Larsson M",
-        "Minarik D",
-        "Edenbrandt L",
-        "Bjartell A",
-        "Trägårdh E"
-      ],
-      "journal": "Clinical physiology and functional imaging",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "INTRODUCTION: Artificial intelligence (AI)-based models can quantify tumour volume in positron emission tomography (PET) examinations using prostate specific membrane antigen (PSMA). It is, however, unknown whether this measurement of tumour volume contains prognostic information. The purpose of this study was to examine whether tumour volume measured by AI is associated with overall survival in patients with prostate cancer.\n\nMETHODS: Patients who had undergone [18F]PSMA-1007 PET-CT due to primary staging or biochemical recurrence (BCR) of prostate cancer at our centre were retrospectively included and followed for 5 years. Automatic quantification of tumour volume was performed using a previously developed fully automated AI model from our research group for PSMA PET-CT analysis, without manual corrections. The tumour volume for the prostate, lymph nodes, and bone was calculated and summarized as Total Lesion Volume (TLV) and divided categorically (no detectable tumour, low, and high) as well as aggregated to whole-body TLV and divided into tertiles (low, intermediate, and high). Mortality rates were compared using Cox-regression and adjusted for age.\n\nRESULTS: Among 267 patients in the final analysis, 48 (18%) died during follow-up. Whole-body TLV was significantly associated with mortality in the combined cohort (p = 0.001) and in the primary staging cohort (p = 0.014) but did not reach statistical significance in the BCR cohort (p = 0.061).\n\nCONCLUSIONS: Fully automated AI-derived TLV from PSMA PET-CT was associated with overall survival. These findings support the potential role of AI-based tumour quantification as a potential prognostic biomarker in prostate cancer.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42973022",
-      "pmid": "42973022",
-      "doi": "10.13201/j.issn.2096-7993.2026.11.001",
-      "title": "[Expert consensus on multidisciplinary sequential diagnosis and treatment of sleep-disordered breathing in children].",
-      "authors": [
-        "Otorhinolaryngology Subspecialty Group and Stomatology Subspecialty Group",
-        "Sleep Medicine Specialized Committee，Chinese Medical Doctor Association",
-        "Yin G",
-        "Guan J",
-        "Zou J",
-        "Zhang X",
-        "Li Y",
-        "Zhang J",
-        "Ming X",
-        "Zhong Z",
-        "Zhao T",
-        "Gao X",
-        "Zhu M",
-        "Yu B",
-        "Jin Y",
-        "Yang X",
-        "Feng Y",
-        "Zhou P",
-        "Aikebaier T",
-        "He Z",
-        "Cai W",
-        "Han B",
-        "Niu X",
-        "Li Y",
-        "Wang B",
-        "Xu Z",
-        "Xie Q",
-        "He H",
-        "Chen X"
-      ],
-      "journal": "Lin chuang er bi yan hou tou jing wai ke za zhi = Journal of clinical otorhinolaryngology head and neck surgery",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Sleep-disordered breathing（SDB） has a relatively high prevalence in children, and its pathogenesis is complex, involving interdisciplinary issues. Among its subtypes, obstructive sleep apnea （OSA） is the most common, accounting for approximately 90% of cases. Untreated SDB can impair growth and development, cognitive function, and cardiovascular health in affected children. At present, its diagnosis and treatment remain constrained by inadequate multidisciplinary collaboration, single-dimensional assessment, fragmented care, and the lack of a sequential care concept. This consensus was jointly developed by a multidisciplinary panel of experts in otorhinolaryngology-head and neck surgery, orthodontics and stomatology, pediatrics, endocrinology, and psychiatry and psychology. In accordance with the principles of relevant guidelines issued by the World Health Organization （WHO） and the Chinese Medical Association, the Grading of Recommendations Assessment, Development and Evaluation （GRADE） system was adopted to assess the quality of evidence and grade the strength of recommendations. Recommendations were formulated covering diagnostic assessment, multidisciplinary collaboration, sequential treatment, management of special populations, follow-up and health education, and future research directions, and a child-centered, stage-based, and dynamically adjusted multidisciplinary framework for sequential diagnosis and treatment was established, with the aim of standardizing clinical practice, enhancing comprehensive management, and improving the quality of life and long-term prognosis of affected children.",
-      "publication_types": [
-        "Journal Article",
-        "Consensus Statement",
-        "English Abstract"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42972961",
-      "pmid": "42972961",
-      "doi": "10.1111/ijpo.70161",
-      "title": "Pilot Implementation of an Adapted Online Clinic-Community Model for Childhood Obesity.",
-      "authors": [
-        "Chew CSE",
-        "Khaider KB",
-        "Neshteruk CD",
-        "Armstrong SC"
-      ],
-      "journal": "Pediatric obesity",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Intensive health-behaviour lifestyle treatment is recommended for paediatric obesity, but evidence for young children and synchronous online delivery remains limited.\n\nOBJECTIVES: To evaluate the feasibility, acceptability, and preliminary effectiveness of an adapted online clinic-community model for children aged 4 to < 8 years with overweight or obesity.\n\nMETHODS: In this two-arm randomized controlled trial, children were randomized to an online family-based intervention or usual care. The primary outcome was treatment dose at 6 months, defined as intervention contact hours. Secondary outcomes included BMI z-score, percentage of the 95th BMI percentile, health-related quality of life, eating behaviours, and perceived movement skills at 3 and 6 months.\n\nRESULTS: Forty children were enrolled; mean age was 6.6 ± 1.0 years and 58% were male. At 6 months, 70% of intervention participants achieved at least 26 treatment hours. Although the between-group differences were not statistically significant, the intervention group demonstrated numerically greater reductions in BMI z-score (-0.2 ± 0.3 vs. -0.1 ± 0.1; p = 0.091) and percentage of the 95th BMI percentile (-3.5 ± 6.4 vs. -0.2 ± 4.0; p = 0.075). Physical quality of life improved at 3 and 6 months, object control skills at 3 months, and perceived locomotor skills at 6 months.\n\nCONCLUSIONS: The adapted online model was feasible and acceptable, with preliminary improvements in physical quality of life, movement skills, and BMI metrics. Larger adequately powered trials are needed to confirm effectiveness and longer-term outcomes.",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "topics": [
-        "clinical-trials"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42971943",
-      "pmid": "42971943",
-      "doi": "10.1111/ggi.70898",
-      "title": "Discordance Between Height- and BMI-Adjusted AWGS 2025 Definitions of Confirmed Sarcopenia After Stroke.",
-      "authors": [
-        "Yoshimura Y",
-        "Matsumoto A",
-        "Yoneda K",
-        "Shimazu S"
-      ],
-      "journal": "Geriatrics & gerontology international",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "AIM: The Asian Working Group for Sarcopenia (AWGS) 2025 allows height- or body mass index (BMI)-adjusted muscle mass in diagnosing confirmed sarcopenia. We evaluated classification discordance and associated clinical characteristics after stroke.\n\nMETHODS: This retrospective study included 864 patients undergoing post-acute stroke rehabilitation. Confirmed sarcopenia was defined using low handgrip strength combined with either height- or BMI-adjusted muscle mass. Patients were classified into four groups: Neither, Height-only, BMI-only, and Both. Agreement between definitions was quantified, and the two discordant groups were compared using multivariable logistic regression. Model robustness and discharge outcomes were examined in sensitivity and exploratory analyses, respectively.\n\nRESULTS: Discordant classification occurred in 183 patients (21.2%; 95% confidence interval [CI], 18.6%-24.0%), with moderate agreement between definitions (κ = 0.578). Compared with the Height-only group, the BMI-only group had higher BMI, serum albumin, and phase angle. In adjusted analyses of 182 patients, higher albumin (odds ratio [OR] per 0.5 g/dL, 1.71; 95% CI, 1.10-2.64), phase angle (OR per degree, 1.93; 95% CI, 1.23-3.04), and medication count (OR per drug, 1.17; 95% CI, 1.03-1.32) were associated with BMI-only classification. Firth estimates were similar, but internal validation indicated overfitting. Adjusted discharge outcomes did not clearly differ between discordant groups.\n\nCONCLUSIONS: Height- and BMI-adjusted AWGS 2025 criteria classified approximately one in five patients differently after stroke. Beyond expected body-size differences, discordant groups exhibited distinct clinical characteristics, highlighting the importance of considering the indexing method when interpreting sarcopenia classifications.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42971932",
-      "pmid": "42971932",
-      "doi": "10.1111/nep.70302",
-      "title": "Current Status and Temporal Changes in Lupus Nephritis in Japan: Analysis of the Japan Renal Biopsy Registry.",
-      "authors": [
-        "Ikeuchi H",
-        "Ozeki T",
-        "Maruyama S",
-        "Tsuboi N",
-        "Tsuji T",
-        "Sugiyama H",
-        "Hiromura K"
-      ],
-      "journal": "Nephrology (Carlton, Vic.)",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "AIM: This study evaluated temporal changes in the clinical and histological features of lupus nephritis at first renal biopsy in Japan.\n\nMETHODS: This retrospective observational study used Japan Renal Biopsy Registry data. Patients undergoing their first renal biopsy in 2018-2021 were compared with a historical cohort from 2007 to 2012. Clinical characteristics and histological classes based on the International Society of Nephrology/Renal Pathology Society classification were compared.\n\nRESULTS: The study included 331 patients in the historical cohort and 682 in the recent cohort. The recent cohort was older (median age, 42 vs. 37 years; p = 0.014), with a higher proportion aged 60 years or older (19.2% vs. 10.6%; p < 0.001). Histological class distribution differed significantly between cohorts. Class IV (±V) lesions were less frequent in the recent cohort (34.3% vs. 44.1%), whereas Class II and Class III (±V) lesions were numerically more frequent. The lower odds of Class IV (±V) lesions persisted after adjustment for age group (odds ratio, 0.676; 95% confidence interval, 0.516-0.886; p = 0.005). Amongst patients with Class III/IV lesions, pure Class III lesions were more frequent and pure Class IV lesions were less frequent in the recent cohort.\n\nCONCLUSION: The recent first-biopsy cohort was older and had a lower proportion of Class IV (±V) lesions than the historical cohort, even after age adjustment. These findings suggest temporal changes in LN in Japan, although the greater proportion of missing histological classification data in the historical cohort should be considered when interpreting the histological differences.",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "topics": [
-        "nephrology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13727694/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:42971724",
-      "pmid": "42971724",
-      "doi": "10.1177/03000605261500362",
-      "title": "China-PAR-based cardiovascular risk assessment in East Shenzhen using Biossays homocysteine and lipid assays: A prospective cross-sectional and retrospective study.",
-      "authors": [
-        "Chen L",
-        "Zhang B",
-        "Xie G",
-        "Chen C",
-        "Shi M",
-        "Fan R",
-        "Chen Y",
-        "Zhang L",
-        "Zhang L",
-        "Chen S",
-        "Fang Z",
-        "Yang S"
-      ],
-      "journal": "The Journal of international medical research",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "ObjectiveHypertension and dyslipidemia are two well-established risk factors for cardiovascular disease. This study aimed to evaluate the analytical performance of homocysteine and lipid assays, estimate the 10-year cardiovascular disease risk among individuals with hypertension, and determine the proportions of hyperhomocysteinemia-type hypertension and dyslipidemia in a hospital-based population in East Shenzhen, China.MethodsThe analytical performances of the Biossays homocysteine, total cholesterol, triglycerides, low-density lipoprotein cholesterol, and high-density lipoprotein cholesterol assays were evaluated according to the Clinical and Laboratory Standards Institute documents. A cross-sectional hypertension cohort comprising 400 eligible participants was recruited from Pingshan People's Hospital between April 2024 and April 2025 to assess the risk of cardiovascular disease and prevalence of hyperhomocysteinemia-type hypertension. Additionally, a retrospective analysis was performed involving 55,575 unique individuals with complete lipid data identified from the hospital laboratory database in 2024, following the exclusion of participants with incomplete and duplicate records, to assess the proportion of participants with dyslipidemia.ResultsThe Biossays homocysteine and lipid assays demonstrated satisfactory precision, trueness, sensitivity, and linearity. The 10-year cardiovascular disease risk, based in the Prediction for Atherosclerotic Cardiovascular Disease Risk in China, differed across ages but not across sexes. The proportions of individuals with hypertension and hyperhomocysteinemia, defined as homocysteine levels ≥10 μmol/L and ≥15 μmol/L, were 85.50% (342) and 33.75% (135), respectively, with no difference in the risk distribution between the two criteria. At least one abnormal lipid parameter was observed in 68.00% (272) of the participants in the hypertension cohort and in 62.35% (34,651) of individuals from the annual laboratory dataset.ConclusionsThe Biossays homocysteine and lipid assays demonstrated satisfactory analytical performance. Among individuals with hypertension, the estimated 10-year cardiovascular disease risk differed across ages but not between sexes, and hyperhomocysteinemia was frequently observed. Lipid abnormalities were also common in the hospital-based population. These findings may support cardiovascular risk assessment and preventive management in similar clinical populations.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "prevention"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
       "source": "PubMed"
     }
   ]
