@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:52:24.136466+00:00",
+  "generated_at": "2026-11-23T02:52:34.395121+00:00",
   "articles": [
     {
       "id": "pmid:43018112",
@@ -61876,6 +61876,457 @@
       "source": "PubMed"
     },
     {
+      "id": "pmid:43064661",
+      "pmid": "43064661",
+      "doi": "10.3928/00220124-20260924-01",
+      "title": "Nurses' Attitudes Toward ANCC NCPD Accreditation and the Association With Perceived Value, Satisfaction, Confidence, and Educational Quality.",
+      "authors": [
+        "Rockwell CL",
+        "Tamsukhin S"
+      ],
+      "journal": "Journal of continuing education in nursing",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "BACKGROUND: American Nurses Credentialing Center (ANCC) Nursing Continuing Professional Development (NCPD) accreditation provides a framework for continuing education (CE) grounded in evidence-based standards. Despite widespread use of ANCC NCPD accreditation, little research has examined how nurses' attitudes toward accreditation relate to key CE outcomes. Guided by Donabedian's model, Kirkpatrick's evaluation framework, and expectancy-value theory, this study examined nurses' attitudes toward accredited CE and the association with perceived value, satisfaction, confidence, and educational quality.\n\nMETHOD: This quantitative correlational design explored relationships between attitudes toward ANCC-accredited CE and perceived value, satisfaction with CE, professional confidence, and educational quality. Licensed nurses completed a structured survey. Data analysis included descriptive statistics and Spearman correlations.\n\nRESULTS: Nurses reported positive attitudes toward accreditation. Significant positive correlations indicated that more positive attitudes were associated with higher perceived value, greater satisfaction, increased confidence, and enhanced perceptions of educational quality.\n\nCONCLUSION: Nurses' attitudes toward accreditation influence key CE outcomes, aligning with theoretical expectations regarding structure, learner reaction, and motivation. Accreditation has a role in supporting high-quality CE and advancing professional development.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43064660",
+      "pmid": "43064660",
+      "doi": "10.3928/00220124-20260925-01",
+      "title": "When Mnemonics Outlive the Evidence: Lessons From Acute Coronary Syndrome Across the Nursing Education Continuum.",
+      "authors": [
+        "Hutton DM"
+      ],
+      "journal": "Journal of continuing education in nursing",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "BACKGROUND: Clinical mnemonics are widely used in nursing education to simplify complex concepts and support knowledge acquisition, retention, and clinical recall. However, they may persist after the evidence that originally informed them has evolved.\n\nMETHOD: This discussion article draws on current literature, historical reflection, and more than three decades of cardiovascular teaching observations to examine the evolution and continued recognition of the acute coronary syndrome (ACS) mnemonics MONA, AMONTH, and NOAH.\n\nRESULTS: The discussion illustrates how these mnemonics reflected different stages in ACS management and how memorable educational tools may remain embedded in nursing education and practice despite changes in clinical evidence.\n\nCONCLUSION: Clinical mnemonics should be periodically reviewed and revised to maintain alignment with contemporary evidence. The evolution of ACS mnemonics highlights broader implications for knowledge translation, curriculum renewal, and continuing professional development across the nursing education continuum.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "coronary"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43064366",
+      "pmid": "43064366",
+      "doi": "10.1021/acsami.6c14408",
+      "title": "A Zwitterionic Polymeric Quaternary Ammonium Microparticle (Z-pQAM) as a Candidate Wound Dressing with Simultaneous Procoagulant, Antimicrobial, and Wound-Healing Activities.",
+      "authors": [
+        "Nguyen HQD",
+        "Horswill AR",
+        "Schurr M",
+        "Bardill JR",
+        "Park D"
+      ],
+      "journal": "ACS applied materials & interfaces",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "Wound infection, inadequate local hemostasis, and delayed healing remain major complications following surgery and in chronic wounds. Effective wound management requires materials that simultaneously prevent infection, support hemostasis, promote tissue repair, and maintain biocompatibility. Here, we synthesized a zwitterionic polymeric quaternary ammonium microparticle (Z-pQAM) and evaluated its biocompatibility, in vitro antimicrobial and procoagulant activity, and wound-healing effects. FTIR confirmed stepwise synthesis and quaternization, and zeta potential analysis showed that Z-pQAM retains a net-negative bulk surface charge across physiological pH. In vitro degradation studies in PBS showed that Z-pQAM retained >99% of its dry mass after three weeks, indicating slow, physiologically appropriate hydrolytic degradation. Functional assays are in line with the hypothesis that its procoagulant and antibacterial activity arise from locally accessible quaternary ammonium (QA+) microdomains rather than overall surface positivity. Z-pQAM achieved >7-log10 reduction against S. aureus and E. coli, and >5-log10 reduction against MRSA at 200 mg/mL, with Live/Dead staining confirming bactericidal membrane disruption, while maintaining <0.5% hemolysis and 100% cell viability across the tested concentration range. In recalcified whole blood, Z-pQAM achieved a blood clotting index of 36.5%, comparable to a benchmark FDA-cleared hemostatic powder. In an uninfected murine full-thickness excisional wound model, topical Z-pQAM accelerated closure at day 8 without altering epidermal thickness, reduced CD45+ inflammatory infiltration by >50% at day 3, and enhanced collagen deposition by day 12. Collectively, these findings position Z-pQAM as a promising candidate for a multifunctional topical wound dressing, combining antibacterial and procoagulant activity with biocompatibility and support for wound repair.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43063494",
+      "pmid": "43063494",
+      "doi": "10.1021/acsami.6c15035",
+      "title": "Heparin-Decorated Hydrogel Microspheres Enable Bioactive Islet Encapsulation and Sustained Glycemic Control in Diabetic Mice.",
+      "authors": [
+        "Liu M",
+        "Jia W",
+        "Zhou Y",
+        "Liu L",
+        "Shen Q",
+        "Qi G",
+        "Zhou R",
+        "Yang M",
+        "Li M",
+        "Weng H",
+        "Chang J",
+        "Wang F",
+        "Chen Z"
+      ],
+      "journal": "ACS applied materials & interfaces",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "Type 1 diabetes mellitus (T1DM) is characterized by immune-mediated β-cell destruction and chronic insulin deficiency. Pancreatic islet transplantation offers a promising approach to restore endogenous insulin production; however, the early post-transplantation period remains a critical barrier to successful graft function, as rapid protein adsorption, coagulation activation, and inflammatory cell recruitment at the material interface can compromise encapsulated islet viability. Here, we develop heparin-decorated hydrogel microcapsules to regulate early material-host interactions and improve the performance of islet encapsulation. Heparin was incorporated into a poly-l-lysine-modified gelatin (PLL-GEL) network through electrostatic complexation, where PLL was covalently anchored onto gelatin via transglutaminase-mediated cross-linking, and subsequently integrated with sodium alginate microcapsules fabricated by electrospraying and calcium-mediated ionic gelation. The resulting microcapsules exhibited uniform morphology, structural stability, and favorable physicochemical properties. Heparin incorporation reduced fibrinogen adsorption, prolonged coagulation times, and decreased macrophage adhesion, indicating improved early hemocompatibility and reduced material-induced cellular interactions. Furthermore, macrophages exposed to heparin-containing microcapsules showed altered immune-related transcriptional responses, suggesting regulation of early host responses. Encapsulated islets maintained high viability and glucose-responsive insulin secretion in vitro. Following intraperitoneal transplantation into diabetic mice, heparin-decorated microcapsules improved graft retention and sustained glycemic control over 30 days. Collectively, this study presents a functional material strategy for optimizing the early-stage compatibility of hydrogel microcapsules in islet transplantation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43063211",
+      "pmid": "43063211",
+      "doi": "10.1097/FBP.0000000000000913",
+      "title": "Chronic neonatal MK-801 treatment attenuates auditory fear conditioning in adult male rats.",
+      "authors": [
+        "Xiong T",
+        "Tachihara R",
+        "Toyoshima M",
+        "Orikasa C",
+        "Yamada K"
+      ],
+      "journal": "Behavioural pharmacology",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "Noncompetitive-777-methyl-D-aspartate (NMDA) receptor antagonists induce schizophrenia-like symptoms, supporting the NMDA receptor hypofunction hypothesis. Neonatal NMDA receptor blockade with MK-801 is widely used to model neurodevelopmental aspects of schizophrenia; however, its impact on cue-specific fear learning remains incompletely characterized. Male Sprague-Dawley pups received subcutaneous injections of MK-801 (0.4 mg/kg) or saline twice daily from postnatal day 7-20. In adulthood, rats underwent auditory fear conditioning (five tone-shock pairings), 4 days of extinction (45 tone-alone trials/session), a retrieval test, and a remote retrieval test. Across acquisition and all test sessions, MK-801-treated rats showed consistently lower freezing than controls. These findings suggest that chronic neonatal MK-801 treatment disrupts acquisition or expression of cue-shock associations, or both. Given the small sample size and the potential contribution of altered locomotion or shock reactivity, future work should incorporate locomotor and sensory controls.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "critical-care"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43061800",
+      "pmid": "43061800",
+      "doi": "10.1515/ijamh-2025-0225",
+      "title": "Family feeding environment, food insecurity, and their associations with undernutrition and overnutrition among Indonesian school-aged children.",
+      "authors": [
+        "Arundhana Thahir AI",
+        "Rachmat M",
+        "Agussalim AZ",
+        "Battung SM",
+        "Syam A"
+      ],
+      "journal": "International journal of adolescent medicine and health",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "INTRODUCTION: The double burden of malnutrition (DBM), the coexistence of stunting and overweight/obesity, has emerged as a growing concern among school-aged children in low-and middle-income countries, yet remains poorly understood. The present study aimed to examine how family feeding environments, food insecurity, and dietary behaviours are associated with undernutrition and overnutrition in an Indonesian population undergoing rapid nutrition transition.\n\nMETHODS: This cross-sectional study involved 161 children and 116 parents across three districts in South Sulawesi. Data on dietary intake, nutritional status, feeding practices, and household food insecurity were collected using structured questionnaires, FFQ, and HFIAS. Nutritional status was assessed using BMI-for-age and height-for-age z-scores. Associations were examined using descriptive statistics, correlations, and exploratory multivariate logistic regression.\n\nRESULTS: Children had low fruit and vegetable (median 127 g/day) intake and high consumption of SSB and UPF (149.5 mL/day and 116 g/day, respectively). Overweight/obesity (OWOB) affected 52.2 % and stunting 29.2 %; 4.3 % had both. Parent-reported feeding practices showed a limited association with children's dietary intake. Food insecurity was prevalent (54 %). In exploratory adjusted models, moderate food insecurity (aOR=7.51; 95 % CI: 1.14-66.76) and residence in Takalar or Makassar compared with Maros were associated with higher odds of OWOB, whereas female sex was associated with lower odds. Stunting was associated with female sex (aOR=3.79; 95 % CI: 1.28-13.08) and residence in Maros, but not with food insecurity.\n\nCONCLUSIONS: Children's diets remained poor despite generally positive parent-reported feeding practices, which may reflect broader environmental influences. The differing correlates of OWOB and stunting highlight the need for tailored, context-specific interventions aiming at improving diet quality and food environments. These exploratory findings warrant confirmation in larger longitudinal studies integrating dietary, environmental, and biological data. Despite generally positive feeding practices reported by parents, children's diets remained poor, which may reflect broader environmental influences.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43059268",
+      "pmid": "43059268",
+      "doi": "10.1515/jom-2026-0020",
+      "title": "Osteopathic manipulative treatment in resolving post-stroke depression: a case report.",
+      "authors": [
+        "Hunt RR",
+        "Voehl AJ",
+        "Van Liew JR",
+        "Brunia A"
+      ],
+      "journal": "Journal of osteopathic medicine",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "Depression affects approximately one in three people following a stroke, most commonly within the first year. The current standard of care for post-stroke depression (PSD) does not differ from that of a non-stroke patient. Few studies have investigated the application of osteopathic manipulative treatment (OMT) within psychiatric conditions; however, studies have demonstrated its potential in downregulating the body's stress response. In this case report, we explore the use of OMT as an adjunct intervention for new-onset mild depressive symptoms following a stroke. This case follows a 64-year-old woman who presented to an outpatient behavioral health clinic in October 2024 for depressed mood following a left middle cerebral artery stroke four months prior. She initiated psychotherapy and declined medication management. After four months of psychotherapy exclusively, her mood symptoms continued to worsen and her PHQ-9 was 7. In April 2025, after six months of psychotherapy, she began OMT every two weeks, for a total of three treatments, addressing somatic dysfunctions of the head, cervical spine, thoracic inlet, and associated musculature. At each session, she completed the PHQ-9 and a pre- and post-session questionnaire assessing specific mood symptoms (sleep, irritability, stress/tension, hopelessness, anxious mood, and depressed mood). At initiation of OMT, the patient's PHQ-9 score was 5, with clinician-observed emotional lability and tearfulness. Her pre-session questionnaire indicated disturbances in sleep, irritability, hopelessness, and depressed mood. Immediately following her first treatment, the patient noted absence of symptoms on post-OMT questionnaire. Following three OMT sessions, her PHQ-9 decreased to 0 and there was no self-reported anxious or depressed mood, irritability, or hopelessness. After two months without OMT, the patient's depressive symptoms and emotional lability returned. These symptoms resolved immediately following an additional OMT session. Two weeks later, her PHQ-9 was 0 and no other mood symptoms were reported. With ongoing OMT every 4-6 weeks, subsequent PHQ-9's continued to be 0. This case suggests the potential of integrating OMT in the treatment of mild PSD, with this patient experiencing initial resolution of depressive symptoms following three OMT sessions. We hope these findings encourage providers to consider OMT in management of depressive symptoms following stroke and spur further investigation of the utilization of OMT as an adjunctive treatment in PSD.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43059209",
+      "pmid": "43059209",
+      "doi": "10.1515/jom-2025-0239",
+      "title": "Somatic dysfunction characterization following acute cerebrovascular disease: the SOMADC-AC study.",
+      "authors": [
+        "Yee AH",
+        "Brooks WJ",
+        "Palchik GA",
+        "Li YJ",
+        "Akers BS",
+        "Dossett ML"
+      ],
+      "journal": "Journal of osteopathic medicine",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "CONTEXT: No previous study has systematically quantified somatic dysfunction (SD) in patients with acute cerebrovascular disease nor determined its relationship with focal neurological impairment or quality-of-life (QoL) after stroke. A new diagnostic paradigm, the functional pathology of the musculoskeletal system (FPMSS), may improve examiner reliability to measure musculoskeletal dysfunction and be applicable in patients with cerebral ischemia. The FPMSS methodology provides a semi-quantifiable grading scale, similar to grading reflex or motor power, to measure the disproportion of available motion.\n\nOBJECTIVES: The objective of this study was to reliably quantify SD severity in healthy participants and patients with transient ischemic attack (TIA) or acute ischemic stroke. Additionally, we examined the relationships between musculoskeletal dysfunction identified during hospitalization, focal motor deficit severity among those with stroke, and 3-month QoL outcomes after cerebral infarction.\n\nMETHODS: Healthy asymptomatic participants, patients with TIA (disease control), and those admitted for acute ischemic stroke were recruited from an academic tertiary referral center to undergo standardized musculoskeletal examinations. Participants underwent paired, blinded ratings by two independent raters on the same day. The paired ratings were performed twice in healthy participants (2 weeks apart), once in those with transient cerebral ischemia, and up to three paired instances, 48-72 h apart, for patients admitted with acute stroke. Eighty unique musculoskeletal examination tests were performed on each participant and focused on specified body regions: cervical and thoracolumbar spines, cephalic (\"upper\") extremities, innominates, pedal (\"lower\") extremities, legs, and feet. All assessments were performed by passive, specified linkage testing for available motion, and all examiners received standardized consensus training in the FPMSS model. Participants with ischemic stroke also underwent neuromotor strength testing, based on the National Institutes of Health Stroke Scale motor subcomponents (NIHSS-motor), at the time of each musculoskeletal assessment, and patient-reported QoL outcomes were obtained three months after discharge in those with cerebral infarction.\n\nRESULTS: A total of 120 participants were enrolled (20 healthy controls, 20 with TIA, 80 with ischemic stroke). Fifty-eight of 120 (48.3 %) participants were female. Changes in speech or language were the most frequent presenting symptom in those with TIA (50 %), whereas weakness affected 71.3 % of the patients presenting with stroke. Nearly two-thirds of the patients with stroke had notable paralysis (e.g., NIHSS-motor≥2), and one-third of the survivors had moderate-severe disability at discharge (modified Rankin Scale [mRS]>2). Compared to healthy participants, patients with cerebral ischemia had significantly greater SD severity. Three-month health-related QoL domains correlated with motor impairment severity from stroke but not with SD burden.\n\nCONCLUSIONS: A greater severity of SD is seen in those with acute cerebral ischemia compared to younger healthy asymptomatic participants; however, these findings should be interpreted with caution due to potential measured and unmeasured confounding. Three-month QoL is associated with acute stroke-related motor impairment but did not correlate with SD identified during hospitalization.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "neurology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43040628",
+      "pmid": "43040628",
+      "doi": "10.58347/tml.2026.1768d",
+      "title": "A new indication for finerenone (Kerendia).",
+      "authors": [],
+      "journal": "The Medical letter on drugs and therapeutics",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "nephrology"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43018084",
+      "pmid": "43018084",
+      "doi": "10.1097/QMH.0000000000000604",
+      "title": "Medication Safety Risks Associated With Inappropriate Use of Non-Crushable Tablets in Enterally Fed Patients: A Nationwide Cohort Study.",
+      "authors": [
+        "Wang FL",
+        "Shih RL",
+        "Wang KH",
+        "Wang SR",
+        "Yang CC",
+        "Peng SM",
+        "Zhang QY",
+        "Shia BC",
+        "Chen M",
+        "Wang WM"
+      ],
+      "journal": "Quality management in health care",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "BACKGROUND AND OBJECTIVES: Hospitalized patients receiving enteral feeding are at high risk of medication administration errors. In clinical practice, non-crushable oral tablets may be inappropriately prescribed, potentially resulting in adverse outcomes. This study examined the association between inappropriate use of non-crushable oral tablets during hospitalization and early post-discharge emergency department (ED) visits among patients receiving enteral feeding.\n\nMETHODS: We conducted a nationwide population-based cohort study using a national health insurance claims database in 2020, including 173,476 hospitalized patients receiving enteral feeding. Cox proportional hazards models were used to estimate the association between inappropriate use of non-crushable tablets and the hazard of the first ED visit during the 3-day post-discharge follow-up period.\n\nRESULTS: Among 173,476 patients, 40.2% were exposed to inappropriate medication use. Exposure was associated with a significantly higher hazard of a first ED visit during the 3-day post-discharge follow-up period (adjusted hazard ratio, 1.954; 95% confidence interval, 1.721-2.217). The association varied significantly across age groups and inpatient departments, with the largest adjusted hazard ratios observed among patients aged <65 years and those treated in hematology and oncology, infectious diseases, and neurosurgery. Selected comorbidities, including hypertension, cerebrovascular accident, and dementia, were also associated with a higher hazard of an early ED visit.\n\nCONCLUSION: Orders for non-crushable tablets among hospitalized patients receiving enteral feeding were common and were associated with a substantially higher hazard of an early post-discharge ED visit. The association varied across age groups and inpatient departments, although these subgroup findings should be interpreted cautiously. These findings highlight an important medication safety concern during transitions of care and support further evaluation of system-level strategies, including prescribing safeguards, clinical decision support, and multidisciplinary medication review, to improve the quality and safety of medication management.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "hematology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43010748",
+      "pmid": "43010748",
+      "doi": "10.3760/cma.j.cn112152-20251202-00598",
+      "title": "[Mitoxantrone hydrochloride liposomes combined with R-GDP regimen in the treatment of relapsed/refractory diffuse large B-cell lymphoma: a single-arm, multicenter, exploratory clinical study].",
+      "authors": [
+        "Ma L",
+        "Zhao J",
+        "Wang JR",
+        "Zheng MJ",
+        "Wen XL",
+        "Yang B",
+        "Lang YY",
+        "Liang L",
+        "Ma HL",
+        "Su LP"
+      ],
+      "journal": "Zhonghua zhong liu za zhi [Chinese journal of oncology]",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "Objective: To evaluate the efficacy and safety of the mitoxantrone liposome combined with R-GDP regimen (R-GDP-Mito regimen) in the treatment of relapsed or refractory diffuse large B-cell lymphoma (DLBCL). Methods: From May 2023 to September 2025, a total of 33 patients with relapsed/refractory DLBCL(R/R DLBCL) were enrolled from multiple centers, including Shanxi Provincial Cancer Hospital, Jincheng People's Hospital of Shanxi Province, Heping Hospital Affiliated to Changzhi Medical College, and Datong Second People's Hospital of Shanxi Province. All patients received 2 to 6 cycles of the R-GDP-Mito regimen. The short-term and long-term efficacy as well as adverse events were analyzed. Results: Among the 33 patients, 16 achieved complete remission (CR), 11 achieved partial remission (PR), 3 had stable disease (SD), and 3 experienced disease progression (PD). The objective response rate (ORR) was 81.8% (27/33), with a 95% CI of 61.4% to 92.3%. The median time to best response was 1.9 months. With a median follow-up of 4.8 months, disease progression was observed in 4 patients, and 5 patient deaths were recorded, attributed to disease progression and severe pulmonary infection, respectively. The median progression-free survival (PFS) was not reached, while the median overall survival (OS) was 16.1 months. The 1-year PFS and OS rates were 56.6% and 90.5%, respectively. All 33 patients experienced adverse events (AEs). Hematological AEs occurred in 60.6% (20/33) of patients, and non-hematological AEs occurred in 81.8% (27/33) of them. Conclusion: The R-GDP-Mitoregimen demonstrates high antitumor activity and well-controlled safety profile in R/R-DLBCL patients, offering a promising new therapeutic option, particularly for those unable to immediately access or tolerate novel targeted or immunotherapy regimens.",
+      "publication_types": [
+        "Clinical Study",
+        "English Abstract",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43010746",
+      "pmid": "43010746",
+      "doi": "10.3760/cma.j.cn112152-20251127-00588",
+      "title": "[Features and prognostic significance of nuclear grade heterogeneity in multiple primary renal cell carcinoma].",
+      "authors": [
+        "Chen SS",
+        "Yuan DL",
+        "Ge HF",
+        "Lei C",
+        "Tang YP",
+        "Shi JH",
+        "Pan X",
+        "Qu L"
+      ],
+      "journal": "Zhonghua zhong liu za zhi [Chinese journal of oncology]",
+      "date": "2026-11-23",
+      "year": 2026,
+      "abstract": "Objective: To investigate the characteristics and prognostic value of nuclear grade heterogeneity in patients with multiple primary renal cell carcinoma (MPRCC). Methods: Clinicopathological data from the Surveillance, Epidemiology, and End Results (SEER) cohort and an independent validation cohort were retrospectively analyzed. The SEER cohort included 724 patients with MPRCC identified from the SEER database between 2010 and 2015. The validation cohort comprised 176 patients with MPRCC who were treated at three Chinese medical centers-Jinling Hospital (Affiliated Hospital of Medical School, Nanjing University), the First Affiliated Hospital of Naval Medical University, and Zhongda Hospital of Southeast University-from January 2007 to March 2024. A prognostic prediction model was constructed using Cox proportional hazards regression. Model discriminative ability and goodness-of-fit were assessed using the C-index and the Akaike information criterion (AIC). Survival analysis was performed with the Kaplan-Meier method. Results: The rates of nuclear grade heterogeneity were 39.2% (284/724) in the SEER cohort and 35.8% (63/176) in the validation cohort. Among four nuclear grading parameters (maximum, minimum, mean, and range), the maximum grade demonstrated superior predictive performance. In the SEER cohort, the multivariable Cox regression model for cancer-specific survival (CSS) using maximum nuclear grade achieved a C-index of 0.744 (95% CI: 0.694-0.794) and an AIC of 1 098.457. In the validation cohort, the corresponding CSS model yielded a C-index of 0.833 (95% CI: 0.707-0.959) and an AIC of 87.740. Following stratification by nuclear grade, no statistically significant differences in overall survival (OS) or CSS were observed between patients with concordant versus discordant nuclear grade patterns, irrespective of whether the maximum nuclear grade was Ⅱor Ⅲ(all P＞0.05). Similarly, after joint stratification by nuclear grade and histological subtype, no significant differences in OS or CSS were found between the concordant and discordant groups among MPRCC patients with the same nuclear grade and histological subtype (all P＞0.05). In the SEER cohort, compared with patients with indolent tumors, those with aggressive tumors had a hazard ratio (HR) of 2.60 (95% CI: 1.88-3.59) for OS and 6.32 (95% CI: 3.78-10.55) for CSS. Conclusion: Nuclear grade heterogeneity is relatively common in MPRCC, and the maximum nuclear grade is of prognostic value for MPRCC.",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "topics": [
+        "research-methods"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068484",
+      "pmid": "43068484",
+      "doi": "10.1111/zph.70109",
+      "title": "Integrated Vector, Canine, and Human Evidence Reveal a Stable Dog-Maintained Cycle of Leishmania Infantum in a Historically Endemic Area From Spain.",
+      "authors": [
+        "Jumakanova Z",
+        "Porcelli S",
+        "Veiga J",
+        "Dvořáková B",
+        "Manchón M",
+        "Iborra MA",
+        "Yague G",
+        "Martínez-de la Puente J",
+        "Figuerola J",
+        "Bernal LJ",
+        "Pérez-Cutillas P",
+        "León R",
+        "Kasap OE",
+        "Kolářová I",
+        "Volf P",
+        "Robert-Gangneux F",
+        "Alten B",
+        "Berriatua E"
+      ],
+      "journal": "Zoonoses and public health",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "INTRODUCTION: Leishmaniosis, caused by Leishmania infantum, is a major zoonotic vector-borne disease in southern Europe. Dogs act as the primary domestic reservoir of the parasite. However, there is growing evidence that transmission cycles involving wild lagomorphs may contribute to both epidemic and endemic human cases in certain settings. Nevertheless, the ecological and epidemiological mechanisms sustaining long-term endemic transmission in stable foci remain poorly understood. This study used an integrated One Health approach combining vector, canine, and human data to investigate transmission dynamics in a long-established endemic area with low human case incidence.\n\nMETHODS: An eco-epidemiological study was conducted in Crevillente Municipality in southeast Spain, between 2021 and 2022. Sand flies were collected using CDC light traps and analysed to determine species composition, Leishmania infection by real-time PCR, parasite identification, and blood meal sources. Dogs were tested for anti-Leishmania antibodies using ELISA. Human blood donors were assessed for Leishmania infection by PCR and for anti-Leishmania antibodies and antibodies against Phlebotomus perniciosus saliva as markers of parasite and vector exposure, respectively.\n\nRESULTS: A total of 11,375 sand flies were collected, predominantly Sergentomyia minuta and Phlebotomus perniciosus, and displayed marked seasonal and spatial variation. High Leishmania infection rates were detected in confirmed vector species, with L. infantum identified in most samples. Blood meal analysis revealed that the primary feeding sources were dogs and humans, while rabbits and hares were detected but infrequently. Canine seroprevalence was high (43%) and associated with rural exposure. In humans, infection markers were low (3% PCR, 4% serology), despite high exposure to sand fly bites (38% seroprevalence for anti-saliva antibodies).\n\nCONCLUSIONS: The study characterizes a Mediterranean endemic focus with intense circulation of L. infantum in vectors and dogs, widespread human exposure to sand flies, but low levels of asymptomatic human infection and no reported clinical disease during the decade preceding the study. The findings support a predominantly domestic transmission, with dogs representing the main identified reservoir host and lagomorph-derived blood meals being relatively infrequent. The potential contribution of lagomorphs to local parasite circulation warrants further investigation. The detection of Leishmania DNA in non-confirmed vector species, including sequences consistent with the L. donovani/L. infantum complex, further highlights the need for continued surveillance of Leishmania diversity and transmission dynamics.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068465",
+      "pmid": "43068465",
+      "doi": "10.1111/jfd.70326",
+      "title": "Increased Sodium Chloride Concentration Enhances Piscirickettsia salmonis Epithelial Translocation by Modulating Immune and Osmoregulatory Gene Expression in RTgutGC Cells.",
+      "authors": [
+        "Suárez R",
+        "Pérez J",
+        "Cárcamo D",
+        "Santibáñez N",
+        "Escalona C",
+        "Pérez T",
+        "Vega M",
+        "Oliver C",
+        "Romero A"
+      ],
+      "journal": "Journal of fish diseases",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "Climate change is expected to increase seawater salinity, potentially altering the physiological responses of marine organisms. In salmonids, elevated salinity has been associated with outbreaks of infectious diseases; however, the mechanisms linking salinity with intestinal epithelial dysfunction and bacterial invasion remain poorly understood. This study evaluated the effects of increased sodium chloride concentrations on the integrity of the rainbow trout intestinal epithelial cell line RTgutGC and its relationship with P. salmonis translocation. Cells cultured under control (8 g/L NaCl) or hyperosmotic conditions (16 and 20 g/L NaCl) were assessed for cytotoxicity, epithelial integrity, permeability, bacterial translocation, and gene expression. Hyperosmotic conditions significantly increased epithelial permeability and reduced barrier integrity, as evidenced by altered paracellular permeability to Dextran FITC and modulation of tight junction-related genes, including cld-3 and zo-1. Salinity also induced the expression of osmoregulatory (tsc22 and nka) and immune-related genes (il-1β and il-10), indicating activation of response to osmotic stress. Importantly, elevated salinity significantly enhanced the translocation of P. salmonis across the epithelial monolayer, whereas no bacterial translocation was detected under control conditions. Moreover, high salinity increased infection-associated cytotoxicity, mainly at 20 g/L NaCl. Together, these findings demonstrate that increased sodium chloride concentration compromises intestinal epithelial barrier function while promoting P. salmonis translocation. These results provide mechanistic evidence linking climate-driven changes in seawater salinity with increased epithelial susceptibility to bacterial pathogens and suggest that osmotic stress may represent an important environmental factor influencing the pathogenesis of piscirickettsiosis in salmonids.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "infectious"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068462",
+      "pmid": "43068462",
+      "doi": "10.1111/jocn.70666",
+      "title": "Lifestyle Factors and Cardiometabolic Diseases in Middle-Aged and Older Adults: A Mixed Graphical and Bayesian Network Analysis With Sex-Specific Comparison.",
+      "authors": [
+        "Yao Z",
+        "Wang Y",
+        "Wang M",
+        "Tang H",
+        "Shi S",
+        "Zhong Z",
+        "Luo A"
+      ],
+      "journal": "Journal of clinical nursing",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "AIMS: To examine the complex relationships between lifestyle factors and cardiometabolic diseases and to explore sex-specific network structures and dependency patterns among middle-aged and older adults.\n\nDESIGN: This cross-sectional study used data from Wave 5 (2020) of the China Health and Retirement Longitudinal Study.\n\nMETHODS: Lifestyle factors included physical activity, sleep duration, smoking, and alcohol consumption. Cardiometabolic diseases were identified based on self-reported physician diagnoses. Mixed graphical models and Bayesian networks were applied to investigate conditional associations, potential dependency structures, and sex differences. The study was reported according to the STROBE checklist.\n\nRESULTS: A total of 18,548 participants were included. In the mixed graphical models, alcohol consumption and physical activity showed the highest bridge expected influence in men, whereas physical activity and smoking were the most influential bridge nodes in women. Network Comparison Tests indicated no significant sex difference in global network strength, whereas network structure differed significantly between men and women. Bayesian network analysis identified a common dependency pattern across sexes involving physical activity, dyslipidemia, and diabetes. Sex-specific dependency patterns were also observed: alcohol consumption, stroke, heart disease, and diabetes were linked in a prominent pattern among men, whereas smoking, heart disease, and stroke were linked among women. In sensitivity analyses incorporating sociodemographic covariates, lifestyle-CMD associations remained evident in the overall sample and among women, whereas the corresponding associations were no longer clearly evident in the male network.\n\nCONCLUSION: Lifestyle behaviours and cardiometabolic diseases showed distinct network association patterns between men and women. However, the male-specific Bayesian network findings were sensitive to the inclusion of sociodemographic covariates and should be interpreted cautiously. These findings provide insights into the complex associations between lifestyle behaviours and cardiometabolic diseases. Longitudinal and intervention studies are needed to confirm effects and sex differences.\n\nRELEVANCE TO CLINICAL PRACTICE: Comprehensive, person-centred lifestyle assessment is important for the prevention and management of cardiometabolic diseases (CMDs). Network-based approaches may help identify complex associations between lifestyle behaviours and CMDs, providing insights for sex-sensitive behavioural assessment and risk stratification.\n\nPATIENT OR PUBLIC CONTRIBUTION: No patient or public contribution.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "topics": [
+        "endocrine",
+        "neurology",
+        "prevention"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068421",
+      "pmid": "43068421",
+      "doi": "10.1007/s12012-026-10227-3",
+      "title": "Emerging Therapeutic Strategies Targeting Ferroptosis in Cardiomyocyte Injury: Molecular Mechanisms and Future Perspectives.",
+      "authors": [
+        "Thangavel L",
+        "Maida Engels SE"
+      ],
+      "journal": "Cardiovascular toxicology",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "Ferroptosis is a regulated, iron-dependent form of cell death characterized by excessive lipid peroxidation resulting from disrupted iron homeostasis and impaired cellular antioxidant defenses. Increasing evidence identifies ferroptosis as a central contributor to cardiomyocyte injury in ischemia-reperfusion injury, anthracycline-induced cardiotoxicity, metabolic cardiac disorders, diabetic cardiomyopathy, and heart failure. Unlike apoptosis, necroptosis, autophagic cell death, and pyroptosis, ferroptosis is driven by glutathione depletion, glutathione peroxidase 4 (GPX4) inactivation, and uncontrolled lipid peroxide accumulation, making it a distinct and potentially reversible therapeutic target. This review provides a comprehensive overview of the molecular mechanisms regulating cardiac ferroptosis, emphasizing the roles of GPX4, Solute Carrier Family 7 Member 11 (SLC7A11), Nuclear factor Erythroid 2-related Factor 2 (NRF2), Acyl-CoA Synthetase Long-Chain Family Member 4 (ACSL4), Ferroptosis Suppressor Protein 1 (FSP1), Dihydroorotate Dehydrogenase (DHODH), and ferritinophagy, together with their interactions with other regulated cell death pathways. We further discuss emerging therapeutic approaches, including natural phytochemicals, small-molecule ferroptosis inhibitors, and gene- and molecular target-based strategies, together with the cardio-oncology implications of inhibiting ferroptosis and the translational prospects offered by nanoparticle-based delivery, multi-omics integration, and artificial intelligence-assisted predictive modeling. Current translational challenges, including the absence of validated ferroptosis-specific biomarkers, limited human-relevant disease models, and interpatient heterogeneity, are critically evaluated. By integrating molecular mechanisms, therapeutic advances, and translational perspectives, this review provides an updated framework for understanding ferroptosis in cardiovascular toxicity and identifies key opportunities for developing clinically translatable ferroptosis-targeted cardioprotective strategies.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "topics": [
+        "cardio-oncology",
+        "heart-failure"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
       "id": "pmid:43068420",
       "pmid": "43068420",
       "doi": "10.1007/s10456-026-10106-z",
@@ -61934,12 +62385,70 @@
       "year": 2026,
       "abstract": "Nearly half of patients undergoing transcatheter aortic valve implantation have concomitant significant coronary artery disease. In patients with severe aortic stenosis and coexisting obstructive coronary artery disease, several issues remain controversial, including the optimal diagnostic evaluation, the choice of treatment strategy (surgical, percutaneous, or conservative), the indication for and extent of coronary revascularization, and, if percutaneous coronary intervention is performed, its optimal timing. After transcatheter aortic valve implantation, selective coronary cannulation may be challenging in a subset of patients, an issue of increasing clinical relevance as accumulating evidence in recent years has progressively expanded transcatheter aortic valve implantation indications to patients with longer anticipated survival. Although the likelihood of requiring invasive coronary angiography or percutaneous coronary intervention after transcatheter aortic valve implantation is expected to increase in these patients, coronary events occurring during the post-transcatheter aortic valve implantation period - particularly life-threatening acute coronary syndromes - remain insufficiently characterized with respect to their incidence, clinical characteristics, predictors, and outcomes. In addition to conventional atherothrombotic mechanisms, the transcatheter heart valve itself may contribute to the development of acute coronary syndromes after transcatheter aortic valve implantation. Furthermore, the presence of a transcatheter heart valve may complicate invasive management because of technical challenges related to coronary access. This may be of particular importance in patients presenting with ST-segment elevation myocardial infarction after transcatheter aortic valve implantation, in whom rapid and reliable coronary access and time-critical reperfusion are essential. The Gottsegen National Cardiovascular Center is one of the leading high-volume centers nationwide for the treatment of patients with severe aortic stenosis. Since the initiation of the institutional transcatheter aortic valve implantation program in 2008, more than 3000 procedures have been performed. Analysis of this large-scale registry may contribute to a better understanding of the currently unknown incidence, clinical characteristics and outcomes of acute coronary syndromes among patients undergoing transcatheter aortic valve implantation in Hungary. Orv Hetil. 2026; 167(47): 1887-1899.",
       "publication_types": [
-        "English Abstract",
-        "Journal Article"
+        "Journal Article",
+        "Review",
+        "English Abstract"
       ],
       "topics": [
         "coronary",
         "valvular"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068409",
+      "pmid": "43068409",
+      "doi": "10.1007/s11136-026-04453-z",
+      "title": "Health-related quality of life with PD-1/PD-L1 inhibitors added to standard therapy for endometrial and cervical cancer: a systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Lemos MJ",
+        "Queiroz LF",
+        "Ayesha A",
+        "Pereira H",
+        "Díaz-Hermosilla C",
+        "da Silva AFR",
+        "Neves NM",
+        "Darkovski JV"
+      ],
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "OBJECTIVE: To evaluate whether adding programmed cell death protein 1 or programmed death-ligand 1 (PD-1/PD-L1) inhibitors to standard therapy affects health-related quality of life (HRQoL) in patients with endometrial or cervical cancer.\n\nMETHODS: PubMed, Embase, and the Cochrane Central Register of Controlled Trials were searched from inception through September 2025 for randomized controlled trials (RCTs) comparing a PD-1/PD-L1 inhibitor plus standard therapy with the identical treatment backbone, with or without placebo. Mean differences (MDs) in change from baseline were pooled using random-effects models with the Hartung-Knapp adjustment. Risk of bias was assessed using RoB 2, and certainty of evidence was evaluated with GRADE.\n\nRESULTS: Nine RCTs involving 5,933 patients were included, of which seven trials comprising 4,995 patients contributed to the meta-analysis. Adding PD-1/PD-L1 inhibition did not significantly affect EORTC QLQ-C30 global health status/quality of life (MD -0.07; 95% CI -1.50 to 1.35; I²=0%; 7 studies; 4,995 patients). Results were also non-significant for physical, role, emotional, cognitive, and social functioning; lymphedema; menopausal symptoms; peripheral neuropathy; sexual worry; symptom experience; and EQ-5D health status. Certainty of evidence was moderate for global health status/quality of life and low for the remaining outcomes.\n\nCONCLUSION: Adding PD-1/PD-L1 inhibitors to standard therapy did not detectably change global HRQoL, and the pooled confidence interval excluded clinically important deterioration. No functional or symptom domain differed significantly, although small effects cannot be excluded for domains informed by few trials.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "topics": [
+        "systematic-reviews"
+      ],
+      "has_full_text": false,
+      "full_text_url": null,
+      "source": "PubMed"
+    },
+    {
+      "id": "pmid:43068405",
+      "pmid": "43068405",
+      "doi": "10.1007/s11136-026-04445-z",
+      "title": "A dynamic network analysis of anxiety-related distress within a quality-of-life framework among adults undergoing chemotherapy.",
+      "authors": [
+        "Yan K",
+        "Zou J",
+        "Loerzel V"
+      ],
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "date": "2026-11-22",
+      "year": 2026,
+      "abstract": "PURPOSE: To understand anxiety-related distress within the quality-of-life context, this study examined how anxiety-related distress is positioned in the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ) framework, and assessed its strongest associations with other quality-of-life factors over time.\n\nMETHODS: This secondary analysis of randomized controlled trial data included 390 adults aged ≥ 50 years (63.1% female) who were assessed across six time points: before chemotherapy (baseline, T1) and during chemotherapy (T2-T6). Longitudinal network analysis was used to evaluate the position and associations of anxiety-related distress, represented by worry and tension, within the EORTC-QLQ framework. A baseline network using all 30 EORTC-QLQ items first identified the position of anxiety-related distress. A reduced longitudinal network using key nodes was then estimated to examine contemporaneous, between-person, and temporal associations over time.\n\nRESULTS: The baseline network revealed that worry played a central bridging role within the quality-of-life framework. In the reduced longitudinal network, the strongest evidence emerged in the contemporaneous and between-person networks. At the same assessment occasion, worry and tension were positively associated with depressed mood, trouble sleeping, irritability, difficulty concentrating, and financial difficulties. At between-person level, higher average worry was associated with higher average tension, depressed mood, and financial difficulties; while higher average tension was associated with higher average irritability, worry, and difficulty concentrating. In the temporal network, financial difficulties significantly predicted higher subsequent worry but lower subsequent tension.\n\nCONCLUSIONS: Anxiety-related distress was centrally embedded within the EORTC QLQ framework, with worry serving as a key connector linking emotional, cognitive, sleep-related, and financial concerns. Potential leverage points for supportive care during chemotherapy were identified.\n\nCLINICAL TRIAL REGISTRY: ClinicalTrials.gov ID NCT05838638; https://clinicaltrials.gov/study/NCT05838638?term=NCT05838638&rank=1 .",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "topics": [
+        "clinical-trials"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -62554,8 +63063,8 @@
       "topics": [
         "gastro-hepatology"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13788642/",
       "source": "PubMed"
     },
     {
@@ -68364,8 +68873,8 @@
         "nephrology",
         "research-methods"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13786400/",
       "source": "PubMed"
     },
     {
@@ -69302,8 +69811,8 @@
       "topics": [
         "infectious"
       ],
-      "has_full_text": false,
-      "full_text_url": null,
+      "has_full_text": true,
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13788179/",
       "source": "PubMed"
     },
     {
@@ -205386,38 +205895,6 @@
       ],
       "topics": [
         "endocrine"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43018084",
-      "pmid": "43018084",
-      "doi": "10.1097/QMH.0000000000000604",
-      "title": "Medication Safety Risks Associated With Inappropriate Use of Non-Crushable Tablets in Enterally Fed Patients: A Nationwide Cohort Study.",
-      "authors": [
-        "Wang FL",
-        "Shih RL",
-        "Wang KH",
-        "Wang SR",
-        "Yang CC",
-        "Peng SM",
-        "Zhang QY",
-        "Shia BC",
-        "Chen M",
-        "Wang WM"
-      ],
-      "journal": "Quality management in health care",
-      "date": "2026-11-12",
-      "year": 2026,
-      "abstract": "BACKGROUND AND OBJECTIVES: Hospitalized patients receiving enteral feeding are at high risk of medication administration errors. In clinical practice, non-crushable oral tablets may be inappropriately prescribed, potentially resulting in adverse outcomes. This study examined the association between inappropriate use of non-crushable oral tablets during hospitalization and early post-discharge emergency department (ED) visits among patients receiving enteral feeding.\n\nMETHODS: We conducted a nationwide population-based cohort study using a national health insurance claims database in 2020, including 173,476 hospitalized patients receiving enteral feeding. Cox proportional hazards models were used to estimate the association between inappropriate use of non-crushable tablets and the hazard of the first ED visit during the 3-day post-discharge follow-up period.\n\nRESULTS: Among 173,476 patients, 40.2% were exposed to inappropriate medication use. Exposure was associated with a significantly higher hazard of a first ED visit during the 3-day post-discharge follow-up period (adjusted hazard ratio, 1.954; 95% confidence interval, 1.721-2.217). The association varied significantly across age groups and inpatient departments, with the largest adjusted hazard ratios observed among patients aged <65 years and those treated in hematology and oncology, infectious diseases, and neurosurgery. Selected comorbidities, including hypertension, cerebrovascular accident, and dementia, were also associated with a higher hazard of an early ED visit.\n\nCONCLUSION: Orders for non-crushable tablets among hospitalized patients receiving enteral feeding were common and were associated with a substantially higher hazard of an early post-discharge ED visit. The association varied across age groups and inpatient departments, although these subgroup findings should be interpreted cautiously. These findings highlight an important medication safety concern during transitions of care and support further evaluation of system-level strategies, including prescribing safeguards, clinical decision support, and multidisciplinary medication review, to improve the quality and safety of medication management.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "hematology",
-        "prevention"
       ],
       "has_full_text": false,
       "full_text_url": null,
@@ -359824,464 +360301,6 @@
       "publication_types": [
         "Journal Article",
         "Consensus Statement"
-      ],
-      "topics": [
-        "guidelines"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43006128",
-      "pmid": "43006128",
-      "doi": "10.1002/rcr2.70817",
-      "title": "Valve Expectoration After Endobronchial Valve Placement: Potential Utility of Computed Tomography-Based Airway Sizing-A Case Report.",
-      "authors": [
-        "Kinose D",
-        "Nagatani Y",
-        "Nakagawa H",
-        "Fujino M",
-        "Ichida A",
-        "Tanaka R",
-        "Okuda S",
-        "Ueki Y",
-        "Misonou M",
-        "Yamazaki A",
-        "Ogawa E",
-        "Yamaguchi M",
-        "Nakano Y"
-      ],
-      "journal": "Respirology case reports",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "A 75-year-old man with chronic obstructive pulmonary disease underwent endobronchial valve (EBV) placement in the left lower lobe and expectorated the valve from left B10 1 month later. Retrospective analysis of preprocedural dynamic computed tomography (CT) images showed that the median B10 luminal diameter increased from 4.25 mm at end-expiration to 6.55 mm at end-inspiration, approaching the upper limit of the recommended working range (4.0-7.0 mm) for the initially placed size 4.0 valve. A size 5.5 valve was subsequently placed without further expectoration. Bronchoscopic sizing under general anaesthesia with neuromuscular blockade and positive-pressure ventilation may underestimate the maximum airway calibre encountered during spontaneous breathing, particularly in dependent bronchi. Inspiratory CT-based airway assessment may provide useful complementary information for planning EBV placement and selecting an appropriate valve size.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "respiratory"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747632/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43006076",
-      "pmid": "43006076",
-      "doi": "10.1097/RC9.0000000000001187",
-      "title": "Ortner's syndrome associated with a saccular aortic arch aneurysm presenting as isolated unilateral vocal cord paralysis: a case report.",
-      "authors": [
-        "Surkheti A",
-        "Pandey N",
-        "Ghimire B",
-        "Sapkota S",
-        "Poudel B",
-        "Banmala B"
-      ],
-      "journal": "International journal of surgery case reports",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Ortner's syndrome, or cardiovocal syndrome, is an uncommon cause of recurrent laryngeal nerve palsy due to cardiovascular pathology. Thoracic aortic aneurysm is a rare but important etiology that may present only with hoarseness.\n\nCASE PRESENTATION: An 85-year-old man with hypertension and a history of chronic smoking presented with progressive hoarseness for 1 month. Flexible laryngoscopy showed paralysis of the left vocal cord without laryngeal pathology. Contrast-enhanced computed tomography (CT) revealed a 22 × 17 mm saccular aneurysm arising from the distal aortic arch at the aortopulmonary window, with mural thrombus and in close proximity to the left recurrent laryngeal nerve. No cervical, mediastinal, pulmonary, or laryngeal malignancy was detected. Echocardiography showed preserved systolic function without significant valvular disease or pulmonary hypertension. Ortner's syndrome associated with the distal aortic arch aneurysm was considered the most likely diagnosis based on the clinical and radiological findings and the exclusion of other identifiable causes. Surgical repair was advised, but the patient declined and was managed conservatively. At the 11-month clinical follow-up, he remained stable with persistent hoarseness; no follow-up CT was performed.\n\nCLINICAL DISCUSSION: Aortic arch aneurysm is a rare cause of Ortner's syndrome and may mimic more common causes of unilateral vocal cord paralysis, particularly malignancy. Imaging along the recurrent laryngeal nerve pathway, including the thorax, is essential when laryngoscopy does not reveal a local cause.\n\nCONCLUSION: Unexplained left vocal cord paralysis should prompt an evaluation for cardiovascular causes. Early cross-sectional imaging can identify a thoracic aortic aneurysm and guide timely multidisciplinary management.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747486/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43006047",
-      "pmid": "43006047",
-      "doi": "10.1097/RC9.0000000000001020",
-      "title": "Delayed presentation of type I jejunal atresia radiologically mimicking malrotation in an infant with Down syndrome and congenital heart disease: a case report.",
-      "authors": [
-        "Abrishami M",
-        "Khanghah AS",
-        "Savadi H",
-        "Boskabadi A",
-        "Sarsarabi AH",
-        "Atqiaee K"
-      ],
-      "journal": "International journal of surgery case reports",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Type I jejunal atresia presenting beyond the neonatal period is exceptionally rare and may mimic other obstructive gastrointestinal pathologies. Concurrent syndromic and cardiopulmonary comorbidities add substantial complexity to diagnosis and perioperative management.\n\nCASE PRESENTATION: A 2-month-old male infant with Down syndrome and complex congenital heart disease (large patent ductus arteriosus, atrial septal defect, ventricular septal defect, and moderate mitral and tricuspid regurgitation) presented with a 3-week history of progressive bilious vomiting and acute-onset, severe metabolic acidosis. Preoperative upper gastrointestinal contrast study demonstrated delayed transit with proximal dilatation, raising concern for intestinal malrotation. Cardiac surgery had been deferred due to a preceding episode of culture-negative sepsis. Exploratory laparotomy revealed a type I jejunal atresia (intraluminal web) located approximately 20 cm distal to the ligament of Treitz, with no intraoperative evidence of malrotation or volvulus. A short-segment bowel resection with primary end-to-end anastomosis was performed.\n\nCONCLUSION: Late-presenting type I jejunal atresia can radiologically simulate malrotation, particularly when chronic partial obstruction has produced marked proximal dilatation. In syndromic neonates and infants with significant cardiopulmonary disease, a structured multidisciplinary approach - including aggressive metabolic resuscitation and appropriately timed surgical intervention - is essential for optimizing outcomes.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "congenital",
-        "valvular"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747464/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43006005",
-      "pmid": "43006005",
-      "doi": "10.7759/cureus.119359",
-      "title": "Severe Motor Deterioration of Young-Onset Parkinson's Disease in Pregnancy Following Medication Rationalisation: A Case Report.",
-      "authors": [
-        "Naing EEP",
-        "Ko Ko NPN",
-        "Phyu MK"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Parkinson's disease (PD) in pregnancy is rare, and there are no agreed guidelines for its management. We report a 34-year-old primigravida with a three-year history of young-onset PD who presented at eight weeks' gestation with an unplanned pregnancy. She had previously tolerated levodopa poorly, with nausea and early peak-dose dyskinesia, and before conception her symptoms were reasonably controlled on amantadine, selegiline and procyclidine. Because of the potential teratogenicity of amantadine and limited safety data for the other agents, her treatment was changed to co-careldopa (carbidopa/levodopa) with domperidone. Her condition deteriorated soon after the switch. Despite stepwise increases in levodopa to 400-450 mg/day, by 31 weeks she was wheelchair-dependent, with severe peak-dose dyskinesia alternating with \"off\" periods and freezing, and she relied on her husband for feeding and personal care. Other drug options and deep brain stimulation were deferred until after delivery. Her care involved neurology, obstetric medicine, obstetric anaesthesia, safeguarding midwives, physiotherapy and occupational therapy, and she received thromboprophylaxis for immobility. She presented in spontaneous labour at 37+5 weeks and underwent a category 2 caesarean section under general anaesthesia, as constant tremor precluded neuraxial anaesthesia. Estimated blood loss was 750 mL. Her daughter had Apgar scores of 4, 7 and 9 at 1, 5 and 10 minutes, respectively, and weighed 2250 g (3.4th centile). Postpartum, dyskinesia and tremor temporarily prevented her from holding her baby, and trihexyphenidyl was started; her symptoms were unchanged five weeks after delivery. In young-onset PD, withdrawal of an effective pre-pregnancy regimen may be followed by significant functional decline, and previous levodopa intolerance may be a warning sign. This case highlights the importance of pre-conception counselling, early multidisciplinary planning and postnatal support.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747212/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43006003",
-      "pmid": "43006003",
-      "doi": "10.7759/cureus.119367",
-      "title": "Severe Organ Involvement in Systemic Lupus Erythematosus: A Retrospective Single-Center Study From Morocco.",
-      "authors": [
-        "Lakdim L",
-        "Naitlhou A",
-        "Carroll R"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Introduction Systemic lupus erythematosus (SLE) is a chronic autoimmune disease characterized by multisystem inflammatory involvement and an unpredictable clinical course. SLE is among the most prevalent autoimmune diseases in Morocco, yet epidemiological and clinical data from this region remain limited. Disease management relies mainly on conventional therapies, with restricted access to advanced targeted treatments. Objective To describe the epidemiological, clinical, biological, and therapeutic characteristics of patients diagnosed with SLE in an internal medicine department in Morocco, with a particular focus on severe renal, hematological, and neurological manifestations. Methods We conducted a retrospective descriptive study including 61 patients diagnosed with SLE between January 2017 and September 2022 at the Internal Medicine Department of the International University Hospital Cheikh Khalifa Ibn Zaid in Casablanca, Morocco. Diagnosis was established according to the 2019 European League Against Rheumatism/American College of Rheumatology (EULAR/ACR) and/or the 2012 Systemic Lupus International Collaborating Clinics (SLICC) classification criteria. Data were collected from medical records and analyzed using descriptive statistical methods. Results The study population was predominantly female (n=55; 90.2%), with a mean age at diagnosis of 40.3 years (SD 14.2; median 40; range 13-74). The most common manifestations were fatigue (82.0%), arthralgia (70.5%), and malar rash (59.0%). Hematological involvement was prominent: anemia was present in 29 patients (47.5%), of whom 10 (16.4%) had confirmed autoimmune hemolytic anemia (AIHA). Renal involvement was identified in 10 patients (16.4%); among the seven who underwent biopsy, class IV lupus nephritis predominated (n=5; 71.4%). Neurological involvement was documented in 14 patients (22.5%), with the majority comprising nonfocal manifestations such as persistent headaches and mood disorders. Most patients were treated with hydroxychloroquine (n=48; 78.7%) and systemic corticosteroids (n=38; 62.3%); immunomodulatory therapy was required in 18 patients (29.5%). Of the 39 patients with complete follow-up (median 28 months), 14 (35.9%) achieved complete remission, 19 (48.7%) achieved partial remission, 13 (33.3%) experienced disease relapse, and six (15.4%) achieved neither. Conclusion This single-center Moroccan cohort highlights a substantial burden of hematological involvement and reveals a treatment landscape defined by restricted access to biologic therapies. The findings underscore the need for region-specific epidemiological data, improved access to targeted treatments, and dedicated prospective research to better characterize SLE in North African populations.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "rheumatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747207/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005929",
-      "pmid": "43005929",
-      "doi": "10.7759/cureus.119353",
-      "title": "Hemorrhagic Cardiac Tamponade in an End-Stage Renal Disease Patient on Apixaban.",
-      "authors": [
-        "Khan A",
-        "Keyes DA",
-        "Kumar S",
-        "Cox LM"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Direct oral anticoagulants are used for stroke prevention in selected patients with atrial fibrillation who receive hemodialysis. Randomized trial data remain limited in this population, and the anticoagulant effect of a given dose may vary considerably between patients. We report a 56-year-old man receiving hemodialysis three times weekly who was taking apixaban 5 mg twice daily and developed persistent hypotension and abdominal pain during dialysis. The early findings suggested dialysis-associated hypotension or sepsis. Emergency department point-of-care cardiac ultrasound showed a large circumferential pericardial effusion, leading to urgent cardiology evaluation for obstructive shock. Computed tomography obtained during the same evaluation described the effusion as large and possibly hemorrhagic. Pericardiocentesis was unsuccessful because most of the fluid was posterior. Shortly after transfer to the intensive care unit, the patient developed pulseless electrical activity arrest and underwent an emergent subxiphoid pericardial window. Approximately 450 mL of bloody fluid was drained, followed by hemodynamic improvement. Cytology showed no malignant cells, and fluid cultures were negative. This case also highlights the uncertainty surrounding the use of full-dose apixaban in patients receiving hemodialysis, particularly after a major bleeding event.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "critical-care",
-        "electrophysiology",
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747032/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005869",
-      "pmid": "43005869",
-      "doi": "10.1002/rcr2.70829",
-      "title": "Small Airway-Predominant Asthma Revealed During Oscillometry Mannitol Challenge Despite Normal Spirometry.",
-      "authors": [
-        "Lu CL",
-        "Dhahir M",
-        "Muller A"
-      ],
-      "journal": "Respirology case reports",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Objective confirmation of asthma commonly relies on spirometry, which may not capture distal airway dysfunction. A 58-year-old woman with episodic exertional dyspnoea and chest tightness had normal baseline spirometry, including forced expiratory volume in 1 s (FEV1), FEV1/forced vital capacity and forced expiratory flow at 25%-75% of vital capacity. Mannitol challenge was negative by the conventional FEV1 criterion, with no clear obstructive change in the flow-volume curves. Functional computed tomography demonstrated widespread lobular air trapping and ventilation heterogeneity, confirming small-airway involvement. At peak exposure, oscillometry showed abnormal resistance and reactance that improved after bronchodilator: R5 by 30%, R5-R20 by 56% and reactance area by 73%. After inhaled triple therapy, symptoms resolved and oscillometry normalised. The concordant clinical, imaging, physiological and longitudinal findings established small airway-predominant asthma. Oscillometry provided complementary physiological confirmation when standard spirometric indices remained normal.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "respiratory"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747703/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005820",
-      "pmid": "43005820",
-      "doi": "10.7759/cureus.119345",
-      "title": "The Blind Spot of Bone Disease: Adult Hypophosphatasia in a Middle-Aged Man With Prolonged Fracture Healing.",
-      "authors": [
-        "Busbaih AA",
-        "Busbaih AA",
-        "Hussein S",
-        "Alfaraj A"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Hypophosphatasia (HPP) is a rare inherited disorder caused by pathogenic variants in the ALPL gene, which encodes tissue-nonspecific alkaline phosphatase. In adults, it presents with nonspecific musculoskeletal features and is often mistaken for osteoporosis. We describe a 47-year-old man referred to endocrinology with a previous diagnosis of osteoporosis and recurrent femoral fractures with markedly delayed healing, at ages 30 and 39 years. He also had chronic musculoskeletal pain and atraumatic loss of teeth early in childhood, at age four; a bone scan showed multiple metatarsal fractures, and nephrocalcinosis was present. Serum alkaline phosphatase was persistently low and pyridoxal 5'-phosphate was elevated at 494 mcg/L (reference range: 5-50 mcg/L), while thyroid, parathyroid, cortisol, pituitary, renal, hepatic, and vitamin D evaluations were unremarkable. Several relatives had related manifestations. Adult HPP was diagnosed clinically in 2017, and genetic testing later identified an apparently homozygous, likely pathogenic ALPL variant (c.214A>G, p.Ile72Val). Treatment with asfotase alfa was associated with marked improvement, and he regained the ability to walk without a cane. This case shows that persistently low alkaline phosphatase in an adult with recurrent fractures and poor fracture healing should prompt evaluation for HPP before osteoporosis is assumed and that the diagnosis need not wait for genetic confirmation. Greater clinical awareness may shorten diagnostic delay.",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "topics": [
-        "endocrine"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13746353/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005709",
-      "pmid": "43005709",
-      "doi": "10.7759/cureus.119372",
-      "title": "Changes in Staff Knowledge and Clinical Confidence Following a Structured Teaching Programme on Functional Neurological Disorders: A Two-Cycle Quality Improvement Project.",
-      "authors": [
-        "Senthilkumar S",
-        "Chauhan D",
-        "Kondalkar K",
-        "Islam MT",
-        "Ellis S"
-      ],
-      "journal": "Cureus",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Background Functional neurological disorder (FND) is a common neurological condition requiring accurate diagnosis, effective communication, and coordinated multidisciplinary management. Healthcare professionals' knowledge and confidence can influence the quality of care provided to patients with FND. This study evaluated baseline staff knowledge, awareness and confidence in managing FND and assessed the impact of a structured multidisciplinary teaching programme on a tertiary neurology ward. Methods A questionnaire-based study was conducted among healthcare professionals and support staff involved in patient care on a tertiary neurology ward. Participants included doctors, nurses, healthcare assistants, pharmacy technicians, physiotherapists, occupational therapists and ward clerks. The questionnaire explored knowledge of FND, recognition of positive clinical signs, attitudes towards FND, understanding of treatment options, confidence in clinical management and perception of services in place. Following the baseline assessment, a dedicated teaching week was delivered, comprising daily sessions on the clinical features of FND, underlying mechanisms, dissociative seizures, nursing management and available treatment resources. A second questionnaire was administered following the intervention to the same set of participants. Responses from the two cycles were compared. Results The pre-teaching survey included 45 respondents, and the post-teaching survey included 30. Despite frequent clinical exposure to FND, 73.3% of baseline respondents reported no previous formal FND teaching. Higher self-reported confidence ratings were observed in the post-teaching group across all five assessed domains. The proportion reporting higher confidence (scores of 4-5) in recognising FND was 46.7% before teaching and 86.7% afterwards, while confidence in explaining the diagnosis was 48.9% and 90.0%, respectively. The proportion identifying the complete set of positive clinical signs was 17.8% in the pre-teaching group and 63.3% in the post-teaching group. Recognition that FND can be diagnosed clinically using positive signs was reported by 37.8% and 76.7%, respectively. Recognition of multidisciplinary management was high in both groups (88.9% and 96.7%). These findings represent descriptive differences between anonymous, potentially overlapping respondent groups rather than measured individual improvements. Conclusion A dedicated multidisciplinary teaching week was associated with higher self-reported confidence and greater recognition of positive clinical signs of FND among post-teaching respondents. The findings highlight a potential educational gap among staff who frequently encounter FND in clinical practice and suggest that structured, recurring teaching may be beneficial. However, the small sample size, anonymous questionnaires, absence of a control group, and lack of longer-term follow-up or patient outcome measures limit causal interpretation and assessment of sustained benefits.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747257/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005684",
-      "pmid": "43005684",
-      "doi": "10.7224/1537-2073.2025-060",
-      "title": "Music-4-MS to Improve Cognition and Psychosocial Well-Being in People Living With Multiple Sclerosis: A Randomized Controlled Feasibility Study.",
-      "authors": [
-        "Phillips CS",
-        "Becker H",
-        "Kesler SR",
-        "Freeman L",
-        "Kim J",
-        "Ha R",
-        "Dhillon S",
-        "Schroder A",
-        "Stuifbergen AM"
-      ],
-      "journal": "International journal of MS care",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Multiple sclerosis (MS) affects over 2.8 million people worldwide, and up to 70% of people with MS experience cognitive impairment. Unlike conventional cognitive rehabilitation, music offers a complex, multidomain stimulus activating bilateral brain networks involved in cognitive, verbal, motor, and emotional processes. This study evaluated the feasibility and preliminary efficacy of Music-4-MS, an online music-learning intervention, in people with MS.\n\nMETHODS: A randomized controlled trial of 29 people with MS randomly assigned them to the Music-4-MS intervention (n = 16) or a music-listening active control (n = 13). Feasibility data were collected, and semistructured interviews assessed acceptability. Outcomes measured at baseline (T1), immediately after the intervention (T2), and 1 month after the intervention (T3) assessed psychosocial and functional well-being and cognitive performance on neuropsychological tests. Descriptive statistics summarized feasibility metrics, whereas content analysis examined qualitative data. Analysis of covariance compared T2 and T3 scores between groups, controlling for baseline values.\n\nRESULTS: Participants who completed the study (79%) demonstrated high adherence and acceptability. Acceptability data revealed 6 themes: emotional resonance, navigating challenges, fostering connection and meaning, fluctuating motivation, adaptive learning strategies, and future recommendations. At T2, the Music-4-MS group exhibited lower anxiety and depression scores compared with controls (P < .01). At T3, intervention participants outperformed controls on the Trail Making Test Part B, with moderate to large effect sizes for most cognitive and some psychosocial outcomes.\n\nCONCLUSIONS: Music-4-MS was acceptable to participants and showed partial feasibility. Preliminary evidence suggests Music-4-MS has the potential to improve psychosocial well-being and cognitive functioning.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "research-methods"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13746995/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005538",
-      "pmid": "43005538",
-      "doi": "10.1002/fsn3.72578",
-      "title": "Liquiritigenin Ameliorates Metabolic Dysfunction-Associated Steatotic Liver Disease via AMPK-Mediated Dual Activation of PPARα/PPARγ.",
-      "authors": [
-        "Heo YJ",
-        "Park J",
-        "Lee N",
-        "Choi SE",
-        "Jeon JY",
-        "Han SJ",
-        "Kim DJ",
-        "Lee KW",
-        "Kim HJ"
-      ],
-      "journal": "Food science & nutrition",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterized by hepatic triglyceride accumulation and chronic inflammation resulting from impaired fatty acid (FA) oxidation and dysregulated metabolic signaling. Liquiritigenin (LQ) exhibits diverse pharmacological activities; however, its role in MASLD and the underlying mechanisms remain unclear. This study aimed to evaluate the therapeutic effects of LQ against MASLD and elucidate its molecular mechanisms, focusing on PPARα/PPARγ activation and AMPK signaling. The effects of LQ were examined in a high-fat diet (HFD)-induced MASLD mouse model and in free fatty acid (FFA)-treated HepG2 cells. Male C57BL/6J mice were fed an HFD for 14 weeks, and LQ was administered during the final 2 weeks. Metabolic parameters, hepatic lipid accumulation, and signaling pathways were analyzed using biochemical and molecular assays and glucose and insulin tolerance tests. LQ markedly reduced hepatic triglyceride content and serum AST and ALT levels in HFD-fed mice and improved glucose intolerance and insulin resistance. LQ increased AMPK phosphorylation and the expression of SIRT1, PGC-1α, PPARα, and PPARγ while suppressing SREBF1 expression and upregulating FA oxidation-related genes. In FFA-treated HepG2 cells, LQ activated AMPK, improved insulin signaling (p-AKT and p-IRS1), enhanced FA oxidation-related gene expression, and reduced pro-inflammatory cytokine levels. Pharmacological inhibition of AMPK abolished LQ-induced metabolic improvements. In conclusion, LQ attenuates MASLD progression by restoring hepatic metabolic homeostasis through AMPK activation and dual induction of PPARα and PPARγ, promoting FA oxidation and improving insulin sensitivity. Hence, LQ could be a potential natural therapeutic candidate for MASLD.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "gastro-hepatology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13745806/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005433",
-      "pmid": "43005433",
-      "doi": "10.1002/fsn3.72573",
-      "title": "Serum Very-Long-Chain Saturated Fatty Acids and the Mediating Role of Systemic Immune Inflammation in Cardiovascular Disease Risk.",
-      "authors": [
-        "Chen X",
-        "Zhou L",
-        "Cheng J"
-      ],
-      "journal": "Food science & nutrition",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Very-long-chain saturated fatty acids (VLCSFAs) represent a distinct class of saturated fatty acids whose cardiovascular associations remain underexplored and controversial. This study investigated the associations of serum VLCSFAs-C20:0, C22:0, C23:0, and C24:0, and their sum (total VLCSFAs)-with myocardial infarction (MI), heart failure (HF), and stroke in 3456 NHANES 2011-2014 participants. Binary logistic and restricted cubic spline regression models were employed, with mediation analysis examining neutrophil-related inflammatory markers. With the middle tertile as the reference, participants in the lowest tertile had higher odds of MI for C20:0 (OR 2.11, 95% CI: 1.30-3.43, p = 0.003) and C23:0 (OR 2.55, 95% CI: 1.54-4.22, p < 0.001); higher odds of HF for C22:0 (OR 1.77, 95% CI: 1.08-2.90, p = 0.023), C24:0 (OR 2.14, 95% CI: 1.29-3.54, p = 0.003), and total VLCSFAs (OR 2.02, 95% CI: 1.22-3.33, p = 0.006); and higher odds of stroke for C24:0 (OR 1.77, 95% CI: 1.10-2.84, p = 0.019). Conversely, the highest tertile of C24:0 was associated with lower odds of MI (OR 0.49, 95% CI: 0.28-0.89, p = 0.018), whereas the highest tertiles of the remaining VLCSFAs showed no further risk reduction. SII, NER, NHR, and NLR partially mediated the associations of C23:0, C24:0, and total VLCSFAs with HF, and NER, NHR, and NLR partially mediated that of C22:0 with HF. These findings reveal novel associations of serum VLCSFAs with MI, HF, and stroke that were most evident in the lowest tertile of serum concentrations, suggesting that VLCSFA deficiency may contribute to cardiovascular risk, partly through neutrophil-related inflammatory pathways.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "heart-failure",
-        "neurology"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13746176/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005388",
-      "pmid": "43005388",
-      "doi": "10.1002/ccr3.73754",
-      "title": "Primary Systemic Carnitine Deficiency Complicated With Severe Cardiomyopathy: A Case Report.",
-      "authors": [
-        "Luo X",
-        "Luo J"
-      ],
-      "journal": "Clinical case reports",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "We report a 6-year-2-month-old girl with SLC22A5-related PSCD presenting with severe cardiomyopathy, pneumonia, and anemia. Trio-WES confirmed the c.338G>A homozygous variant. L-carnitine replacement, combined with standard heart-failure therapy, was followed by prominent cardiac recovery, alerting clinicians to suspect PSCD in unexplained pediatric cardiomyopathy accompanied by hepatosplenomegaly and anemia.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "heart-failure"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13745641/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43005373",
-      "pmid": "43005373",
-      "doi": "10.1002/rcr2.70796",
-      "title": "The Challenges in Investigating and Managing Dyspnoea in a Young Athlete With Asthma and Sickle Cell Trait.",
-      "authors": [
-        "Niu N",
-        "Shafuddin E"
-      ],
-      "journal": "Respirology case reports",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "Asthma and sickle cell trait (SCT) are common conditions in adolescents and do not usually preclude high-level athletic participation. Both may be associated with exertional symptoms, creating diagnostic uncertainty and management challenges in athletes. We report the case of a 17-year-old football player with asthma and SCT who presented with exertional dyspnoea and muscle cramps. Routine investigations, including lung function tests, chest imaging and echocardiography, were within normal limits. Cardiopulmonary exercise testing (CPET) demonstrated exercise-induced dynamic hyperinflation, consistent with active asthma physiology during exercise. However, preserved peak oxygen uptake, anaerobic threshold and breathing reserve indicated this was not severe enough to be the predominant driver of his exercise limitation. Exercise was ultimately terminated volitionally due to leg fatigue, rather than significant ventilatory, cardiac or metabolic limitations, allowing reassurance and targeted management.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "imaging",
-        "respiratory"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13745983/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43004898",
-      "pmid": "43004898",
-      "doi": "10.1002/clc.70520",
-      "title": "Clinical and Invasive Hemodynamic Correlates of the TAPSE/sPAP Ratio in Pulmonary Hypertension.",
-      "authors": [
-        "Yaşar S",
-        "Eravci Ö",
-        "Dinç C",
-        "Yağci AF",
-        "Eşki S",
-        "Yildirim E",
-        "Görmel S",
-        "Çelik M"
-      ],
-      "journal": "Clinical cardiology",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "BACKGROUND: Right ventricular (RV) adaptation to increased pulmonary afterload is a major determinant of prognosis in pulmonary hypertension (PH), yet comprehensive validation of simple noninvasive markers against invasive hemodynamic parameters remains limited. We investigated whether the tricuspid annular plane systolic excursion to systolic pulmonary artery pressure (TAPSE/sPAP) ratio reflects the clinical, echocardiographic, and invasive hemodynamic spectrum of PH.\n\nMETHODS: We retrospectively analyzed 209 consecutive patients with right heart catheterization-confirmed PH who underwent comprehensive clinical assessment, transthoracic echocardiography, and invasive hemodynamic evaluation between 2016 and 2024. Patients were stratified into quartiles according to the TAPSE/sPAP ratio, and clinical, laboratory, echocardiographic, and hemodynamic characteristics were compared.\n\nRESULTS: The mean age was 58.8 ± 16.5 years, and 61% of patients were female. Lower TAPSE/sPAP ratios were associated with older age, higher NT-proBNP and serum uric acid levels, and lower estimated glomerular filtration rate (all p < 0.05). Decreasing TAPSE/sPAP ratios were also associated with larger right atrial and right ventricular dimensions, lower TAPSE, and higher tricuspid regurgitation velocity and estimated sPAP (all p < 0.001). Invasive hemodynamic assessment demonstrated progressively higher right ventricular systolic pressure, mean pulmonary artery pressure, and pulmonary vascular resistance (all p < 0.001), whereas mixed venous oxygen saturation increased across quartiles (p = 0.036).\n\nCONCLUSIONS: The TAPSE/sPAP ratio is a practical, noninvasive marker that closely reflects right ventricular remodeling and invasive hemodynamic impairment in pulmonary hypertension. Lower TAPSE/sPAP ratios identify patients with more advanced RV-pulmonary arterial uncoupling and may improve bedside hemodynamic risk stratification.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "topics": [
-        "pulmonary-vascular",
-        "valvular"
-      ],
-      "has_full_text": true,
-      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13749071/",
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43003642",
-      "pmid": "43003642",
-      "doi": "10.1016/j.chest.2026.05.048",
-      "title": "Same-Source Bias Confounds Pulmonary Hypertension Functional Class Self-Report Validation in Pulmonary Hypertension.",
-      "authors": [
-        "Qu D",
-        "Zeng Z",
-        "Wang X"
-      ],
-      "journal": "Chest",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
-      ],
-      "topics": [
-        "pulmonary-vascular"
-      ],
-      "has_full_text": false,
-      "full_text_url": null,
-      "source": "PubMed"
-    },
-    {
-      "id": "pmid:43003640",
-      "pmid": "43003640",
-      "doi": "10.1016/j.chest.2026.06.071",
-      "title": "Rhabdomyolysis: A Consensus-Based Approach.",
-      "authors": [
-        "Kruijt N",
-        "Kleefeld F",
-        "Stemmerik MG",
-        "Bhai S",
-        "Laforet P",
-        "Vissing J",
-        "Voermans NC"
-      ],
-      "journal": "Chest",
-      "date": "2026-11-01",
-      "year": 2026,
-      "abstract": "",
-      "publication_types": [
-        "Letter"
       ],
       "topics": [
         "guidelines"
